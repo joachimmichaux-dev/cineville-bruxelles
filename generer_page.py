@@ -35,9 +35,6 @@ def note_html(note, max_note=5):
 
 
 def score_tri(film):
-    """Renvoie (groupe, -note_presse, -nb_critiques_presse, -nb_seances) pour le tri.
-    Groupe 0 = a une note presse (triee par note desc, puis nb critiques desc, puis nb seances desc).
-    Groupe 1 = pas de note presse (triee par nb seances desc)."""
     allocine = film.get("allocine")
     nb_seances = len(film.get("seances") or [])
 
@@ -90,7 +87,7 @@ def generer_html(films):
                 )
             critiques_html = f"<details><summary>Voir {len(critiques)} critique(s) presse</summary><ul class='critiques'>{''.join(lignes)}</ul></details>"
 
-        poster_html = f"<img src='{html.escape(affiche)}' alt='{titre}' class='poster'>" if affiche else "<div class='poster poster-placeholder'>🎬</div>"
+        poster_html = f"<img src='{html.escape(affiche)}' alt='{titre}' class='poster' loading='lazy'>" if affiche else "<div class='poster poster-placeholder'>🎬</div>"
 
         badge = ""
         if not allocine:
@@ -135,141 +132,210 @@ def generer_html(films):
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Cineville Bruxelles + AlloCiné</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
+    :root {{
+        --bg: #000000;
+        --bg-carte: #141414;
+        --bg-bloc: #1f1f1f;
+        --accent: #ffffff;
+        --texte: #ffffff;
+        --texte-att: #b3b3b3;
+        --texte-faible: #7a7a7a;
+    }}
+    * {{ box-sizing: border-box; }}
     body {{
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        background: #14161a;
-        color: #e8e8e8;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        background: var(--bg);
+        color: var(--texte);
         margin: 0;
-        padding: 20px;
+        padding: 24px;
+        -webkit-font-smoothing: antialiased;
     }}
     h1 {{
         text-align: center;
-        margin-bottom: 30px;
-        color: #ffd447;
+        margin: 0 0 32px 0;
+        font-size: 26px;
+        font-weight: 700;
+        color: var(--texte);
+        letter-spacing: -0.3px;
     }}
     .grille {{
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-        gap: 20px;
+        grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+        gap: 24px;
         max-width: 1400px;
         margin: 0 auto;
     }}
     .carte {{
-        background: #1e2126;
-        border-radius: 10px;
+        background: var(--bg-carte);
+        border-radius: 12px;
         overflow: hidden;
         display: flex;
         flex-direction: column;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+        border: 1px solid rgba(255,255,255,0.08);
     }}
     .poster {{
         width: 100%;
-        height: 280px;
+        height: 300px;
         object-fit: cover;
+        display: block;
     }}
     .poster-placeholder {{
         display: flex;
         align-items: center;
         justify-content: center;
         font-size: 60px;
-        background: #2a2d33;
+        background: var(--bg-bloc);
+        height: 300px;
     }}
     .contenu {{
-        padding: 16px;
+        padding: 20px;
     }}
     h2 {{
-        font-size: 18px;
-        margin: 0 0 6px 0;
+        font-size: 19px;
+        font-weight: 600;
+        margin: 0 0 8px 0;
+        line-height: 1.3;
+        letter-spacing: -0.2px;
     }}
     .annee {{
-        color: #999;
-        font-weight: normal;
-        font-size: 14px;
+        color: var(--texte-faible);
+        font-weight: 400;
+        font-size: 15px;
     }}
     .meta {{
-        color: #aaa;
-        font-size: 13px;
-        margin: 0 0 6px 0;
+        color: var(--texte-att);
+        font-size: 14px;
+        margin: 0 0 10px 0;
     }}
     .badge {{
         display: inline-block;
-        font-size: 11px;
-        padding: 3px 8px;
-        border-radius: 4px;
-        margin-bottom: 10px;
+        font-size: 12px;
+        padding: 4px 10px;
+        border-radius: 6px;
+        margin-bottom: 12px;
     }}
     .badge-warn {{
-        background: #4a3a1a;
-        color: #ffb347;
+        background: #2a2a2a;
+        color: #b3b3b3;
     }}
     .synopsis {{
-        font-size: 14px;
-        color: #ccc;
-        margin-bottom: 14px;
-        line-height: 1.4;
+        font-size: 15px;
+        color: var(--texte-att);
+        margin-bottom: 18px;
+        line-height: 1.55;
     }}
     .notes {{
         display: flex;
         gap: 12px;
-        margin-bottom: 12px;
+        margin-bottom: 16px;
     }}
     .note-bloc {{
         flex: 1;
-        background: #2a2d33;
-        border-radius: 6px;
-        padding: 8px;
+        background: var(--bg-bloc);
+        border-radius: 10px;
+        padding: 12px 8px;
         text-align: center;
     }}
     .label {{
         display: block;
-        font-size: 11px;
-        color: #999;
-        margin-bottom: 4px;
+        font-size: 12px;
+        color: var(--texte-faible);
+        margin-bottom: 6px;
     }}
     .note {{
         display: block;
-        font-size: 18px;
-        font-weight: bold;
-        color: #ffd447;
+        font-size: 19px;
+        font-weight: 700;
+        color: var(--texte);
     }}
     .no-note {{
         display: block;
-        font-size: 18px;
-        color: #555;
+        font-size: 19px;
+        color: #444444;
     }}
     .count {{
         display: block;
-        font-size: 11px;
-        color: #777;
-        margin-top: 2px;
+        font-size: 12px;
+        color: var(--texte-faible);
+        margin-top: 3px;
     }}
     details {{
-        margin-top: 10px;
-        font-size: 13px;
+        margin-top: 12px;
+        font-size: 15px;
+        border-top: 1px solid rgba(255,255,255,0.06);
+        padding-top: 12px;
     }}
     summary {{
         cursor: pointer;
-        color: #7bb8ff;
+        color: var(--texte);
+        font-weight: 500;
+        padding: 10px 4px;
+        margin: -10px -4px;
+        border-radius: 8px;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }}
+    summary::-webkit-details-marker {{ display: none; }}
+    summary::after {{
+        content: '+';
+        font-size: 20px;
+        color: var(--texte-faible);
+    }}
+    details[open] summary::after {{
+        content: '−';
+    }}
+    summary:active {{
+        background: rgba(255,255,255,0.06);
     }}
     ul.critiques, ul.seances {{
-        margin: 8px 0 0 0;
-        padding-left: 18px;
+        margin: 10px 0 0 0;
+        padding: 0;
+        list-style: none;
     }}
     ul.critiques li, ul.seances li {{
-        margin-bottom: 6px;
-        color: #ccc;
+        margin-bottom: 10px;
+        padding: 10px 12px;
+        background: rgba(255,255,255,0.03);
+        border-radius: 8px;
+        color: var(--texte-att);
+        line-height: 1.5;
+    }}
+    ul.critiques li strong {{
+        color: var(--texte);
     }}
     .lien-allocine {{
         display: inline-block;
-        margin-top: 12px;
-        color: #ffd447;
-        text-decoration: none;
-        font-size: 13px;
+        margin-top: 16px;
+        color: var(--texte-att);
+        text-decoration: underline;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 8px 4px;
     }}
     .lien-allocine:hover {{
         text-decoration: underline;
+    }}
+
+    /* Mobile : une seule colonne, zones cliquables agrandies */
+    @media (max-width: 640px) {{
+        body {{ padding: 14px; }}
+        h1 {{ font-size: 22px; margin-bottom: 20px; }}
+        .grille {{
+            grid-template-columns: 1fr;
+            gap: 18px;
+        }}
+        .poster, .poster-placeholder {{ height: 240px; }}
+        h2 {{ font-size: 19px; }}
+        summary {{ padding: 14px 6px; margin: -14px -6px; font-size: 16px; }}
+        ul.critiques li, ul.seances li {{ padding: 12px 14px; font-size: 15px; }}
     }}
 </style>
 </head>

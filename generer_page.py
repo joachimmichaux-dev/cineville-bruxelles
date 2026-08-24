@@ -1,10 +1,31 @@
 """
 Etape finale : generer une page HTML avec la programmation Cineville + les infos AlloCine
-Tri : 1) meilleure note presse, 2) plus grand nombre de critiques presse a note egale,
-      3) plus grand nombre de seances a egalite, 4) films sans note presse a la fin (par nb seances)
+Tri films : 1) meilleure note presse, 2) plus de critiques presse a note egale,
+            3) plus de seances a egalite, 4) films sans note presse a la fin (par nb seances)
+Tri critiques : titres de presse prioritaires en premier
 """
 import json
 import html
+
+TITRES_PRESSE_PRIORITAIRES = [
+    "le monde",
+    "libération",
+    "télérama",
+    "les inrockuptibles",
+    "cahiers du cinéma",
+    "positif",
+]
+
+
+def trier_critiques(critiques):
+    """Fait remonter les titres de presse prioritaires en premier, dans l'ordre donné."""
+    def cle_tri(c):
+        titre = (c.get("titre_presse") or "").lower()
+        for i, prioritaire in enumerate(TITRES_PRESSE_PRIORITAIRES):
+            if prioritaire in titre:
+                return (0, i)
+        return (1, 0)
+    return sorted(critiques, key=cle_tri)
 
 
 def note_html(note, max_note=5):
@@ -55,11 +76,11 @@ def generer_html(films):
         nb_spect = allocine.get("nb_notes_spectateurs")
         url_presse = allocine.get("allocine_url_presse")
 
-        critiques = allocine.get("critiques_presse") or []
+        critiques = trier_critiques(allocine.get("critiques_presse") or [])
         critiques_html = ""
         if critiques:
             lignes = []
-            for c in critiques[:6]:
+            for c in critiques[:8]:
                 titre_presse = html.escape(c.get("titre_presse") or "")
                 note_c = c.get("note")
                 note_c_txt = f"{note_c:.1f}/5" if note_c is not None else "—"

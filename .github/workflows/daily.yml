@@ -39,4 +39,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add programmation.html index.html films_bruxelles.json films_avec_allocine.json
           git commit -m "Mise à jour automatique" || echo "Rien à mettre à jour"
+          git pull --rebase origin main
           git push

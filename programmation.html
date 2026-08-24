@@ -2,141 +2,210 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Cineville Bruxelles + AlloCiné</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
+    :root {
+        --bg: #000000;
+        --bg-carte: #141414;
+        --bg-bloc: #1f1f1f;
+        --accent: #ffffff;
+        --texte: #ffffff;
+        --texte-att: #b3b3b3;
+        --texte-faible: #7a7a7a;
+    }
+    * { box-sizing: border-box; }
     body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        background: #14161a;
-        color: #e8e8e8;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        background: var(--bg);
+        color: var(--texte);
         margin: 0;
-        padding: 20px;
+        padding: 24px;
+        -webkit-font-smoothing: antialiased;
     }
     h1 {
         text-align: center;
-        margin-bottom: 30px;
-        color: #ffd447;
+        margin: 0 0 32px 0;
+        font-size: 26px;
+        font-weight: 700;
+        color: var(--texte);
+        letter-spacing: -0.3px;
     }
     .grille {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-        gap: 20px;
+        grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+        gap: 24px;
         max-width: 1400px;
         margin: 0 auto;
     }
     .carte {
-        background: #1e2126;
-        border-radius: 10px;
+        background: var(--bg-carte);
+        border-radius: 12px;
         overflow: hidden;
         display: flex;
         flex-direction: column;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+        border: 1px solid rgba(255,255,255,0.08);
     }
     .poster {
         width: 100%;
-        height: 280px;
+        height: 300px;
         object-fit: cover;
+        display: block;
     }
     .poster-placeholder {
         display: flex;
         align-items: center;
         justify-content: center;
         font-size: 60px;
-        background: #2a2d33;
+        background: var(--bg-bloc);
+        height: 300px;
     }
     .contenu {
-        padding: 16px;
+        padding: 20px;
     }
     h2 {
-        font-size: 18px;
-        margin: 0 0 6px 0;
+        font-size: 19px;
+        font-weight: 600;
+        margin: 0 0 8px 0;
+        line-height: 1.3;
+        letter-spacing: -0.2px;
     }
     .annee {
-        color: #999;
-        font-weight: normal;
-        font-size: 14px;
+        color: var(--texte-faible);
+        font-weight: 400;
+        font-size: 15px;
     }
     .meta {
-        color: #aaa;
-        font-size: 13px;
-        margin: 0 0 6px 0;
+        color: var(--texte-att);
+        font-size: 14px;
+        margin: 0 0 10px 0;
     }
     .badge {
         display: inline-block;
-        font-size: 11px;
-        padding: 3px 8px;
-        border-radius: 4px;
-        margin-bottom: 10px;
+        font-size: 12px;
+        padding: 4px 10px;
+        border-radius: 6px;
+        margin-bottom: 12px;
     }
     .badge-warn {
-        background: #4a3a1a;
-        color: #ffb347;
+        background: #2a2a2a;
+        color: #b3b3b3;
     }
     .synopsis {
-        font-size: 14px;
-        color: #ccc;
-        margin-bottom: 14px;
-        line-height: 1.4;
+        font-size: 15px;
+        color: var(--texte-att);
+        margin-bottom: 18px;
+        line-height: 1.55;
     }
     .notes {
         display: flex;
         gap: 12px;
-        margin-bottom: 12px;
+        margin-bottom: 16px;
     }
     .note-bloc {
         flex: 1;
-        background: #2a2d33;
-        border-radius: 6px;
-        padding: 8px;
+        background: var(--bg-bloc);
+        border-radius: 10px;
+        padding: 12px 8px;
         text-align: center;
     }
     .label {
         display: block;
-        font-size: 11px;
-        color: #999;
-        margin-bottom: 4px;
+        font-size: 12px;
+        color: var(--texte-faible);
+        margin-bottom: 6px;
     }
     .note {
         display: block;
-        font-size: 18px;
-        font-weight: bold;
-        color: #ffd447;
+        font-size: 19px;
+        font-weight: 700;
+        color: var(--texte);
     }
     .no-note {
         display: block;
-        font-size: 18px;
-        color: #555;
+        font-size: 19px;
+        color: #444444;
     }
     .count {
         display: block;
-        font-size: 11px;
-        color: #777;
-        margin-top: 2px;
+        font-size: 12px;
+        color: var(--texte-faible);
+        margin-top: 3px;
     }
     details {
-        margin-top: 10px;
-        font-size: 13px;
+        margin-top: 12px;
+        font-size: 15px;
+        border-top: 1px solid rgba(255,255,255,0.06);
+        padding-top: 12px;
     }
     summary {
         cursor: pointer;
-        color: #7bb8ff;
+        color: var(--texte);
+        font-weight: 500;
+        padding: 10px 4px;
+        margin: -10px -4px;
+        border-radius: 8px;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    summary::-webkit-details-marker { display: none; }
+    summary::after {
+        content: '+';
+        font-size: 20px;
+        color: var(--texte-faible);
+    }
+    details[open] summary::after {
+        content: '−';
+    }
+    summary:active {
+        background: rgba(255,255,255,0.06);
     }
     ul.critiques, ul.seances {
-        margin: 8px 0 0 0;
-        padding-left: 18px;
+        margin: 10px 0 0 0;
+        padding: 0;
+        list-style: none;
     }
     ul.critiques li, ul.seances li {
-        margin-bottom: 6px;
-        color: #ccc;
+        margin-bottom: 10px;
+        padding: 10px 12px;
+        background: rgba(255,255,255,0.03);
+        border-radius: 8px;
+        color: var(--texte-att);
+        line-height: 1.5;
+    }
+    ul.critiques li strong {
+        color: var(--texte);
     }
     .lien-allocine {
         display: inline-block;
-        margin-top: 12px;
-        color: #ffd447;
-        text-decoration: none;
-        font-size: 13px;
+        margin-top: 16px;
+        color: var(--texte-att);
+        text-decoration: underline;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 8px 4px;
     }
     .lien-allocine:hover {
         text-decoration: underline;
+    }
+
+    /* Mobile : une seule colonne, zones cliquables agrandies */
+    @media (max-width: 640px) {
+        body { padding: 14px; }
+        h1 { font-size: 22px; margin-bottom: 20px; }
+        .grille {
+            grid-template-columns: 1fr;
+            gap: 18px;
+        }
+        .poster, .poster-placeholder { height: 240px; }
+        h2 { font-size: 19px; }
+        summary { padding: 14px 6px; margin: -14px -6px; font-size: 16px; }
+        ul.critiques li, ul.seances li { padding: 12px 14px; font-size: 15px; }
     }
 </style>
 </head>
@@ -145,7 +214,7 @@
     <div class="grille">
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/460326f7-7735-49a4-ba1c-10f66a94e903.jpg' alt='Das Leben Dar Anderen' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/460326f7-7735-49a4-ba1c-10f66a94e903.jpg' alt='Das Leben Dar Anderen' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Das Leben Dar Anderen <span class="annee">(2006)</span></h2>
                 <p class="meta">Florian Hencke Von Donnersmarck · 137 min · 1 séance(s)</p>
@@ -177,7 +246,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/f15a12d7-bfc1-460e-bd0d-f76558809f0c.jpg' alt='De la Comédie-Française' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/f15a12d7-bfc1-460e-bd0d-f76558809f0c.jpg' alt='De la Comédie-Française' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>De la Comédie-Française <span class="annee">(2028)</span></h2>
                 <p class="meta">Bertrand Usclat, Martin Darondeau · 75 min · 2 séance(s)</p>
@@ -209,7 +278,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/70d03139-be4d-4b67-bed2-ea9dc0a961e6.jpg' alt='The Odyssey' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/70d03139-be4d-4b67-bed2-ea9dc0a961e6.jpg' alt='The Odyssey' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>The Odyssey <span class="annee">(2026)</span></h2>
                 <p class="meta">Christopher Nolan · 173 min · 4 séance(s)</p>
@@ -241,7 +310,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/925d2964-71c1-43fc-8e10-cbd97e99f0f3.jpg' alt='Silent Friend' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/925d2964-71c1-43fc-8e10-cbd97e99f0f3.jpg' alt='Silent Friend' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Silent Friend <span class="annee">(2026)</span></h2>
                 <p class="meta">Ildiko Enyedi · 147 min · 1 séance(s)</p>
@@ -273,7 +342,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/46a9d42c-1430-4a68-bf75-bb4162f22308.jpg' alt='Los domingos' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/46a9d42c-1430-4a68-bf75-bb4162f22308.jpg' alt='Los domingos' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Los domingos <span class="annee">(2026)</span></h2>
                 <p class="meta">Alauda Ruiz de Azúa · 115 min · 2 séance(s)</p>
@@ -306,7 +375,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/b5118e16-7342-4739-b979-2ac19c62e5ad.jpg' alt='OBSESSION' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/b5118e16-7342-4739-b979-2ac19c62e5ad.jpg' alt='OBSESSION' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>OBSESSION <span class="annee">(2026)</span></h2>
                 <p class="meta">Curry Barker · 108 min · 5 séance(s)</p>
@@ -338,7 +407,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/e73170fd-b7a7-46ba-8f93-ce0046ab81b0.jpg' alt='In Waves' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/e73170fd-b7a7-46ba-8f93-ce0046ab81b0.jpg' alt='In Waves' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>In Waves <span class="annee">(2026)</span></h2>
                 <p class="meta">Phuong Mai Nguyen · 91 min · 1 séance(s)</p>
@@ -354,7 +423,7 @@
                     <div class="note-bloc">
                         <span class="label">Spectateurs AlloCiné</span>
                         <span class='note'>4.2/5</span>
-                        <span class="count">1113 note(s)</span>
+                        <span class="count">1115 note(s)</span>
                     </div>
                 </div>
 
@@ -370,7 +439,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/4c63300a-1830-498a-b841-962ad5ec75c3.jpeg' alt='Incendies' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/4c63300a-1830-498a-b841-962ad5ec75c3.jpeg' alt='Incendies' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Incendies <span class="annee">(2011)</span></h2>
                 <p class="meta">Denis Villeneuve · 131 min · 1 séance(s)</p>
@@ -402,7 +471,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/080901fe-436e-47b7-9c55-7d70acc397fb.jpg' alt='Woman &amp; Child' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/080901fe-436e-47b7-9c55-7d70acc397fb.jpg' alt='Woman &amp; Child' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Woman &amp; Child <span class="annee">(2026)</span></h2>
                 <p class="meta">Saeed Roustaee · 131 min · 1 séance(s)</p>
@@ -434,7 +503,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/d7731e0d-fd2a-49ad-8dc2-9dcb98d2eedf.jpg' alt='The Christophers' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/d7731e0d-fd2a-49ad-8dc2-9dcb98d2eedf.jpg' alt='The Christophers' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>The Christophers <span class="annee">(2026)</span></h2>
                 <p class="meta">Steven Soderbergh · 100 min · 3 séance(s)</p>
@@ -466,7 +535,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/a7caded2-9c22-4ec3-936f-611fa3338413.jpg' alt='Toy Story 5' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/a7caded2-9c22-4ec3-936f-611fa3338413.jpg' alt='Toy Story 5' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Toy Story 5 <span class="annee">(2026)</span></h2>
                 <p class="meta">Andrew Stanton, McKenna Harris,  · 102 min · 1 séance(s)</p>
@@ -498,7 +567,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/95784977-04c9-4b87-b137-b1a2087ddb07.jpg' alt='Omaha' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/95784977-04c9-4b87-b137-b1a2087ddb07.jpg' alt='Omaha' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Omaha <span class="annee">(2026)</span></h2>
                 <p class="meta">Cole Webley · 83 min · 1 séance(s)</p>
@@ -530,7 +599,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg' alt='Hen (Kota)' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg' alt='Hen (Kota)' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Hen (Kota) <span class="annee">(2025)</span></h2>
                 <p class="meta">György Pálfi · 96 min · 2 séance(s)</p>
@@ -594,7 +663,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/dd33cc41-e007-429f-bea1-118240b30b59.jpg' alt='Spider-Man: Brand New Day' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/dd33cc41-e007-429f-bea1-118240b30b59.jpg' alt='Spider-Man: Brand New Day' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Spider-Man: Brand New Day <span class="annee">(2026)</span></h2>
                 <p class="meta">Destin Daniel Cretton · 200 min · 8 séance(s)</p>
@@ -626,7 +695,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/521d60fa-fc3b-4cb8-b103-7cf5feb1f76b.jpg' alt='Spider-Man : Brand New Day' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/521d60fa-fc3b-4cb8-b103-7cf5feb1f76b.jpg' alt='Spider-Man : Brand New Day' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Spider-Man : Brand New Day <span class="annee">(2026)</span></h2>
                 <p class="meta">Destin Daniel Cretton · 198 min · 1 séance(s)</p>
@@ -690,7 +759,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/4c38dfc9-c92a-45d0-942f-d659767a8506.jpg' alt='The End of Oak Street' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/4c38dfc9-c92a-45d0-942f-d659767a8506.jpg' alt='The End of Oak Street' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>The End of Oak Street <span class="annee">(2026)</span></h2>
                 <p class="meta">David Robert Mitchell · 99 min · 10 séance(s)</p>
@@ -722,7 +791,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/80ae17bf-2195-460b-aec0-2d25b34c85d2.jpg' alt='La Pat&#x27;Patrouille : Le film mission Dino' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/80ae17bf-2195-460b-aec0-2d25b34c85d2.jpg' alt='La Pat&#x27;Patrouille : Le film mission Dino' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>La Pat&#x27;Patrouille : Le film mission Dino <span class="annee">(2026)</span></h2>
                 <p class="meta">Cal Brunker · 89 min · 4 séance(s)</p>
@@ -754,7 +823,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/159f45a0-5e93-48e2-86a9-80fd2452e579.jpg' alt='La gifle' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/159f45a0-5e93-48e2-86a9-80fd2452e579.jpg' alt='La gifle' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>La gifle <span class="annee">(2026)</span></h2>
                 <p class="meta">Frédéric Hambalek · 86 min · 2 séance(s)</p>
@@ -786,7 +855,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/caf153af-9a55-4ff0-b351-ac95fa1de7a8.jpg' alt='The Death of Robin Hood' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/caf153af-9a55-4ff0-b351-ac95fa1de7a8.jpg' alt='The Death of Robin Hood' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>The Death of Robin Hood <span class="annee">(2026)</span></h2>
                 <p class="meta">Michael Sarnoski
@@ -820,7 +889,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/35034d0b-fab1-446a-9c79-865dc4f26c93.jpg' alt='Vaiana (2026)' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/35034d0b-fab1-446a-9c79-865dc4f26c93.jpg' alt='Vaiana (2026)' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Vaiana (2026) <span class="annee">(2026)</span></h2>
                 <p class="meta">Thomas Kail · 115 min · 1 séance(s)</p>
@@ -836,7 +905,7 @@
                     <div class="note-bloc">
                         <span class="label">Spectateurs AlloCiné</span>
                         <span class='note'>3.1/5</span>
-                        <span class="count">1022 note(s)</span>
+                        <span class="count">1025 note(s)</span>
                     </div>
                 </div>
 
@@ -852,7 +921,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/fc591a03-9714-41a5-a875-f639156f92a1.jpg' alt='Teenage Sex and Death at Camp Miasma' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/fc591a03-9714-41a5-a875-f639156f92a1.jpg' alt='Teenage Sex and Death at Camp Miasma' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Teenage Sex and Death at Camp Miasma <span class="annee">(2026)</span></h2>
                 <p class="meta">Jane Schoenbrun ·  · 22 séance(s)</p>
@@ -884,7 +953,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/65fbd42f-6a14-4ede-9219-05c7192b6c8f.png' alt='Jimpa' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/65fbd42f-6a14-4ede-9219-05c7192b6c8f.png' alt='Jimpa' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Jimpa <span class="annee">(2025)</span></h2>
                 <p class="meta">Sophie Hyde · 123 min · 12 séance(s)</p>
@@ -916,7 +985,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/6cc81a06-06d7-4c4a-9b02-f6a90f06cb67.jpg' alt='The Dog Stars' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/6cc81a06-06d7-4c4a-9b02-f6a90f06cb67.jpg' alt='The Dog Stars' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>The Dog Stars <span class="annee">(2026)</span></h2>
                 <p class="meta">Ridley Scott · 118 min · 11 séance(s)</p>
@@ -948,7 +1017,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/67176f6e-6111-4979-a13d-002b83cef11a.jpg' alt='Peter Hujar&#x27;s Day' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/67176f6e-6111-4979-a13d-002b83cef11a.jpg' alt='Peter Hujar&#x27;s Day' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Peter Hujar&#x27;s Day <span class="annee">(2026)</span></h2>
                 <p class="meta">Ira Sachs · 75 min · 6 séance(s)</p>
@@ -980,7 +1049,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/a7718111-d3b6-42c9-81ed-a206f889f600.png' alt='Sunny Dancer' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/a7718111-d3b6-42c9-81ed-a206f889f600.png' alt='Sunny Dancer' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Sunny Dancer <span class="annee">(2026)</span></h2>
                 <p class="meta">George Jaques · 106 min · 4 séance(s)</p>
@@ -1012,7 +1081,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/066aae2d-ede4-4acd-a12c-19f9fc31f823.jpg' alt='A Fox Under a Pink Moon' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/066aae2d-ede4-4acd-a12c-19f9fc31f823.jpg' alt='A Fox Under a Pink Moon' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>A Fox Under a Pink Moon <span class="annee">(2026)</span></h2>
                 <p class="meta">Réalisateur inconnu · 77 min · 3 séance(s)</p>
@@ -1044,7 +1113,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/0c8eadc0-41a3-4c75-9dcf-56596a93d53f.jpeg' alt='Minion &amp; Monsters' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/0c8eadc0-41a3-4c75-9dcf-56596a93d53f.jpeg' alt='Minion &amp; Monsters' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Minion &amp; Monsters <span class="annee">(2026)</span></h2>
                 <p class="meta">Pierre Coffin · 90 min · 3 séance(s)</p>
@@ -1076,7 +1145,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/ecf29d93-c8a1-4cf8-aaeb-707576896437.jpeg' alt='Agatha&#x27;s Almanac' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/ecf29d93-c8a1-4cf8-aaeb-707576896437.jpeg' alt='Agatha&#x27;s Almanac' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Agatha&#x27;s Almanac <span class="annee">(2025)</span></h2>
                 <p class="meta">Amalie Atkins · 87 min · 2 séance(s)</p>
@@ -1108,7 +1177,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/c5b82983-6f54-44b4-bd6a-bee49701c676.png' alt='Res Nullius' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/c5b82983-6f54-44b4-bd6a-bee49701c676.png' alt='Res Nullius' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Res Nullius <span class="annee">(2026)</span></h2>
                 <p class="meta">Thomas Jean · 67 min · 2 séance(s)</p>
@@ -1172,7 +1241,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/b80860e4-6a46-4c4d-aa06-b3a7c6780232.jpg' alt='A Brighter Summer Day' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/b80860e4-6a46-4c4d-aa06-b3a7c6780232.jpg' alt='A Brighter Summer Day' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>A Brighter Summer Day <span class="annee">(1991)</span></h2>
                 <p class="meta">Edward Yang · 237 min · 1 séance(s)</p>
@@ -1236,7 +1305,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/b2da8375-2ea5-4f09-b1d7-91d900805183.jpg' alt='L&#x27;âge mûr' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/b2da8375-2ea5-4f09-b1d7-91d900805183.jpg' alt='L&#x27;âge mûr' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>L&#x27;âge mûr <span class="annee">(2026)</span></h2>
                 <p class="meta">Jean-Benoît Ugeux · 84 min · 1 séance(s)</p>
@@ -1332,7 +1401,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/15946bd3-e6e9-4ad5-9995-3a51e779c900.jpg' alt='My Step-Mother is an Alien' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/15946bd3-e6e9-4ad5-9995-3a51e779c900.jpg' alt='My Step-Mother is an Alien' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>My Step-Mother is an Alien <span class="annee">(1988)</span></h2>
                 <p class="meta">Richard Benjamin · 108 min · 1 séance(s)</p>
@@ -1364,7 +1433,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/99a21d7c-96df-4a88-9ae5-1404a166b84d.jpg' alt='Rosebush Pruning' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/99a21d7c-96df-4a88-9ae5-1404a166b84d.jpg' alt='Rosebush Pruning' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Rosebush Pruning <span class="annee">(2026)</span></h2>
                 <p class="meta">Karim Aïnouz · 97 min · 1 séance(s)</p>
@@ -1460,7 +1529,7 @@
         </div>
         
         <div class="carte">
-            <img src='https://culturekit-assets.imgix.net/2/assets/ecb94c11-d73e-492e-a8b8-83bb052d2de4.jpg' alt='Welcome to Sarajevo' class='poster'>
+            <img src='https://culturekit-assets.imgix.net/2/assets/ecb94c11-d73e-492e-a8b8-83bb052d2de4.jpg' alt='Welcome to Sarajevo' class='poster' loading='lazy'>
             <div class="contenu">
                 <h2>Welcome to Sarajevo <span class="annee">(1997)</span></h2>
                 <p class="meta">Michael Winterbottom · 101 min · 1 séance(s)</p>

@@ -1,0 +1,42 @@
+name: Mise à jour quotidienne
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer les dépendances
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Lancer les scripts
+        run: |
+          python step1_films_uniques.py
+          python step2_allocine.py
+          python step2b_affiches.py
+          python generer_page.py
+          cp programmation.html index.html
+
+      - name: Publier les changements
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add programmation.html index.html films_bruxelles.json films_avec_allocine.json
+          git commit -m "Mise à jour automatique" || echo "Rien à mettre à jour"
+          git push

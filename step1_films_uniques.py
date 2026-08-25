@@ -4,6 +4,9 @@ Etape 1 : recuperer la liste des FILMS UNIQUES actuellement a l'affiche a Bruxel
 import requests
 import json
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
+
+FUSEAU_BRUXELLES = ZoneInfo("Europe/Brussels")
 
 API_URL = "https://api.cinevillepass.be/events/search"
 
@@ -91,21 +94,18 @@ def build_unique_films(events):
             attrs = production.get("attributes") or {}
             loc_attrs = production.get("localizableAttributes") or {}
 
-            cover_url = safe_get(production, "assets", "cover", "url")
-            poster_url = safe_get(production, "assets", "poster", "url")
-
             films[prod_id] = {
                 "titre": production.get("title"),
                 "annee": attrs.get("releaseYear"),
                 "duree_minutes": attrs.get("duration"),
                 "realisateurs": attrs.get("directors"),
                 "synopsis": loc_attrs.get("description"),
-                "affiche_url": cover_url if cover_url else poster_url,
+                "affiche_url": safe_get(production, "assets", "poster", "url") or safe_get(production, "assets", "cover", "url"),
                 "seances": [],
             }
 
         films[prod_id]["seances"].append({
-            "heure": start_dt.strftime("%d/%m %H:%M") if start_dt else None,
+            "heure": start_dt.astimezone(FUSEAU_BRUXELLES).strftime("%d/%m %H:%M") if start_dt else None,
             "cinema": venue.get("name"),
         })
 

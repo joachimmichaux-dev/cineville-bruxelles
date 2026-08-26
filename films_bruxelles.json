@@ -1,16 +1,14 @@
 [
   {
-    "titre": "A Brighter Summer Day",
-    "annee": 1991,
-    "duree_minutes": 237,
-    "realisateurs": [
-      "Edward Yang"
-    ],
-    "synopsis": "À Taiwan, en 1960, un étudiant talentueux mais égocentrique refuse de compromettre ses principes moraux avec qui que ce soit - professeurs, amis, parents ou petite amie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b80860e4-6a46-4c4d-aa06-b3a7c6780232.jpg",
+    "titre": "A Confucian Confusion",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "25/08 19:00",
+        "heure": "27/08 19:00",
         "cinema": "Galeries"
       }
     ]
@@ -24,16 +22,36 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99621522-acbc-41b2-b8e5-88304c2cc657.png",
     "seances": [
       {
-        "heure": "25/08 15:35",
+        "heure": "26/08 14:30",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 17:00",
-        "cinema": "Aventure"
+        "heure": "27/08 16:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 14:30",
+        "cinema": "Vendôme"
       },
       {
         "heure": "29/08 12:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "29/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 14:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 16:45",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -48,12 +66,58 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ecf29d93-c8a1-4cf8-aaeb-707576896437.jpeg",
     "seances": [
       {
-        "heure": "25/08 13:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "27/08 12:40",
         "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Alice",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "29/08 10:00",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Blue Heron",
+    "annee": 2026,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Sophy Romvari"
+    ],
+    "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
+    "seances": [
+      {
+        "heure": "30/08 10:45",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Call Northside 777",
+    "annee": 1948,
+    "duree_minutes": 111,
+    "realisateurs": [
+      "Henry Hathaway"
+    ],
+    "synopsis": "Sur le mode du documentaire, James Stewart en journaliste de Chicago, tentant de prouver l’innocence d’un condamné. Un hommage à la presse intègre, basé sur des faits authentiques.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/77b81efc-a2b6-4916-9fc6-2c80ad645e5f.jpg",
+    "seances": [
+      {
+        "heure": "27/08 15:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "31/08 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -68,7 +132,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/611f7781-7862-4cc9-8c47-361235d0f492.jpg",
     "seances": [
       {
-        "heure": "25/08 19:00",
+        "heure": "31/08 21:15",
         "cinema": "Cinematek"
       }
     ]
@@ -85,12 +149,128 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f78afd8f-9241-4ce4-98fd-95f4aa2b1010.jpg",
     "seances": [
       {
-        "heure": "25/08 17:25",
+        "heure": "26/08 13:40",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 18:40",
-        "cinema": "Aventure"
+        "heure": "27/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 16:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 16:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 16:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 18:25",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "01/09 17:40",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Der amerikanische Freund",
+    "annee": 1979,
+    "duree_minutes": 125,
+    "realisateurs": [
+      "Wim Wenders"
+    ],
+    "synopsis": "Un expatrié américain gagne sa vie en colportant des faux tableaux. Un jour il accepte de participer à un complot de meurtre pour une solide somme d’argent. Une machination à la Hitchcock, entraînant le héros vers le crime, dans un univers de faux-semblants et de suspense. Le polar de Patricia Highsmith, pour un Wenders fasciné par les thrillers U.S.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7b853812-a06f-4aa1-b1fb-bb7809e9c2cb.jfif",
+    "seances": [
+      {
+        "heure": "29/08 19:15",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Des Minions et des monstres",
+    "annee": 2026,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Pierre Coffin"
+    ],
+    "synopsis": "Voici l’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont tenté de sauver la planète du chaos qu’ils avaient créé.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/43b970e8-05d0-427c-a8ba-3a792338d6fc.jpg",
+    "seances": [
+      {
+        "heure": "26/08 16:00",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "30/08 13:30",
+        "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
+    "titre": "E Dio desse a Caino",
+    "annee": 1970,
+    "duree_minutes": 97,
+    "realisateurs": [
+      "Antonio Margheriti"
+    ],
+    "synopsis": "Après avoir purgé une lourde peine alors qu’il est innocent, Gary Hamilton va se venger de ceux qui l’ont piégé lors d’une nuit de tempête ! L’ambiance baroque amène une touche de fantastique à ce western qui peut rappeler Point Blank de John Boorman.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19ada3e2-0892-4db3-a32c-0805c707d3ec.jpg",
+    "seances": [
+      {
+        "heure": "28/08 21:15",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Ferris Bueller’s Day Off",
+    "annee": 1986,
+    "duree_minutes": 101,
+    "realisateurs": [
+      "John Hughes"
+    ],
+    "synopsis": "Un incorrigible cancre réussit à convaincre sa petite amie et son meilleur ami de sécher les cours pour aller faire les 400 coups à Chicago. Film cultissime des années 1980, une comédie jouissive et archétype du teen movie, souvent copié mais jamais égalé.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ba8cce35-557f-46a8-9787-85d6fabea7cc.jpg",
+    "seances": [
+      {
+        "heure": "30/08 15:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "30/08 16:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Harte",
+    "annee": 2015,
+    "duree_minutes": 89,
+    "realisateurs": [
+      "Rosa von Praunheim"
+    ],
+    "synopsis": "Mêlant documentaire et docudrama, Härte retrace la vie d’Andreas Marquardt, un ancien champion de karaté qui passera huit ans et demi en prison pour proxénétisme et trafic d’êtres humains.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99feccb4-c317-4462-8995-e8aee22a99d1.jfif",
+    "seances": [
+      {
+        "heure": "27/08 20:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "30/08 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -105,11 +285,55 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
       {
-        "heure": "25/08 15:55",
+        "heure": "26/08 14:45",
         "cinema": "Palace"
       },
       {
-        "heure": "25/08 18:00",
+        "heure": "26/08 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 14:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 17:05",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "28/08 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 14:10",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 14:10",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 18:00",
         "cinema": "Palace"
       }
     ]
@@ -125,7 +349,39 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/53107630-b2e0-43eb-8bb3-5290e89d5ea5.jpg",
     "seances": [
       {
-        "heure": "25/08 14:30",
+        "heure": "27/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 16:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 16:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 16:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 16:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 11:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "01/09 11:30",
         "cinema": "Palace"
       }
     ]
@@ -141,8 +397,49 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6555033d-35a1-4fd4-9b00-1ca0a4e12a8a.jpg",
     "seances": [
       {
-        "heure": "25/08 16:15",
+        "heure": "28/08 20:45",
         "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 20:45",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Jim Queen",
+    "annee": 2026,
+    "duree_minutes": 85,
+    "realisateurs": [
+      "Marco Nguyen",
+      "Nicolas Athané"
+    ],
+    "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
+    "seances": [
+      {
+        "heure": "26/08 18:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "27/08 18:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "28/08 18:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 18:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 18:35",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "31/08 18:30",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -159,6 +456,10 @@
       {
         "heure": "26/08 14:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "26/08 17:55",
+        "cinema": "Le Stockel"
       },
       {
         "heure": "26/08 19:20",
@@ -193,6 +494,10 @@
         "cinema": "Aventure"
       },
       {
+        "heure": "30/08 18:25",
+        "cinema": "Le Stockel"
+      },
+      {
         "heure": "30/08 19:20",
         "cinema": "Aventure"
       },
@@ -203,20 +508,282 @@
       {
         "heure": "31/08 19:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 14:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 19:20",
+        "cinema": "Aventure"
       }
     ]
   },
   {
-    "titre": "Koko's Kane + Koko's Balloons + Invisible Ink + Koko's Storm + Koko Needles the Boss",
+    "titre": "Koko's Crib + Koko Hops Off + Field Daze + Koko's Courtship + Koko's Big Sale",
     "annee": 0,
     "duree_minutes": 0,
     "realisateurs": [],
-    "synopsis": "Koko le clown et son compagnon Fitz le chien s’emparent de la nouvelle invention créée par leur dessinateur Max, une cane-parapluie (Koko’s Kane). Le ballon, de la montgolfière à celui gonflé à l’hélium, transforme Koko et Fitz en fous volants (Koko’s Balloons). Koko aux prises avec Max à l’aide de plumes et d’encre invisible (Invisible Ink). Pour le perturber, Max crée un ouragan (Koko’s Storm). Koko n’accepte pas que Max le recouse (Koko Needles the Boss).",
+    "synopsis": "Koko le clown et le chien Fitz découvrent l’univers de la parentalité (Koko’s Crib). En interaction avec des personnages humains, nos deux héros concourent pour la coupe de haute voltige (Koko Hops Off) puis dans une compétition d’athlétisme (Field Daze). Koko montre à Skinny comment séduire (Koko’s Courtship). Koko et Fitz en revendeurs d’une marchandise toute particulière (Koko’s Big Sale).",
     "affiche_url": null,
     "seances": [
       {
-        "heure": "25/08 20:00",
+        "heure": "27/08 18:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "29/08 20:15",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Kokuho",
+    "annee": 2026,
+    "duree_minutes": 175,
+    "realisateurs": [
+      "Sang-il Lee"
+    ],
+    "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
+    "seances": [
+      {
+        "heure": "26/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "26/08 15:10",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "26/08 19:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "26/08 20:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "27/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 15:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "27/08 19:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 20:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "28/08 15:10",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "28/08 15:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 19:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 20:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 15:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 17:50",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 19:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 12:35",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 15:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 18:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 19:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 12:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "31/08 15:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 19:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 20:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "01/09 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 17:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "01/09 19:30",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Kolja",
+    "annee": 1996,
+    "duree_minutes": 104,
+    "realisateurs": [
+      "Jan Svěrák"
+    ],
+    "synopsis": "Un violoniste de l’Orchestre philharmonique de Prague se voit privé de son emploi par la bureaucratie du régime communiste. Criblé de dettes, il en est réduit à jouer pour les enterrements et, au bord du gouffre, même à accepter un mariage blanc avec une femme russe, qui déménage illico en Allemagne, abandonnant son fils. Un petit bijou du cinéma tchèque.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/68781b46-3bf2-41be-8f40-8e7110cad81a.jpg",
+    "seances": [
+      {
+        "heure": "30/08 17:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "L'Odyssée",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "29/08 17:00",
+        "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
+    "titre": "L'inconnue",
+    "annee": 2026,
+    "duree_minutes": 140,
+    "realisateurs": [
+      "Arthur Harari"
+    ],
+    "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
+    "seances": [
+      {
+        "heure": "26/08 09:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "26/08 13:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "26/08 15:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "26/08 20:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "26/08 20:45",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "27/08 13:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 15:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 20:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 15:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 18:40",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 18:45",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "29/08 13:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 14:30",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "29/08 15:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 20:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 17:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 20:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 13:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 15:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 18:40",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 13:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 15:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 20:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -231,7 +798,159 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28060330-baf5-467f-91d7-671d09a12c24.jpg",
     "seances": [
       {
-        "heure": "25/08 19:00",
+        "heure": "26/08 09:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "26/08 17:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "26/08 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "26/08 21:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 17:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 18:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 21:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 14:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 18:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 14:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 21:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 21:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 14:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 17:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 18:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 20:55",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "La Fille dans les nuages",
+    "annee": 2026,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "Une plume magique qui rend réel tout ce qu’elle écrit vient bouleverser la vie de Providence, 11 ans, et de son cochon d’Inde Airbag. Dotés de cet immense pouvoir, ils s’envolent pour un incroyable voyage…",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a64c050-c213-4535-867a-b5e66f811ce1.jpg",
+    "seances": [
+      {
+        "heure": "26/08 13:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "26/08 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "26/08 14:00",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "29/08 11:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 12:25",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "29/08 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 13:30",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "La Grande Rêvasion",
+    "annee": 2025,
+    "duree_minutes": 45,
+    "realisateurs": [
+      "Rémi Durin",
+      "Bram Algoed",
+      "Eric Montchaud"
+    ],
+    "synopsis": "Un programme de trois courts métrages où l’imagination donne des ailes ! Avoir le trac avant de monter sur scène et s’inventer un monde, découvrir un objet bien mystérieux ou ce qui se cache dans une grande boîte, ces trois court-métrages éveilleront l’imaginaire et aideront les jeunes spectateurs à trouver la confiance en eux.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0e4148c9-eb45-4332-b712-0cec12ec3f05.jpeg",
+    "seances": [
+      {
+        "heure": "29/08 11:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 12:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 11:50",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 13:00",
         "cinema": "Palace"
       }
     ]
@@ -251,6 +970,10 @@
         "cinema": "Aventure"
       },
       {
+        "heure": "27/08 16:10",
+        "cinema": "Le Stockel"
+      },
+      {
         "heure": "29/08 11:00",
         "cinema": "Aventure"
       },
@@ -259,42 +982,28 @@
         "cinema": "Aventure"
       },
       {
+        "heure": "30/08 11:30",
+        "cinema": "Le Stockel"
+      },
+      {
         "heure": "30/08 12:40",
         "cinema": "Aventure"
       }
     ]
   },
   {
-    "titre": "La Remontada",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
+    "titre": "La Seine a rencontré Paris + A Valparaiso",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [
+      "Joris Ivens"
+    ],
+    "synopsis": "Deux poèmes urbains du réalisateur de documentaires Joris Ivens. Dans La Seine a rencontré Paris (Palme d’or du meilleur court-métrage en 1958), le fleuve dessine un portrait de la vie quotidienne des Parisiens, sur un poème de Jacques Prévert. Dans À Valparaíso, Ivens met en images la ville portuaire chilienne, avec son architecture escarpée et le contraste saisissant entre les conditions de vie de ses habitants.",
     "affiche_url": null,
     "seances": [
       {
-        "heure": "25/08 18:30",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "La gifle",
-    "annee": 2026,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Frédéric Hambalek"
-    ],
-    "synopsis": "Julia et Tobias forment un couple parfait... apparemment. Derrière l'harmonie de façade, les ennuis se préparent : bizarrement, sous l'effet d'une gifle, Marielle, leur fille de 12 ans, a développé un don télépathique lui permettant de voir tout ce que font ses parents. Julia et Tobias réalisent que les mensonges qu'ils se racontent ne peuvent plus lui être cachés. Lorsque leurs secrets les plus gênants sont révélés, le couple s'essaye à un jeu de manipulation qui les précipite dans des situations toujours plus absurdes.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bafbb34a-a88b-45b3-9433-2f47c145fbcc.jfif",
-    "seances": [
-      {
-        "heure": "25/08 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "25/08 14:15",
-        "cinema": "Vendôme"
+        "heure": "28/08 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -313,6 +1022,22 @@
     ]
   },
   {
+    "titre": "Le Scaphandre et le Papillon",
+    "annee": 2007,
+    "duree_minutes": 110,
+    "realisateurs": [
+      "Julian Schnabel"
+    ],
+    "synopsis": "Adapté du récit autobiographique d’un journaliste, Jean-Dominique Bauby, qu’un AVC priva de toutes ses fonctions motrices, mis à part un œil qui devient son lien avec le monde. « Oui » d’un clin d’œil, « non » en clignant deux fois, il arrête l’attention d’un visiteur sur les lettres de l’alphabet qu’on lui dicte, afin de composer finalement son autobiographie. Une expérience sensitive sans pareille, qui a l’élégance de ne pas instrumentaliser le malheur, par le recours à bon escient d’un humour désenchanté.",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "30/08 21:15",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Le Vertige",
     "annee": null,
     "duree_minutes": null,
@@ -321,28 +1046,112 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "25/08 13:00",
+        "heure": "26/08 17:00",
         "cinema": "Palace"
       },
       {
-        "heure": "25/08 14:00",
+        "heure": "26/08 18:55",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 14:20",
+        "heure": "26/08 19:20",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "26/08 20:05",
         "cinema": "Palace"
       },
       {
-        "heure": "25/08 18:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/08 20:05",
+        "heure": "27/08 17:00",
         "cinema": "Palace"
       },
       {
-        "heure": "25/08 21:40",
+        "heure": "27/08 18:55",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 20:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 17:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 20:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 21:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 17:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 19:00",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "29/08 20:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 17:35",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "30/08 17:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 20:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 17:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 20:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 21:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 16:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 17:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 18:55",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 20:05",
+        "cinema": "Palace"
       }
     ]
   },
@@ -405,6 +1214,64 @@
       {
         "heure": "31/08 21:30",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 12:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 17:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 20:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Le notti di Cabiria",
+    "annee": 1957,
+    "duree_minutes": 118,
+    "realisateurs": [
+      "Federico Fellini"
+    ],
+    "synopsis": "",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b3d73e82-649a-4206-bf16-ece0241c3a8c.jpg",
+    "seances": [
+      {
+        "heure": "30/08 19:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Les Demoiselles de Rochefort",
+    "annee": 1967,
+    "duree_minutes": 120,
+    "realisateurs": [
+      "Jacques Demy"
+    ],
+    "synopsis": "Tandis que des forains arrivent à Rochefort (Charente-Maritime), où se prépare une foire, les destinées de plusieurs personnages à la recherche du grand amour, perdu ou pas encore rencontré, se croisent dans la ville.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6f098614-8404-481b-8045-2466940d1101.jpeg",
+    "seances": [
+      {
+        "heure": "28/08 16:30",
+        "cinema": "Cineflagey"
+      }
+    ]
+  },
+  {
+    "titre": "Les Shorts d'été (Shortscreens) : Films d'écoles de cinéma belges",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "27/08 19:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -419,12 +1286,132 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46a9d42c-1430-4a68-bf75-bb4162f22308.jpg",
     "seances": [
       {
-        "heure": "25/08 11:20",
+        "heure": "26/08 14:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 13:00",
         "cinema": "Galeries"
       },
       {
-        "heure": "25/08 19:10",
+        "heure": "27/08 13:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 14:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 10:10",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 12:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "01/09 13:45",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Loups tendres et loufoques",
+    "annee": 2019,
+    "duree_minutes": 52,
+    "realisateurs": [
+      "Anaïs Sorrentino",
+      "Arnaud Demuynck",
+      "Pascale Hecquet",
+      "Rémi Durin",
+      "Hugo Frassetto"
+    ],
+    "synopsis": "La Chouette du cinéma a rassemblé plusieurs courts métrages autour de la figure du grand méchant loup dans le programme \"Loups tendres et loufoques\", qui revisite cette figure dans les contes et les livres, avec humour et poésie, pour amener les petits dès 3 ans à le voir autrement...",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
+    "seances": [
+      {
+        "heure": "29/08 10:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 10:30",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Mahjong",
+    "annee": 1993,
+    "duree_minutes": 121,
+    "realisateurs": [
+      "Edward Yang"
+    ],
+    "synopsis": "Quatre jeunes hommes qui escroquent d'autres escrocs tout en échappant à leurs ennemis qui poursuivent le père de Red Fish, un entrepreneur criblé de dettes et propriétaire de jardins d'enfants privés.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b46d4747-0b66-4275-b0cc-ab48451e9e3b.jpg",
+    "seances": [
+      {
+        "heure": "01/09 19:00",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Meine Mütter - Spurensuche in Riga",
+    "annee": 2007,
+    "duree_minutes": 87,
+    "realisateurs": [
+      "Rosa Von Praunheim"
+    ],
+    "synopsis": "En 2000, la mère de Rosa von Praunheim, alors âgée de 94 ans, lui révèle qu’il n’est pas son fils biologique. Il aurait été trouvé dans un foyer pour enfants en Lettonie durant l’occupation allemande. Quelques années plus tard, le cinéaste s’envole pour Riga où il espère faire la lumière sur l’histoire croisée de ses deux mères.\n",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "31/08 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Michael Kael contre la World News Company",
+    "annee": 1998,
+    "duree_minutes": 89,
+    "realisateurs": [
+      "Christophe Smith"
+    ],
+    "synopsis": "Le géant international de l’information WNC cherche à faire réélire le président américain pour un troisième mandat en inventant de toutes pièces une histoire de « gourou fou », un Japonais fictif qui projette de larguer des armes nucléaires sur la moitié de la planète en quelques jours. Ce gourou imaginaire doit faire son annonce dans la ville africaine de Katango, et WNC envoie sur place son correspondant parisien, le naïf Michael Kael, pour couvrir l’événement. Une excellent comédie sur le complot politique manipulant les médias.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c2670d1b-1647-4b41-b218-ddd452b8f246.jpg",
+    "seances": [
+      {
+        "heure": "28/08 20:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Millennium Mambo",
+    "annee": 2001,
+    "duree_minutes": 106,
+    "realisateurs": [
+      "Hou Hsiao-Hsien"
+    ],
+    "synopsis": "Vicky, d'une beauté éthérée, se souvient de ses amours avec Hao Hao et Jack dans les clubs éclairés au néon de Taipei.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f4c1ca57-e2ea-4a8b-aa38-98a768fb9eab.jpg",
+    "seances": [
+      {
+        "heure": "31/08 19:00",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -453,6 +1440,26 @@
     ]
   },
   {
+    "titre": "Mon Voisin Totoro",
+    "annee": 1988,
+    "duree_minutes": 86,
+    "realisateurs": [
+      "Hayao Miyazaki"
+    ],
+    "synopsis": "Deux petites filles, Mei et Satsuki, viennent s'installer avec leur père dans une grande maison à la campagne afin de se rapprocher de l'hôpital où séjourne leur mère. Elles vont découvrir l'existence de leurs nouveaux voisins, invisible aux yeux des autres humains, des créatures merveilleuses, mais très discrètes : Grand Totoro, Moyen Totoro (Chū-Totoro) et Petit Totoro (Chibi-Totoro) ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dde02d22-4ce4-4b31-86b1-7486d26e8294.jpeg",
+    "seances": [
+      {
+        "heure": "29/08 13:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 10:00",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
     "titre": "My Step-Mother is an Alien",
     "annee": 1988,
     "duree_minutes": 108,
@@ -463,8 +1470,40 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/665a7b56-299d-4841-9471-9e102669c5ac.jpg",
     "seances": [
       {
-        "heure": "25/08 18:00",
+        "heure": "29/08 18:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Network",
+    "annee": 1976,
+    "duree_minutes": 121,
+    "realisateurs": [
+      "Sidney Lumet"
+    ],
+    "synopsis": "Une chaîne de télévision exploite cyniquement les délires et les révélations d'un ancien présentateur dérangé sur les médias de masse pour son propre profit, mais découvre que son message peut être difficile à contrôler.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fe62be22-1d5e-46ca-adf0-5094046549bc.jpeg",
+    "seances": [
+      {
+        "heure": "29/08 17:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Nous, l'orchestre",
+    "annee": 2025,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Phillipe Béziat"
+    ],
+    "synopsis": "Comment jouer ensemble sans se sentir disparaître dans la masse ? Comment cohabiter si longtemps sans que le groupe explose ? Quel rôle joue vraiment le chef d’orchestre ? Pour la première fois, caméras et micros se faufilent parmi les 120 musiciens de l’Orchestre de Paris, à la Philharmonie, sous la baguette de leur jeune chef prodige, Klaus Mäkelä. Un film immersif au cœur de la musique en train de se faire ; au plus près de l’expérience des musiciens, de leurs émotions, de la beauté.",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "30/08 15:50",
+        "cinema": "Cineflagey"
       }
     ]
   },
@@ -478,10 +1517,6 @@
     "synopsis": "Après avoir brisé le mystérieux « One Wish Willow » pour gagner le cœur de la personne de ses rêves, un incurable romantique voit son vœu exaucé mais réalise très vite que le prix de certains souhaits peut s'avérer sombre et sinistre.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3917c18f-b602-4eee-bc47-345f0230340d.jpg",
     "seances": [
-      {
-        "heure": "25/08 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/08 14:50",
         "cinema": "Aventure"
@@ -511,7 +1546,83 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fcf75256-2dda-4b9c-9ba6-2b06065410b9.jpg",
     "seances": [
       {
-        "heure": "25/08 21:20",
+        "heure": "27/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 11:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 11:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 18:30",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Peau d'âne",
+    "annee": 1970,
+    "duree_minutes": 89,
+    "realisateurs": [
+      "Jacques Demy"
+    ],
+    "synopsis": "Le roi bleu promet à sa reine mourante de ne se remarier qu’avec une femme plus belle qu’elle. Des années plus tard, il décide d’épouser sa fille car elle seule est capable de rivaliser en beauté avec son épouse adorée.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/253ba1ae-9b8e-444e-b6c8-86dfcbc1c86c.jpeg",
+    "seances": [
+      {
+        "heure": "30/08 14:00",
+        "cinema": "Cineflagey"
+      }
+    ]
+  },
+  {
+    "titre": "Pee-Wee's Big Adventure",
+    "annee": 1985,
+    "duree_minutes": 88,
+    "realisateurs": [
+      "Tim Burton"
+    ],
+    "synopsis": "Lorsque l’excentrique et éternel enfant Pee-wee Herman découvre que son vélo adoré, parfaitement équipé, a été volé, son monde s’écroule. Déterminé à récupérer sa bicyclette, il se lance dans une aventure complètement délirante à travers l’Amérique et sa galerie de personnages hauts en couleur.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/40dd1302-7354-42d0-b5eb-6e2ecf9f12a5.jpg",
+    "seances": [
+      {
+        "heure": "26/08 19:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Persona",
+    "annee": 1966,
+    "duree_minutes": 82,
+    "realisateurs": [
+      "Ingmar Bergman"
+    ],
+    "synopsis": "Frappée de mutisme et envoyée se rétablir sur le bord de mer, l’actrice de théâtre Elisabeth Vogler est confiée aux soins de la jeune infirmière Alma. Une des œuvres essentielles de Bergman, entre drame psychologique, terreur métaphysique et avant-garde.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b1e5ea6-f7ce-49db-b3b1-b61c578bb6f7.jpeg",
+    "seances": [
+      {
+        "heure": "27/08 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 13:30",
         "cinema": "Palace"
       }
     ]
@@ -527,28 +1638,148 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19719daa-a7b1-45cc-bd63-e81a19574de4.jpg",
     "seances": [
       {
-        "heure": "25/08 11:45",
+        "heure": "26/08 11:30",
         "cinema": "Palace"
       },
       {
-        "heure": "25/08 14:15",
+        "heure": "26/08 17:40",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 15:00",
+        "heure": "26/08 18:50",
         "cinema": "Palace"
       },
       {
-        "heure": "25/08 16:45",
+        "heure": "26/08 18:55",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/08 19:15",
+        "heure": "27/08 16:15",
         "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 17:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 18:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 21:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 17:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 18:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 14:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 18:55",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 21:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 14:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 18:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 17:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 18:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 14:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 18:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 21:20",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Playtime",
+    "annee": 1967,
+    "duree_minutes": 124,
+    "realisateurs": [
+      "Jacques Tati"
+    ],
+    "synopsis": "Le funambulesque M. Hulot évolue dans l'univers mécanisé de la société « gadgétivore » de consommation. Un film quasi abstrait, jouant sur les sons, les géométries spatiales et les couleurs.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0acedff0-3102-49cf-a86e-053705d7179d.jpg",
+    "seances": [
+      {
+        "heure": "26/08 17:00",
+        "cinema": "Cineflagey"
+      }
+    ]
+  },
+  {
+    "titre": "Pompon Ours, petites balades et grandes aventures",
+    "annee": 2022,
+    "duree_minutes": 36,
+    "realisateurs": [
+      "Matthieu Gaillard"
+    ],
+    "synopsis": "Adapté des ouvrages de littérature jeunesse de Benjamin Chaud, Pompon Ours arrive au cinéma avec ses amis de la forêt. Il nous embarque dans ses aventures aussi drôles que tendres, dans lesquelles l’amitié et la famille ont une place importante \n\nPompon Ours, petit ourson curieux, ingénieux et attachant, vit dans la forêt avec sa maman ours et son papa ours. Chaque matin, accompagné de ses amis, il part à l’aventure : que ce soit à la recherche d’inspiration pour écrire un poème à son papa, en quête d’un trésor avec sa maman ou d’un petit frère à adopter pour se sentir moins seul. Ingénieux et attentionné, Pompon regorge d’idées, comme celle de créer une constellation du raton pour sa meilleure amie qui, contrairement aux ours, n’en a pas. Courageux, Pompon partira même affronter le zarbidule, esprit de la forêt qui peuple les contes de ses petits habitants. \n\nCes cinq histoires sont vécues par Pompon et ses amis avec toute la candeur et la tendresse de l’enfance. Dans l’univers de Pompon, sa famille et ses amis occupent une place centrale, et l’amour, la solidarité et l’empathie sont les valeurs qui le guident. On plonge dans un univers doux, non dénué d’humour. \n\nNotons également le graphisme de l’auteur-illustrateur Benjamin Chaud, si dans cette version animée le trait est simplifié, on y retrouve néanmoins les silhouettes rigolotes des personnages et l’esprit malicieux des livres. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/452ed7ef-9743-47fa-97b8-bbcdb66e2b91.jpeg",
+    "seances": [
+      {
+        "heure": "26/08 15:50",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -563,28 +1794,48 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "25/08 12:50",
+        "heure": "26/08 13:00",
         "cinema": "Aventure"
       },
       {
-        "heure": "25/08 20:10",
+        "heure": "26/08 18:00",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Rosebush Pruning",
-    "annee": 2026,
-    "duree_minutes": 97,
-    "realisateurs": [
-      "Karim Aïnouz"
-    ],
-    "synopsis": "Une famille aux prises avec des maladies génétiques vit dans un domaine à la campagne. Des drames personnels se déroulent au sein de ce foyer dans ce portrait intimiste.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed39de05-21fe-46ec-8ad2-dd70f5b49b00.jpg",
-    "seances": [
+      },
       {
-        "heure": "25/08 21:40",
-        "cinema": "Palace"
+        "heure": "27/08 20:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "28/08 12:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "28/08 16:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "29/08 20:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/08 12:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/08 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "31/08 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 16:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 18:40",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -627,7 +1878,23 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/753bdb39-f35d-4080-bd50-34084c7decc2.jpg",
     "seances": [
       {
-        "heure": "25/08 20:50",
+        "heure": "27/08 20:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 20:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 20:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 20:45",
         "cinema": "Palace"
       }
     ]
@@ -643,7 +1910,11 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/33e102a0-27d7-4d93-8a66-6b02498afcd3.jpg",
     "seances": [
       {
-        "heure": "25/08 17:55",
+        "heure": "28/08 15:00",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "30/08 15:30",
         "cinema": "Le Stockel"
       }
     ]
@@ -658,14 +1929,6 @@
     "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7d1fec45-834a-4c58-8fa6-664604deab87.jpg",
     "seances": [
-      {
-        "heure": "25/08 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "25/08 20:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "26/08 18:50",
         "cinema": "Aventure"
@@ -683,12 +1946,44 @@
         "cinema": "Aventure"
       },
       {
+        "heure": "29/08 20:20",
+        "cinema": "Le Stockel"
+      },
+      {
         "heure": "30/08 18:40",
         "cinema": "Aventure"
       },
       {
+        "heure": "31/08 20:15",
+        "cinema": "Le Stockel"
+      },
+      {
         "heure": "31/08 20:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 18:40",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Stan the Flasher",
+    "annee": 1990,
+    "duree_minutes": 67,
+    "realisateurs": [
+      "Serge Gainsbourg"
+    ],
+    "synopsis": "Dernière réalisation de Gainsbourg, ce film de 67 minutes est une provocation centrée sur un professeur d’anglais (au terrible accent) donnant des cours particuliers à ses étudiantes. À sa sortie, les Cahiers du Cinéma y voyaient une « curiosité » qui, sous des dehors de « saleté et de provocation », dissimule un personnage « agaçant mais attachant, rusé et naïf, esclave et souverain ».",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d540738b-02bf-4ecb-9466-779dfa160579.jpg",
+    "seances": [
+      {
+        "heure": "26/08 18:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "31/08 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -703,20 +1998,96 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
       {
-        "heure": "25/08 11:30",
+        "heure": "26/08 15:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "26/08 15:45",
         "cinema": "Palace"
       },
       {
-        "heure": "25/08 14:30",
+        "heure": "26/08 20:45",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 20:30",
+        "heure": "27/08 14:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 15:20",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 20:45",
+        "heure": "27/08 19:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 14:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 17:55",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "28/08 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 10:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 15:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 20:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 15:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 15:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 18:40",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -731,92 +2102,280 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
       {
-        "heure": "25/08 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/08 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "25/08 16:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "25/08 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "25/08 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/08 16:45",
+        "heure": "26/08 11:30",
         "cinema": "Palace"
-      },
-      {
-        "heure": "25/08 18:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "25/08 18:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "25/08 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/08 21:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "25/08 21:10",
-        "cinema": "Galeries"
       },
       {
         "heure": "26/08 14:20",
         "cinema": "Aventure"
       },
       {
+        "heure": "26/08 15:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "26/08 16:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "26/08 16:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "26/08 18:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "26/08 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "26/08 20:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 13:40",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "27/08 14:30",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "27/08 16:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 16:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "27/08 16:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 20:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 21:15",
+        "cinema": "Cineflagey"
       },
       {
         "heure": "27/08 21:30",
         "cinema": "Aventure"
       },
       {
+        "heure": "27/08 21:35",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "28/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 13:45",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "28/08 14:10",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "28/08 15:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "28/08 16:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 16:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 18:00",
+        "cinema": "Galeries"
       },
       {
         "heure": "28/08 18:40",
         "cinema": "Aventure"
       },
       {
+        "heure": "28/08 20:35",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 21:20",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "28/08 21:30",
+        "cinema": "Palace"
+      },
+      {
         "heure": "29/08 14:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "29/08 15:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 16:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 16:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 20:35",
+        "cinema": "Vendôme"
       },
       {
         "heure": "29/08 21:10",
         "cinema": "Aventure"
       },
       {
+        "heure": "29/08 21:10",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "30/08 14:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "30/08 16:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 16:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 16:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 19:00",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "30/08 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 21:20",
+        "cinema": "Galeries"
       },
       {
         "heure": "30/08 21:30",
         "cinema": "Aventure"
       },
       {
+        "heure": "31/08 13:45",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "31/08 14:40",
         "cinema": "Aventure"
       },
       {
+        "heure": "31/08 16:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 16:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "31/08 16:20",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "31/08 18:40",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "31/08 20:35",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 21:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "31/08 21:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 14:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 14:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "01/09 16:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 16:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 20:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 21:30",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Tepepa",
+    "annee": 1969,
+    "duree_minutes": 106,
+    "realisateurs": [
+      "Giulio Petrino"
+    ],
+    "synopsis": "Un révolutionnaire mexicain, condamné à mort, est sauvé in extremis lors de son exécution par un docteur anglais… qui veut le tuer de ses propres mains ! Un classique du western zapata dans la lignée d’El Chuncho et des westerns de Sergio Sollima.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/901b380b-2140-4090-964d-764881f8b0a4.jpg",
+    "seances": [
+      {
+        "heure": "28/08 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -828,10 +2387,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "25/08 13:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/08 10:30",
         "cinema": "Aventure"
@@ -849,16 +2404,100 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
       {
-        "heure": "25/08 16:15",
+        "heure": "26/08 16:45",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 16:40",
+        "heure": "26/08 18:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 14:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 14:20",
         "cinema": "Galeries"
       },
       {
-        "heure": "25/08 20:40",
+        "heure": "27/08 20:35",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 13:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "28/08 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 19:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 16:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 18:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 16:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 18:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 14:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "31/08 19:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 11:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "01/09 14:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 18:00",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "01/09 20:35",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "The Cool World",
+    "annee": 1965,
+    "duree_minutes": 105,
+    "realisateurs": [
+      "Shirley Clarke"
+    ],
+    "synopsis": "Un regard lucide et sans concessions sur le quotidien dans le ghetto de Harlem, un bidonville marqué par la drogue, la violence, la misère humaine et un sentiment de désespoir dû aux préjugés raciaux de la société états-unienne. Par l’une des plus grandes documentaristes du cinéma américain, dont les films se réclament autant de l’avant-garde expérimentale que du documentaire traditionnel, une Harlem-Story antiraciste, pour un documentaire-fiction soutenu par le Hard Bop d’Art Taylor, et la trompette endiablée de Dizzy Gillespie.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28decdc1-bd5c-4df0-a1fc-a197291538b7.jpg",
+    "seances": [
+      {
+        "heure": "26/08 20:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "30/08 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -915,6 +2554,14 @@
       {
         "heure": "31/08 16:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 16:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 21:20",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -931,6 +2578,10 @@
       {
         "heure": "26/08 16:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "26/08 20:30",
+        "cinema": "Le Stockel"
       },
       {
         "heure": "27/08 16:50",
@@ -965,11 +2616,27 @@
         "cinema": "Aventure"
       },
       {
+        "heure": "30/08 20:45",
+        "cinema": "Le Stockel"
+      },
+      {
         "heure": "31/08 16:30",
         "cinema": "Aventure"
       },
       {
         "heure": "31/08 21:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 16:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/09 20:30",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "01/09 21:20",
         "cinema": "Aventure"
       }
     ]
@@ -985,44 +2652,104 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4c38dfc9-c92a-45d0-942f-d659767a8506.jpg",
     "seances": [
       {
-        "heure": "25/08 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "25/08 16:30",
+        "heure": "26/08 13:15",
         "cinema": "Palace"
-      },
-      {
-        "heure": "25/08 18:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "25/08 20:50",
-        "cinema": "Aventure"
       },
       {
         "heure": "26/08 16:10",
         "cinema": "Aventure"
       },
       {
+        "heure": "26/08 21:40",
+        "cinema": "Palace"
+      },
+      {
         "heure": "27/08 12:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "27/08 13:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 18:00",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "27/08 19:10",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "27/08 21:40",
+        "cinema": "Palace"
       },
       {
         "heure": "28/08 12:50",
         "cinema": "Aventure"
       },
       {
+        "heure": "28/08 13:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "28/08 21:40",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 13:00",
+        "cinema": "Palace"
+      },
+      {
         "heure": "29/08 19:10",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "29/08 21:40",
+        "cinema": "Palace"
       },
       {
         "heure": "30/08 16:10",
         "cinema": "Aventure"
       },
       {
+        "heure": "30/08 21:40",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 13:15",
+        "cinema": "Palace"
+      },
+      {
         "heure": "31/08 19:10",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "31/08 21:40",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 14:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 21:40",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "The Insider",
+    "annee": 1999,
+    "duree_minutes": 157,
+    "realisateurs": [
+      "Michael Mann"
+    ],
+    "synopsis": "Producteur de l’émission 60 minutes, Lowell Bergman reçoit un dossier anonyme décrivant les méfaits du tabac. Il contacte à cet effet un scientifique qui travaille pour un fabricant de cigarettes — l’histoire vraie d’un scandale retentissant réalisé comme un polar à suspense par l’auteur de Heat.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/796e3486-007f-4591-b084-e177e6919124.jpg",
+    "seances": [
+      {
+        "heure": "26/08 21:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1037,20 +2764,144 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
       {
-        "heure": "25/08 13:20",
+        "heure": "26/08 12:20",
         "cinema": "Galeries"
       },
       {
-        "heure": "25/08 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "25/08 16:15",
+        "heure": "26/08 16:15",
         "cinema": "Vendôme"
       },
       {
-        "heure": "25/08 19:45",
+        "heure": "26/08 19:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "26/08 20:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "26/08 20:35",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "27/08 16:00",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "27/08 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 19:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 20:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "28/08 12:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "28/08 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 19:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "28/08 20:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "28/08 20:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 19:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 20:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 20:30",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "30/08 12:55",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "30/08 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 19:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/08 20:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "31/08 15:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "31/08 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 19:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 13:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "01/09 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 19:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "01/09 20:20",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "The Odyssey 35mm*",
+    "annee": 2026,
+    "duree_minutes": 173,
+    "realisateurs": [
+      "Christopher Nolan"
+    ],
+    "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.\n\n*Un supplément de 4,50 € vous sera demandé pour assister à une séance en 35 mm à Studio Skoop et Lumière Antwerpen.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ce8b21ff-9d81-4e78-867b-f03e771a025b.jpg",
+    "seances": [
+      {
+        "heure": "28/08 20:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "30/08 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 20:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1067,8 +2918,44 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0b11325-f8a9-4c21-805c-73e8293dc1d3.jpg",
     "seances": [
       {
-        "heure": "25/08 15:45",
+        "heure": "26/08 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "27/08 14:00",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "29/08 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "29/08 14:45",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "30/08 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "31/08 13:45",
+        "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
+    "titre": "Under the Silver Lake",
+    "annee": 2019,
+    "duree_minutes": 138,
+    "realisateurs": [
+      "David Robert Michell"
+    ],
+    "synopsis": "A Los Angeles, un homme se lance à la recherche d'une voisine mystérieusement disparue. Une plongée vertigineuse et obsessionnelle dans les tréfonds de la Cité des Anges, dans un néo-noir hollywoodien aux multiples références à la culture Pop.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/18acc123-022d-4efd-bcad-b38a33e228b5.jpg",
+    "seances": [
+      {
+        "heure": "30/08 21:05",
+        "cinema": "Cineflagey"
       }
     ]
   },
@@ -1083,24 +2970,86 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/27329aba-789e-438e-ba32-b4af7b3d5d4f.png",
     "seances": [
       {
-        "heure": "25/08 13:25",
+        "heure": "28/08 12:40",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "31/08 16:00",
         "cinema": "Le Stockel"
       }
     ]
   },
   {
-    "titre": "Welcome to Sarajevo",
-    "annee": 1997,
-    "duree_minutes": 101,
+    "titre": "Vozvrashcheniye",
+    "annee": 2002,
+    "duree_minutes": 110,
     "realisateurs": [
-      "Michael Winterbottom"
+      "Andrey Zvyagintsev"
     ],
-    "synopsis": "Les journalistes américain et britannique Flynn et Michael Henderson, accompagnés de leurs équipes respectives, se rencontrent à Sarajevo au début de la guerre en Bosnie. Au cours de leurs reportages, ils découvrent un orphelinat près du front. Touché par le sort des enfants, Henderson décide d’emmener clandestinement en Angleterre une des orphelines. Sur fond d’actualités, le Sarajevo de l’horreur, des snipers et des enfants à la dérive, l’engagement d’un reporter, face à l’inefficacité de la communauté internationale.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3c2288c1-c5d3-46ce-add6-74e465c73570.jfif",
+    "synopsis": "Deux jeunes frères sont confrontés au retour soudain et inexpliqué de leur père après douze ans d’absence. Tous trois entreprennent un voyage initiatique qui les mènera à une profonde introspection et à la remise en question de leurs liens affectifs. Dès son premier film, Lion d’Or au Festival de Venise, Zvyagintsev signe un des plus grands films du cinéma russe contemporain, entre thriller psychologique et road movie, intense et haletant, porté par une richesse visuelle qui laisse sans voix.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/690c2a7c-a885-4442-85d7-4cd3cbea6ad7.jpg",
     "seances": [
       {
-        "heure": "25/08 21:30",
+        "heure": "29/08 21:30",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Wandafuru raifu",
+    "annee": 1998,
+    "duree_minutes": 119,
+    "realisateurs": [
+      "Hirokazu Kore-eda"
+    ],
+    "synopsis": "Entre ciel et terre, des morts sont invités par une équipe de l’au-delà à retrouver leur meilleur souvenir afin qu’il soit filmé, et leur ouvre les portes de la vie éternelle. D’une force et d’une beauté inouïe, une étonnante mise en abîme du cinéma, pour un film post-mortem sur lequel plane une étrange tristesse de la recréation de souvenirs en forme de micro-histoires isolées de l’existence.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/feacc24c-e135-4254-bc16-1207c1ca82c5.jpg",
+    "seances": [
+      {
+        "heure": "27/08 21:15",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "What's Up, Doc? + The Second Civil war",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "Le gouverneur de l’Idaho, exaspéré par la politique d’accueil de son pays, refuse l’arrivée d’enfants orphelins issus d’une guerre nucléaire entre l’Inde et le Pakistan et déclare, sur un coup de tête, l’indépendance de son état. Une satire politique cinglante de 1997 qui semble aujourd’hui étrangement prophétique. Précédé d’un court-métrage des Looney Tunes dans lequel Bugs Bunny raconte sa vie à un journaliste de la Disassociated Press.",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "27/08 19:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Wild Strawberries",
+    "annee": 1957,
+    "duree_minutes": 92,
+    "realisateurs": [
+      "Ingmar Bergman"
+    ],
+    "synopsis": "Le professeur Isak Borg se rend à Lund pour recevoir un doctorat honorifique. En chemin, il est confronté à des rêves, des souvenirs et des rencontres qui l’obligent à revisiter sa vie. Le film est une road‑movie mélancolique sur le regret, le pardon et le désir d’humanité. Lauréat de l’Ours d’or à Berlin, Les Fraises sauvages est considéré comme l’une des œuvres les plus accessibles et les plus émouvantes de Bergman. Les scènes oniriques, horloges immobiles, rues désertes, comptent parmi les images les plus influentes du cinéma européen.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/71147a2d-7a43-4d00-9705-8d7296e73059.jpg",
+    "seances": [
+      {
+        "heure": "26/08 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "29/08 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "31/08 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "01/09 11:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1115,7 +3064,11 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/12cbe379-23a2-4164-b7aa-ffd49c77eb1c.jpg",
     "seances": [
       {
-        "heure": "25/08 13:50",
+        "heure": "27/08 11:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "29/08 10:10",
         "cinema": "Galeries"
       }
     ]

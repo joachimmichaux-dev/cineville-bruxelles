@@ -1,29 +1,5 @@
 [
   {
-    "titre": "A Confucian Confusion",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "27/08 19:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "129841",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-129841/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-129841/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 60
-    }
-  },
-  {
     "titre": "A Fox Under a Pink Moon",
     "annee": 2026,
     "duree_minutes": 77,
@@ -31,18 +7,6 @@
     "synopsis": "Soraya a 16 ans, elle réalise de magnifiques dessins et sculptures, mais elle est avant tout déterminée à forger son propre avenir. Cela fait déjà cinq ans qu’elle tente de fuir l’Iran, de se soustraire à son mariage avec un homme violent, et de rejoindre sa mère en Autriche. Pendant cinq ans, Soraya s’est filmée elle-même, ses tentatives d’évasion et son art. Un (auto)portrait unique et riche en nuances qui a remporté à juste titre le prestigieux « Best Film Award » à l’IDFA.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99621522-acbc-41b2-b8e5-88304c2cc657.png",
     "seances": [
-      {
-        "heure": "26/08 14:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 14:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/08 12:50",
         "cinema": "Aventure"
@@ -74,23 +38,6 @@
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
     }
-  },
-  {
-    "titre": "Agatha's Almanac",
-    "annee": 2025,
-    "duree_minutes": 87,
-    "realisateurs": [
-      "Amalie Atkins"
-    ],
-    "synopsis": "Défiant la modernité, Agatha, 90 ans, mène une existence solitaire sur la ferme de ses ancêtres en conservant des semences ancestrales. Un film d’un monde en voie de disparition, qui nous plonge dans un univers fait à la main.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ecf29d93-c8a1-4cf8-aaeb-707576896437.jpeg",
-    "seances": [
-      {
-        "heure": "27/08 12:40",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Alice",
@@ -243,7 +190,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000027149/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 149
+      "nb_notes_spectateurs": 150
     }
   },
   {
@@ -256,10 +203,6 @@
     "synopsis": "Sur le mode du documentaire, James Stewart en journaliste de Chicago, tentant de prouver l’innocence d’un condamné. Un hommage à la presse intègre, basé sur des faits authentiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/77b81efc-a2b6-4916-9fc6-2c80ad645e5f.jpg",
     "seances": [
-      {
-        "heure": "27/08 15:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "31/08 19:00",
         "cinema": "Cinematek"
@@ -444,7 +387,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-111643/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 24751
+      "nb_notes_spectateurs": 24758
     }
   },
   {
@@ -458,18 +401,6 @@
     "synopsis": "Les tumultes des répétitions d'une pièce de la Comédie-Française, la première mise en scène de Nina, qu'elle va devoir mener à bien d'autant plus que la règle d'or de l'institution est de ne jamais annuler une représentation.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f78afd8f-9241-4ce4-98fd-95f4aa2b1010.jpg",
     "seances": [
-      {
-        "heure": "26/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 16:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/08 16:00",
         "cinema": "Vendôme"
@@ -746,7 +677,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037046/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 4531
+      "nb_notes_spectateurs": 4661
     }
   },
   {
@@ -785,10 +716,6 @@
     "synopsis": "Voici l’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont tenté de sauver la planète du chaos qu’ils avaient créé.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/43b970e8-05d0-427c-a8ba-3a792338d6fc.jpg",
     "seances": [
-      {
-        "heure": "26/08 16:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "30/08 13:30",
         "cinema": "Le Stockel"
@@ -953,25 +880,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-315380/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 1893
+      "nb_notes_spectateurs": 1918
     }
-  },
-  {
-    "titre": "E Dio desse a Caino",
-    "annee": 1970,
-    "duree_minutes": 97,
-    "realisateurs": [
-      "Antonio Margheriti"
-    ],
-    "synopsis": "Après avoir purgé une lourde peine alors qu’il est innocent, Gary Hamilton va se venger de ceux qui l’ont piégé lors d’une nuit de tempête ! L’ambiance baroque amène une touche de fantastique à ce western qui peut rappeler Point Blank de John Boorman.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19ada3e2-0892-4db3-a32c-0805c707d3ec.jpg",
-    "seances": [
-      {
-        "heure": "28/08 21:15",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Ferris Bueller’s Day Off",
@@ -1014,10 +924,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99feccb4-c317-4462-8995-e8aee22a99d1.jfif",
     "seances": [
       {
-        "heure": "27/08 20:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "30/08 20:00",
         "cinema": "Cinematek"
       }
@@ -1043,34 +949,6 @@
     "synopsis": "Alors que nous suivons l’histoire aventureuse d’une poule désespérée qui élève seule sa famille, une terrible tragédie humaine se déroule en arrière-plan.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
-      {
-        "heure": "26/08 14:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 14:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 17:05",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "28/08 18:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/08 18:00",
         "cinema": "Palace"
@@ -1220,14 +1098,6 @@
     "synopsis": "A Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/53107630-b2e0-43eb-8bb3-5290e89d5ea5.jpg",
     "seances": [
-      {
-        "heure": "27/08 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/08 16:30",
         "cinema": "Galeries"
@@ -1458,7 +1328,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-293636/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 1118
+      "nb_notes_spectateurs": 1130
     }
   },
   {
@@ -1471,10 +1341,6 @@
     "synopsis": "Avant de devenir l’un des super-auteurs les plus prestigieux au monde avec la saga Dune, Denis Villeneuve réalisait en 2010 ce drame politique et intimiste stupéfiant, articulé autour d’un conflit entre chrétiens et musulmans durant une guerre civile dans un pays imaginaire. Inutile de dire que 16 ans plus tard, Incendies n’a rien perdu de sa puissance !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6555033d-35a1-4fd4-9b00-1ca0a4e12a8a.jpg",
     "seances": [
-      {
-        "heure": "28/08 20:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "31/08 20:45",
         "cinema": "Palace"
@@ -1597,7 +1463,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-179349/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 9932
+      "nb_notes_spectateurs": 9942
     }
   },
   {
@@ -1612,18 +1478,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
       {
-        "heure": "26/08 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/08 18:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/08 18:30",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "29/08 18:30",
         "cinema": "Galeries"
       },
@@ -1633,6 +1487,10 @@
       },
       {
         "heure": "31/08 18:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "01/09 17:00",
         "cinema": "Galeries"
       }
     ],
@@ -1819,7 +1677,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-310112/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 2428
+      "nb_notes_spectateurs": 2445
     }
   },
   {
@@ -1832,34 +1690,6 @@
     "synopsis": "Hannah et son adolescent non binaire Frances se rendent ensemble à Amsterdam pour rendre visite à leur grand-père « Jimpa ».",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0e20ae5a-7ae9-47d4-8cc8-884b21d6a2e2.jpg",
     "seances": [
-      {
-        "heure": "26/08 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/08 17:55",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "26/08 19:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 19:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/08 14:20",
         "cinema": "Aventure"
@@ -1917,10 +1747,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "27/08 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "29/08 20:15",
         "cinema": "Cinematek"
       }
@@ -1937,54 +1763,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "26/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 15:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/08 19:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 20:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 15:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/08 19:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "28/08 15:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/08 15:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 19:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 20:20",
-        "cinema": "Galeries"
-      },
       {
         "heure": "29/08 15:30",
         "cinema": "Vendôme"
@@ -2195,7 +1973,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018284/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 694
+      "nb_notes_spectateurs": 697
     }
   },
   {
@@ -2456,7 +2234,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 11574
+      "nb_notes_spectateurs": 11874
     }
   },
   {
@@ -2469,50 +2247,6 @@
     "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
-      {
-        "heure": "26/08 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 20:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 20:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "27/08 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 20:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 18:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 18:45",
-        "cinema": "Cineflagey"
-      },
       {
         "heure": "29/08 13:30",
         "cinema": "Palace"
@@ -2565,8 +2299,8 @@
     "allocine": {
       "allocine_id": "327993",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-327993/critiques/presse/",
-      "note_moyenne_presse": 3.7,
-      "nb_critiques_presse": 27,
+      "note_moyenne_presse": 3.6,
+      "nb_critiques_presse": 43,
       "critiques_presse": [
         {
           "titre_presse": "Cahiers du Cinéma",
@@ -2575,10 +2309,10 @@
           "citation": "S’il y a des mondes où tout semble déjà trop connu et reconnu, ce n’est pas le cas de ceux ouverts par Arthur Harari. Sans besoin d’imaginer des univers alternatifs, le réalisateur débusque l’étrange dans le familier."
         },
         {
-          "titre_presse": "Culturopoing.com",
+          "titre_presse": "Les Inrockuptibles",
           "note": 5.0,
-          "auteur": "Noëlle Gires",
-          "citation": "Rarement aura-t-on eu l’occasion de vivre une expérience de cinéma aussi grisante : notre propre fabrique à images s’active, recomposant la « réalité » derrière l’écran des corps possédés."
+          "auteur": "Marilou Duponchel",
+          "citation": "Plus que la peur de la disparition, c’est peut-être celle de ne plus rien voir qui étreint \"L’Inconnue\". Dans cette déperdition inquiétante survit pourtant le lien, les autres. Et l’apathie finit par se dissoudre pour s’ouvrir à la profondeur de la tristesse."
         },
         {
           "titre_presse": "Libération",
@@ -2593,10 +2327,40 @@
           "citation": "(...) \"L'Inconnue\", pas un film de genre au sens strict, offre une invention que nous pensons n'avoir jamais vue dans une œuvre fantastique."
         },
         {
+          "titre_presse": "Positif",
+          "note": 5.0,
+          "auteur": "Stéphane Goudet",
+          "citation": "Comme \"Vertigo\" de Hitchcock, auquel fait irrémédiablement penser le pont suspendu d’Ingrandes-sur-Loire, \"L’Inconnue\" réfléchit les mystères de l’incarnation théâtrale et cinématographique, non sans dédoubler chacun des deux interprètes, qui est à la fois telle qu’en lui ou elle-même et tout à fait un(e) autre."
+        },
+        {
           "titre_presse": "So Film",
           "note": 5.0,
           "auteur": "Benjamin Cataliotti",
           "citation": "Revenu du scénario d’Anatomie d’une chute et cinq ans après le choc Onoda, 10 000 nuits dans la jungle, Arthur Harari revient nous faire perdre la tête – et le corps – avec un film mélancolique, fiévreusement lugubre et unique en son genre."
+        },
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "Niels Schneider est exceptionnel."
+        },
+        {
+          "titre_presse": "Bande à part",
+          "note": 4.0,
+          "auteur": "Léo Ortuno",
+          "citation": "En portant des situations inédites à l’écran et en déployant de vertigineux questionnements sur l’identité, Arthur Harari propose une véritable expérience, à la fois éprouvante, malaimable et fascinante pour le spectateur."
+        },
+        {
+          "titre_presse": "Culturopoing.com",
+          "note": 4.0,
+          "auteur": "Noëlle Gires",
+          "citation": "\"L’Inconnue\" est en somme profondément iconoclaste : il déconstruit sans cesse les images qu’il produit lui-même, faisant du spectateur un co-créateur qu’il oblige à reconfigurer constamment ce qu’il voit."
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "On y songe à son voisinage avec La Métamorphose de Kafka, histoire d’un homme qui se réveille en insecte monstrueux, récit poignant d’aliénation et de souffrance."
         },
         {
           "titre_presse": "Ecran Large",
@@ -2647,10 +2411,22 @@
           "citation": "Léa Seydoux et Niels Schneider au sommet dans ce film de body swap génial et déroutant."
         },
         {
+          "titre_presse": "La Septième Obsession",
+          "note": 4.0,
+          "auteur": "Jérémie Oro",
+          "citation": "Voilà l’exemple parfait du film un peu rêche au visionnage, mais qui vous habite ensuite pendant des semaines, moins du fait du nombre de questions qui demeurent sans réponse que de la confiance viscérale qu’Hariri place dans vos capacités d’abstraction."
+        },
+        {
           "titre_presse": "La Voix du Nord",
           "note": 4.0,
           "auteur": "Catherine Painset",
           "citation": "Si le film est porteur de questions sur l’identité, le genre, le sexe, la famille ou la solitude, le réalisateur n’en fait pas un propos et garde les yeux résolument fixés sur ses personnages, qui traversent une réalité tangible, concrète et immuable en état de détresse et de sidération. Eva-David et David-Malia, visages et corps d’acteurs connus mais ici presque méconnaissables, offrent au spectateur une expérience intense et oppressante. Vertigineuse."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Le spectateur traverse ce film malade avec le sentiment de vivre une expérience à la fois étrange et singulière."
         },
         {
           "titre_presse": "Le Monde",
@@ -2659,22 +2435,34 @@
           "citation": "Ce thriller glacé revisite l’échange de corps entre deux personnages dont les interprètes, Léa Seydoux et Niels Schneider, repoussent les limites du jeu et du je."
         },
         {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Catherine Balle",
+          "citation": "Sombre, rugueux mais envoûtant."
+        },
+        {
+          "titre_presse": "Les Echos",
+          "note": 4.0,
+          "auteur": "Adrien Gombeaud",
+          "citation": "Un film vertigineux, poétique et obsédant, doublé d'une troublante méditation sur la fatalité de l'oubli."
+        },
+        {
           "titre_presse": "Les Fiches du Cinéma",
           "note": 4.0,
           "auteur": "Nicolas Marcadé",
           "citation": "Arthur Harari déplie un vertige existentiel par une succession d'images simples et ouvertes, dans lesquelles peuvent se couler les interprétations les plus diverses et les émotions les plus troubles."
         },
         {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Marilou Duponchel",
-          "citation": "Entêtant, le film reste, décante, se ramifie longtemps après sa première vision et diffuse l'angoisse de ne plus vraiment s'appartenir, comme un venin à l'empreinte indélébile."
-        },
-        {
           "titre_presse": "Marie Claire",
           "note": 4.0,
           "auteur": "Emily Barnett",
           "citation": "Cette œuvre ovniesque se repose sur son interprète principale, comme sur un monolithe de mystère."
+        },
+        {
+          "titre_presse": "Paris Match",
+          "note": 4.0,
+          "auteur": "Yannick Vely",
+          "citation": "Si le scénario exige du spectateur qu’il accepte de s’y perdre, c’est aussi la force de « L’Inconnue » de ne jamais s'offrir totalement à soi, de muter sans cesse, de nous questionner sur notre identité profonde et le sens de la réalité."
         },
         {
           "titre_presse": "Télé 7 Jours",
@@ -2689,16 +2477,46 @@
           "citation": "Arthur Harari réalise un film sombre et audacieux, où le banal côtoie l’anormal."
         },
         {
+          "titre_presse": "Abus de Ciné",
+          "note": 3.0,
+          "auteur": "Benjamin Bidolet",
+          "citation": "\"L’inconnue\" est donc un film dont on doit reconnaître les qualités mais qui déçoit surtout par ses promesses non tenues."
+        },
+        {
           "titre_presse": "La Tribune Dimanche",
           "note": 3.0,
           "auteur": "C.L.",
-          "citation": "Un film âpre et perturbant qui soulève des questions vertigineuses."
+          "citation": "Un film âpre et perturbant qui soulève les questions les plus vertigineuses..."
+        },
+        {
+          "titre_presse": "Ouest France",
+          "note": 3.0,
+          "auteur": "Thierry Chèze",
+          "citation": "Une œuvre déchirante sur la peur de disparaître."
         },
         {
           "titre_presse": "Première",
           "note": 3.0,
           "auteur": "Thomas Baurez",
           "citation": "La mise en scène mathématique repose ainsi sur une construction très structurée au service d’une histoire totalement folle. De cette tension peut naître une saisissante étrangeté."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 3.0,
+          "auteur": "Cédric Coppola",
+          "citation": "À l’inverse, les fulgurances de mise en scène et la qualité de l’interprétation du binôme et plus particulièrement de Niels Schneider, méconnaissable barbu et amaigri, envoûtent. Tout le symbole de cette œuvre hybride, audacieuse, qui essaie beaucoup de choses… sans tout réussir. Paradoxal donc, comme si le film tout entier était lui-même prisonnier de son concept, de sa complexité qui empêche, in fine, de faire jaillir l’émotion."
+        },
+        {
+          "titre_presse": "Voici",
+          "note": 3.0,
+          "auteur": "La Rédaction",
+          "citation": "Ce drame fantastique sur l'identité se perd malheureusement dans ses propres méandres, mais parvient à instiller une ambiance souvent captivante."
+        },
+        {
+          "titre_presse": "CinemaTeaser",
+          "note": 2.0,
+          "auteur": "Renan Cros",
+          "citation": "à où la surface des êtres dans le Body Swap pop se veut ludique et méta, là où dans la modernité cinématographique elle est au contraire un écran qui demande à être creusé, ici les deux idées s’annulent. Faisant alors, et ce malgré l’implication de Niels Schneider et Léa Seydoux, de L’INCONNUE, un film dont on passe tristement à côté."
         },
         {
           "titre_presse": "Critikat.com",
@@ -2711,6 +2529,12 @@
           "note": 2.0,
           "auteur": "Stéphane Dreyfus",
           "citation": "Une interminable méditation sur ce qui nous constitue."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 2.0,
+          "auteur": "E.S.",
+          "citation": "Les personnages sont plus neurasthéniques qu’inquiets. L’Inconnue parle de solitude existentielle. Que devient-on quand on est coupé de sa famille, des autres, enfermé dans un corps autre ? A éviter."
         },
         {
           "titre_presse": "Télé Loisirs",
@@ -2729,11 +2553,17 @@
           "note": 1.0,
           "auteur": "Barbara Théate",
           "citation": "Un magnifique ratage."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 1.0,
+          "auteur": "Philippe Guedj",
+          "citation": "Au dernier Festival de Cannes, c’était notre Palme de plomb. Autant dire que ce film est à éviter."
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327993/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.4,
-      "nb_notes_spectateurs": 28
+      "note_moyenne_spectateurs": 2.8,
+      "nb_notes_spectateurs": 244
     }
   },
   {
@@ -2746,46 +2576,6 @@
     "synopsis": "Ludovic, un architecte quarantenaire à qui tout réussit, entame une idylle avec Nathalie, mère de deux jeunes filles. Au fur et à mesure que se tisse leur amour naissant, Ludovic se rapproche des filles avec lesquelles il noue des rapports de complicité inédits pour lui. Mais lorsque Nathalie décide de prendre ses distances avec Ludovic, ce dernier sent qu’il perd quelque chose qui le dépasse. Commence alors une terrible chute.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28060330-baf5-467f-91d7-671d09a12c24.jpg",
     "seances": [
-      {
-        "heure": "26/08 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 21:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 18:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 21:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 18:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/08 18:45",
         "cinema": "Vendôme"
@@ -2854,18 +2644,6 @@
     "synopsis": "Une plume magique qui rend réel tout ce qu’elle écrit vient bouleverser la vie de Providence, 11 ans, et de son cochon d’Inde Airbag. Dotés de cet immense pouvoir, ils s’envolent pour un incroyable voyage…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a64c050-c213-4535-867a-b5e66f811ce1.jpg",
     "seances": [
-      {
-        "heure": "26/08 13:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/08 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 14:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "29/08 11:45",
         "cinema": "Galeries"
@@ -3049,14 +2827,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbaa38d9-806f-4921-b2bf-7c482b925137.jpg",
     "seances": [
       {
-        "heure": "26/08 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 16:10",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "29/08 11:00",
         "cinema": "Aventure"
       },
@@ -3177,41 +2947,9 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-320681/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 160
+      "note_moyenne_spectateurs": 3.1,
+      "nb_notes_spectateurs": 174
     }
-  },
-  {
-    "titre": "La Seine a rencontré Paris + A Valparaiso",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [
-      "Joris Ivens"
-    ],
-    "synopsis": "Deux poèmes urbains du réalisateur de documentaires Joris Ivens. Dans La Seine a rencontré Paris (Palme d’or du meilleur court-métrage en 1958), le fleuve dessine un portrait de la vie quotidienne des Parisiens, sur un poème de Jacques Prévert. Dans À Valparaíso, Ivens met en images la ville portuaire chilienne, avec son architecture escarpée et le contraste saisissant entre les conditions de vie de ses habitants.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "28/08 18:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "La révolution ne sera pas télévisée (ATTAC)",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "27/08 19:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Le Scaphandre et le Papillon",
@@ -3363,7 +3101,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-119032/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 6223
+      "nb_notes_spectateurs": 6225
     }
   },
   {
@@ -3374,46 +3112,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "26/08 17:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 18:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 19:20",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "26/08 20:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 17:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 18:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 20:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 17:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 20:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/08 15:00",
         "cinema": "Palace"
@@ -3672,7 +3370,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000044063/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 1137
+      "nb_notes_spectateurs": 1138
     }
   },
   {
@@ -3683,34 +3381,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "26/08 12:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/08 20:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/08 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 12:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 17:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/08 10:30",
         "cinema": "Aventure"
@@ -3880,49 +3550,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4479/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 578
+      "nb_notes_spectateurs": 579
     }
-  },
-  {
-    "titre": "Les Demoiselles de Rochefort",
-    "annee": 1967,
-    "duree_minutes": 120,
-    "realisateurs": [
-      "Jacques Demy"
-    ],
-    "synopsis": "Tandis que des forains arrivent à Rochefort (Charente-Maritime), où se prépare une foire, les destinées de plusieurs personnages à la recherche du grand amour, perdu ou pas encore rencontré, se croisent dans la ville.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6f098614-8404-481b-8045-2466940d1101.jpeg",
-    "seances": [
-      {
-        "heure": "28/08 16:30",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "479",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-479/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-479/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 8247
-    }
-  },
-  {
-    "titre": "Les Shorts d'été (Shortscreens) : Films d'écoles de cinéma belges",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "27/08 19:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Los domingos",
@@ -3934,22 +3563,6 @@
     "synopsis": "À la surprise de son entourage, Ainara, 17 ans, décide de rentrer dans les ordres en intégrant un couvent. Autour de ce personnage traversé par la foi, la réalisatrice de la série acclamée Querer signe un mélodrame puissant et inconfortable sur la famille, la religion et l’adolescence. \n",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46a9d42c-1430-4a68-bf75-bb4162f22308.jpg",
     "seances": [
-      {
-        "heure": "26/08 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/08 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 16:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/08 14:15",
         "cinema": "Vendôme"
@@ -4146,7 +3759,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000020167/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 921
+      "nb_notes_spectateurs": 923
     }
   },
   {
@@ -4250,32 +3863,6 @@
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Michael Kael contre la World News Company",
-    "annee": 1998,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Christophe Smith"
-    ],
-    "synopsis": "Le géant international de l’information WNC cherche à faire réélire le président américain pour un troisième mandat en inventant de toutes pièces une histoire de « gourou fou », un Japonais fictif qui projette de larguer des armes nucléaires sur la moitié de la planète en quelques jours. Ce gourou imaginaire doit faire son annonce dans la ville africaine de Katango, et WNC envoie sur place son correspondant parisien, le naïf Michael Kael, pour couvrir l’événement. Une excellent comédie sur le complot politique manipulant les médias.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c2670d1b-1647-4b41-b218-ddd452b8f246.jpg",
-    "seances": [
-      {
-        "heure": "28/08 20:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "759",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-759/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-759/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 1.9,
-      "nb_notes_spectateurs": 157
-    }
   },
   {
     "titre": "Millennium Mambo",
@@ -4540,7 +4127,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-14790/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 28105
+      "nb_notes_spectateurs": 28110
     }
   },
   {
@@ -4746,7 +4333,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-147912/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 40868
+      "nb_notes_spectateurs": 40874
     }
   },
   {
@@ -4911,7 +4498,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-313953/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 732
+      "nb_notes_spectateurs": 733
     }
   },
   {
@@ -4924,18 +4511,6 @@
     "synopsis": "Après avoir brisé le mystérieux « One Wish Willow » pour gagner le cœur de la personne de ses rêves, un incurable romantique voit son vœu exaucé mais réalise très vite que le prix de certains souhaits peut s'avérer sombre et sinistre.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3917c18f-b602-4eee-bc47-345f0230340d.jpg",
     "seances": [
-      {
-        "heure": "27/08 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/08 21:30",
         "cinema": "Aventure"
@@ -5106,7 +4681,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000028234/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 6034
+      "nb_notes_spectateurs": 6077
     }
   },
   {
@@ -5119,14 +4694,6 @@
     "synopsis": "Au lendemain de la crise économique de 2008, un père tente désespérément de protéger ses enfants d'une société qui lui a pratiquement tout pris. Un matin, il réveille ses enfants, Ella et Charlie. Sans explication, il les embarque pour un long voyage sur les routes du Midwest. Les enfants vivent ce voyage comme une grande aventure et découvrent un monde qu'ils n'ont jamais vu auparavant. Jusqu'à ce qu'Ella commence à entrevoir la vérité derrière ce voyage improvisé…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fcf75256-2dda-4b9c-9ba6-2b06065410b9.jpg",
     "seances": [
-      {
-        "heure": "27/08 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 18:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/08 11:15",
         "cinema": "Palace"
@@ -5263,7 +4830,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017192/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 538
+      "nb_notes_spectateurs": 549
     }
   },
   {
@@ -5296,46 +4863,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2463/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 8462
-    }
-  },
-  {
-    "titre": "Pee-Wee's Big Adventure",
-    "annee": 1985,
-    "duree_minutes": 88,
-    "realisateurs": [
-      "Tim Burton"
-    ],
-    "synopsis": "Lorsque l’excentrique et éternel enfant Pee-wee Herman découvre que son vélo adoré, parfaitement équipé, a été volé, son monde s’écroule. Déterminé à récupérer sa bicyclette, il se lance dans une aventure complètement délirante à travers l’Amérique et sa galerie de personnages hauts en couleur.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/40dd1302-7354-42d0-b5eb-6e2ecf9f12a5.jpg",
-    "seances": [
-      {
-        "heure": "26/08 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "2576",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2576/critiques/presse/",
-      "note_moyenne_presse": 4.0,
-      "nb_critiques_presse": 2,
-      "critiques_presse": [
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Jean-Marc Lalanne",
-          "citation": "(...) Tout Burton est là, mais sans les milles effets numériques de Charlie et la chocolaterie, dans une version encore artisanale, qui sied mieux à sa poétique de cinéphile amoureux de Corman et Cocteau."
-        },
-        {
-          "titre_presse": "Mad Movies",
-          "note": 4.0,
-          "auteur": "Gilles Esposito",
-          "citation": "Ce premier long métrage impose ainsi le mélange inédit de distanciation et de féerie qui caractérise Burton."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2576/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.3,
-      "nb_notes_spectateurs": 4142
+      "nb_notes_spectateurs": 8468
     }
   },
   {
@@ -5348,10 +4876,6 @@
     "synopsis": "Frappée de mutisme et envoyée se rétablir sur le bord de mer, l’actrice de théâtre Elisabeth Vogler est confiée aux soins de la jeune infirmière Alma. Une des œuvres essentielles de Bergman, entre drame psychologique, terreur métaphysique et avant-garde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b1e5ea6-f7ce-49db-b3b1-b61c578bb6f7.jpeg",
     "seances": [
-      {
-        "heure": "27/08 18:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/08 18:30",
         "cinema": "Palace"
@@ -5404,7 +4928,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4397/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 1665
+      "nb_notes_spectateurs": 1667
     }
   },
   {
@@ -5417,54 +4941,6 @@
     "synopsis": "Une fiction imaginée à partir d’une conversation enregistrée en 1974 entre le photographe Peter Hujar et l’écrivaine Linda Rosenkrantz, entièrement reconstituée dans un appartement de Manhattan. Le film suit une journée dans la vie de cet artiste singulier, entre rencontres avec les figures queer majeures de la scène new-yorkaise de l'époque et les défis personnels, artistiques et financiers qui l’ont marqué.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19719daa-a7b1-45cc-bd63-e81a19574de4.jpg",
     "seances": [
-      {
-        "heure": "26/08 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 17:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 18:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 18:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 17:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 21:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 17:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 18:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/08 13:45",
         "cinema": "Palace"
@@ -5542,78 +5018,89 @@
     }
   },
   {
-    "titre": "Playtime",
-    "annee": 1967,
-    "duree_minutes": 124,
-    "realisateurs": [
-      "Jacques Tati"
-    ],
-    "synopsis": "Le funambulesque M. Hulot évolue dans l'univers mécanisé de la société « gadgétivore » de consommation. Un film quasi abstrait, jouant sur les sons, les géométries spatiales et les couleurs.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0acedff0-3102-49cf-a86e-053705d7179d.jpg",
+    "titre": "Prénoms",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "26/08 17:00",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1363",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1363/critiques/presse/",
-      "note_moyenne_presse": 4.8,
-      "nb_critiques_presse": 5,
-      "critiques_presse": [
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Marie-Noëlle Tranchant",
-          "citation": "Le dernier-chef d'oeuvre de Jacques Tati, en 1967, est une vision prémonitoire du \"village planétaire\" qu'on connaît aujourd'hui. Le burlesque précis mais incroyablement allusif, jamais insistant même dans la répétition, s'allie avec une poésie rêveuse qui donne au film quelque chose de flou, de nuageux, d'un peu languissant parfois. Un charme étrange, unique, à redécouvrir."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "Playtime est (...) un pur chef-d'oeuvre, qui concilie les vertus du génie créateur et du divertissement populaire, de l'intelligence critique et de la fantaisie inspirée, de l'observation réaliste et de la dérive burlesque."
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 5.0,
-          "auteur": null,
-          "citation": "Une copie restaurée et rallongée de dix minutes pour cette oeuvre corrosive et ultravisionnaire. Bref, un régal pour les connaisseurs et ceux qui découvriront le film."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "François Gorin",
-          "citation": "C'est un film-monde, un film-fleuve, aussi intranquille qu'impassible, et qui irrigue encore ajourd'hui (...). C'est un film encore plus beau qu'il fut ambitieux. C'est le plus beau film du monde."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Pierre Vavasseur",
-          "citation": "(...) le cinéaste avait fait en sorte que chacun des plans soit foisonnant de gags. \"Playtime\" rappelle la célèbre publicité des Galeries Lafayette : il s'y passe toujours quelque chose."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1363/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 4050
-    }
-  },
-  {
-    "titre": "Pompon Ours, petites balades et grandes aventures",
-    "annee": 2022,
-    "duree_minutes": 36,
-    "realisateurs": [
-      "Matthieu Gaillard"
-    ],
-    "synopsis": "Adapté des ouvrages de littérature jeunesse de Benjamin Chaud, Pompon Ours arrive au cinéma avec ses amis de la forêt. Il nous embarque dans ses aventures aussi drôles que tendres, dans lesquelles l’amitié et la famille ont une place importante \n\nPompon Ours, petit ourson curieux, ingénieux et attachant, vit dans la forêt avec sa maman ours et son papa ours. Chaque matin, accompagné de ses amis, il part à l’aventure : que ce soit à la recherche d’inspiration pour écrire un poème à son papa, en quête d’un trésor avec sa maman ou d’un petit frère à adopter pour se sentir moins seul. Ingénieux et attentionné, Pompon regorge d’idées, comme celle de créer une constellation du raton pour sa meilleure amie qui, contrairement aux ours, n’en a pas. Courageux, Pompon partira même affronter le zarbidule, esprit de la forêt qui peuple les contes de ses petits habitants. \n\nCes cinq histoires sont vécues par Pompon et ses amis avec toute la candeur et la tendresse de l’enfance. Dans l’univers de Pompon, sa famille et ses amis occupent une place centrale, et l’amour, la solidarité et l’empathie sont les valeurs qui le guident. On plonge dans un univers doux, non dénué d’humour. \n\nNotons également le graphisme de l’auteur-illustrateur Benjamin Chaud, si dans cette version animée le trait est simplifié, on y retrouve néanmoins les silhouettes rigolotes des personnages et l’esprit malicieux des livres. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/452ed7ef-9743-47fa-97b8-bbcdb66e2b91.jpeg",
-    "seances": [
-      {
-        "heure": "26/08 15:50",
+        "heure": "04/09 18:40",
         "cinema": "Aventure"
       }
     ],
-    "allocine": null
+    "allocine": {
+      "allocine_id": "1000039805",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000039805/critiques/presse/",
+      "note_moyenne_presse": 3.5,
+      "nb_critiques_presse": 10,
+      "critiques_presse": [
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 4.0,
+          "auteur": "Fernando Ganzo",
+          "citation": "L’œuvre d’Aviv explore avec une joie très accessible la façon dont la langue nous introduit à un quotidien (les domiciles des gens filmés) et à une histoire (toujours personnelle mais qui remonte en même temps aux origines de l’humanité)."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 4.0,
+          "auteur": "Gilles Tourman",
+          "citation": "La simplicité formelle accouche d’un documentaire lumineux sur le fond entremêlant histoires intimes et de l’Humanité."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 4.0,
+          "auteur": "Jean-Baptiste Morain",
+          "citation": "Aviv s’en tient à un principe simple, mais la rigueur de ce dispositif permet d’atteindre à la substantifique moelle. [...] Bref, nous disions un bijou, un bijou… non, un diamant finement taillé !"
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 4.0,
+          "auteur": "Eithne O’Neill",
+          "citation": "Un battement, soupir ou sourire, une note intense ; un clin d’œil et un rappel à la grande beauté du monde."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 4.0,
+          "auteur": "Laurent Cambon",
+          "citation": "Un merveilleux voyage dans la féérie des prénoms dont seule Yurith Aviv est capable entre goût profond de l’autre et ouverture sur toutes les cultures du monde."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 3.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Au travers de ces récits, c’est toute la complexité d’une histoire du monde qui se dessine, de la Pologne à la France, du Moyen Orient au Maghreb, de la Turquie à la Chine. Mais c’est aussi un métissage, culturel et religieux, qui se fait jour, ainsi que de rares choix personnels [...] Derrière une mécanique un peu sèche, \"Prénoms\" se fait doucement émotion."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Cl. F.",
+          "citation": "Le dispositif est toujours le même : la cinéaste arrive avec des fleurs, la personne lui ouvre la porte, et la conversation démarre, d’une durée de quelques minutes, la caméra s’échappant à intervalle fixe sur les pétales de roses ou de pivoines. Il en résulte un joli bouquet de récits, certains croisant la grande histoire."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 3.0,
+          "auteur": "Laura Tuillier",
+          "citation": "Dans un documentaire intime, treize proches de la cinéaste franco-israélienne racontent une histoire liée à leur patronyme, parfois douloureuse, parfois romanesque."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 3.0,
+          "auteur": "Thomas Baurez",
+          "citation": "Une caméra subjective dévoile un bouquet de fleurs en amorce. Sonnerie. Une porte s’ouvre. Sourire. \"Bienvenue\". La séquence est simple, joyeuse. Elle se répétera tout au long du film."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Cécile Mury",
+          "citation": "Un film en forme d’abécédaire visuel, bâti sur un dispositif tout simple : chaque témoin raconte son prénom, donc son histoire et ses racines, face caméra. Touchant."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039805/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
+    }
   },
   {
     "titre": "Res Nullius",
@@ -5625,26 +5112,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "26/08 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/08 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 20:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 12:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 16:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/08 20:10",
         "cinema": "Aventure"
@@ -5667,21 +5134,6 @@
       },
       {
         "heure": "01/09 18:40",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Short screens : Danses en Courts",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "28/08 19:00",
         "cinema": "Aventure"
       }
     ],
@@ -5712,14 +5164,6 @@
     "synopsis": "Un ginkgo centenaire situé à l'université Philipps de Marbourg, en Allemagne, qui a été le témoin silencieux de trois époques différentes : 1908, 1972 et 2020.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/753bdb39-f35d-4080-bd50-34084c7decc2.jpg",
     "seances": [
-      {
-        "heure": "27/08 20:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/08 20:45",
         "cinema": "Palace"
@@ -5874,7 +5318,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-315015/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 379
+      "nb_notes_spectateurs": 380
     }
   },
   {
@@ -5887,10 +5331,6 @@
     "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/33e102a0-27d7-4d93-8a66-6b02498afcd3.jpg",
     "seances": [
-      {
-        "heure": "28/08 15:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "30/08 15:30",
         "cinema": "Le Stockel"
@@ -6055,7 +5495,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 6904
+      "nb_notes_spectateurs": 7132
     }
   },
   {
@@ -6068,18 +5508,6 @@
     "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7d1fec45-834a-4c58-8fa6-664604deab87.jpg",
     "seances": [
-      {
-        "heure": "26/08 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 20:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/08 18:40",
         "cinema": "Aventure"
@@ -6264,7 +5692,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 6904
+      "nb_notes_spectateurs": 7132
     }
   },
   {
@@ -6277,10 +5705,6 @@
     "synopsis": "Dernière réalisation de Gainsbourg, ce film de 67 minutes est une provocation centrée sur un professeur d’anglais (au terrible accent) donnant des cours particuliers à ses étudiantes. À sa sortie, les Cahiers du Cinéma y voyaient une « curiosité » qui, sous des dehors de « saleté et de provocation », dissimule un personnage « agaçant mais attachant, rusé et naïf, esclave et souverain ».",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d540738b-02bf-4ecb-9466-779dfa160579.jpg",
     "seances": [
-      {
-        "heure": "26/08 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "31/08 20:00",
         "cinema": "Cinematek"
@@ -6307,46 +5731,6 @@
     "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
-      {
-        "heure": "26/08 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 20:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 17:55",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "28/08 18:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/08 10:45",
         "cinema": "Palace"
@@ -6412,6 +5796,21 @@
     }
   },
   {
+    "titre": "Tapei Story",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "29/08 14:00",
+        "cinema": "Galeries"
+      }
+    ],
+    "allocine": null
+  },
+  {
     "titre": "Teenage Sex and Death at Camp Miasma",
     "annee": 2026,
     "duree_minutes": 0,
@@ -6421,126 +5820,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "26/08 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/08 15:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/08 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 18:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/08 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 14:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/08 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 21:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "27/08 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 21:35",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/08 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 15:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/08 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 18:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/08 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 20:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 21:20",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "28/08 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/08 14:20",
         "cinema": "Aventure"
@@ -6694,32 +5973,6 @@
     }
   },
   {
-    "titre": "Tepepa",
-    "annee": 1969,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "Giulio Petrino"
-    ],
-    "synopsis": "Un révolutionnaire mexicain, condamné à mort, est sauvé in extremis lors de son exécution par un docteur anglais… qui veut le tuer de ses propres mains ! Un classique du western zapata dans la lignée d’El Chuncho et des westerns de Sergio Sollima.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/901b380b-2140-4090-964d-764881f8b0a4.jpg",
-    "seances": [
-      {
-        "heure": "28/08 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "130721",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-130721/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-130721/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.5,
-      "nb_notes_spectateurs": 17
-    }
-  },
-  {
     "titre": "The Birthday Party",
     "annee": 0,
     "duree_minutes": 0,
@@ -6753,38 +6006,6 @@
     "synopsis": "Les enfants d'un artiste autrefois célèbre engagent un faussaire pour achever certaines toiles inachevées et abandonnées depuis longtemps, afin de pouvoir toucher un héritage à sa mort.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
-      {
-        "heure": "26/08 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 14:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/08 20:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/08 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 19:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/08 16:45",
         "cinema": "Vendôme"
@@ -7055,7 +6276,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000016836/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 653
+      "nb_notes_spectateurs": 655
     }
   },
   {
@@ -7068,10 +6289,6 @@
     "synopsis": "Un regard lucide et sans concessions sur le quotidien dans le ghetto de Harlem, un bidonville marqué par la drogue, la violence, la misère humaine et un sentiment de désespoir dû aux préjugés raciaux de la société états-unienne. Par l’une des plus grandes documentaristes du cinéma américain, dont les films se réclament autant de l’avant-garde expérimentale que du documentaire traditionnel, une Harlem-Story antiraciste, pour un documentaire-fiction soutenu par le Hard Bop d’Art Taylor, et la trompette endiablée de Dizzy Gillespie.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28decdc1-bd5c-4df0-a1fc-a197291538b7.jpg",
     "seances": [
-      {
-        "heure": "26/08 20:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "30/08 18:00",
         "cinema": "Cinematek"
@@ -7098,26 +6315,6 @@
     "synopsis": "Un Robin des Bois marqué par ses nombreuses luttes est blessé mortellement après ce qui aurait dû être sa dernière bataille.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/51a1c0dc-f867-4378-9979-88da2e28a449.jpg",
     "seances": [
-      {
-        "heure": "26/08 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/08 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 16:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 16:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/08 16:50",
         "cinema": "Aventure"
@@ -7346,7 +6543,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000002580/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.3,
-      "nb_notes_spectateurs": 772
+      "nb_notes_spectateurs": 780
     }
   },
   {
@@ -7359,26 +6556,6 @@
     "synopsis": "Les survivants d'une pandémie meurtrière traversent un paysage post-apocalyptique pour découvrir l'origine d'une mystérieuse transmission radio.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8fa813c3-619f-4203-9d2e-014793313668.jpg",
     "seances": [
-      {
-        "heure": "26/08 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/08 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "27/08 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 21:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 16:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/08 10:30",
         "cinema": "Aventure"
@@ -7427,12 +6604,181 @@
     "allocine": {
       "allocine_id": "1000014969",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000014969/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
+      "note_moyenne_presse": 2.7,
+      "nb_critiques_presse": 28,
+      "critiques_presse": [
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "L’espoir d’une vie meilleure est l’un des moteurs du cinéma en général et du cinéma américain en particulier. C’est surtout de cela que parle The Dog Stars qui cherche à redonner foi en l’humanité."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 4.0,
+          "auteur": "Christophe Brangé",
+          "citation": "Grâce aux prestations magnétiques de ses comédiens, à un matériau originel magnifié et à un discours empoignant, la trentième réalisation de Sir Ridley Scott s’impose indéniablement comme l’un des temps forts de cette rentrée des classes."
+        },
+        {
+          "titre_presse": "CinemaTeaser",
+          "note": 4.0,
+          "auteur": "Aurélien Allin",
+          "citation": "Une dramaturgie sensible et délicate, comme une bouffée d’air dans la misanthropie voire le nihilisme du cinéma de Ridley Scott, et qui injecte un élément absent du roman de Heller, publié en 2012 : des échos évidents avec l’époque post-pandémie que, bien malgré nous, nous traversons tous ensemble."
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Un western post-apocalyptique survolé par le rêve d’un autre monde, où l’entraide serait un facteur d'évolution, comme dans la théorie de Pierre Kropotkine."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Ridley Scott, 88 ans, est l’auteur d’un cinéma très conscient de l’époque."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 4.0,
+          "auteur": "Etienne Sorin",
+          "citation": "The Dog Stars est plus séduisant dans ses temps faibles, son Americana mélancolique, digne d’une chanson folk. Le monde d’après n’a pas tué la romance."
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 4.0,
+          "auteur": "Stéphanie Belpêche",
+          "citation": "(...) un western singulier, antispectaculaire et contemplatif, à la photographie crépusculaire, qui s'avère, contre toute attente, poignant et chargé d'espoir (...)."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 4.0,
+          "auteur": "Philippe Guedj",
+          "citation": "Souvent contemplative, parfois terrifiante, cette libre adaptation du best-seller de Peter Heller nous prouve que Ridley Scott n’a rien perdu de sa maestria visuelle."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 3.0,
+          "auteur": "Fernando Ganzo Cuesta",
+          "citation": "Mais si The Dog Stars arrive à être plus touchant que la plupart des films de cette envergure, c’est parce qu’il prend le parti de la jeunesse moins dans son discours (somme toute assez convenu et vaguement rassembleur) que dans ses ludiques principes formels. [...] le Britannique s’éloigne de son pompiérisme habituel pour retrouver l’étrange équilibre entre spectacle et simplicité qui caractérise ses meilleurs films (Black Hawk Dawn)."
+        },
+        {
+          "titre_presse": "La Voix du Nord",
+          "note": 3.0,
+          "auteur": "Christophe Caron",
+          "citation": "Le réalisateur britannique se montre plus apaisé et écolo dans cette fable à grand spectacle où un pilote idéaliste s’efforce de trouver l’espoir dans un monde qui s’est effondré."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Bo. B.",
+          "citation": "The Dog Stars comporte ainsi toute une série de séquences tendues, mises en scène avec une froideur méthodique, où Hig et Bangley ont recours à la violence pour faire face à des groupes d’individus plus ou moins nombreux et plus ou moins bien intentionnés. Ridley Scott dresse un portrait de l’humanité dans tout ce qu’elle a à la fois de plus beau et de plus obscur."
+        },
+        {
+          "titre_presse": "Les Echos",
+          "note": 3.0,
+          "auteur": "Adrien Gombeaud",
+          "citation": "L'auteur de « Gladiator », revient à la science-fiction avec un film étrange et inclassable qui navigue entre scènes d'action furtives, grands espaces américains et poésie aérienne."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 3.0,
+          "auteur": "Michael Ghennam",
+          "citation": "Ridley Scott s’aventure dans le récit post-apocalyptique, avec une bonne dose d’introspection. Au point que l’action paraisse superflue."
+        },
+        {
+          "titre_presse": "Nice-Matin",
+          "note": 3.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Malgré quelques morceaux de bravoure et une réalisation tenue, la deuxième heure pêche dans son scénario et son montage, avec des passages survolés, dont l’arrivée à Grand Junction, destination synonyme d’espoir pour les protagonistes, parmi lesquels on retrouve Margaret Qualley, un peu trop réduite au rang de faire-valoir."
+        },
+        {
+          "titre_presse": "Ouest France",
+          "note": 3.0,
+          "auteur": "Philippe Lemoine",
+          "citation": "Un casting performant."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Frédéric Strauss",
+          "citation": "POUR : On serait presque tenté de voir dans ce divertissement l’ébauche d’un bilan personnel, une méditation sur la vie, le temps qui passe et la fin (du monde) qui se dessine. En toute quiétude."
+        },
+        {
+          "titre_presse": "Critikat.com",
+          "note": 2.0,
+          "auteur": "Josué Morel",
+          "citation": "Au lieu d'investir les enjeux contemporains qui sous-tendent sa fable postapocalyptique, The Dog Stars prend progressivement la forme d'un néowestern qui accuse la vétusté de son logiciel."
+        },
+        {
+          "titre_presse": "Franceinfo Culture",
+          "note": 2.0,
+          "auteur": "Laurence Houot",
+          "citation": "Servi par un casting de luxe, avec une mise en scène fluide et immersive grâce à un tournage à caméras multiples, ce nouveau film du réalisateur de \"Thelma et Louise\" ne suscite pourtant pas de grandes émotions."
+        },
+        {
+          "titre_presse": "La Croix",
+          "note": 2.0,
+          "auteur": "Stéphane Dreyfus",
+          "citation": "D’abord séduisant par son portrait d’un tandem de survivants, Hig (Jacob Elordi) et Bangley (Josh Brolin), le récit se perd dans la violence qu’il dénonce pourtant via l’un de ses personnages."
+        },
+        {
+          "titre_presse": "Le Journal du Geek",
+          "note": 2.0,
+          "auteur": "Allan Blanvillain",
+          "citation": "The Dog Stars ne peut pas compter sur son atmosphère, son casting ou son décor pour se sauver d'un récit qui ne raconte rien d'original. Pire, même Ridley Scott n'est pas au rendez-vous, habillant l'ensemble d'une mise en scène trop appuyée, faisant disparaitre le peu de subtilité qu'il restait."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 2.0,
+          "auteur": "Baptiste Martin",
+          "citation": "Campé par Jacob Elordi, Margaret Qualley, Josh Brolin et Guy Pearce dans les rôles principaux, le film adapté du best-seller « La constellation du chien » de Peter Heller paru en 2012, peine malheureusement à s'extraire des lieux communs d'un film postapocalyptique, comme la cruauté des survivants, les luttes sanglantes et l'espoir d'une vie meilleure, sans pour autant proposer de point de vue nouveau, frôlant le manque de crédibilité sur la fin du film. Dommage..."
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 2.0,
+          "auteur": "Marthe Statius",
+          "citation": "Le scénario fait fi de toute vraisemblance… Le cinéaste achève son drôle de film par une rêverie bucolique sur fond de bluegrass dans un mouvement sentimental – voire un peu nouille –, dont il n’est pourtant pas coutumier."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 2.0,
+          "auteur": "Gaël Golhen",
+          "citation": "Un pilote, son chien et un monde vidé par une pandémie. Scott revient à la SF en mode intime plutôt que spectaculaire. Sublime par moments, mais globalement un peu court jeune homme."
+        },
+        {
+          "titre_presse": "L'Humanité",
+          "note": 1.0,
+          "auteur": "Michaël Mélinard",
+          "citation": "Un gros raté du grand cinéaste britannique."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 1.0,
+          "auteur": "Théo Ribeton",
+          "citation": "La dépendance du cinéaste à des formes datées, et notamment à des postures archétypales de l’héroïsme, était déjà frappante dans \"Gladiator II\" : elle l’est plus que jamais dans ce récit par nature travaillé par la question du passé et du monde perdu, où une nostalgie peut aisément en cacher une autre."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 1.0,
+          "auteur": "Lelo Jimmy Batista",
+          "citation": "(...) tout s’enchaîne avec une telle neutralité de ton, un tel désintérêt, qu’on en vient à douter de la présence de qui que ce soit derrière la caméra ou même au scénario, qui dévitalise progressivement tout le roman de Heller."
+        },
+        {
+          "titre_presse": "Paris Match",
+          "note": 1.0,
+          "auteur": "Fabrice Leclerc",
+          "citation": "[Un] film qui passe à côté de son sujet (la renaissance après l’apocalypse), qui tente de ratisser large (de la pandémie mondiale à l’écologie) sans vraiment savoir ce qu’il veut dire, saupoudrant sa narration de propos fumeux et de scènes d’action qui s’enfilent comme des perles."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 1.0,
+          "auteur": "Marie Sauvion",
+          "citation": "CONTRE : Un vain écot au genre post-apocalyptique."
+        }
+      ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000014969/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 6
+      "note_moyenne_spectateurs": 3.1,
+      "nb_notes_spectateurs": 334
     }
   },
   {
@@ -7445,50 +6791,6 @@
     "synopsis": "Huit ans qu’on était sans nouvelles du réalisateur des films cultes It Follows et Under the Silver Lake ! Pour son retour derrière la caméra, David Robert Mitchell nous offre un survival effréné dans lequel une famille américaine arrachée à sa banlieue doit survivre à une invasion de… dinosaures ! Un pur film pop-corn qui s’annonce comme le spectacle le plus jouissif de cette fin d’été !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4c38dfc9-c92a-45d0-942f-d659767a8506.jpg",
     "seances": [
-      {
-        "heure": "26/08 13:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/08 16:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/08 21:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 12:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/08 13:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 18:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "27/08 19:10",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "27/08 21:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 12:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/08 13:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/08 21:40",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/08 13:00",
         "cinema": "Palace"
@@ -7677,178 +6979,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314503/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 1882
-    }
-  },
-  {
-    "titre": "The Insider",
-    "annee": 1999,
-    "duree_minutes": 157,
-    "realisateurs": [
-      "Michael Mann"
-    ],
-    "synopsis": "Producteur de l’émission 60 minutes, Lowell Bergman reçoit un dossier anonyme décrivant les méfaits du tabac. Il contacte à cet effet un scientifique qui travaille pour un fabricant de cigarettes — l’histoire vraie d’un scandale retentissant réalisé comme un polar à suspense par l’auteur de Heat.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/796e3486-007f-4591-b084-e177e6919124.jpg",
-    "seances": [
-      {
-        "heure": "26/08 21:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "22767",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-22767/critiques/presse/",
-      "note_moyenne_presse": 4.0,
-      "nb_critiques_presse": 24,
-      "critiques_presse": [
-        {
-          "titre_presse": "Le Figaro",
-          "note": 5.0,
-          "auteur": "Claude Baignères",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Alain Grasset",
-          "citation": "Du grand, du très grand cinéma, avec cette nouvelle réalisation de Michael Mann (...) qui prouve que le film d'enquête américain n'a rien perdu de sa vitalité et surtout de formidable efficacité."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Frédéric Bonnaud",
-          "citation": "Révélations est plein de ces moments d'arrêt et de grâce où le cinéaste s'affranchit de son dossier soudain encombrant pour capturer un peu de la douce indifférence du monde (...). Révélations est un film qui se mérite à mesure qu'il se savoure."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Jean-Marc Loiseau",
-          "citation": "D'une affaire récente, véridique, aux prolongements retentissants, (Michael Mann) a tiré un film-fleuve tendu, dense, échappant avec une certaine élégance aux clichés ressassés du cinéma de genre."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 4.0,
-          "auteur": "Aurélien Allin",
-          "citation": "Steven Soderbergh, en très grande forme (au propre comme au figuré) réinvestit le thriller d’espionnage avec appétit."
-        },
-        {
-          "titre_presse": "Cinopsis.com",
-          "note": 4.0,
-          "auteur": "Olivier Loncin",
-          "citation": "En évitant tout triomphalisme benêt, tout discours grandiloquent, Michael Mann montre la difficulté d'être un individu responsable, sans fard, et avec toutes les conséquences complexes que cela peut engendrer (...)"
-        },
-        {
-          "titre_presse": "Cinopsis.com",
-          "note": 4.0,
-          "auteur": "Olivier Loncin",
-          "citation": "Oser montrer que la vie, à certains moments, n'est pas simple à vivre et qu'il est des choix absolument douloureux, sans sombrer dans le pathos tonitruant ou la guimauve gluante, voilà ce qu'a réussit Michael Mann (...)"
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 4.0,
-          "auteur": "Philippe Paumier",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Il y a du John le Carré au carré dans ce film de bout en bout maîtrisé."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 4.0,
-          "auteur": "Jean-Pierre Dufreigne",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Vincent Ostria",
-          "citation": "Ce film à thèse ne serait qu'une pièce accablante de plus à verser au dossier du capitalisme sauvage s'il n'était en prime sous-tendu par une mise en scène complexe et raffinée qui (...) nous propulse au cour de l'action."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "François Forestier",
-          "citation": "Basé sur une histoire vraie, le film dure plus de trois heures, mais on apprécie chaque minute, croyez-moi. Pas de thèse, pas de sermon, pas de leçon : c'est du cinéma pointu, fort, jouissif."
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 4.0,
-          "auteur": "Marie-Noëlle Tranchant",
-          "citation": "Rien de nouveau, mais un récit très bien mené, des péripéties haletantes, un montage efficace, et un fameux tandem de comédiens, Russell Crowe et Al Pacino. Comme quoi, le malheur des uns faits le divertissement des autres..."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Samuel Blumenfeld",
-          "citation": "Michael Mann a beau pécher par instants par une stylisation emphatique (...), son film se distingue par un réalisme et une volonté de coller aux faits qui l'honorent."
-        },
-        {
-          "titre_presse": "Lenouveaucinema.com",
-          "note": 4.0,
-          "auteur": "Olivier Bonnard",
-          "citation": "(...) un film d'une rare puissance."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "Annie Coppermann",
-          "citation": "Un peu démonstratif, sans doute, d'autant que l'interprète du journaliste, Al Pacino, en fait beaucoup, un peu long, aussi (...), le film est tout de même assez exemplaire. Il révèle, en prime, un comédien remarquable, Russell Crowe."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Hubert Niogret",
-          "citation": "(...) Révélations redonne au cinéma américain sa fonction de porte-parole du simple citoyen (...). Une oeuvre militante certes, mais dont la réalisation n'est pas moins d'une belle ampleur romanesque."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Jean-Jacques Bernard",
-          "citation": "On peut n'y voir qu'un savoir-faire. On peut surtout y voir une manière moderne de servir un héroïsme ancien : le combat de la vérité contre tous les profits."
-        },
-        {
-          "titre_presse": "Repérages",
-          "note": 4.0,
-          "auteur": "Antonin Koskas",
-          "citation": "Parce que la combustion n'est pas franche, le film s'essouffle un peu à raviver périodiquement sa flamme. Mais le tandem Crowe/Pacino mérite qu'on ne la garde pas sur l'oreille. A vrai dire, on en reprendrait même un bouffée."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 4.0,
-          "auteur": "Christophe D'Yvoire",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Clélia Cohen",
-          "citation": "(...) The Insider souffre de quelques boursouflures, d'une stylisation hi-tech un peu vaine et parfois prétentieuse. (...) Il n'en reste pas moins que Mann possède un don certain pour la scène (...)"
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 3.0,
-          "auteur": "Stéphane Aicardi",
-          "citation": "Dans l'ensemble, Révélations fonctionne sur le principe des montagnes russes, avec des hauts et des bas, sans jamais atteindre les extrêmes."
-        },
-        {
-          "titre_presse": "Cplanet.com",
-          "note": 3.0,
-          "auteur": "Marc Bianco",
-          "citation": "On ne ressort pas profondément révolté de ce long-métrage bien ficelé mais clinique. Alors que le film dénonce le phénomène de \"dramatisation\" dans les émissions d'information, Révélations pêche justement par un manque d'émotion. Dommage."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Didier Péron",
-          "citation": "Le rapport de Révélations à la matière documentaire dont il s'inspire demeure constamment problématique, et les solutions d'extrême stylisation (...) contribuent à l'effet précisément assez fumigène du résultat."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-22767/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 3870
+      "nb_notes_spectateurs": 2013
     }
   },
   {
@@ -7861,62 +6992,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "26/08 12:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/08 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 19:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/08 20:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/08 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/08 16:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "27/08 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 19:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 20:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/08 12:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/08 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 19:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/08 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "28/08 20:20",
-        "cinema": "Galeries"
-      },
       {
         "heure": "29/08 16:15",
         "cinema": "Vendôme"
@@ -8197,7 +7272,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 11574
+      "nb_notes_spectateurs": 11874
     }
   },
   {
@@ -8210,10 +7285,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.\n\n*Un supplément de 4,50 € vous sera demandé pour assister à une séance en 35 mm à Studio Skoop et Lumière Antwerpen.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ce8b21ff-9d81-4e78-867b-f03e771a025b.jpg",
     "seances": [
-      {
-        "heure": "28/08 20:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 13:45",
         "cinema": "Palace"
@@ -8237,14 +7308,6 @@
     "synopsis": "Dans \"Toy Story 5\", le nouveau film des studios d’animation Pixar, nos jouets préférés entrent dans l’ère de la technologie avec l'introduction du nouveau personnage qui s'appelle Lilypad, une tablette connectée en forme de grenouille. Dotée des dernières technologies de pointe et prête à tout pour mettre fin au règne des jouets traditionnels, elle va rapidement s’affirmer comme une redoutable rivale et donner bien du fil à retordre à Buzz, Woody, Jessie et toute la bande…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0b11325-f8a9-4c21-805c-73e8293dc1d3.jpg",
     "seances": [
-      {
-        "heure": "26/08 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/08 14:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "29/08 14:00",
         "cinema": "Vendôme"
@@ -8445,7 +7508,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-313256/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 4107
+      "nb_notes_spectateurs": 4167
     }
   },
   {
@@ -8622,7 +7685,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-247319/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 5909
+      "nb_notes_spectateurs": 5912
     }
   },
   {
@@ -8635,10 +7698,6 @@
     "synopsis": "Quittant son île pour la première fois, la jeune Moana se lance dans une aventure maritime épique afin de redonner la prospérité à son peuple.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/27329aba-789e-438e-ba32-b4af7b3d5d4f.png",
     "seances": [
-      {
-        "heure": "28/08 12:40",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "31/08 16:00",
         "cinema": "Le Stockel"
@@ -8761,7 +7820,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314942/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 1027
+      "nb_notes_spectateurs": 1048
     }
   },
   {
@@ -8902,122 +7961,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-53779/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 552
+      "nb_notes_spectateurs": 554
     }
-  },
-  {
-    "titre": "Wandafuru raifu",
-    "annee": 1998,
-    "duree_minutes": 119,
-    "realisateurs": [
-      "Hirokazu Kore-eda"
-    ],
-    "synopsis": "Entre ciel et terre, des morts sont invités par une équipe de l’au-delà à retrouver leur meilleur souvenir afin qu’il soit filmé, et leur ouvre les portes de la vie éternelle. D’une force et d’une beauté inouïe, une étonnante mise en abîme du cinéma, pour un film post-mortem sur lequel plane une étrange tristesse de la recréation de souvenirs en forme de micro-histoires isolées de l’existence.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/feacc24c-e135-4254-bc16-1207c1ca82c5.jpg",
-    "seances": [
-      {
-        "heure": "27/08 21:15",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "21105",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-21105/critiques/presse/",
-      "note_moyenne_presse": 3.5,
-      "nb_critiques_presse": 12,
-      "critiques_presse": [
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Marine Landrot",
-          "citation": "Hirokazu Kore-Eda applique le fameux précepte cinématographique de Jean Cocteau, \"filmer la mort au travail\". A sa manière : méditative et surnaturelle, comme un songe obsédant."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 4.0,
-          "auteur": "Xavier Leherpeux",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "Peu de mouvements d'appareil, pratiquement aucun gros plan, une volonté permanente d'inscrire les figures dans le cadre qui les fait exister, le film est d'une force et d'une beauté inouïe."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Serge Kaganski",
-          "citation": "After Life est un objet très scénarisé et dialogué dans lequel la mise en scène resserre ses ailes pour se mettre au service d'une histoire."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Yann Tobin",
-          "citation": "L'inventivité d'After Life ne se limite pas à cette étonnante mise en abyme du cinéma : une sublime trame romanesque (...) se greffe à la peinture déjà insolite de cet univers imaginaire."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Cristophe Narbonne",
-          "citation": "(...) un scénario qui porte à ses personnages un amour dénué de sentimentalisme et qui n'oublie pas d'être léger quand l'occasion se présente. Sobre, minimaliste, juste, After Life s'apparente à un Dogma nippon débarrassé du méthodisme radical (...)"
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 4.0,
-          "auteur": "Michel Rebichon",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Baptiste Piégay",
-          "citation": "Et si l'ensemble fonctionne plutôt bien, malgré d'obscures intrigues annexes, la mise en scène, elle souffre d'une démarche trop explicite."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 3.0,
-          "auteur": "Elysabeth François",
-          "citation": "Kore-Eda établit une filiation entre l'expérience des limbes et le cinéma, comme si ce dernier était en soi tout puissant, et suffisait à retranscrire la charge affective contenue dans la mémoire humaine."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 3.0,
-          "auteur": "Sandrine Chicaud",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "Lenouveaucinema.com",
-          "note": 3.0,
-          "auteur": "Pierre Notte",
-          "citation": "Le grain de l'image, le souffle et les plans fixes confèrent à l'irréalité du propos les allures d'un reportage plus vrai que nature. Kore-Eda joue de la poétique du contraste et oppose l'improbable et le tangible avec majesté."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 1.0,
-          "auteur": "Olivia Cooper-Hadjian",
-          "citation": "Belle démonstration de ce qu'il se passe lorsqu'on essaie de faire un film de \" petit malin \" sans en avoir les moyens."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-21105/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 167
-    }
-  },
-  {
-    "titre": "What's Up, Doc? + The Second Civil war",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Le gouverneur de l’Idaho, exaspéré par la politique d’accueil de son pays, refuse l’arrivée d’enfants orphelins issus d’une guerre nucléaire entre l’Inde et le Pakistan et déclare, sur un coup de tête, l’indépendance de son état. Une satire politique cinglante de 1997 qui semble aujourd’hui étrangement prophétique. Précédé d’un court-métrage des Looney Tunes dans lequel Bugs Bunny raconte sa vie à un journaliste de la Disassociated Press.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "27/08 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Wild Strawberries",
@@ -9029,10 +7974,6 @@
     "synopsis": "Le professeur Isak Borg se rend à Lund pour recevoir un doctorat honorifique. En chemin, il est confronté à des rêves, des souvenirs et des rencontres qui l’obligent à revisiter sa vie. Le film est une road‑movie mélancolique sur le regret, le pardon et le désir d’humanité. Lauréat de l’Ours d’or à Berlin, Les Fraises sauvages est considéré comme l’une des œuvres les plus accessibles et les plus émouvantes de Bergman. Les scènes oniriques, horloges immobiles, rues désertes, comptent parmi les images les plus influentes du cinéma européen.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/71147a2d-7a43-4d00-9705-8d7296e73059.jpg",
     "seances": [
-      {
-        "heure": "26/08 18:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/08 11:30",
         "cinema": "Palace"
@@ -9098,10 +8039,6 @@
     "synopsis": "Mahnaz, une infirmière de 45 ans, élève seule ses enfants. Alors qu’elle s’apprête à épouser son petit ami Hamid, son fils Aliyar est renvoyé de l’école. Lorsqu’un un accident tragique vient tout bouleverser, Mahnaz se lance dans une quête de justice pour obtenir réparation...",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/12cbe379-23a2-4164-b7aa-ffd49c77eb1c.jpg",
     "seances": [
-      {
-        "heure": "27/08 11:40",
-        "cinema": "Galeries"
-      },
       {
         "heure": "29/08 10:10",
         "cinema": "Galeries"
@@ -9308,7 +8245,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019745/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 371
+      "nb_notes_spectateurs": 372
     }
   }
 ]

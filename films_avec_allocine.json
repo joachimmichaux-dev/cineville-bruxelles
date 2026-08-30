@@ -8,14 +8,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99621522-acbc-41b2-b8e5-88304c2cc657.png",
     "seances": [
       {
-        "heure": "29/08 12:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "30/08 21:00",
         "cinema": "Vendôme"
       },
@@ -37,43 +29,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000035388/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
-    }
-  },
-  {
-    "titre": "Alice",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "29/08 10:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "47315",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-47315/critiques/presse/",
-      "note_moyenne_presse": 5.0,
-      "nb_critiques_presse": 2,
-      "critiques_presse": [
-        {
-          "titre_presse": "Critikat.com",
-          "note": 5.0,
-          "auteur": "Fabien Reyre",
-          "citation": "Revoir \"Alice n'est plus ici\", c'est retrouver un Scorsese alors invincible, et retrouver l'envie de revoir tout son cinéma, vite."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Thomas Sotinel",
-          "citation": "\"Alice n'est plus ici\" est à Scorsese ce que \"A l'est de Shanghaï\" est à Hitchcock ou \"Tirez sur le pianiste\" à Truffaut. Comme ces autres anomalies, il complète et éclaire l'univers de son auteur."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-47315/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 595
     }
   },
   {
@@ -402,10 +357,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f78afd8f-9241-4ce4-98fd-95f4aa2b1010.jpg",
     "seances": [
       {
-        "heure": "29/08 16:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "30/08 13:40",
         "cinema": "Vendôme"
       },
@@ -677,33 +628,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037046/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 4665
-    }
-  },
-  {
-    "titre": "Der amerikanische Freund",
-    "annee": 1979,
-    "duree_minutes": 125,
-    "realisateurs": [
-      "Wim Wenders"
-    ],
-    "synopsis": "Un expatrié américain gagne sa vie en colportant des faux tableaux. Un jour il accepte de participer à un complot de meurtre pour une solide somme d’argent. Une machination à la Hitchcock, entraînant le héros vers le crime, dans un univers de faux-semblants et de suspense. Le polar de Patricia Highsmith, pour un Wenders fasciné par les thrillers U.S.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7b853812-a06f-4aa1-b1fb-bb7809e9c2cb.jfif",
-    "seances": [
-      {
-        "heure": "29/08 19:15",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "29693",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-29693/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-29693/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 484
+      "nb_notes_spectateurs": 4741
     }
   },
   {
@@ -880,7 +805,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-315380/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 1923
+      "nb_notes_spectateurs": 1934
     }
   },
   {
@@ -949,10 +874,6 @@
     "synopsis": "Alors que nous suivons l’histoire aventureuse d’une poule désespérée qui élève seule sa famille, une terrible tragédie humaine se déroule en arrière-plan.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
-      {
-        "heure": "29/08 18:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 18:00",
         "cinema": "Palace"
@@ -1098,14 +1019,6 @@
     "synopsis": "A Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/53107630-b2e0-43eb-8bb3-5290e89d5ea5.jpg",
     "seances": [
-      {
-        "heure": "29/08 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "29/08 16:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 16:00",
         "cinema": "Galeries"
@@ -1463,7 +1376,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-179349/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 9943
+      "nb_notes_spectateurs": 9944
     }
   },
   {
@@ -1477,10 +1390,6 @@
     "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
-      {
-        "heure": "29/08 18:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "30/08 18:35",
         "cinema": "Galeries"
@@ -1677,7 +1586,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-310112/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 2447
+      "nb_notes_spectateurs": 2453
     }
   },
   {
@@ -1690,14 +1599,6 @@
     "synopsis": "Hannah et son adolescent non binaire Frances se rendent ensemble à Amsterdam pour rendre visite à leur grand-père « Jimpa ».",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0e20ae5a-7ae9-47d4-8cc8-884b21d6a2e2.jpg",
     "seances": [
-      {
-        "heure": "29/08 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 18:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/08 14:00",
         "cinema": "Aventure"
@@ -1739,21 +1640,6 @@
     }
   },
   {
-    "titre": "Koko's Crib + Koko Hops Off + Field Daze + Koko's Courtship + Koko's Big Sale",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Koko le clown et le chien Fitz découvrent l’univers de la parentalité (Koko’s Crib). En interaction avec des personnages humains, nos deux héros concourent pour la coupe de haute voltige (Koko Hops Off) puis dans une compétition d’athlétisme (Field Daze). Koko montre à Skinny comment séduire (Koko’s Courtship). Koko et Fitz en revendeurs d’une marchandise toute particulière (Koko’s Big Sale).",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "29/08 20:15",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Kokuho",
     "annee": 2026,
     "duree_minutes": 175,
@@ -1763,18 +1649,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "29/08 15:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 17:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "29/08 19:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "30/08 12:35",
         "cinema": "Galeries"
@@ -2003,241 +1877,6 @@
     }
   },
   {
-    "titre": "L'Odyssée",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "29/08 17:00",
-        "cinema": "Le Stockel"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000013045",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/presse/",
-      "note_moyenne_presse": 4.1,
-      "nb_critiques_presse": 35,
-      "critiques_presse": [
-        {
-          "titre_presse": "20 Minutes",
-          "note": 5.0,
-          "auteur": "Caroline Vié",
-          "citation": "En prendre plein les yeux à ce point est rare surtout quand le film s’offre le luxe d’être bien écrit et intelligent."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 5.0,
-          "auteur": "Aurélien Allin",
-          "citation": "D’une ampleur folle, parcouru d’images sidérantes, le nouveau film de Christopher Nolan s’inscrit dans la lignée thématique de \"Dunkerque\" et \"Oppenheimer\". Prodigieux."
-        },
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 5.0,
-          "auteur": "Frédérique Lambert",
-          "citation": "La véritable réussite de \"L'Odyssée\" est ailleurs. Christopher Nolan ne modernise pas Homère en le simplifiant ni en le recouvrant d'effets contemporains. Il le modernise en retrouvant ce qui, dans son texte, demeure d'une actualité bouleversante : la difficulté de revenir chez soi après la guerre, le poids du souvenir, la persistance de la culpabilité, l'expérience du temps et la lente reconquête d'une existence ordinaire."
-        },
-        {
-          "titre_presse": "Konbini",
-          "note": 5.0,
-          "auteur": "Konbini",
-          "citation": "C'est bien le chef d'œuvre épique et époustouflant que Christopher Nolan nous avait promis. Une épopée impressionnante et forte en émotion portée à l'écran avec la technologie IMAX et un casting XXL."
-        },
-        {
-          "titre_presse": "L'Ecran Fantastique",
-          "note": 5.0,
-          "auteur": "Matthieu Rehde",
-          "citation": "En somme, \"L'Odyssée\" agrège passions de la mise en scène, de la mythologie et de la psychologie en un ensemble immanquable qui fait d'ores et déjà date."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 5.0,
-          "auteur": "Christophe Caron",
-          "citation": "\"L’Odyssée\" est d’abord une expérience brute, intime et sensorielle, accentuée par un montage jalonné d’aspérités et une bande-son enivrante."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 5.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "Le cinéaste britannique revisite la mythologie avec talent, accordant autant d’importance à l’exécution impressionnante des scènes d’action épiques, aux intrigues politiques à la cour et aux tourments des nombreux personnages brillamment incarnés."
-        },
-        {
-          "titre_presse": "Le Journal du Geek",
-          "note": 5.0,
-          "auteur": "Allan Blanvillain",
-          "citation": "Est-ce que \"L'Odyssée\" est le meilleur film de Christopher Nolan ? Chacun aura sans doute ses préférences (chez nous, ce n'est pas \"Interstellar\" en tout cas), néanmoins, il est, à l'heure actuelle, son plus abouti. Celui qui démontre le plus de sa maîtrise de la mise en scène aussi bien derrière la caméra que dans ce que l'image tant à raconter. Peut-être aussi celui qui, pour la première fois, nous fait réellement sentir que Christopher peut (enfin) se passer de Jonathan Nolan."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Époustouflant."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 5.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "Un grand voyage de cinéma, visuellement captivant et émotionnellement puissant."
-        },
-        {
-          "titre_presse": "Marianne",
-          "note": 5.0,
-          "auteur": "Benoît Franquebalme",
-          "citation": "Un classique immédiat."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 5.0,
-          "auteur": "Philippe Lemoine",
-          "citation": "Le cinéaste s'empare d'Homère et en livre une relecture cinématographique aussi épique que philosophique. Son chef-d'œuvre."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 5.0,
-          "auteur": "Fabrice Leclerc",
-          "citation": "Grandiloquent et introspectif, sans jamais perdre le fil d’un impossible récit, sans jamais relâcher l’attention d’un spectateur qu’il sait dominer et passionner, Nolan est au sommet de son art."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "Un classique universel peut, aussi, être une œuvre personnelle. Christopher Nolan s’attaque à \"L’Odyssée\", entre le respect du mythe et la réinvention. Intime et grandiose, son nouveau film s’affirme comme la pierre angulaire d’une œuvre qui depuis trente ans questionne l’espace et le temps, le récit et le réel, le sacrifice et la guerre."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Judith Beauvallet",
-          "citation": "Beaucoup d’éléments de \"L’Odyssée\" peuvent rebuter au premier abord, mais au début de son dernier acte, Nolan réussit si bien le coup de maître préparé en secret dès la première scène qu’on ne peut que retenir le sublime avant tout."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Lison Chambe",
-          "citation": "(...) un spectaculaire et dangereux voyage, dans lequel, faut-il le rappeler, on embarque volontiers."
-        },
-        {
-          "titre_presse": "GQ",
-          "note": 4.0,
-          "auteur": "Adam Sanchez",
-          "citation": "Le treizième long-métrage de Christopher Nolan est à la fois l'un de ses plus impressionnants, une sorte de grande démonstration de ce à quoi peut ressembler un spectacle démesuré en 2026, et l'un de ses plus empreints par le désarroi."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Michaël Mélinard",
-          "citation": "En pellicule et avec distribution hollywoodienne, le cinéaste s’empare avec brio de l’œuvre d’Homère."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Eric Neuhoff",
-          "citation": "L’épopée d’Homère revu par Christopher Nolan avec Matt Damon remplit sa mission : nous rafraîchir la mémoire et offrir trois heures de cinéma qu’on ne voit pas passer."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Philippe Guedj",
-          "citation": "Épique, intimidant, parfois terrifiant comme lors de la séquence du Cyclope ou de l’escale chez Circé, ce pavé de 2 h 50 revisite les grands épisodes du texte d’origine, tout en restant un film typiquement nolanien."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Michael Ghennam",
-          "citation": "Sans révolutionner ce récit antique, Nolan en tire un blockbuster non-linéaire séduisant et surprenant."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Maud Tenda",
-          "citation": "Avec son casting de stars comme autant de muses olympiennes, ses 250 millions de dollars et son tournage dans six pays différents, Christopher Nolan ne tombe pour autant pas dans les possibles travers des films à gros budgets, et rend intelligemment compte de sa propre idée du magistral."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 4.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Qui d’autre que Christopher Nolan pouvait adapter à la fois la substance et la dimension épique de l’œuvre d’Homère ? Personne sans doute, et force est de constater que le cinéaste signe un film à la fois spectaculaire et intime, à la résonance ô combien contemporaine."
-        },
-        {
-          "titre_presse": "Public",
-          "note": 4.0,
-          "auteur": "Sarah Lévy-Laithier",
-          "citation": "L'épopée mythique d'Homère est portée au cinéma de manière spectaculaire."
-        },
-        {
-          "titre_presse": "Rolling Stone",
-          "note": 4.0,
-          "auteur": "La rédaction",
-          "citation": "De l’Odyssée, Nolan a avant tout voulu retenir matière à allégories, entre réflexions psychologiques et exploitation somptueuse de décors naturels. La rencontre de la mythologie et d’une forme de science-fiction ? L’invitation est à prendre ou à laisser. Du pur Nolan, donc."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Un grand moment de cinéma, qui a toute sa place dans la filmographie désormais imposante de l’auteur britannique, parmi les plus audacieux de sa génération."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 4.0,
-          "auteur": "Julien Barcilon",
-          "citation": "Avec sa version crépusculaire de \"L'Odyssée\", son Ulysse en plein syndrome post-traumatique (auquel Matt Damon prête un charisme indéniable) et son image splendide (avec un minimum de numérique), Christopher Nolan réussit son pari homérique, malgré quelques longueurs, faute de surprises saillantes."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Gérard Crespo",
-          "citation": "La superproduction de Nolan est un spectacle de grande qualité qui s'inscrit pleinement dans son univers. Le plaisir de cinéma est manifeste, même si le réalisateur nous a davantage éblouis."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 3.0,
-          "auteur": "Guillaume Gas",
-          "citation": "Du grand spectacle très souvent capable de parler la langue des dieux de son art lorsqu’il s’en donne les moyens (la photo minérale de Hoyte van Hoytema et la BO électro-gutturale de Ludwig Göransson n’y sont pas pour rien), mais avec parfois le timbre d’un mortel un peu trop sûr de lui pour maîtriser les accents toniques."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Guillaume Loison",
-          "citation": "Plutôt qu’à ses meilleurs films-concepts, ludiques et racés (« Inception », « Interstellar »), « l’Odyssée » appartient hélas à la catégorie des démonstrations drapées de grandiloquence qui cohabitent dans l’œuvre Nolanienne, mastodonte trop lourd, plombé par sa myriade d’intentions."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 3.0,
-          "auteur": "Stéphane Dreyfus",
-          "citation": "Adaptation très ambitieuse du récit d’Homère, le nouveau film de Christopher Nolan puise dans l’œuvre d’origine les thèmes qui lui sont chers : le défi prométhéen, la responsabilité individuelle, la mémoire et l’oubli. Un film riche et spectaculaire mais rarement touché par la grâce."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Lelo Jimmy Batista & Olivier Lamm",
-          "citation": "En adaptant l’un des plus grands monuments de la littérature occidentale, le réalisateur hollywoodien fait écho aux tensions géopolitiques qui divisent le monde mais agace par son refus de mettre en image l’univers homérique."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 2.0,
-          "auteur": "Raphaël Nieuwjaer",
-          "citation": "Si L’Odyssée essaie de sortir d’une structure strictement épisodique (débarquement sur une île, péripéties, fuite) pour ouvrir à la projection (côté fils) et à la réminiscence (côté père), il échoue cependant à faire passer le temps dans les corps, les âmes. Et trop souvent se complaît dans les clichés visuels, sans parler des scènes d’action brouillonnes. Alors que le sentiment du tragique devrait nous étreindre, Nolan fait apparaître l’exil d’Ulysse et Pénélope comme une croisière grand luxe pour retraités."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 2.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "A la recherche d’une esthétique originale susceptible de figurer le chef-d’œuvre épique de l’Antiquité, le cinéaste joue la carte du grandiose, avec un casting de prestige et d’énormes moyens, sans parvenir à convaincre."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 1.0,
-          "auteur": "Josué Morel",
-          "citation": "Nolan vide le poème d'Homère de son esprit d'aventure et de sa soif d'inventions au profit d'un imaginaire standardisé et de scènes d'action brouillonnes. \"L'Odyssée\" est un piteux spectacle."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 11874
-    }
-  },
-  {
     "titre": "L'inconnue",
     "annee": 2026,
     "duree_minutes": 140,
@@ -2247,22 +1886,6 @@
     "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
-      {
-        "heure": "29/08 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 14:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "29/08 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 20:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 17:15",
         "cinema": "Palace"
@@ -2563,7 +2186,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327993/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.8,
-      "nb_notes_spectateurs": 259
+      "nb_notes_spectateurs": 308
     }
   },
   {
@@ -2576,14 +2199,6 @@
     "synopsis": "Ludovic, un architecte quarantenaire à qui tout réussit, entame une idylle avec Nathalie, mère de deux jeunes filles. Au fur et à mesure que se tisse leur amour naissant, Ludovic se rapproche des filles avec lesquelles il noue des rapports de complicité inédits pour lui. Mais lorsque Nathalie décide de prendre ses distances avec Ludovic, ce dernier sent qu’il perd quelque chose qui le dépasse. Commence alors une terrible chute.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28060330-baf5-467f-91d7-671d09a12c24.jpg",
     "seances": [
-      {
-        "heure": "29/08 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 18:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 13:40",
         "cinema": "Vendôme"
@@ -2644,18 +2259,6 @@
     "synopsis": "Une plume magique qui rend réel tout ce qu’elle écrit vient bouleverser la vie de Providence, 11 ans, et de son cochon d’Inde Airbag. Dotés de cet immense pouvoir, ils s’envolent pour un incroyable voyage…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a64c050-c213-4535-867a-b5e66f811ce1.jpg",
     "seances": [
-      {
-        "heure": "29/08 11:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "29/08 12:25",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "29/08 13:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 13:30",
         "cinema": "Palace"
@@ -2748,7 +2351,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-320561/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 158
+      "nb_notes_spectateurs": 160
     }
   },
   {
@@ -2763,14 +2366,6 @@
     "synopsis": "Un programme de trois courts métrages où l’imagination donne des ailes ! Avoir le trac avant de monter sur scène et s’inventer un monde, découvrir un objet bien mystérieux ou ce qui se cache dans une grande boîte, ces trois court-métrages éveilleront l’imaginaire et aideront les jeunes spectateurs à trouver la confiance en eux.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0e4148c9-eb45-4332-b712-0cec12ec3f05.jpeg",
     "seances": [
-      {
-        "heure": "29/08 11:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 12:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "30/08 11:50",
         "cinema": "Galeries"
@@ -2826,14 +2421,6 @@
     "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des années et devenu un véritable expert des dinosaures. Mais leur ennemi de toujours, M.Hellinger, arrive lui aussi sur l’île avec un projet dangereux : exploiter ses richesses naturelles en creusant des mines. Ses actions imprudentes déclenchent bientôt l’éruption d’un gigantesque volcan endormi. La Pat’ Patrouille se retrouve alors entraînée dans une série de missions de sauvetage spectaculaires, plus impressionnantes que tout ce qu’elle a connu jusqu’ici. Elle devra arrêter M. Hellinger et sauver l’île avant qu’il ne soit trop tard.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbaa38d9-806f-4921-b2bf-7c482b925137.jpg",
     "seances": [
-      {
-        "heure": "29/08 11:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/08 11:30",
         "cinema": "Le Stockel"
@@ -2948,7 +2535,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-320681/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 176
+      "nb_notes_spectateurs": 183
     }
   },
   {
@@ -3112,26 +2699,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "29/08 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 17:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "29/08 20:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "30/08 15:00",
         "cinema": "Palace"
@@ -3370,7 +2937,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000044063/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 1138
+      "nb_notes_spectateurs": 1139
     }
   },
   {
@@ -3381,14 +2948,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "29/08 10:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 16:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/08 15:00",
         "cinema": "Aventure"
@@ -3563,10 +3122,6 @@
     "synopsis": "À la surprise de son entourage, Ainara, 17 ans, décide de rentrer dans les ordres en intégrant un couvent. Autour de ce personnage traversé par la foi, la réalisatrice de la série acclamée Querer signe un mélodrame puissant et inconfortable sur la famille, la religion et l’adolescence. \n",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46a9d42c-1430-4a68-bf75-bb4162f22308.jpg",
     "seances": [
-      {
-        "heure": "29/08 14:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "30/08 10:10",
         "cinema": "Galeries"
@@ -3759,7 +3314,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000020167/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 923
+      "nb_notes_spectateurs": 925
     }
   },
   {
@@ -3776,10 +3331,6 @@
     "synopsis": "La Chouette du cinéma a rassemblé plusieurs courts métrages autour de la figure du grand méchant loup dans le programme \"Loups tendres et loufoques\", qui revisite cette figure dans les contes et les livres, avec humour et poésie, pour amener les petits dès 3 ans à le voir autrement...",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
     "seances": [
-      {
-        "heure": "29/08 10:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 10:30",
         "cinema": "Palace"
@@ -3974,10 +3525,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6c8fd2d7-c077-43fd-8890-63fc43c893b0.jpg",
     "seances": [
       {
-        "heure": "29/08 13:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "30/08 11:00",
         "cinema": "Aventure"
       },
@@ -4007,10 +3554,6 @@
     "synopsis": "Deux petites filles, Mei et Satsuki, viennent s'installer avec leur père dans une grande maison à la campagne afin de se rapprocher de l'hôpital où séjourne leur mère. Elles vont découvrir l'existence de leurs nouveaux voisins, invisible aux yeux des autres humains, des créatures merveilleuses, mais très discrètes : Grand Totoro, Moyen Totoro (Chū-Totoro) et Petit Totoro (Chibi-Totoro) ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dde02d22-4ce4-4b31-86b1-7486d26e8294.jpeg",
     "seances": [
-      {
-        "heure": "29/08 13:40",
-        "cinema": "Galeries"
-      },
       {
         "heure": "30/08 10:00",
         "cinema": "Galeries"
@@ -4127,213 +3670,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-14790/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 28110
-    }
-  },
-  {
-    "titre": "My Step-Mother is an Alien",
-    "annee": 1988,
-    "duree_minutes": 108,
-    "realisateurs": [
-      "Richard Benjamin"
-    ],
-    "synopsis": "Une extraterrestre au nom de Celeste (Kim Basinger) débarque sur Terre ayant pour mission de séduire un timide astrophysicien afin de mettre la main sur les résultats de ses recherches. Seulement, l’amour vient se glisser au cœur de cette rencontre inattendue, et Celeste fait désormais partie de la famille. Une savoureuse comédie, sans autre prétention que d’être un bon divertissement, avec situations cocasses et dialogues décalés.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/665a7b56-299d-4841-9471-9e102669c5ac.jpg",
-    "seances": [
-      {
-        "heure": "29/08 18:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Network",
-    "annee": 1976,
-    "duree_minutes": 121,
-    "realisateurs": [
-      "Sidney Lumet"
-    ],
-    "synopsis": "Une chaîne de télévision exploite cyniquement les délires et les révélations d'un ancien présentateur dérangé sur les médias de masse pour son propre profit, mais découvre que son message peut être difficile à contrôler.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fe62be22-1d5e-46ca-adf0-5094046549bc.jpeg",
-    "seances": [
-      {
-        "heure": "29/08 17:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "147912",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-147912/critiques/presse/",
-      "note_moyenne_presse": 4.4,
-      "nb_critiques_presse": 27,
-      "critiques_presse": [
-        {
-          "titre_presse": "20 Minutes",
-          "note": 5.0,
-          "auteur": "Caroline Vié",
-          "citation": "Que l'on soit ou non adepte de Facebook, The Social Network passionne. Cette fresque s'impose comme l'un des meilleurs films de l'année."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 5.0,
-          "auteur": "Julien Abadie",
-          "citation": "En fait, \"The Social network\" c'est mieux qu'un film sur Facebook, mieux qu'un biopic sur Zuckerberg, mieux qu'un manifeste netocrate. C'est le portrait fidèle, donc secrètement tragique, d'une époque qui croit avancer en appuyant sur F5."
-        },
-        {
-          "titre_presse": "Filmsactu",
-          "note": 5.0,
-          "auteur": "Kévin Prin",
-          "citation": "On assiste là à une sorte de condensé de thèmes multiples, abordés avec une maturité globale, soutenus sans cesse par un réalisateur au top de son inspiration, qui parvient de plus en plus à la fois à s'effacer derrière ses films et à y imprimer sa patte. C'est ce qu'on appelle un classique instantané, un film culte et même un chef d'oeuvre."
-        },
-        {
-          "titre_presse": "Impact",
-          "note": 5.0,
-          "auteur": "Alexandre Poncet",
-          "citation": "Film à étages, drame multiple teinté de thriller juridique viscéralement prenant, \"The Social Network\" tire tous azimuts, à la façon d'un mur d'actualités Facebook. A la différence qu'il a, lui, toujours quelque chose à dire."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "Le film de David Fincher montre comment on en est arrivé là, comment une inadaptation au monde et l'incapacité de vivre sa relation à l'autre ont conduit à la création d'une colossale machine à (se) fabriquer des \"amis\". Et c'est captivant, passionnant, assez effrayant parfois, et toujours extrêmement intelligent."
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Jean-Luc Wachthausen",
-          "citation": "La fin est amère et la démonstration brillante."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 5.0,
-          "auteur": "Barbara Théate",
-          "citation": "David Fincher signe une réalisation tendue et passionnante, mêlant de façon subtile les thèmes du pouvoir, de l'argent, de la jalousie, de l'amour et de la trahison qui font les grandes fresques."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Marie Sauvion",
-          "citation": "Loin du biopic élégiaque, Fincher opère d'incessants allers-retours entre le campus et les bureaux des avocats, s'appuyant sur des dialogues brillants pour dessiner le portrait d'un informaticien brillant, odieux, frustré, seul à crever (...)"
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Serge Kaganski",
-          "citation": "Fincher et son scénariste Aaron Sorkin ont réussi un bijou d'écriture, tant dans la construction générale que dans le détail des dialogues."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Philippe Azoury",
-          "citation": "Il n'y a pas de film qui excite plus la curiosité maboule de tout passionné de cinéma en cet automne 2010 (...) Fascinant."
-        },
-        {
-          "titre_presse": "Metro",
-          "note": 5.0,
-          "auteur": "Jérôme Vermelin",
-          "citation": "Le réalisateur a fait du chemin depuis \"Seven\", sa mise en scène fluide et précise est un écrin glaçant pour les dialogues ciselés d'Aaron Sorkin (...) Un film événement et sans concession."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 5.0,
-          "auteur": "La rédaction",
-          "citation": "(...) Un passionnant thriller au coeur d'intérêts multiples (...)."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Alain Masson",
-          "citation": "Dans \"The Social Network\", l'intelligence et l'efficacité de David Fincher est à son meilleur."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Guillaume Bonnet",
-          "citation": "\"The Social Network\" relate une ascension sans chute et donc sans retour et rédemption possibles, une réussite si vertigineuse qu'elle oblige son auteur à larguer les amarres vers des sommets de solitude (...) film stupéfiant."
-        },
-        {
-          "titre_presse": "Studio Ciné Live",
-          "note": 5.0,
-          "auteur": "Christophe Chadefaud",
-          "citation": "Voir le site Studio Ciné Live."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 5.0,
-          "auteur": "Julien Barcilon",
-          "citation": "Le talentueux David Fincher réussit un film absolument passionnant qui séduira bien au-delà des membres du club. Sûr qu'il se fera plein d'amis."
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 5.0,
-          "auteur": "Olivier Bonnard",
-          "citation": "Transcendant un matériau a priori peu cinégénique (des gars derrière des ordinateurs), le cinéaste livre une sorte de néo- \" Citizen Kane \". Un \" Gatsby \" version 2.0.  J'aime."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Louis Guichard",
-          "citation": "(...) \"The Social Network\" est une sorte de tragédie grecque au temps du pixel roi, filmée avec la vigueur de Howard Hawks."
-        },
-        {
-          "titre_presse": "Brazil",
-          "note": 4.0,
-          "auteur": "Johan Girard",
-          "citation": "\"The Social Network\" ne comporte aucun réel point faible. Mise en scène, photographie, montage, musique, scénario, dialogues, acteurs, tout est absolument impeccable. Rien ne dépasse."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 4.0,
-          "auteur": "Lauren Bastide",
-          "citation": "C'est l'histoire d'une histoire qui est en train de s'écrire. Excitante et fascinante."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "C'est surtout un récit des origines en forme de subtil jeu de massacre, servi par de jeunes acteurs remarquables."
-        },
-        {
-          "titre_presse": "Marianne",
-          "note": 4.0,
-          "auteur": "Danièle Heymann",
-          "citation": "(...) un film passionnant, cruel, souvent marrant (...)."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Alain Spira",
-          "citation": "(...) à travers le destin de ce Mozart de l'informatique, c'est tout le nouveau rêve américain qui se pixellise sur grand écran."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Joachim Lepastier",
-          "citation": "Devenu enfin cool, Fincher a peut-être un petit peu perdu de sa force obsessive, de sa persuasive contagion, mais il n'a pas perdu la main."
-        },
-        {
-          "titre_presse": "Excessif",
-          "note": 3.0,
-          "auteur": "Olivier Corriez",
-          "citation": "Un bon David Fincher mais qui laisse sur sa faim."
-        },
-        {
-          "titre_presse": "Charlie Hebdo",
-          "note": 2.0,
-          "auteur": "Jean-Baptiste Thoret",
-          "citation": "\"The Social Network\" (...) ne provoque ni excitation ni ennui véritable, comme si Fincher avait épuisé dès ses premières minutes le potentiel d'un personnage dramatiquement faible (...)."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 2.0,
-          "auteur": "Fabien Reyre",
-          "citation": "Dans un premier temps, la mise en scène de Fincher s'efface derrière le très bon scénario écrit par Aaron Sorkin. Mais chassez le naturel, il revient au galop : plombé par des effets visuels hors-sujet et une vision manichéenne de ses personnages, Fincher tire The Social Network vers l'anecdotique."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-147912/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 40874
+      "nb_notes_spectateurs": 28113
     }
   },
   {
@@ -4681,7 +4018,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000028234/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 6079
+      "nb_notes_spectateurs": 6101
     }
   },
   {
@@ -4694,10 +4031,6 @@
     "synopsis": "Au lendemain de la crise économique de 2008, un père tente désespérément de protéger ses enfants d'une société qui lui a pratiquement tout pris. Un matin, il réveille ses enfants, Ella et Charlie. Sans explication, il les embarque pour un long voyage sur les routes du Midwest. Les enfants vivent ce voyage comme une grande aventure et découvrent un monde qu'ils n'ont jamais vu auparavant. Jusqu'à ce qu'Ella commence à entrevoir la vérité derrière ce voyage improvisé…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fcf75256-2dda-4b9c-9ba6-2b06065410b9.jpg",
     "seances": [
-      {
-        "heure": "29/08 11:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 11:15",
         "cinema": "Palace"
@@ -4830,7 +4163,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017192/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 551
+      "nb_notes_spectateurs": 552
     }
   },
   {
@@ -4863,7 +4196,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2463/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 8468
+      "nb_notes_spectateurs": 8469
     }
   },
   {
@@ -4876,10 +4209,6 @@
     "synopsis": "Frappée de mutisme et envoyée se rétablir sur le bord de mer, l’actrice de théâtre Elisabeth Vogler est confiée aux soins de la jeune infirmière Alma. Une des œuvres essentielles de Bergman, entre drame psychologique, terreur métaphysique et avant-garde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b1e5ea6-f7ce-49db-b3b1-b61c578bb6f7.jpeg",
     "seances": [
-      {
-        "heure": "29/08 18:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 11:30",
         "cinema": "Palace"
@@ -4942,23 +4271,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19719daa-a7b1-45cc-bd63-e81a19574de4.jpg",
     "seances": [
       {
-        "heure": "29/08 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 14:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 18:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 21:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 13:45",
+        "heure": "30/08 13:15",
         "cinema": "Palace"
       },
       {
@@ -5113,10 +4426,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "29/08 20:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "30/08 12:40",
         "cinema": "Aventure"
       },
@@ -5140,21 +4449,6 @@
     "allocine": null
   },
   {
-    "titre": "Shortscreens: Histoires d'animaux",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "29/08 15:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Silent Friend",
     "annee": 2026,
     "duree_minutes": 147,
@@ -5164,10 +4458,6 @@
     "synopsis": "Un ginkgo centenaire situé à l'université Philipps de Marbourg, en Allemagne, qui a été le témoin silencieux de trois époques différentes : 1908, 1972 et 2020.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/753bdb39-f35d-4080-bd50-34084c7decc2.jpg",
     "seances": [
-      {
-        "heure": "29/08 20:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 20:45",
         "cinema": "Palace"
@@ -5318,7 +4608,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-315015/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 380
+      "nb_notes_spectateurs": 381
     }
   },
   {
@@ -5495,7 +4785,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 7102
+      "nb_notes_spectateurs": 7231
     }
   },
   {
@@ -5508,14 +4798,6 @@
     "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7d1fec45-834a-4c58-8fa6-664604deab87.jpg",
     "seances": [
-      {
-        "heure": "29/08 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 20:20",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "30/08 18:40",
         "cinema": "Aventure"
@@ -5692,7 +4974,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 7167
+      "nb_notes_spectateurs": 7231
     }
   },
   {
@@ -5731,22 +5013,6 @@
     "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
-      {
-        "heure": "29/08 10:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 20:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "30/08 15:20",
         "cinema": "Vendôme"
@@ -5796,21 +5062,6 @@
     }
   },
   {
-    "titre": "Tapei Story",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "29/08 14:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Teenage Sex and Death at Camp Miasma",
     "annee": 2026,
     "duree_minutes": 0,
@@ -5820,38 +5071,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "29/08 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "29/08 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 20:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 21:10",
-        "cinema": "Galeries"
-      },
       {
         "heure": "30/08 14:20",
         "cinema": "Aventure"
@@ -6006,14 +5225,6 @@
     "synopsis": "Les enfants d'un artiste autrefois célèbre engagent un faussaire pour achever certaines toiles inachevées et abandonnées depuis longtemps, afin de pouvoir toucher un héritage à sa mort.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
-      {
-        "heure": "29/08 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 18:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "30/08 16:30",
         "cinema": "Vendôme"
@@ -6316,14 +5527,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/51a1c0dc-f867-4378-9979-88da2e28a449.jpg",
     "seances": [
       {
-        "heure": "29/08 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "30/08 16:50",
         "cinema": "Aventure"
       },
@@ -6543,7 +5746,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000002580/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.3,
-      "nb_notes_spectateurs": 781
+      "nb_notes_spectateurs": 787
     }
   },
   {
@@ -6556,18 +5759,6 @@
     "synopsis": "Les survivants d'une pandémie meurtrière traversent un paysage post-apocalyptique pour découvrir l'origine d'une mystérieuse transmission radio.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8fa813c3-619f-4203-9d2e-014793313668.jpg",
     "seances": [
-      {
-        "heure": "29/08 10:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/08 10:30",
         "cinema": "Aventure"
@@ -6777,8 +5968,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000014969/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 334
+      "note_moyenne_spectateurs": 3.2,
+      "nb_notes_spectateurs": 474
     }
   },
   {
@@ -6791,18 +5982,6 @@
     "synopsis": "Huit ans qu’on était sans nouvelles du réalisateur des films cultes It Follows et Under the Silver Lake ! Pour son retour derrière la caméra, David Robert Mitchell nous offre un survival effréné dans lequel une famille américaine arrachée à sa banlieue doit survivre à une invasion de… dinosaures ! Un pur film pop-corn qui s’annonce comme le spectacle le plus jouissif de cette fin d’été !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4c38dfc9-c92a-45d0-942f-d659767a8506.jpg",
     "seances": [
-      {
-        "heure": "29/08 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/08 19:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/08 21:40",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/08 16:10",
         "cinema": "Aventure"
@@ -6979,7 +6158,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314503/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 2013
+      "nb_notes_spectateurs": 2072
     }
   },
   {
@@ -6992,22 +6171,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "29/08 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 19:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 20:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "29/08 20:30",
-        "cinema": "Cineflagey"
-      },
       {
         "heure": "30/08 12:55",
         "cinema": "Galeries"
@@ -7272,7 +6435,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 11874
+      "nb_notes_spectateurs": 11997
     }
   },
   {
@@ -7308,14 +6471,6 @@
     "synopsis": "Dans \"Toy Story 5\", le nouveau film des studios d’animation Pixar, nos jouets préférés entrent dans l’ère de la technologie avec l'introduction du nouveau personnage qui s'appelle Lilypad, une tablette connectée en forme de grenouille. Dotée des dernières technologies de pointe et prête à tout pour mettre fin au règne des jouets traditionnels, elle va rapidement s’affirmer comme une redoutable rivale et donner bien du fil à retordre à Buzz, Woody, Jessie et toute la bande…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0b11325-f8a9-4c21-805c-73e8293dc1d3.jpg",
     "seances": [
-      {
-        "heure": "29/08 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/08 14:45",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "30/08 14:00",
         "cinema": "Vendôme"
@@ -7508,7 +6663,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-313256/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 4173
+      "nb_notes_spectateurs": 4190
     }
   },
   {
@@ -7820,149 +6975,23 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314942/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 1049
+      "nb_notes_spectateurs": 1051
     }
   },
   {
-    "titre": "Vozvrashcheniye",
-    "annee": 2002,
-    "duree_minutes": 110,
-    "realisateurs": [
-      "Andrey Zvyagintsev"
-    ],
-    "synopsis": "Deux jeunes frères sont confrontés au retour soudain et inexpliqué de leur père après douze ans d’absence. Tous trois entreprennent un voyage initiatique qui les mènera à une profonde introspection et à la remise en question de leurs liens affectifs. Dès son premier film, Lion d’Or au Festival de Venise, Zvyagintsev signe un des plus grands films du cinéma russe contemporain, entre thriller psychologique et road movie, intense et haletant, porté par une richesse visuelle qui laisse sans voix.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/690c2a7c-a885-4442-85d7-4cd3cbea6ad7.jpg",
+    "titre": "Vilain Tigre",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "29/08 21:30",
-        "cinema": "Cinematek"
+        "heure": "05/09 21:00",
+        "cinema": "Aventure"
       }
     ],
-    "allocine": {
-      "allocine_id": "53779",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-53779/critiques/presse/",
-      "note_moyenne_presse": 4.2,
-      "nb_critiques_presse": 19,
-      "critiques_presse": [
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Christophe Carrière",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 5.0,
-          "auteur": "Jean Roy",
-          "citation": "Il n'y a plus qu'à rester stupéfait face aux jeux de comédiens admirables et devant la puissance d'une caméra qui ne lâche pas d'un pouce les corps des protagonistes (...) Une chose au moins est sûre, le Retour est le plus beau premier film que le cinéma russe nous ait proposé depuis très longtemps."
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Emmanuèle Frois",
-          "citation": "Un film âpre, bouleversant et dévastateur (...)"
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Vincent Ostria",
-          "citation": "Que rêver de mieux : un film d'une simplicité biblique qui nous tient en haleine de bout en bout sans utiliser les ressorts du cinéma de genre ; une immersion un peu inquiètante dans un monde naturel où l'on perd ses re-pères. Splendide."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Jean-Christophe Ferrari",
-          "citation": "Premier long-métrage et premier coup de maître pour Andreï Zviaguintsev (...) Le lyrisme et la rigueur plastique de ce conte initiatique renouent, peut-être inconsciemment, avec une culture artistique et picturale que l'Occident a trop vite oubliée."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Olivier Lemaire",
-          "citation": "Le réalisateur est un spéléologue de l'humain, qui ose aller sonder là où il fait sombre (...)"
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 5.0,
-          "auteur": "Michel Rebichon",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "Aden",
-          "note": 4.0,
-          "auteur": "Philippe Piazzo",
-          "citation": "(...) un lent voyage onirique (...) une profonde descente vers nos sentiments les plus confus."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Marie-Noëlle Tranchant",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Thomas Sotinel",
-          "citation": "Avec une grande sûreté dans la conduite de son récit et dans la direction de ses acteurs, Andreï Zviaguintsev met en évidence les lignes de force de cet affrontement jusqu'à le rendre immédiatement perceptible. Il lui reste encore à trouver une forme esthétique qui convienne mieux à sa propension mystique que son attrait pour la belle image, un bagage qui vient peut-être de son passé de cinéaste publicitaire."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "François-Guillaume Lorrain",
-          "citation": "Voir la critique sur www.lepoint.fr"
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Philippe Azoury",
-          "citation": "Ce film n'exige qu'une seule séquence pour nous lier à ses personnages, nous plonger dans le gouffre de leur hypersensibilité. Six plans pour sceller un pacte aussi fort, ça s'appelle réussir son coup."
-        },
-        {
-          "titre_presse": "MCinéma.com",
-          "note": 4.0,
-          "auteur": "Philippe Descottes",
-          "citation": "Au coeur des \" sorties kleenex \", vite vues vite oubliées, Le Retour fait figure de parenthèse enchanteresse. Attention quand même, le film n'est pas d'un accès facile. Bien sûr, on appréciera la qualité de l'interprétation des deux enfants, comme on admirera l'image soignée. Cependant, il faudra avant tout faire travailler ses neurones... à moins d'apprécier le mystère pour ce qu'il est, sans chercher à l'expliquer."
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 4.0,
-          "auteur": "Martine Noratz",
-          "citation": "Paysages déserts, mise en scène épurée, Le Retour, Lion d'or à Venise, a l'âpreté d'un grand classique."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Louis Guichard",
-          "citation": "Il convoque, en guise de personnages, des archétypes, et dévide un récit brut, à caractère mythologique. Et pourtant, ce n'est pas non plus un film désincarné, compte tenu de la formidable présence de ses deux jeunes interprètes."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Mia Hansen-Love",
-          "citation": "(...) Zviaguintsev exploite les ressources esthétiques de la terre qu'il filme, et prétend en faire un passeport pour la métaphysique. Mais ni la beauté ni la métaphysique ne sont déjà dans les images. Au lieu de servir le film, tous ces \"atouts\" l'empèsent."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 3.0,
-          "auteur": "Charlotte Garson",
-          "citation": "(...) un souffle, un mystère indéniables (...) L'omniprésence de l'élément aquatique, le grain pictural de l'image filmée, en un mot le pesant héritage de Tarkovski (...) suggèrent aussi une lecture symboliste. Mais ces références n'éclipsent pas la force de ce jeu de piste macabre à la ligne narrative qui taraude par sa simplicité même."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "Les acteurs sont étonnants (...) le film est remarquablement fait, un peu trop bien léché peut-être pour un sujet si âpre, une histoire si cruelle."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 3.0,
-          "auteur": "Thomas Carlat",
-          "citation": "(...) un suspense parfaitement orchestré tant par une bande-son inquiétante que par la beauté et la grandeur des paysages parcourus, magnifiés par un excellent travail sur la photographie. Hélas, usant et abusant du thème du secret comme alibi scénaristique (...) Zviaguintsev laisse trop souvent le spectateur sur sa faim."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-53779/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 554
-    }
+    "allocine": null
   },
   {
     "titre": "Wild Strawberries",
@@ -7974,10 +7003,6 @@
     "synopsis": "Le professeur Isak Borg se rend à Lund pour recevoir un doctorat honorifique. En chemin, il est confronté à des rêves, des souvenirs et des rencontres qui l’obligent à revisiter sa vie. Le film est une road‑movie mélancolique sur le regret, le pardon et le désir d’humanité. Lauréat de l’Ours d’or à Berlin, Les Fraises sauvages est considéré comme l’une des œuvres les plus accessibles et les plus émouvantes de Bergman. Les scènes oniriques, horloges immobiles, rues désertes, comptent parmi les images les plus influentes du cinéma européen.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/71147a2d-7a43-4d00-9705-8d7296e73059.jpg",
     "seances": [
-      {
-        "heure": "29/08 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "31/08 18:30",
         "cinema": "Palace"
@@ -8027,225 +7052,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4032/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
       "nb_notes_spectateurs": 1060
-    }
-  },
-  {
-    "titre": "Woman & Child",
-    "annee": 2026,
-    "duree_minutes": 131,
-    "realisateurs": [
-      "Saeed Roustaee"
-    ],
-    "synopsis": "Mahnaz, une infirmière de 45 ans, élève seule ses enfants. Alors qu’elle s’apprête à épouser son petit ami Hamid, son fils Aliyar est renvoyé de l’école. Lorsqu’un un accident tragique vient tout bouleverser, Mahnaz se lance dans une quête de justice pour obtenir réparation...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/12cbe379-23a2-4164-b7aa-ffd49c77eb1c.jpg",
-    "seances": [
-      {
-        "heure": "29/08 10:10",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000019745",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000019745/critiques/presse/",
-      "note_moyenne_presse": 3.3,
-      "nb_critiques_presse": 32,
-      "critiques_presse": [
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Le tout doublé d’un émouvant et nuancé portrait d’une femme extraordinaire. Avec, en fin de parcours, l’immense faculté de solidarité et d’amour dont peuvent faire preuve les femmes entre elles, et envers leurs enfants, même dans l’adversité - celle des maris, des amants, des pères, des juges, des petits chefs… Immense."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Du grand cinéma."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 5.0,
-          "auteur": "Laurent Cambon",
-          "citation": "Après le très beau et très féminin Leila et ses frères, Saeed Roustaee monte en intensité dramatique avec ce portrait de femme, de mère et de battante. Une œuvre capitale en ces temps terriblement réactionnaires en Iran."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 4.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Un drame poignant et sans concession venu d’Iran. [...] Remarquable en termes de mise en scène, Saeed Roustaee installant une situation de plus en plus intenable pour cette mère entamant un nouveau deuil et voyant sa propre famille risquer l’explosion."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 4.0,
-          "auteur": "Emmanuelle Spadacenta",
-          "citation": "Bien que surprenant et jamais là où on l’attend comme dans LA LOI DE TÉHÉRAN, le récit de WOMAN AND CHILD n’est pas le plus remarquable qu’ait écrit Saeed Roustaee. Mais en matière de mise en scène, qu’il faille filmer des femmes en pleine révolution ou des hommes ourdissant leur perte, il n’a pas son pareil pour raconter les rapports de force et les questions de vie ou de mort qui enflamment son pays."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Antoine Desrues",
-          "citation": "S’il n’est pas aussi maîtrisé et virtuose que ses précédents films, Woman and Child prouve que Saeed Roustaee est un auteur en colère et d’une impressionnante cohérence, même lorsqu’il est contraint par les règles du système iranien."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Laurence Houot",
-          "citation": "Ce film humaniste, déployé dans une réalisation d'une très grande vivacité, est porté par l'intensité du jeu de l'actrice Parinaz Izadyar et de son éclatant jeune partenaire, Sinan Mohebi."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Stéphane Dreyfus",
-          "citation": "Écho à la contestation iranienne, le nouveau film de Saeed Roustaee, réalisateur de La Loi de Téhéran, est une tragédie familiale déchirante. Une mère s’y bat contre une société qui dénie aux femmes leurs droits fondamentaux."
-        },
-        {
-          "titre_presse": "La Septième Obsession",
-          "note": 4.0,
-          "auteur": "Maryline Alligier",
-          "citation": "Woman and Child étreint avec sincérité cette force de résistance."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Florence Vierron",
-          "citation": "Un film dirigé avec maestria."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "S. B.",
-          "citation": "oté d’un sens du cadre remarquable, avec une caméra immersive qui parfois prend de la hauteur pour des plans vertigineux, le récit esquisse le destin poignant d’une femme indépendante qui se heurte au patriarcat toxique à tous les niveaux, avec une volonté de réalisme absolu dans la peinture de la violence exercée par le système sur l’héroïne en quête de vérité."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Florence Colombani",
-          "citation": "On sort éprouvé mais impressionné de cette tragédie qui raconte, d’une certaine façon, la fin d’une famille et laisse poindre la fin d’une époque pour l’Iran."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Clément Colliaux",
-          "citation": "Impressionnant lorsqu’il s’attache à la rébellion d’un adolescent avant d’enclencher un engrenage tragique, le film du cinéaste iranien suit la quête de justice d’une mère victime de l’oppression patriarcale."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Jean-Dominique Nuttens",
-          "citation": "Woman And Child est un film bien plus complexe et profond qu'un regard focalisé sur ses rebonds et virages, sur son récit brut, peut le laisser penser."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Edouard Orozco",
-          "citation": "Woman and Child nous rappelle le Farhadi de la grande époque (Une séparation), et offre un complément parfait, bien qu’un ton en dessous, à Un simple accident, la Palme d’Or du dernier Festival de Cannes signé Jafar Panahi. Inépuisable pourvoyeur de destins tragiques, le cinéma persan n’a pas fini d’exercer son pouvoir de fascination sur nos yeux occidentaux."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 3.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Balançant entre drame, mélo et thriller, Woman and Child séduit d’abord par sa sagacité, sa férocité, son âpreté. Mais ce cinéma de la confrontation dilue sa force dramatique tandis qu’il étire sa chronique, qui se désarticule à cause de personnages irrationnels, aux actions incompréhensibles et de moins en moins lisibles – son héroïne en premier lieu, dont les comportements peu à peu déboussolent le spectateur."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "S’il était jusque-là plus tranché dans son opposition entre bourreaux et victimes, le cinéaste iranien assume cette fois de brouiller le parcours de Mahnaz, dont le comportement nous décontenance et qui, telle une figure tragique, finit par être l’instrument de sa propre chute. Un choix narratif qui défie le jeu du manichéisme, porté par une écriture que l’on a connue plus souple."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 3.0,
-          "auteur": "Aurélien Cabrol",
-          "citation": "Le film ne recule devant aucun rebondissement et multiplie, au contraire, les crises pour alimenter sa machine émotionnelle. Certains se réjouiront de voir ainsi ce genre parfois éculé trouver ici une seconde jeunesse au fil d'un récit haletant. D'autres regretteront cette lourdeur démonstrative."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 3.0,
-          "auteur": "Christophe Caron",
-          "citation": "Le réalisateur iranien Saeed Roustaee use d’une mécanique peut-être trop lisible, mais implacable et cruelle, sur la société de son pays."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 3.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Le réalisateur de La Loi de Téhéran (2019) et Leïla et ses frères (2022) étire la chronique de la vie d’une femme iranienne. Un film sur l’amour maternel, le deuil et la trahison."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Bo. B.",
-          "citation": "Sa lucidité retrouvée la pousse loin dans ses retranchements, jusqu’à devoir opérer des choix moraux fondamentaux, avec en toile de fond, une grande question : comment est-il possible aujourd’hui, à l’échelle individuelle comme collective, d’élever en Iran un homme bon ?"
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 3.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "L'auteur de « La Loi de Téhéran » et de « Leila et ses frères » revient avec un mélo pur jus et un scénario chargé compensé par un solide savoir-faire de metteur en scène."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Paul Fabreuil",
-          "citation": "Voici un mélo très (trop ?) mélodramatique. Les rebondissements et les crises s’enchaînent très (trop ?) vite. On pourra trouver que trop, c’est trop."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Théo Ribeton",
-          "citation": "Film sans bavure, auquel manquera toujours pourtant une case indicible de singularité réelle."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 3.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Un récit à la tension étouffante."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 3.0,
-          "auteur": "Yannick Vely",
-          "citation": "Poignant mais excessif."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 3.0,
-          "auteur": "Julien Rousset",
-          "citation": "La tonalité est moins spectaculaire que dans \"La loi de Téhéran\", mais le regard reste implacable. L’oppression que décrit le réalisateur n’a pas besoin de mitraillettes ou de pendaisons. Elle est incorporée à la vie quotidienne, à la nature même des institutions et des « normes »."
-        },
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 2.0,
-          "auteur": "Michaël Delavaud",
-          "citation": "Donnant pourtant l'impression d'un solide néo-classicisme formel hérité d'un certain cinéma américain, cherchant à reconduire les « formules » ayant fonctionné dans ses œuvres précédentes [...], Saeed Roustaee ne fait finalement que changer son cinéma en système. Un système certes bien rôdé mais qui ne dépasse cependant pas l'anodine petite mécanique."
-        },
-        {
-          "titre_presse": "Marianne",
-          "note": 2.0,
-          "auteur": "Olivier De Bruyn",
-          "citation": "Le film (décevant) du cinéaste iranien Saeed Roustaee."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 2.0,
-          "auteur": "Cécile Mury",
-          "citation": "Un sujet fort, mais pris au piège du mélo."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 1.0,
-          "auteur": "Charlotte Garson",
-          "citation": "La surenchère est le fonds de commerce de Roustaee, et à un événement tragique qui survient selon un enchaînement complaisamment arbitraire succède la dégueulasserie banale du fiancé rejetant sa promise quarantenaire pour la soeur de celle-ci, plus jeune et sans enfant. (…) Ce scénario en forme de piège peut en effet être lu, au choix, comme une allégorie politique ou comme un sac de noeuds misanthrope de tiraillements moraux noyant le poisson politique."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 1.0,
-          "auteur": "Josué Morel",
-          "citation": "Qui, dans Woman and Child, est écrasé ?  L’infirmière, évidemment, mais aussi le spectateur, assommé par cette volonté effrénée de forcer l’empathie."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019745/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 372
     }
   }
 ]

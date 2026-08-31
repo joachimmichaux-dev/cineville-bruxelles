@@ -8,32 +8,12 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99621522-acbc-41b2-b8e5-88304c2cc657.png",
     "seances": [
       {
-        "heure": "30/08 21:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "31/08 14:30",
         "cinema": "Vendôme"
       },
       {
         "heure": "01/09 16:45",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Blue Heron",
-    "annee": 2026,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Sophy Romvari"
-    ],
-    "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
-    "seances": [
-      {
-        "heure": "30/08 10:45",
-        "cinema": "Palace"
       }
     ]
   },
@@ -81,10 +61,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f78afd8f-9241-4ce4-98fd-95f4aa2b1010.jpg",
     "seances": [
       {
-        "heure": "30/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "31/08 16:00",
         "cinema": "Vendôme"
       },
@@ -99,58 +75,6 @@
     ]
   },
   {
-    "titre": "Des Minions et des monstres",
-    "annee": 2026,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Pierre Coffin"
-    ],
-    "synopsis": "Voici l’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont tenté de sauver la planète du chaos qu’ils avaient créé.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/43b970e8-05d0-427c-a8ba-3a792338d6fc.jpg",
-    "seances": [
-      {
-        "heure": "30/08 13:30",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "Ferris Bueller’s Day Off",
-    "annee": 1986,
-    "duree_minutes": 101,
-    "realisateurs": [
-      "John Hughes"
-    ],
-    "synopsis": "Un incorrigible cancre réussit à convaincre sa petite amie et son meilleur ami de sécher les cours pour aller faire les 400 coups à Chicago. Film cultissime des années 1980, une comédie jouissive et archétype du teen movie, souvent copié mais jamais égalé.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ba8cce35-557f-46a8-9787-85d6fabea7cc.jpg",
-    "seances": [
-      {
-        "heure": "30/08 15:00",
-        "cinema": "Cinematek"
-      },
-      {
-        "heure": "30/08 16:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Harte",
-    "annee": 2015,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Rosa von Praunheim"
-    ],
-    "synopsis": "Mêlant documentaire et docudrama, Härte retrace la vie d’Andreas Marquardt, un ancien champion de karaté qui passera huit ans et demi en prison pour proxénétisme et trafic d’êtres humains.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99feccb4-c317-4462-8995-e8aee22a99d1.jfif",
-    "seances": [
-      {
-        "heure": "30/08 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Hen (Kota)",
     "annee": 2025,
     "duree_minutes": 96,
@@ -160,10 +84,6 @@
     "synopsis": "Alors que nous suivons l’histoire aventureuse d’une poule désespérée qui élève seule sa famille, une terrible tragédie humaine se déroule en arrière-plan.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
-      {
-        "heure": "30/08 18:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "31/08 14:10",
         "cinema": "Palace"
@@ -192,14 +112,6 @@
     "synopsis": "A Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/53107630-b2e0-43eb-8bb3-5290e89d5ea5.jpg",
     "seances": [
-      {
-        "heure": "30/08 16:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/08 16:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "31/08 11:30",
         "cinema": "Palace"
@@ -242,10 +154,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
       {
-        "heure": "30/08 18:35",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "31/08 18:30",
         "cinema": "Galeries"
       },
@@ -265,18 +173,6 @@
     "synopsis": "Hannah et son adolescent non binaire Frances se rendent ensemble à Amsterdam pour rendre visite à leur grand-père « Jimpa ».",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0e20ae5a-7ae9-47d4-8cc8-884b21d6a2e2.jpg",
     "seances": [
-      {
-        "heure": "30/08 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 18:25",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "30/08 19:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "31/08 14:20",
         "cinema": "Aventure"
@@ -305,22 +201,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "30/08 12:35",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/08 15:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 18:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/08 19:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "31/08 12:00",
         "cinema": "Galeries"
@@ -352,22 +232,6 @@
     ]
   },
   {
-    "titre": "Kolja",
-    "annee": 1996,
-    "duree_minutes": 104,
-    "realisateurs": [
-      "Jan Svěrák"
-    ],
-    "synopsis": "Un violoniste de l’Orchestre philharmonique de Prague se voit privé de son emploi par la bureaucratie du régime communiste. Criblé de dettes, il en est réduit à jouer pour les enterrements et, au bord du gouffre, même à accepter un mariage blanc avec une femme russe, qui déménage illico en Allemagne, abandonnant son fils. Un petit bijou du cinéma tchèque.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/68781b46-3bf2-41be-8f40-8e7110cad81a.jpg",
-    "seances": [
-      {
-        "heure": "30/08 17:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "L'inconnue",
     "annee": 2026,
     "duree_minutes": 140,
@@ -377,14 +241,6 @@
     "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
-      {
-        "heure": "30/08 17:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 20:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "31/08 13:05",
         "cinema": "Palace"
@@ -422,22 +278,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28060330-baf5-467f-91d7-671d09a12c24.jpg",
     "seances": [
       {
-        "heure": "30/08 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 14:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 21:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 21:20",
-        "cinema": "Palace"
-      },
-      {
         "heure": "31/08 14:10",
         "cinema": "Vendôme"
       },
@@ -464,101 +304,15 @@
     ]
   },
   {
-    "titre": "La Fille dans les nuages",
-    "annee": 2026,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Une plume magique qui rend réel tout ce qu’elle écrit vient bouleverser la vie de Providence, 11 ans, et de son cochon d’Inde Airbag. Dotés de cet immense pouvoir, ils s’envolent pour un incroyable voyage…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a64c050-c213-4535-867a-b5e66f811ce1.jpg",
-    "seances": [
-      {
-        "heure": "30/08 13:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "La Grande Rêvasion",
-    "annee": 2025,
-    "duree_minutes": 45,
-    "realisateurs": [
-      "Rémi Durin",
-      "Bram Algoed",
-      "Eric Montchaud"
-    ],
-    "synopsis": "Un programme de trois courts métrages où l’imagination donne des ailes ! Avoir le trac avant de monter sur scène et s’inventer un monde, découvrir un objet bien mystérieux ou ce qui se cache dans une grande boîte, ces trois court-métrages éveilleront l’imaginaire et aideront les jeunes spectateurs à trouver la confiance en eux.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0e4148c9-eb45-4332-b712-0cec12ec3f05.jpeg",
-    "seances": [
-      {
-        "heure": "30/08 11:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/08 13:00",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "La Pat'Patrouille : Le film mission Dino",
-    "annee": 2026,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Cal Brunker"
-    ],
-    "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des années et devenu un véritable expert des dinosaures. Mais leur ennemi de toujours, M.Hellinger, arrive lui aussi sur l’île avec un projet dangereux : exploiter ses richesses naturelles en creusant des mines. Ses actions imprudentes déclenchent bientôt l’éruption d’un gigantesque volcan endormi. La Pat’ Patrouille se retrouve alors entraînée dans une série de missions de sauvetage spectaculaires, plus impressionnantes que tout ce qu’elle a connu jusqu’ici. Elle devra arrêter M. Hellinger et sauver l’île avant qu’il ne soit trop tard.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbaa38d9-806f-4921-b2bf-7c482b925137.jpg",
-    "seances": [
-      {
-        "heure": "30/08 11:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "30/08 12:40",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Le Scaphandre et le Papillon",
-    "annee": 2007,
-    "duree_minutes": 110,
-    "realisateurs": [
-      "Julian Schnabel"
-    ],
-    "synopsis": "Adapté du récit autobiographique d’un journaliste, Jean-Dominique Bauby, qu’un AVC priva de toutes ses fonctions motrices, mis à part un œil qui devient son lien avec le monde. « Oui » d’un clin d’œil, « non » en clignant deux fois, il arrête l’attention d’un visiteur sur les lettres de l’alphabet qu’on lui dicte, afin de composer finalement son autobiographie. Une expérience sensitive sans pareille, qui a l’élégance de ne pas instrumentaliser le malheur, par le recours à bon escient d’un humour désenchanté.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "30/08 21:15",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Le Vertige",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "annee": 2026,
+    "duree_minutes": 68,
+    "realisateurs": [
+      "Quentin Dupieux"
+    ],
+    "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
-      {
-        "heure": "30/08 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 17:35",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "30/08 17:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 20:05",
-        "cinema": "Palace"
-      },
       {
         "heure": "31/08 11:30",
         "cinema": "Palace"
@@ -595,16 +349,14 @@
   },
   {
     "titre": "Le Voisin",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "annee": 2026,
+    "duree_minutes": 70,
+    "realisateurs": [
+      "Xavier Ziomek"
+    ],
+    "synopsis": "Mon voisin sonne souvent chez moi à l'improviste. Il s'appelle Christophe, il est bûcheron, passionné de foot, et en situation de handicap mental. Autour de lui : Gil, son meilleur ami, dont le cerveau grésille parfois comme une ligne téléphonique brouillée et Guillaume, dont la joie insouciante se heurte à ses désirs d’émancipation.\nBref, j’ai rencontré mon voisin - et un monde que je ne soupçonnais pas.\n\n",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
     "seances": [
-      {
-        "heure": "30/08 15:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "31/08 12:50",
         "cinema": "Aventure"
@@ -632,22 +384,6 @@
     ]
   },
   {
-    "titre": "Le notti di Cabiria",
-    "annee": 1957,
-    "duree_minutes": 118,
-    "realisateurs": [
-      "Federico Fellini"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b3d73e82-649a-4206-bf16-ece0241c3a8c.jpg",
-    "seances": [
-      {
-        "heure": "30/08 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Los domingos",
     "annee": 2026,
     "duree_minutes": 115,
@@ -657,14 +393,6 @@
     "synopsis": "À la surprise de son entourage, Ainara, 17 ans, décide de rentrer dans les ordres en intégrant un couvent. Autour de ce personnage traversé par la foi, la réalisatrice de la série acclamée Querer signe un mélodrame puissant et inconfortable sur la famille, la religion et l’adolescence. \n",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46a9d42c-1430-4a68-bf75-bb4162f22308.jpg",
     "seances": [
-      {
-        "heure": "30/08 10:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/08 14:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "31/08 16:10",
         "cinema": "Vendôme"
@@ -676,26 +404,6 @@
       {
         "heure": "01/09 13:45",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Loups tendres et loufoques",
-    "annee": 2019,
-    "duree_minutes": 52,
-    "realisateurs": [
-      "Anaïs Sorrentino",
-      "Arnaud Demuynck",
-      "Pascale Hecquet",
-      "Rémi Durin",
-      "Hugo Frassetto"
-    ],
-    "synopsis": "La Chouette du cinéma a rassemblé plusieurs courts métrages autour de la figure du grand méchant loup dans le programme \"Loups tendres et loufoques\", qui revisite cette figure dans les contes et les livres, avec humour et poésie, pour amener les petits dès 3 ans à le voir autrement...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
-    "seances": [
-      {
-        "heure": "30/08 10:30",
-        "cinema": "Palace"
       }
     ]
   },
@@ -748,74 +456,6 @@
     ]
   },
   {
-    "titre": "Minion & Monsters",
-    "annee": 2026,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Pierre Coffin"
-    ],
-    "synopsis": "Voici l’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont tenté de sauver la planète du chaos qu’ils avaient créé.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6c8fd2d7-c077-43fd-8890-63fc43c893b0.jpg",
-    "seances": [
-      {
-        "heure": "30/08 11:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 13:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Mon Voisin Totoro",
-    "annee": 1988,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Hayao Miyazaki"
-    ],
-    "synopsis": "Deux petites filles, Mei et Satsuki, viennent s'installer avec leur père dans une grande maison à la campagne afin de se rapprocher de l'hôpital où séjourne leur mère. Elles vont découvrir l'existence de leurs nouveaux voisins, invisible aux yeux des autres humains, des créatures merveilleuses, mais très discrètes : Grand Totoro, Moyen Totoro (Chū-Totoro) et Petit Totoro (Chibi-Totoro) ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dde02d22-4ce4-4b31-86b1-7486d26e8294.jpeg",
-    "seances": [
-      {
-        "heure": "30/08 10:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "Nous, l'orchestre",
-    "annee": 2025,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Phillipe Béziat"
-    ],
-    "synopsis": "Comment jouer ensemble sans se sentir disparaître dans la masse ? Comment cohabiter si longtemps sans que le groupe explose ? Quel rôle joue vraiment le chef d’orchestre ? Pour la première fois, caméras et micros se faufilent parmi les 120 musiciens de l’Orchestre de Paris, à la Philharmonie, sous la baguette de leur jeune chef prodige, Klaus Mäkelä. Un film immersif au cœur de la musique en train de se faire ; au plus près de l’expérience des musiciens, de leurs émotions, de la beauté.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "30/08 15:50",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "OBSESSION",
-    "annee": 2026,
-    "duree_minutes": 108,
-    "realisateurs": [
-      "Curry Barker"
-    ],
-    "synopsis": "Après avoir brisé le mystérieux « One Wish Willow » pour gagner le cœur de la personne de ses rêves, un incurable romantique voit son vœu exaucé mais réalise très vite que le prix de certains souhaits peut s'avérer sombre et sinistre.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3917c18f-b602-4eee-bc47-345f0230340d.jpg",
-    "seances": [
-      {
-        "heure": "30/08 21:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Omaha",
     "annee": 2026,
     "duree_minutes": 83,
@@ -826,28 +466,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fcf75256-2dda-4b9c-9ba6-2b06065410b9.jpg",
     "seances": [
       {
-        "heure": "30/08 11:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "01/09 18:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Peau d'âne",
-    "annee": 1970,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Jacques Demy"
-    ],
-    "synopsis": "Le roi bleu promet à sa reine mourante de ne se remarier qu’avec une femme plus belle qu’elle. Des années plus tard, il décide d’épouser sa fille car elle seule est capable de rivaliser en beauté avec son épouse adorée.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/253ba1ae-9b8e-444e-b6c8-86dfcbc1c86c.jpeg",
-    "seances": [
-      {
-        "heure": "30/08 14:00",
-        "cinema": "Cineflagey"
       }
     ]
   },
@@ -861,10 +481,6 @@
     "synopsis": "Frappée de mutisme et envoyée se rétablir sur le bord de mer, l’actrice de théâtre Elisabeth Vogler est confiée aux soins de la jeune infirmière Alma. Une des œuvres essentielles de Bergman, entre drame psychologique, terreur métaphysique et avant-garde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b1e5ea6-f7ce-49db-b3b1-b61c578bb6f7.jpeg",
     "seances": [
-      {
-        "heure": "30/08 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "01/09 13:30",
         "cinema": "Palace"
@@ -881,22 +497,6 @@
     "synopsis": "Une fiction imaginée à partir d’une conversation enregistrée en 1974 entre le photographe Peter Hujar et l’écrivaine Linda Rosenkrantz, entièrement reconstituée dans un appartement de Manhattan. Le film suit une journée dans la vie de cet artiste singulier, entre rencontres avec les figures queer majeures de la scène new-yorkaise de l'époque et les défis personnels, artistiques et financiers qui l’ont marqué.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19719daa-a7b1-45cc-bd63-e81a19574de4.jpg",
     "seances": [
-      {
-        "heure": "30/08 13:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 14:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 18:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "31/08 16:15",
         "cinema": "Palace"
@@ -956,14 +556,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "30/08 12:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 18:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "31/08 18:00",
         "cinema": "Aventure"
       },
@@ -988,28 +580,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/753bdb39-f35d-4080-bd50-34084c7decc2.jpg",
     "seances": [
       {
-        "heure": "30/08 20:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "01/09 20:45",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Spider-Man : Brand New Day",
-    "annee": 2026,
-    "duree_minutes": 198,
-    "realisateurs": [
-      "Destin Daniel Cretton"
-    ],
-    "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/33e102a0-27d7-4d93-8a66-6b02498afcd3.jpg",
-    "seances": [
-      {
-        "heure": "30/08 15:30",
-        "cinema": "Le Stockel"
       }
     ]
   },
@@ -1023,10 +595,6 @@
     "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7d1fec45-834a-4c58-8fa6-664604deab87.jpg",
     "seances": [
-      {
-        "heure": "30/08 18:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "31/08 20:15",
         "cinema": "Le Stockel"
@@ -1068,18 +636,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
       {
-        "heure": "30/08 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 18:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "31/08 11:30",
         "cinema": "Palace"
       },
@@ -1115,42 +671,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "30/08 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 16:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/08 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "30/08 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/08 21:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/08 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "31/08 13:45",
         "cinema": "Vendôme"
@@ -1226,20 +746,6 @@
     ]
   },
   {
-    "titre": "The Birthday Party",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "30/08 10:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "The Christophers",
     "annee": 2026,
     "duree_minutes": 100,
@@ -1249,14 +755,6 @@
     "synopsis": "Les enfants d'un artiste autrefois célèbre engagent un faussaire pour achever certaines toiles inachevées et abandonnées depuis longtemps, afin de pouvoir toucher un héritage à sa mort.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
-      {
-        "heure": "30/08 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 18:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "31/08 13:45",
         "cinema": "Vendôme"
@@ -1288,22 +786,6 @@
     ]
   },
   {
-    "titre": "The Cool World",
-    "annee": 1965,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "Shirley Clarke"
-    ],
-    "synopsis": "Un regard lucide et sans concessions sur le quotidien dans le ghetto de Harlem, un bidonville marqué par la drogue, la violence, la misère humaine et un sentiment de désespoir dû aux préjugés raciaux de la société états-unienne. Par l’une des plus grandes documentaristes du cinéma américain, dont les films se réclament autant de l’avant-garde expérimentale que du documentaire traditionnel, une Harlem-Story antiraciste, pour un documentaire-fiction soutenu par le Hard Bop d’Art Taylor, et la trompette endiablée de Dizzy Gillespie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28decdc1-bd5c-4df0-a1fc-a197291538b7.jpg",
-    "seances": [
-      {
-        "heure": "30/08 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "The Death of Robin Hood",
     "annee": 2026,
     "duree_minutes": 122,
@@ -1313,18 +795,6 @@
     "synopsis": "Un Robin des Bois marqué par ses nombreuses luttes est blessé mortellement après ce qui aurait dû être sa dernière bataille.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/51a1c0dc-f867-4378-9979-88da2e28a449.jpg",
     "seances": [
-      {
-        "heure": "30/08 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 19:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "31/08 16:50",
         "cinema": "Aventure"
@@ -1349,18 +819,6 @@
     "synopsis": "Les survivants d'une pandémie meurtrière traversent un paysage post-apocalyptique pour découvrir l'origine d'une mystérieuse transmission radio.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8fa813c3-619f-4203-9d2e-014793313668.jpg",
     "seances": [
-      {
-        "heure": "30/08 10:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 20:45",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "31/08 16:30",
         "cinema": "Aventure"
@@ -1394,14 +852,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4c38dfc9-c92a-45d0-942f-d659767a8506.jpg",
     "seances": [
       {
-        "heure": "30/08 16:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/08 21:40",
-        "cinema": "Palace"
-      },
-      {
         "heure": "31/08 13:15",
         "cinema": "Palace"
       },
@@ -1433,22 +883,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "30/08 12:55",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/08 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 19:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/08 20:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "31/08 15:30",
         "cinema": "Galeries"
@@ -1490,10 +924,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ce8b21ff-9d81-4e78-867b-f03e771a025b.jpg",
     "seances": [
       {
-        "heure": "30/08 13:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "31/08 20:30",
         "cinema": "Palace"
       }
@@ -1512,28 +942,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0b11325-f8a9-4c21-805c-73e8293dc1d3.jpg",
     "seances": [
       {
-        "heure": "30/08 14:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "31/08 13:45",
         "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "Under the Silver Lake",
-    "annee": 2019,
-    "duree_minutes": 138,
-    "realisateurs": [
-      "David Robert Michell"
-    ],
-    "synopsis": "A Los Angeles, un homme se lance à la recherche d'une voisine mystérieusement disparue. Une plongée vertigineuse et obsessionnelle dans les tréfonds de la Cité des Anges, dans un néo-noir hollywoodien aux multiples références à la culture Pop.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/18acc123-022d-4efd-bcad-b38a33e228b5.jpg",
-    "seances": [
-      {
-        "heure": "30/08 21:05",
-        "cinema": "Cineflagey"
       }
     ]
   },

@@ -140,41 +140,11 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ceb5170-d061-48ab-978d-02dc57064cba.jpg",
     "seances": [
       {
-        "heure": "03/09 20:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "06/09 18:00",
         "cinema": "Cinematek"
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Assault on Precinct 13",
-    "annee": 1974,
-    "duree_minutes": 91,
-    "realisateurs": [
-      "John Carpenter"
-    ],
-    "synopsis": "Dans un quartier à problèmes de Los Angeles, un commissariat est assiégé puis pris d’assaut par un gang de jeunes voyous. Largement inspiré de Rio Bravo de Howard Hawks, un thriller efficace tourné par Carpenter en moins de vingt jours avec un budget ridicule.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/29c9e0f5-3620-4f6a-b27c-1056df6b1c93.jpg",
-    "seances": [
-      {
-        "heure": "03/09 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "15175",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-15175/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-15175/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 3319
-    }
   },
   {
     "titre": "Blaise",
@@ -201,32 +171,6 @@
     }
   },
   {
-    "titre": "Blazing Saddles",
-    "annee": 1974,
-    "duree_minutes": 91,
-    "realisateurs": [
-      "Mel Brooks"
-    ],
-    "synopsis": "Afin de ruiner une ville de l’ouest du pays, un politicien corrompu nomme un shérif noir, qui devient rapidement son plus redoutable adversaire. Un décapage en règle des clichés traditionnels du western façon Hollywood, avec parodie des stars du genre, dérision, vulgarité joviale, comme armes loufoques et anti-tabous de ce qui est considéré comme une des meilleures comédies jamais réalisées.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf6da644-f686-42b8-a513-c44b7a3b5d14.jpg",
-    "seances": [
-      {
-        "heure": "03/09 15:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "834",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-834/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-834/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 327
-    }
-  },
-  {
     "titre": "Blue Heron",
     "annee": 2026,
     "duree_minutes": 90,
@@ -236,26 +180,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "03/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 16:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 18:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 20:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/09 16:40",
         "cinema": "Aventure"
@@ -446,10 +370,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/40830347-c70e-4b03-896d-5798a7f2c5c0.jpg",
     "seances": [
       {
-        "heure": "03/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "04/09 21:30",
         "cinema": "Aventure"
       },
@@ -547,10 +467,6 @@
     "synopsis": "Un commandant de sous-marin allemand et anti-nazi, est chargé de détruire les convois ennemis dans l’Atlantique. Traitée avec un réalisme rigoureux, une relecture déculpabilisante de l’histoire, pour un spectaculaire huis clos maritime qui triompha au box-office, et dont la popularité est toujours aussi intacte aujourd’hui.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d22c13d7-7cd8-4cb1-97f8-3d2ba84885a0.jpg",
     "seances": [
-      {
-        "heure": "03/09 21:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "07/09 21:00",
         "cinema": "Cinematek"
@@ -877,33 +793,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037046/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 4927
-    }
-  },
-  {
-    "titre": "Den hvide slavehandels sidste offer",
-    "annee": 1911,
-    "duree_minutes": 47,
-    "realisateurs": [
-      "August Blom"
-    ],
-    "synopsis": "Une jeune femme cherche à gagner son indépendance par le travail, mais se retrouve embrigadée dans un réseau de prostitution. L’adaptation d’un célèbre roman danois sur la traite des blanches, en un drame social à multiples séquences d’anthologie, dont un essai avant-gardiste sur le split screen.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b37d571-97aa-47a5-8793-fae31b0c634b.jpg",
-    "seances": [
-      {
-        "heure": "03/09 18:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "126957",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-126957/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-126957/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 1
+      "nb_notes_spectateurs": 4950
     }
   },
   {
@@ -1080,7 +970,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-315380/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 1968
+      "nb_notes_spectateurs": 1970
     }
   },
   {
@@ -1512,6 +1402,10 @@
       {
         "heure": "07/09 18:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "10/09 19:00",
+        "cinema": "Aventure"
       }
     ],
     "allocine": {
@@ -1693,7 +1587,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-24944/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 114960
+      "nb_notes_spectateurs": 114966
     }
   },
   {
@@ -1758,14 +1652,6 @@
     "synopsis": "Alors que nous suivons l’histoire aventureuse d’une poule désespérée qui élève seule sa famille, une terrible tragédie humaine se déroule en arrière-plan.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
-      {
-        "heure": "03/09 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 17:00",
-        "cinema": "Cineflagey"
-      },
       {
         "heure": "04/09 11:30",
         "cinema": "Palace"
@@ -1905,8 +1791,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000022455/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 198
+      "note_moyenne_spectateurs": 3.6,
+      "nb_notes_spectateurs": 199
     }
   },
   {
@@ -2157,7 +2043,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-293636/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 1150
+      "nb_notes_spectateurs": 1151
     }
   },
   {
@@ -2170,10 +2056,6 @@
     "synopsis": "Avant de devenir l’un des super-auteurs les plus prestigieux au monde avec la saga Dune, Denis Villeneuve réalisait en 2010 ce drame politique et intimiste stupéfiant, articulé autour d’un conflit entre chrétiens et musulmans durant une guerre civile dans un pays imaginaire. Inutile de dire que 16 ans plus tard, Incendies n’a rien perdu de sa puissance !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6555033d-35a1-4fd4-9b00-1ca0a4e12a8a.jpg",
     "seances": [
-      {
-        "heure": "03/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/09 11:30",
         "cinema": "Palace"
@@ -2304,7 +2186,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-179349/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 9955
+      "nb_notes_spectateurs": 9956
     }
   },
   {
@@ -2376,14 +2258,6 @@
     "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
-      {
-        "heure": "03/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 18:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "04/09 13:30",
         "cinema": "Aventure"
@@ -2604,7 +2478,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-310112/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 2479
+      "nb_notes_spectateurs": 2485
     }
   },
   {
@@ -2617,10 +2491,6 @@
     "synopsis": "Hannah et son adolescent non binaire Frances se rendent ensemble à Amsterdam pour rendre visite à leur grand-père « Jimpa ».",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0e20ae5a-7ae9-47d4-8cc8-884b21d6a2e2.jpg",
     "seances": [
-      {
-        "heure": "03/09 18:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "04/09 14:50",
         "cinema": "Aventure"
@@ -2691,22 +2561,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "03/09 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 15:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/09 19:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 20:20",
-        "cinema": "Galeries"
-      },
       {
         "heure": "04/09 15:10",
         "cinema": "Galeries"
@@ -2945,7 +2799,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018284/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 701
+      "nb_notes_spectateurs": 702
     }
   },
   {
@@ -3180,7 +3034,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 12474
+      "nb_notes_spectateurs": 12523
     }
   },
   {
@@ -3193,14 +3047,6 @@
     "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
-      {
-        "heure": "03/09 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 20:40",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/09 13:15",
         "cinema": "Palace"
@@ -3516,8 +3362,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327993/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.8,
-      "nb_notes_spectateurs": 517
+      "note_moyenne_spectateurs": 2.7,
+      "nb_notes_spectateurs": 546
     }
   },
   {
@@ -3530,18 +3376,6 @@
     "synopsis": "Ludovic, un architecte quarantenaire à qui tout réussit, entame une idylle avec Nathalie, mère de deux jeunes filles. Au fur et à mesure que se tisse leur amour naissant, Ludovic se rapproche des filles avec lesquelles il noue des rapports de complicité inédits pour lui. Mais lorsque Nathalie décide de prendre ses distances avec Ludovic, ce dernier sent qu’il perd quelque chose qui le dépasse. Commence alors une terrible chute.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28060330-baf5-467f-91d7-671d09a12c24.jpg",
     "seances": [
-      {
-        "heure": "03/09 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 18:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/09 13:40",
         "cinema": "Vendôme"
@@ -3772,14 +3606,6 @@
     "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
-      {
-        "heure": "03/09 11:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 19:55",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/09 11:30",
         "cinema": "Palace"
@@ -4040,18 +3866,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
     "seances": [
       {
-        "heure": "03/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 15:15",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 20:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "04/09 15:15",
         "cinema": "Aventure"
       },
@@ -4219,7 +4033,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-479/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 8253
+      "nb_notes_spectateurs": 8255
     }
   },
   {
@@ -4271,34 +4085,6 @@
     "synopsis": "À 16 ans, Lucia, jeune fille introvertie, rejoint la chorale de son école catholique et se lie d’amitié avec la charismatique Ana-Maria. Lors d’un week-end de répétitions dans un couvent isolé, son attirance pour un mystérieux restaurateur éveille en elle des désirs inattendus, mettant à l’épreuve sa foi, son amitié et son identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/67fb5fc7-c6da-47e0-8feb-dc11e32bbfc0.jpg",
     "seances": [
-      {
-        "heure": "03/09 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 16:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "03/09 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 21:05",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/09 14:10",
         "cinema": "Vendôme"
@@ -4499,7 +4285,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317577/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 80
+      "nb_notes_spectateurs": 81
     }
   },
   {
@@ -4732,7 +4518,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-14790/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 28124
+      "nb_notes_spectateurs": 28126
     }
   },
   {
@@ -4868,10 +4654,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "04/09 20:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "08/09 18:15",
         "cinema": "Galeries"
@@ -5063,10 +4845,6 @@
     "synopsis": "Après avoir brisé le mystérieux « One Wish Willow » pour gagner le cœur de la personne de ses rêves, un incurable romantique voit son vœu exaucé mais réalise très vite que le prix de certains souhaits peut s'avérer sombre et sinistre.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3917c18f-b602-4eee-bc47-345f0230340d.jpg",
     "seances": [
-      {
-        "heure": "03/09 21:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "04/09 12:50",
         "cinema": "Aventure"
@@ -5261,7 +5039,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000028234/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 6191
+      "nb_notes_spectateurs": 6204
     }
   },
   {
@@ -5432,8 +5210,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017192/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 561
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 565
     }
   },
   {
@@ -5622,7 +5400,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-259606/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2652
+      "nb_notes_spectateurs": 2653
     }
   },
   {
@@ -5635,10 +5413,6 @@
     "synopsis": "Frappée de mutisme et envoyée se rétablir sur le bord de mer, l’actrice de théâtre Elisabeth Vogler est confiée aux soins de la jeune infirmière Alma. Une des œuvres essentielles de Bergman, entre drame psychologique, terreur métaphysique et avant-garde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b1e5ea6-f7ce-49db-b3b1-b61c578bb6f7.jpeg",
     "seances": [
-      {
-        "heure": "03/09 13:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "06/09 10:45",
         "cinema": "Palace"
@@ -5687,7 +5461,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4397/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 1668
+      "nb_notes_spectateurs": 1670
     }
   },
   {
@@ -5700,18 +5474,6 @@
     "synopsis": "Une fiction imaginée à partir d’une conversation enregistrée en 1974 entre le photographe Peter Hujar et l’écrivaine Linda Rosenkrantz, entièrement reconstituée dans un appartement de Manhattan. Le film suit une journée dans la vie de cet artiste singulier, entre rencontres avec les figures queer majeures de la scène new-yorkaise de l'époque et les défis personnels, artistiques et financiers qui l’ont marqué.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19719daa-a7b1-45cc-bd63-e81a19574de4.jpg",
     "seances": [
-      {
-        "heure": "03/09 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 17:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/09 13:15",
         "cinema": "Vendôme"
@@ -5921,14 +5683,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "03/09 16:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "04/09 12:30",
         "cinema": "Aventure"
       },
@@ -5990,7 +5744,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1274/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 6475
+      "nb_notes_spectateurs": 6476
     }
   },
   {
@@ -6544,7 +6298,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 7556
+      "nb_notes_spectateurs": 7574
     }
   },
   {
@@ -6557,10 +6311,6 @@
     "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7d1fec45-834a-4c58-8fa6-664604deab87.jpg",
     "seances": [
-      {
-        "heure": "03/09 18:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "04/09 18:30",
         "cinema": "Aventure"
@@ -6749,7 +6499,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 7556
+      "nb_notes_spectateurs": 7586
     }
   },
   {
@@ -6762,10 +6512,6 @@
     "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
-      {
-        "heure": "03/09 14:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/09 21:00",
         "cinema": "Vendôme"
@@ -6816,34 +6562,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "03/09 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/09 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/09 12:20",
         "cinema": "Galeries"
@@ -7019,14 +6737,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/713596c1-0946-4099-bb48-6df40e277a56.PNG",
     "seances": [
       {
-        "heure": "03/09 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 21:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "04/09 14:00",
         "cinema": "Aventure"
       },
@@ -7106,7 +6816,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-7124/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 50673
+      "nb_notes_spectateurs": 50696
     }
   },
   {
@@ -7119,14 +6829,6 @@
     "synopsis": "Les enfants d'un artiste autrefois célèbre engagent un faussaire pour achever certaines toiles inachevées et abandonnées depuis longtemps, afin de pouvoir toucher un héritage à sa mort.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
-      {
-        "heure": "03/09 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/09 20:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/09 13:00",
         "cinema": "Galeries"
@@ -7397,7 +7099,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000016836/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 658
+      "nb_notes_spectateurs": 659
     }
   },
   {
@@ -7613,8 +7315,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000014969/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 941
+      "note_moyenne_spectateurs": 3.3,
+      "nb_notes_spectateurs": 1001
     }
   },
   {
@@ -7627,18 +7329,6 @@
     "synopsis": "Huit ans qu’on était sans nouvelles du réalisateur des films cultes It Follows et Under the Silver Lake ! Pour son retour derrière la caméra, David Robert Mitchell nous offre un survival effréné dans lequel une famille américaine arrachée à sa banlieue doit survivre à une invasion de… dinosaures ! Un pur film pop-corn qui s’annonce comme le spectacle le plus jouissif de cette fin d’été !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4c38dfc9-c92a-45d0-942f-d659767a8506.jpg",
     "seances": [
-      {
-        "heure": "03/09 19:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/09 21:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "03/09 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/09 16:00",
         "cinema": "Palace"
@@ -7819,7 +7509,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314503/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 2262
+      "nb_notes_spectateurs": 2281
     }
   },
   {
@@ -8034,7 +7724,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039625/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 196
+      "nb_notes_spectateurs": 201
     }
   },
   {
@@ -8110,18 +7800,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "03/09 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/09 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 20:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/09 14:40",
         "cinema": "Galeries"
@@ -8414,7 +8092,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 12474
+      "nb_notes_spectateurs": 12523
     }
   },
   {
@@ -8809,64 +8487,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-313256/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 4271
-    }
-  },
-  {
-    "titre": "Trainspotting",
-    "annee": 1996,
-    "duree_minutes": 94,
-    "realisateurs": [
-      "Danny Boyle"
-    ],
-    "synopsis": "Le train-train quotidien de quelques grands ados à Edimbourg, leurs échappatoires  (drogues, alcool, foot et sexe), et leur révolte permanente contre la «  normalité  » qu'impose le système. Survolté et provocant. Précédé par le clip original de Turnpike de dEUS.\n\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39a8ca6a-b737-43df-be07-95ec99fb4dce.jpeg",
-    "seances": [
-      {
-        "heure": "03/09 19:00",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "14788",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-14788/critiques/presse/",
-      "note_moyenne_presse": 3.4,
-      "nb_critiques_presse": 5,
-      "critiques_presse": [
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "(…) Film singulier et potache qui contient son lot de scènes drolatiques (…) et de moments impressionnants (…) Trainspotting ne mérite ni le dithyrambe ni d'ailleurs le scandale (…) 20/06/1996"
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Pierre Murat",
-          "citation": "(…) une sorte de fable onirique. Sordide mais drôle. 19/06/1996"
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Marie-Anne Guérin",
-          "citation": "Le ton de la comédie, le manque de gravité, le détachement (…) et l'absence totale de méchanceté font de Trainspotting un film tous publics.  N°503, juin 1996"
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Jean-Michel Frodon",
-          "citation": "(…) Trainspotting aimerait bien être l'Orange mécanique des années 90. Il faudrait pour cela davantage qu'un savoir-faire rusé, un cinéaste de la dimension de Stanley Kubrick. 20/06/1996"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 3.0,
-          "auteur": "Y.T.",
-          "citation": "Adapté d'un best-seller, cette odyssée écossaise de délinquants junkies surenchérit sur le tape-à-l'œil et les effets clinquants de mise en scène (…)N°425, juillet-août 1996"
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-14788/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 35290
+      "nb_notes_spectateurs": 4278
     }
   },
   {
@@ -8879,22 +8500,6 @@
     "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
-      {
-        "heure": "03/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/09 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/09 18:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/09 11:30",
         "cinema": "Palace"
@@ -9091,8 +8696,23 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327942/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 413
+      "nb_notes_spectateurs": 414
     }
+  },
+  {
+    "titre": "Union (Attac)",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "10/09 19:00",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": null
   },
   {
     "titre": "Vilain Tigre",
@@ -9119,10 +8739,6 @@
     "synopsis": "Le professeur Isak Borg se rend à Lund pour recevoir un doctorat honorifique. En chemin, il est confronté à des rêves, des souvenirs et des rencontres qui l’obligent à revisiter sa vie. Le film est une road‑movie mélancolique sur le regret, le pardon et le désir d’humanité. Lauréat de l’Ours d’or à Berlin, Les Fraises sauvages est considéré comme l’une des œuvres les plus accessibles et les plus émouvantes de Bergman. Les scènes oniriques, horloges immobiles, rues désertes, comptent parmi les images les plus influentes du cinéma européen.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/71147a2d-7a43-4d00-9705-8d7296e73059.jpg",
     "seances": [
-      {
-        "heure": "03/09 17:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "05/09 10:45",
         "cinema": "Palace"
@@ -9176,207 +8792,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4032/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
       "nb_notes_spectateurs": 1061
-    }
-  },
-  {
-    "titre": "Yi yi",
-    "annee": 2000,
-    "duree_minutes": 173,
-    "realisateurs": [
-      "Edward Yang"
-    ],
-    "synopsis": "Jouant sur la durée et l'entrelacement narratif d'une série d'intrigues familiales, une chronique polyphonique et intimiste à la fois, rigoureusement contée. Des personnages observés avec émotion, légèreté et tendresse, en un cérémonial alternant drame et drôlerie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/754fed6b-000c-4731-9cf0-934ff1386298.png",
-    "seances": [
-      {
-        "heure": "03/09 19:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "25300",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-25300/critiques/presse/",
-      "note_moyenne_presse": 4.8,
-      "nb_critiques_presse": 29,
-      "critiques_presse": [
-        {
-          "titre_presse": "Aden",
-          "note": 5.0,
-          "auteur": "Philippe Piazzo",
-          "citation": "Yi Yi est notre palme d'or personnelle et absolue. En un seul mot bien pesé : sublime."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 5.0,
-          "auteur": "Emmanuel Burdeau",
-          "citation": "Un seul fil relie bel et bien toutes les vies ici représentées, mais c'est parce qu'il s'agit dès le départ et jusqu'à la fin d'une seule vie (...), donnant à voir simultanément (...), non son sens mais la totalité de ses manifestations et de ses images."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 5.0,
-          "auteur": "Frank Beauvais",
-          "citation": "La rigueur formelle de Yi Yi, l'adéquation avec le flux de son sujet, son élégante sobriété (...) en font un film riche et nécessaire qui figure ce que le cinéma a à nous offrir de plus abouti aujourd'hui."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 5.0,
-          "auteur": "Philippe Paumier",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Cplanet.com",
-          "note": 5.0,
-          "auteur": "Emmanuel Quintin",
-          "citation": "(...) une oeuvre d'une grande richesse formelle et émotive grâce au grand soin apporté à la composition de l'image, et au déplacement presque chorégraphique des corps dans l'espace."
-        },
-        {
-          "titre_presse": "Fluctuat.net",
-          "note": 5.0,
-          "auteur": "Laure Charcossey",
-          "citation": "(...) ce que sera parvenu à réaliser Edward Yang avec \" Yi Yi \" : nous faire voir ce que l'on refuse lâchement de regarder et d'affronter parfois, \" les choses de la vie \" tout simplement ."
-        },
-        {
-          "titre_presse": "L'Evénement",
-          "note": 5.0,
-          "auteur": "Elizabeth Gouslan",
-          "citation": "Oeuvre drôle et poignante, Yi Yi frôle l'excellence dans l'analyse du rapport au réel (...)"
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Sophie Grassin",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 5.0,
-          "auteur": "Michel Guilloux",
-          "citation": "Loin de tout exotisme, de tout cynisme, Edward Yang regarde sans fard la pâte humaine, mais son amour désespéré de l'art nous le rend bien proche."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "C'est un film magique, un film comme on en connaît peu. Un film qui vous saisit sans que vous y preniez garde, et qui ne vous lâche plus."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "(...) le premier film asiatique qui mette d'accord critique et spectateur. Il a pour cela, l'intelligence et la grâce, la profondeur et la séduction."
-        },
-        {
-          "titre_presse": "Le Figaro Magazine",
-          "note": 5.0,
-          "auteur": "L.H.",
-          "citation": "(...) un conte juste, tendre et cruel qui touche à l'essentiel. Magistral."
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Françoise Maupin",
-          "citation": "(...) cette chronique familiale aux multiples personnages est aussi une superbe réflexion sur la vie, la mort, la difficulté de se trouver soi-même et c'est à juste titre qu'elle a obtenu au dernier Festival de Cannes le prix de la mise en scène."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "Yi Yi n'est pas seulement le film de la maturité d'un grand cinéaste (...). C'est aussi ce qu'on pourrait appeler un film total, par l'ampleur de son propos, la hauteur de son ambition et la profondeur de son intuition."
-        },
-        {
-          "titre_presse": "Lenouveaucinema.com",
-          "note": 5.0,
-          "auteur": "Elodie Lepage",
-          "citation": "Yi Yi est une oeuvre sensible sur la difficulté de devenir soi et, surtout de le rester. La peur, l'ennui, les regrets, voilà ce qui nous guette tous, adultes, estime avec une cruelle lucidité le metteur en scène."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Frédéric Bonnaud",
-          "citation": "Yi Yi est son chef-d'oeuvre, et beaucoup plus que cela encore : une percée du cinéma, comme il s'en produit une ou deux par décennies (...)"
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Didier Péron",
-          "citation": "(...) Edward Yang s'est efforcé de rendre le plus intelligible possible des expériences et sensations communes (...)."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Michel Ciment",
-          "citation": "(...) film admirable (...). Ce qui frappe en premier lieu, c'est la clarté de la réalisation et du scénario qui font se croiser les fils de la narration avec un sens quasi musical."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Olivier De Bruyn",
-          "citation": "(...) le cinéaste décapite les conventions de la saga familiale avec ses parallélismes plombants et ses rabâchages psycho-trucs."
-        },
-        {
-          "titre_presse": "Repérages",
-          "note": 5.0,
-          "auteur": "Samuel Zlatoff",
-          "citation": "Une fois encore, Edward Yang signe une fresque intimiste qui ouvre son pays sur le monde."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 5.0,
-          "auteur": "Thierry Cheze",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "Synopsis",
-          "note": 5.0,
-          "auteur": "Maryse Léon-Garcia",
-          "citation": "(...) admirablement visuel (...) une magnifique chronique des jours ordinaires."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Marine Landrot",
-          "citation": "Profond et euphorisant."
-        },
-        {
-          "titre_presse": "Urbuz",
-          "note": 5.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "(...) un chef-d'oeuvre absolu, à voir et à revoir."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Claude Baignères",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Jean-Pierre Lacomme",
-          "citation": "(...) Edward Yang porte un regard attentif et chaleureux sur chacun de ses personnages. La force de la simplicité au service de l'émotion."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Eric Leguèbe",
-          "citation": "(...) Yi Yi est certes plus axé vers les purs cinéphiles que vers les amateurs de cinéma d'action. En revanche, il traite des cascades les plus universelles qui soient : celles du coeur, des sentiments et des mélancolies."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "Voir la critique sur www.lepoint.fr"
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "Annie Coppermann",
-          "citation": "Ce n'est (...) pas grand-chose que « Yi-Yi ». Tout juste... un reflet de tout ce qui tisse nos existences. Et qu'Edward Yang, d'une caméra fluide, attentive, sait regarder, et saisir, avec une infinie justesse, mélange de pudeur, de sensibilité et de drôlerie."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-25300/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1013
     }
   }
 ]

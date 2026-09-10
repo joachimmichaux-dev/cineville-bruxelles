@@ -42,18 +42,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "09/09 16:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 21:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "09/09 21:20",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "10/09 12:30",
         "cinema": "Aventure"
       },
@@ -140,20 +128,6 @@
     ]
   },
   {
-    "titre": "Alice au pays des colons",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "09/09 18:30",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Arrested memory",
     "annee": 2026,
     "duree_minutes": 87,
@@ -180,24 +154,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d240d2ad-7b71-40a7-8756-9179979bfcee.jpg",
     "seances": [
       {
-        "heure": "13/09 18:30",
+        "heure": "13/09 18:00",
         "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "Blazing Saddles",
-    "annee": 1974,
-    "duree_minutes": 91,
-    "realisateurs": [
-      "Mel Brooks"
-    ],
-    "synopsis": "Afin de ruiner une ville de l’ouest du pays, un politicien corrompu nomme un shérif noir, qui devient rapidement son plus redoutable adversaire. Un décapage en règle des clichés traditionnels du western façon Hollywood, avec parodie des stars du genre, dérision, vulgarité joviale, comme armes loufoques et anti-tabous de ce qui est considéré comme une des meilleures comédies jamais réalisées.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf6da644-f686-42b8-a513-c44b7a3b5d14.jpg",
-    "seances": [
-      {
-        "heure": "09/09 19:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -211,30 +169,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "09/09 13:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 18:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 19:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 20:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 13:50",
         "cinema": "Aventure"
@@ -432,6 +366,20 @@
     ]
   },
   {
+    "titre": "Chronicles from the siege",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "11/09 21:00",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
     "titre": "De la Comédie-Française",
     "annee": 2028,
     "duree_minutes": 75,
@@ -442,10 +390,6 @@
     "synopsis": "Les tumultes des répétitions d'une pièce de la Comédie-Française, la première mise en scène de Nina, qu'elle va devoir mener à bien d'autant plus que la règle d'or de l'institution est de ne jamais annuler une représentation.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f78afd8f-9241-4ce4-98fd-95f4aa2b1010.jpg",
     "seances": [
-      {
-        "heure": "09/09 15:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 13:45",
         "cinema": "Vendôme"
@@ -497,22 +441,6 @@
     ]
   },
   {
-    "titre": "Diamant Noir",
-    "annee": 2016,
-    "duree_minutes": 115,
-    "realisateurs": [
-      "Arthur Harari"
-    ],
-    "synopsis": "Un thriller de vengeance dans lequel, après la mort de son père, un homme jure de se venger des membres de sa famille qui l'ont abandonné et retourne à l'entreprise familiale de diamants avec un vol élaboré à l'esprit.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/881ded7a-bf81-4d5d-b899-64b6c3941e6a.jpg",
-    "seances": [
-      {
-        "heure": "09/09 17:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "El mariachi",
     "annee": 1992,
     "duree_minutes": 81,
@@ -560,22 +488,6 @@
     "seances": [
       {
         "heure": "15/09 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Eyes of Laura Mars",
-    "annee": 1978,
-    "duree_minutes": 102,
-    "realisateurs": [
-      "Irvin Kershner"
-    ],
-    "synopsis": "Une photographe de mode dont les clichés sensuels et violents font controverse, capte dans ses yeux des images venues d’ailleurs, et découvre qu’il s’agit des visions d’un serial-killer dont elle ne connaît pas l’identité. Aidée par un inspecteur de police, elle tente d’empêcher le psychopathe de commettre d’autres crimes. Une intrigue criminelle fascinante, sur le thème des prémonitions visuelles. Carpenter a coécrit le scénario.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f47c7c86-6bc8-4d79-a2bb-546370a20c33.jpg",
-    "seances": [
-      {
-        "heure": "09/09 20:00",
         "cinema": "Cinematek"
       }
     ]
@@ -637,10 +549,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
       {
-        "heure": "09/09 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "10/09 16:20",
         "cinema": "Palace"
       },
@@ -676,10 +584,6 @@
     "synopsis": "A Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/53107630-b2e0-43eb-8bb3-5290e89d5ea5.jpg",
     "seances": [
-      {
-        "heure": "09/09 16:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 16:00",
         "cinema": "Palace"
@@ -778,14 +682,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
       {
-        "heure": "09/09 14:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "09/09 20:30",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "10/09 15:10",
         "cinema": "Galeries"
       },
@@ -876,22 +772,6 @@
     ]
   },
   {
-    "titre": "Kyùpora no aru machi",
-    "annee": 1962,
-    "duree_minutes": 99,
-    "realisateurs": [
-      "Kirio Urayama"
-    ],
-    "synopsis": "Situé à Kawaguchi, juste au nord de Tokyo au début des années 1960, le film relate la vie de pauvres ouvriers de fonderie et de leurs familles ; et les rêves d’une jeune fille de s’élever socialement en poursuivant des études supérieures. Comme de nombreux contes traditionnels japonais, ce film bouleversant tient davantage d’une tranche de vie que d’une intrigue détaillée au développement progressif",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cec8cc03-4e0f-48f0-aee3-3284c6892165.jpg",
-    "seances": [
-      {
-        "heure": "09/09 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "L'inconnue",
     "annee": 2026,
     "duree_minutes": 140,
@@ -901,14 +781,6 @@
     "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
-      {
-        "heure": "09/09 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 21:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "10/09 13:30",
         "cinema": "Palace"
@@ -970,10 +842,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28060330-baf5-467f-91d7-671d09a12c24.jpg",
     "seances": [
       {
-        "heure": "09/09 21:35",
-        "cinema": "Palace"
-      },
-      {
         "heure": "10/09 16:00",
         "cinema": "Palace"
       },
@@ -1023,14 +891,6 @@
     "synopsis": "Une plume magique qui rend réel tout ce qu’elle écrit vient bouleverser la vie de Providence, 11 ans, et de son cochon d’Inde Airbag. Dotés de cet immense pouvoir, ils s’envolent pour un incroyable voyage…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a64c050-c213-4535-867a-b5e66f811ce1.jpg",
     "seances": [
-      {
-        "heure": "09/09 12:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "09/09 14:05",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 14:05",
         "cinema": "Palace"
@@ -1084,10 +944,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5ceca374-e0c7-47c8-b7c9-5a170d40129c.jpg",
     "seances": [
       {
-        "heure": "09/09 16:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "10/09 13:00",
         "cinema": "Aventure"
       },
@@ -1135,18 +991,6 @@
     "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
-      {
-        "heure": "09/09 11:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 16:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 20:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "10/09 13:45",
         "cinema": "Palace"
@@ -1215,14 +1059,6 @@
     "synopsis": "Mon voisin sonne souvent chez moi à l'improviste. Il s'appelle Christophe, il est bûcheron, passionné de foot, et en situation de handicap mental. Autour de lui : Gil, son meilleur ami, dont le cerveau grésille parfois comme une ligne téléphonique brouillée et Guillaume, dont la joie insouciante se heurte à ses désirs d’émancipation.\nBref, j’ai rencontré mon voisin - et un monde que je ne soupçonnais pas.\n\n",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
     "seances": [
-      {
-        "heure": "09/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 18:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "10/09 09:30",
         "cinema": "Aventure"
@@ -1326,20 +1162,6 @@
     ]
   },
   {
-    "titre": "Le trésor de Barracuda",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Alors qu'elle tente de retrouver son oncle, Annabelle embarque accidentellement sur le bateau du capitaine Barracuda, rempli de pirates armés jusqu'aux dents. Ces pirates sont redoutables, mais ont un grave problème : ils ne savent pas lire. Seule Annabelle peut leur apprendre et ainsi les aider à trouver le trésor le plus précieux et le plus convoité de toutes les Caraïbes : le trésor de Phinéas Krane. Inspiré du livre au titre éponyme de Llanos Campos.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5b3da71e-1ee9-4a42-880c-9428ae1ddcca.jpg",
-    "seances": [
-      {
-        "heure": "09/09 14:30",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Les Ensorceleuses 2 ",
     "annee": 2026,
     "duree_minutes": 129,
@@ -1349,10 +1171,6 @@
     "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/52922dc3-6ad5-4345-8fcc-d05caf1094e5.jpg",
     "seances": [
-      {
-        "heure": "09/09 15:15",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "13/09 18:10",
         "cinema": "Le Stockel"
@@ -1369,26 +1187,6 @@
     "synopsis": "À 16 ans, Lucia, jeune fille introvertie, rejoint la chorale de son école catholique et se lie d’amitié avec la charismatique Ana-Maria. Lors d’un week-end de répétitions dans un couvent isolé, son attirance pour un mystérieux restaurateur éveille en elle des désirs inattendus, mettant à l’épreuve sa foi, son amitié et son identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/67fb5fc7-c6da-47e0-8feb-dc11e32bbfc0.jpg",
     "seances": [
-      {
-        "heure": "09/09 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 14:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 18:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 11:30",
         "cinema": "Palace"
@@ -1639,10 +1437,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/179e2f95-d234-4656-94fd-fa808eae1899.png",
     "seances": [
       {
-        "heure": "09/09 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/09 21:30",
         "cinema": "Aventure"
       }
@@ -1705,23 +1499,6 @@
     ]
   },
   {
-    "titre": "Persepolis",
-    "annee": 2007,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Vincent Paronnaud",
-      "Marjane Satrapi"
-    ],
-    "synopsis": "Adapté de la bande dessinée autobiographique de Marjane Satrapi, sur son enfance iranienne et son exil en Europe, un film d'animation couronné d'un Grand Prix du jury à Cannes, et qui a fait l'unanimité auprès autant du public que de la presse.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6368b6d5-ac7d-44c0-995d-45a6f3a6bf9b.jpeg",
-    "seances": [
-      {
-        "heure": "09/09 18:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Persona",
     "annee": 1966,
     "duree_minutes": 82,
@@ -1731,10 +1508,6 @@
     "synopsis": "Frappée de mutisme et envoyée se rétablir sur le bord de mer, l’actrice de théâtre Elisabeth Vogler est confiée aux soins de la jeune infirmière Alma. Une des œuvres essentielles de Bergman, entre drame psychologique, terreur métaphysique et avant-garde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b1e5ea6-f7ce-49db-b3b1-b61c578bb6f7.jpeg",
     "seances": [
-      {
-        "heure": "09/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 14:15",
         "cinema": "Palace"
@@ -1755,10 +1528,6 @@
     "synopsis": "Une fiction imaginée à partir d’une conversation enregistrée en 1974 entre le photographe Peter Hujar et l’écrivaine Linda Rosenkrantz, entièrement reconstituée dans un appartement de Manhattan. Le film suit une journée dans la vie de cet artiste singulier, entre rencontres avec les figures queer majeures de la scène new-yorkaise de l'époque et les défis personnels, artistiques et financiers qui l’ont marqué.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19719daa-a7b1-45cc-bd63-e81a19574de4.jpg",
     "seances": [
-      {
-        "heure": "09/09 13:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 12:20",
         "cinema": "Palace"
@@ -1796,10 +1565,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312b9008-0c8a-4e8d-8862-88721ee5606a.jpg",
     "seances": [
       {
-        "heure": "09/09 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "11/09 20:30",
         "cinema": "Le Stockel"
       }
@@ -1815,18 +1580,6 @@
     "synopsis": "Dans les soixante-douze heures précédant le Jour J, le chef météorologue britannique James Stagg est appelé à fournir les prévisions les plus importantes de l'histoire afin que les Alliés puissent débarquer sur les plages normandes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a5c53ad6-07b9-4057-82af-46f28e59103d.jpg",
     "seances": [
-      {
-        "heure": "09/09 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 18:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "09/09 19:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "10/09 15:00",
         "cinema": "Aventure"
@@ -1890,7 +1643,77 @@
     ]
   },
   {
-    "titre": "ROSE",
+    "titre": "Rentrée des classes + Les Mistons + Dans le Vent",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "Rentrée des classes de Rozier dépeint avec une simplicité spontanée la fugue d’un écolier dans la nature et est considéré comme l’un des premiers précurseurs de la Nouvelle Vague. Dans Les Mistons, Truffaut explore, à travers des garçons jaloux, les formes de la sexualité naissante et de la rébellion juvénile. Dans Dans le vent, Rozier capture de manière documentaire la culture jeune à la mode des années soixante.",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "10/09 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Res Nullius",
+    "annee": 2026,
+    "duree_minutes": 67,
+    "realisateurs": [
+      "Thomas Jean"
+    ],
+    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
+    "seances": [
+      {
+        "heure": "10/09 15:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "11/09 12:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "11/09 15:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "11/09 17:30",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "12/09 12:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "12/09 15:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "12/09 18:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/09 15:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/09 15:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/09 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/09 15:40",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Rose",
     "annee": 2026,
     "duree_minutes": 94,
     "realisateurs": [
@@ -1899,42 +1722,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "09/09 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "09/09 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 19:10",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "09/09 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 13:00",
         "cinema": "Galeries"
@@ -2142,84 +1929,6 @@
     ]
   },
   {
-    "titre": "Rentrée des classes + Les Mistons + Dans le Vent",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Rentrée des classes de Rozier dépeint avec une simplicité spontanée la fugue d’un écolier dans la nature et est considéré comme l’un des premiers précurseurs de la Nouvelle Vague. Dans Les Mistons, Truffaut explore, à travers des garçons jaloux, les formes de la sexualité naissante et de la rébellion juvénile. Dans Dans le vent, Rozier capture de manière documentaire la culture jeune à la mode des années soixante.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "10/09 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Res Nullius",
-    "annee": 2026,
-    "duree_minutes": 67,
-    "realisateurs": [
-      "Thomas Jean"
-    ],
-    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
-    "seances": [
-      {
-        "heure": "09/09 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 17:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "12/09 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/09 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/09 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/09 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "14/09 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "14/09 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/09 15:40",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Shana",
     "annee": 2024,
     "duree_minutes": 80,
@@ -2328,10 +2037,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7d1fec45-834a-4c58-8fa6-664604deab87.jpg",
     "seances": [
       {
-        "heure": "09/09 18:50",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "12/09 18:50",
         "cinema": "Aventure"
       },
@@ -2363,10 +2068,6 @@
     "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
-      {
-        "heure": "09/09 16:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 13:50",
         "cinema": "Vendôme"
@@ -2411,22 +2112,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "09/09 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 20:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 21:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 16:30",
         "cinema": "Palace"
@@ -2566,10 +2251,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "09/09 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "12/09 20:00",
         "cinema": "Cinematek"
       }
@@ -2633,10 +2314,6 @@
     "synopsis": "Les enfants d'un artiste autrefois célèbre engagent un faussaire pour achever certaines toiles inachevées et abandonnées depuis longtemps, afin de pouvoir toucher un héritage à sa mort.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
-      {
-        "heure": "09/09 19:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 16:20",
         "cinema": "Vendôme"
@@ -2765,18 +2442,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
       {
-        "heure": "09/09 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 18:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "10/09 11:30",
         "cinema": "Palace"
       },
@@ -2840,10 +2505,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "09/09 20:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "10/09 20:15",
         "cinema": "Vendôme"
@@ -2989,10 +2650,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0b11325-f8a9-4c21-805c-73e8293dc1d3.jpg",
     "seances": [
       {
-        "heure": "09/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "12/09 14:00",
         "cinema": "Vendôme"
       },
@@ -3016,22 +2673,6 @@
     "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
-      {
-        "heure": "09/09 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/09 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/09 21:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "10/09 14:00",
         "cinema": "Vendôme"
@@ -3163,14 +2804,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d3693699-e17b-46d9-9369-1205f8464356.jpg",
     "seances": [
       {
-        "heure": "09/09 14:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/09 21:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "10/09 16:20",
         "cinema": "Aventure"
       },
@@ -3218,10 +2851,6 @@
     "synopsis": "Le professeur Isak Borg se rend à Lund pour recevoir un doctorat honorifique. En chemin, il est confronté à des rêves, des souvenirs et des rencontres qui l’obligent à revisiter sa vie. Le film est une road‑movie mélancolique sur le regret, le pardon et le désir d’humanité. Lauréat de l’Ours d’or à Berlin, Les Fraises sauvages est considéré comme l’une des œuvres les plus accessibles et les plus émouvantes de Bergman. Les scènes oniriques, horloges immobiles, rues désertes, comptent parmi les images les plus influentes du cinéma européen.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/71147a2d-7a43-4d00-9705-8d7296e73059.jpg",
     "seances": [
-      {
-        "heure": "09/09 13:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/09 21:35",
         "cinema": "Palace"

@@ -8,10 +8,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99621522-acbc-41b2-b8e5-88304c2cc657.png",
     "seances": [
       {
-        "heure": "10/09 17:15",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "15/09 14:30",
         "cinema": "Vendôme"
       }
@@ -41,18 +37,6 @@
     "synopsis": "Ce classique du cyberpunk suit un jeune motard dont les pouvoirs psychiques deviennent incontrôlables et le menacent, lui et le monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
-      {
-        "heure": "10/09 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 16:20",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "10/09 20:50",
-        "cinema": "Galeries"
-      },
       {
         "heure": "11/09 12:30",
         "cinema": "Aventure"
@@ -169,30 +153,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "10/09 13:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 18:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/09 19:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 20:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "11/09 13:50",
         "cinema": "Aventure"
@@ -342,10 +302,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "10/09 21:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "11/09 21:15",
         "cinema": "Palace"
       }
@@ -380,6 +336,22 @@
     ]
   },
   {
+    "titre": "Cléo de 5 à 7",
+    "annee": 1962,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Agnès Varda"
+    ],
+    "synopsis": "Cléo, belle et chanteuse, attend les résultats d'une analyse médicale. De la superstition à la peur, de la rue de Rivoli au Café de Dôme, de la coquetterie à l'angoisse, de chez elle au Parc Montsouris, Cléo vit 90 minutes particulières. Son amant, son musicien, une amie puis un soldat lui ouvrent les yeux sur le monde.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e90eb8f8-ff21-449d-b81e-2611d7e03c62.jpeg",
+    "seances": [
+      {
+        "heure": "15/09 21:00",
+        "cinema": "Cinema RITCS"
+      }
+    ]
+  },
+  {
     "titre": "De la Comédie-Française",
     "annee": 2028,
     "duree_minutes": 75,
@@ -391,10 +363,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f78afd8f-9241-4ce4-98fd-95f4aa2b1010.jpg",
     "seances": [
       {
-        "heure": "10/09 13:45",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "11/09 15:10",
         "cinema": "Vendôme"
       },
@@ -405,22 +373,6 @@
       {
         "heure": "14/09 13:45",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Den hvide slavehandels sidste offer",
-    "annee": 1911,
-    "duree_minutes": 47,
-    "realisateurs": [
-      "August Blom"
-    ],
-    "synopsis": "Une jeune femme cherche à gagner son indépendance par le travail, mais se retrouve embrigadée dans un réseau de prostitution. L’adaptation d’un célèbre roman danois sur la traite des blanches, en un drame social à multiples séquences d’anthologie, dont un essai avant-gardiste sur le split screen.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b37d571-97aa-47a5-8793-fae31b0c634b.jpg",
-    "seances": [
-      {
-        "heure": "10/09 20:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -523,22 +475,6 @@
     ]
   },
   {
-    "titre": "Garance",
-    "annee": 2026,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "Jeanne Herry"
-    ],
-    "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
-    "seances": [
-      {
-        "heure": "10/09 19:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Hen (Kota)",
     "annee": 2025,
     "duree_minutes": 96,
@@ -548,10 +484,6 @@
     "synopsis": "Alors que nous suivons l’histoire aventureuse d’une poule désespérée qui élève seule sa famille, une terrible tragédie humaine se déroule en arrière-plan.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
-      {
-        "heure": "10/09 16:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/09 14:00",
         "cinema": "Palace"
@@ -682,14 +614,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
       {
-        "heure": "10/09 15:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "10/09 20:30",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "11/09 15:30",
         "cinema": "Galeries"
       },
@@ -782,14 +706,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
       {
-        "heure": "10/09 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 20:40",
-        "cinema": "Palace"
-      },
-      {
         "heure": "11/09 15:00",
         "cinema": "Palace"
       },
@@ -841,10 +757,6 @@
     "synopsis": "Ludovic, un architecte quarantenaire à qui tout réussit, entame une idylle avec Nathalie, mère de deux jeunes filles. Au fur et à mesure que se tisse leur amour naissant, Ludovic se rapproche des filles avec lesquelles il noue des rapports de complicité inédits pour lui. Mais lorsque Nathalie décide de prendre ses distances avec Ludovic, ce dernier sent qu’il perd quelque chose qui le dépasse. Commence alors une terrible chute.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28060330-baf5-467f-91d7-671d09a12c24.jpg",
     "seances": [
-      {
-        "heure": "10/09 16:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/09 11:45",
         "cinema": "Palace"
@@ -944,10 +856,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5ceca374-e0c7-47c8-b7c9-5a170d40129c.jpg",
     "seances": [
       {
-        "heure": "10/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "11/09 16:20",
         "cinema": "Aventure"
       },
@@ -991,14 +899,6 @@
     "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
-      {
-        "heure": "10/09 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 20:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/09 13:45",
         "cinema": "Palace"
@@ -1060,18 +960,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
     "seances": [
       {
-        "heure": "10/09 09:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 18:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "11/09 13:00",
         "cinema": "Aventure"
       },
@@ -1110,22 +998,6 @@
       {
         "heure": "15/09 18:10",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Le bonheur",
-    "annee": 1965,
-    "duree_minutes": 79,
-    "realisateurs": [
-      "Agnès Varda"
-    ],
-    "synopsis": "« L’idée est extraordinaire : un amour en vaut un autre, on peut remplacer un amour par un autre. Pour moi, Le Bonheur est le film le plus anti-romantique qui soit. J’en ai parlé à Agnès, elle n’est pas d’accord. Mais c’était très osé, à l’époque. Peut-être encore maintenant. » (Chantal Akerman)",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea628bda-8af1-4e46-889d-cd5f02b7ebed.jpg",
-    "seances": [
-      {
-        "heure": "10/09 19:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -1187,26 +1059,6 @@
     "synopsis": "À 16 ans, Lucia, jeune fille introvertie, rejoint la chorale de son école catholique et se lie d’amitié avec la charismatique Ana-Maria. Lors d’un week-end de répétitions dans un couvent isolé, son attirance pour un mystérieux restaurateur éveille en elle des désirs inattendus, mettant à l’épreuve sa foi, son amitié et son identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/67fb5fc7-c6da-47e0-8feb-dc11e32bbfc0.jpg",
     "seances": [
-      {
-        "heure": "10/09 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/09 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/09 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 18:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "11/09 11:30",
         "cinema": "Palace"
@@ -1388,16 +1240,18 @@
     ]
   },
   {
-    "titre": "Nyota, les Enfants Lumière",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "titre": "Nouvelle Vague",
+    "annee": 2025,
+    "duree_minutes": 105,
+    "realisateurs": [
+      "Richard Linklater"
+    ],
+    "synopsis": "C’est l’histoire de Godard faisant ‘A bout de souffle’, racontée dans le style et l’esprit dans lesquels Godard a fait ‘A bout de souffle’.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/204286d3-07d8-4d79-8c33-2342c66ad1dd.jpg",
     "seances": [
       {
-        "heure": "10/09 18:30",
-        "cinema": "Vendôme"
+        "heure": "14/09 19:00",
+        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -1411,10 +1265,6 @@
     "synopsis": "Après avoir brisé le mystérieux « One Wish Willow » pour gagner le cœur de la personne de ses rêves, un incurable romantique voit son vœu exaucé mais réalise très vite que le prix de certains souhaits peut s'avérer sombre et sinistre.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3917c18f-b602-4eee-bc47-345f0230340d.jpg",
     "seances": [
-      {
-        "heure": "10/09 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/09 21:20",
         "cinema": "Aventure"
@@ -1453,32 +1303,12 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fcf75256-2dda-4b9c-9ba6-2b06065410b9.jpg",
     "seances": [
       {
-        "heure": "10/09 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "12/09 11:50",
         "cinema": "Palace"
       },
       {
         "heure": "14/09 16:20",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Onoda: 1000 Nights in the Jungle",
-    "annee": 2020,
-    "duree_minutes": 165,
-    "realisateurs": [
-      "Arthur Harari"
-    ],
-    "synopsis": "Fin 1944. Le Japon est en train de perdre la guerre. Sur ordre du mystérieux Major Taniguchi, le jeune Hiroo Onoda est envoyé sur une île des Philippines juste avant le débarquement américain. La poignée de soldats qu'il entraîne dans la jungle découvre bientôt la doctrine inconnue qui va les lier à cet homme : la Guerre Secrète. Pour l'Empire, la guerre est sur le point de finir. Pour Onoda, elle s'achèvera 10 000 nuits plus tard.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/80f96747-4a87-4e91-8179-5329825b0be6.jpg",
-    "seances": [
-      {
-        "heure": "10/09 20:30",
-        "cinema": "Cineflagey"
       }
     ]
   },
@@ -1529,14 +1359,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19719daa-a7b1-45cc-bd63-e81a19574de4.jpg",
     "seances": [
       {
-        "heure": "10/09 12:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 15:30",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "11/09 13:30",
         "cinema": "Vendôme"
       },
@@ -1580,18 +1402,6 @@
     "synopsis": "Dans les soixante-douze heures précédant le Jour J, le chef météorologue britannique James Stagg est appelé à fournir les prévisions les plus importantes de l'histoire afin que les Alliés puissent débarquer sur les plages normandes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a5c53ad6-07b9-4057-82af-46f28e59103d.jpg",
     "seances": [
-      {
-        "heure": "10/09 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "10/09 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "11/09 14:50",
         "cinema": "Aventure"
@@ -1643,20 +1453,6 @@
     ]
   },
   {
-    "titre": "Rentrée des classes + Les Mistons + Dans le Vent",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Rentrée des classes de Rozier dépeint avec une simplicité spontanée la fugue d’un écolier dans la nature et est considéré comme l’un des premiers précurseurs de la Nouvelle Vague. Dans Les Mistons, Truffaut explore, à travers des garçons jaloux, les formes de la sexualité naissante et de la rébellion juvénile. Dans Dans le vent, Rozier capture de manière documentaire la culture jeune à la mode des années soixante.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "10/09 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Res Nullius",
     "annee": 2026,
     "duree_minutes": 67,
@@ -1666,10 +1462,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "10/09 15:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "11/09 12:30",
         "cinema": "Aventure"
@@ -1722,42 +1514,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "10/09 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "10/09 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/09 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/09 18:40",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "10/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/09 18:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "10/09 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "11/09 11:30",
         "cinema": "Palace"
@@ -1929,22 +1685,6 @@
     ]
   },
   {
-    "titre": "Shana",
-    "annee": 2024,
-    "duree_minutes": 80,
-    "realisateurs": [
-      "Lila Penell"
-    ],
-    "synopsis": "Shana traverse les galères du quotidien avec une énergie débordante et le soutien de sa bande de copines. Lorsque sa grand-mère décède, elle hérite d’une bague censée protéger du mauvais œil. Shana a bien besoin de ce coup de pouce. D’autant qu’avec la sortie de prison de son compagnon toxique, les mésaventures s’accumulent !",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fa7795b4-9436-483b-a8db-338e3dfd59d6.jpg",
-    "seances": [
-      {
-        "heure": "10/09 21:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Silent Friend",
     "annee": 2026,
     "duree_minutes": 147,
@@ -1965,20 +1705,6 @@
       {
         "heure": "14/09 20:40",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Six months in a pink and blue building",
-    "annee": 2025,
-    "duree_minutes": 104,
-    "realisateurs": [],
-    "synopsis": "Mexico, début des années 90. Bruno grandit dans une famille joyeuse et insouciante. Quand le jour de ses onze ans, il apprend que son père a un souci de santé, la puissance de vie prend le dessus. Tout le monde continue à chanter et danser pour conjurer le sort, comme dans une chanson de salsa. Trente ans plus tard, Bruno filme et revisite les souvenirs qu’il ne pouvait tout à fait interpréter enfant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d155fce6-8069-4cf2-a624-7490aff1828f.jpg",
-    "seances": [
-      {
-        "heure": "10/09 19:00",
-        "cinema": "Galeries"
       }
     ]
   },
@@ -2069,10 +1795,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
       {
-        "heure": "10/09 13:50",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "11/09 18:50",
         "cinema": "Vendôme"
       },
@@ -2112,26 +1834,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "10/09 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "10/09 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/09 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "11/09 16:00",
         "cinema": "Palace"
@@ -2267,10 +1969,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/713596c1-0946-4099-bb48-6df40e277a56.PNG",
     "seances": [
       {
-        "heure": "10/09 21:20",
-        "cinema": "Palace"
-      },
-      {
         "heure": "12/09 11:15",
         "cinema": "Palace"
       },
@@ -2314,10 +2012,6 @@
     "synopsis": "Les enfants d'un artiste autrefois célèbre engagent un faussaire pour achever certaines toiles inachevées et abandonnées depuis longtemps, afin de pouvoir toucher un héritage à sa mort.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
-      {
-        "heure": "10/09 16:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "11/09 16:30",
         "cinema": "Vendôme"
@@ -2369,22 +2063,6 @@
     ]
   },
   {
-    "titre": "The Fog",
-    "annee": 1980,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "John Carpenter"
-    ],
-    "synopsis": "Une légende persiste dans une petite ville du Pacifique, Antonio Bay. On raconte aux enfants qu'un naufrage a eu lieu il y a une centaine d'années, que tous les passagers sont morts et que, à chaque fois que le brouillard se lève, les victimes surgissent des flots pour se montrer aux vivants.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/99560c48-e62a-4350-a1e9-5c03464472b3.jpg",
-    "seances": [
-      {
-        "heure": "10/09 21:30",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "The Jazz Singer",
     "annee": null,
     "duree_minutes": null,
@@ -2415,23 +2093,6 @@
     ]
   },
   {
-    "titre": "The Life and Death of Colonel Blimp",
-    "annee": 1943,
-    "duree_minutes": 163,
-    "realisateurs": [
-      "Michael Powell",
-      "Emeric Pressburger"
-    ],
-    "synopsis": "De la guerre des Boers au nazisme, l’amitié à problèmes d’un officier britannique et d’un gradé allemand. Le crépuscule des conceptions chevaleresques de l’armée, sur fond d’humour et de nostalgie mis en scène en Technicolor par Powell et Pressburger dont la maîtrise crève les yeux. Un film que Churchill haïssait, qui fût mutilé d’un tiers, et ici restauré intégralement.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2de2937a-c450-4860-8772-ea7bc29a9d73.jpg",
-    "seances": [
-      {
-        "heure": "10/09 15:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "The Meltdown",
     "annee": 2026,
     "duree_minutes": 108,
@@ -2441,18 +2102,6 @@
     "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
-      {
-        "heure": "10/09 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 21:35",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/09 14:15",
         "cinema": "Palace"
@@ -2505,14 +2154,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "10/09 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 13:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "11/09 20:15",
         "cinema": "Vendôme"
@@ -2674,26 +2315,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
       {
-        "heure": "10/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/09 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 18:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "10/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/09 19:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "11/09 13:50",
         "cinema": "Vendôme"
       },
@@ -2780,20 +2401,6 @@
     ]
   },
   {
-    "titre": "Union (Attac)",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "10/09 19:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Vigilante",
     "annee": 2026,
     "duree_minutes": 91,
@@ -2803,10 +2410,6 @@
     "synopsis": "Morville, trentenaire solitaire, est épuisé par un système qui l’a laissé tomber. Bien décidé à agir à sa façon, il devient Vigilante, soit un néo-justicier qui s’est donné pour but d’exposer et ruiner la vie des pédophiles qui trainent sur les réseaux sociaux.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d3693699-e17b-46d9-9369-1205f8464356.jpg",
     "seances": [
-      {
-        "heure": "10/09 16:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "11/09 14:30",
         "cinema": "Aventure"
@@ -2890,6 +2493,22 @@
       {
         "heure": "13/09 19:30",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "À bout de souffle",
+    "annee": 1959,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Jean-Luc Godard"
+    ],
+    "synopsis": "Plus de soixante ans après sa sortie, la radicale nouveauté du premier film de Jean-Luc Godard conserve toute sa grâce, sa drôlerie et son impertinence.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/40b46148-e7c5-42d7-ac3a-8bd813a65fe3.jpeg",
+    "seances": [
+      {
+        "heure": "15/09 19:00",
+        "cinema": "Cinema RITCS"
       }
     ]
   }

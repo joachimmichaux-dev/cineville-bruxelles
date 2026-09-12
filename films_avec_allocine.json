@@ -58,18 +58,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "11/09 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 16:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 21:20",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "12/09 10:30",
         "cinema": "Galeries"
       },
@@ -122,25 +110,8 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12108
+      "nb_notes_spectateurs": 12119
     }
-  },
-  {
-    "titre": "Aleksander Nevskiy",
-    "annee": 1938,
-    "duree_minutes": 108,
-    "realisateurs": [
-      "Sergei Mikhailovich Eisenstein"
-    ],
-    "synopsis": "Dans la Russie médiévale, l’affrontement guerrier du Prince Nevski et des Chevaliers teutoniques, s’achevant par la bataille légendaire sur le lac de Tchoudsk figé par les glaces. Eisenstein a conçu son épopée patriotique à la manière d’un opéra flamboyant, où la partition de Sergei Prokofiev se calquerait sur les images somptueuses du réalisateur, en une symbiose plastique et musicale unique au cinéma.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ceb5170-d061-48ab-978d-02dc57064cba.jpg",
-    "seances": [
-      {
-        "heure": "11/09 18:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Arrested memory",
@@ -166,6 +137,32 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000049617/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
+    }
+  },
+  {
+    "titre": "Assault on Precinct 13",
+    "annee": 1974,
+    "duree_minutes": 91,
+    "realisateurs": [
+      "John Carpenter"
+    ],
+    "synopsis": "Dans un quartier à problèmes de Los Angeles, un commissariat est assiégé puis pris d’assaut par un gang de jeunes voyous. Largement inspiré de Rio Bravo de Howard Hawks, un thriller efficace tourné par Carpenter en moins de vingt jours avec un budget ridicule.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/29c9e0f5-3620-4f6a-b27c-1056df6b1c93.jpg",
+    "seances": [
+      {
+        "heure": "13/09 19:30",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "15175",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-15175/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-15175/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.6,
+      "nb_notes_spectateurs": 3323
     }
   },
   {
@@ -252,7 +249,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-64439/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 70310
+      "nb_notes_spectateurs": 70315
     }
   },
   {
@@ -265,30 +262,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "11/09 13:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 18:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 19:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 20:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/09 13:50",
         "cinema": "Aventure"
@@ -485,7 +458,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000027149/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 151
+      "nb_notes_spectateurs": 152
     }
   },
   {
@@ -515,32 +488,6 @@
     }
   },
   {
-    "titre": "Ceci n'est pas un film français",
-    "annee": 2025,
-    "duree_minutes": 80,
-    "realisateurs": [
-      "Tom Adjibi"
-    ],
-    "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "11/09 21:15",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000042772",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000042772/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000042772/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Charlotte et son Jules + Charlotte et Véronique + L'amour existe",
     "annee": 0,
     "duree_minutes": 0,
@@ -554,30 +501,6 @@
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Chronicles from the siege",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "11/09 21:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000017494",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000017494/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017494/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
   },
   {
     "titre": "Cléo de 5 à 7",
@@ -616,10 +539,6 @@
     "synopsis": "Les tumultes des répétitions d'une pièce de la Comédie-Française, la première mise en scène de Nina, qu'elle va devoir mener à bien d'autant plus que la règle d'or de l'institution est de ne jamais annuler une représentation.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f78afd8f-9241-4ce4-98fd-95f4aa2b1010.jpg",
     "seances": [
-      {
-        "heure": "11/09 15:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/09 13:30",
         "cinema": "Vendôme"
@@ -884,7 +803,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037046/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 5181
+      "nb_notes_spectateurs": 5203
     }
   },
   {
@@ -1061,7 +980,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-315380/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 2008
+      "nb_notes_spectateurs": 2009
     }
   },
   {
@@ -1153,32 +1072,6 @@
     "allocine": null
   },
   {
-    "titre": "Galaxy of Terror",
-    "annee": 1981,
-    "duree_minutes": 81,
-    "realisateurs": [
-      "Bruce D. Clark"
-    ],
-    "synopsis": "Roger Corman, légende du cinéma Bis, fut le premier à exploiter la formule à succès d’Alien. Il confia la direction artistique à un jeune James Cameron, qui fit de ce film une répétition générale pour son propre Aliens.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7c34e2d2-5e20-478b-b5de-2df995d3ae44.jpg",
-    "seances": [
-      {
-        "heure": "11/09 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "101920",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-101920/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-101920/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.0,
-      "nb_notes_spectateurs": 69
-    }
-  },
-  {
     "titre": "Hen (Kota)",
     "annee": 2025,
     "duree_minutes": 96,
@@ -1188,10 +1081,6 @@
     "synopsis": "Alors que nous suivons l’histoire aventureuse d’une poule désespérée qui élève seule sa famille, une terrible tragédie humaine se déroule en arrière-plan.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
-      {
-        "heure": "11/09 14:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 21:35",
         "cinema": "Palace"
@@ -1543,7 +1432,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-293636/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 1165
+      "nb_notes_spectateurs": 1167
     }
   },
   {
@@ -1556,10 +1445,6 @@
     "synopsis": "Avant de devenir l’un des super-auteurs les plus prestigieux au monde avec la saga Dune, Denis Villeneuve réalisait en 2010 ce drame politique et intimiste stupéfiant, articulé autour d’un conflit entre chrétiens et musulmans durant une guerre civile dans un pays imaginaire. Inutile de dire que 16 ans plus tard, Incendies n’a rien perdu de sa puissance !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6555033d-35a1-4fd4-9b00-1ca0a4e12a8a.jpg",
     "seances": [
-      {
-        "heure": "11/09 21:35",
-        "cinema": "Palace"
-      },
       {
         "heure": "14/09 11:30",
         "cinema": "Palace"
@@ -1918,25 +1803,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-310112/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 2524
+      "nb_notes_spectateurs": 2528
     }
-  },
-  {
-    "titre": "Kaijū sōshingeki (Destroy All Monsters)",
-    "annee": 1968,
-    "duree_minutes": 87,
-    "realisateurs": [
-      "Ishirō Honda"
-    ],
-    "synopsis": "Godzilla, le tyrannosaure au souffle de feu, en tête d’affiche de tout l’arsenal des monstres japonais, piétine allègrement les maquettes des grandes capitales ou affronte les extra-terrestres.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/74dff5f8-a9e2-45ee-a7c4-60776a9ba2e1.jpg",
-    "seances": [
-      {
-        "heure": "11/09 21:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Kokuho",
@@ -1948,14 +1816,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "11/09 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/09 20:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/09 15:10",
         "cinema": "Vendôme"
@@ -2205,14 +2065,6 @@
     "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
-      {
-        "heure": "11/09 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 21:05",
-        "cinema": "Cineflagey"
-      },
       {
         "heure": "12/09 11:00",
         "cinema": "Palace"
@@ -2513,7 +2365,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327993/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.7,
-      "nb_notes_spectateurs": 722
+      "nb_notes_spectateurs": 732
     }
   },
   {
@@ -2526,10 +2378,6 @@
     "synopsis": "Ludovic, un architecte quarantenaire à qui tout réussit, entame une idylle avec Nathalie, mère de deux jeunes filles. Au fur et à mesure que se tisse leur amour naissant, Ludovic se rapproche des filles avec lesquelles il noue des rapports de complicité inédits pour lui. Mais lorsque Nathalie décide de prendre ses distances avec Ludovic, ce dernier sent qu’il perd quelque chose qui le dépasse. Commence alors une terrible chute.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28060330-baf5-467f-91d7-671d09a12c24.jpg",
     "seances": [
-      {
-        "heure": "11/09 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 16:20",
         "cinema": "Palace"
@@ -2854,250 +2702,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-320681/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 221
-    }
-  },
-  {
-    "titre": "La Vie d'une femme",
-    "annee": 2026,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Charline Bourgeois-Tacquet"
-    ],
-    "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
-    "seances": [
-      {
-        "heure": "11/09 18:45",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "327941",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-327941/critiques/presse/",
-      "note_moyenne_presse": 3.7,
-      "nb_critiques_presse": 36,
-      "critiques_presse": [
-        {
-          "titre_presse": "Bande à part",
-          "note": 5.0,
-          "auteur": "Emmanuel Raspiengeas",
-          "citation": "Avec une caméra vibrante de sensualité sans jamais céder à la complaisance, et en refusant avec assurance le récit trop souvent attendu d’une passion amoureuse forcément destructrice pour lui préférer le spectacle apaisant d’une balade côte à côte, Charline Bourgeois-Taquet ajoute un magnifique chapitre à son étude au long cours des sentiments."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Léa Drucker et Mélanie Thierry sont vibrantes de talent dans cette belle histoire."
-        },
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 4.0,
-          "auteur": "Frédérique Lambert",
-          "citation": "Si le chapitrage paraît parfois superflu et certaines transitions un peu programmatiques, \"La Vie d’une femme\" impressionne par la justesse de ses situations et de ses interprètes."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 4.0,
-          "auteur": "Marguerite Baux",
-          "citation": "La beauté du film, mais aussi sa limite, étant de rester du côté mélancolique de la question : sans la passion, que vaut la vie ?"
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Il faudra la surprise d'une rencontre, d'un regard qui déstabilise. Si toutefois l'on se l'autorise, on prend le risque de cette liberté soudaine. Intéressant..."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Laurence Houot",
-          "citation": "Un hymne à l'intelligence, au courage à la joie des femmes."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "Léa Drucker est juste et sublime dans le rôle d’une chirurgienne (trop) dévouée."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 4.0,
-          "auteur": "Christophe Caron",
-          "citation": "Au final, cette romance inattendue en compétition à Cannes en mai ne se distingue pas par son absolue originalité, mais plutôt par sa faculté à placer ses interprètes dans une position d’excellence."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "É. N.",
-          "citation": "La Vie d’une femme est bâti en brefs chapitres dont aucun n’est raté. Comme son héroïne qui réconforte un patient atteint d’un cancer, le film trouve les mots justes."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Barbara Théate",
-          "citation": "Léa Drucker (...) est une nouvelle fois bouleversante de justesse et de simplicité."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Une nouvelle démonstration de Léa Drucker."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Florence Colombani",
-          "citation": "Un film sensible et délicat."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Dans son deuxième long-métrage, la réalisatrice des « Amours d'Anaïs » dresse le portrait vibrant d'une quinquagénaire d'aujourd'hui et offre à Léa Drucker un rôle à la hauteur de son talent."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Théo Ribeton",
-          "citation": "Le pari est (très) réussi avec \"La Vie d’une femme\", beau titre et beau portrait impressionniste d’une quinquagénaire incarnée idéalement par Léa Drucker."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Clément Colliaux",
-          "citation": "Sans révolutionner l’étude de personnage, notamment par ses inévitables scènes de crises de nerfs, la \"Vie d’une femme\" traverse sans encombre l’épreuve rebattue du « portrait de femme »."
-        },
-        {
-          "titre_presse": "Marie Claire",
-          "note": 4.0,
-          "auteur": "Philomène Piégay",
-          "citation": "[Un] film fin et sensible (...)."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 4.0,
-          "auteur": "Acarini",
-          "citation": "Un beau drame."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "Philippe Lemoine",
-          "citation": "Léa Drucker impériale."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Thierry Chèze",
-          "citation": "La Vie d’une femme épouse son rythme trépidant qui ne ralentit que dans ces moments d’intimité, où le désir et la volupté envahissent soudain sa vie donc l’écran. La réussite du geste repose sur une écriture au cordeau - symbolisée par une gestion tout en finesse des ellipses et au refus de tout sentimentalisme – mais aussi sur celle qui incarne Gabrielle."
-        },
-        {
-          "titre_presse": "So Film",
-          "note": 4.0,
-          "auteur": "Benjamin Cataliotti",
-          "citation": "Scandant les différents moments de cette existence, le récit la découpe en onze tableaux, onze blocs donc, plus opératiques qu’opératoires. Il serait simpliste, cependant, de considérer ces chapitres comme une succession de courts-métrages hermétiques. Aussi différents soient-ils, ces moments de vie sont tous traversés par un regard commun, tendre mais brûlant, qui n’est pas tant celui de Gabrielle que des autres femmes qui l’observent."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Julien Rousset",
-          "citation": "Un deuxième long-métrage acidulé et percutant, très actuel, branché sur l’époque, et en même temps d’une facture classique, littéraire."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 4.0,
-          "auteur": "Cédric Choukroun",
-          "citation": "Léa Drucker porte avec maestria ce film délicat, portrait d'une femme épanouie et actrice de sa vie."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 4.0,
-          "auteur": "C.C.",
-          "citation": "Léa Drucker porte avec maestria ce portrait délicat d'une femme épanouie et actrice de sa vie."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Louis Guichard",
-          "citation": "Avec élégance et profondeur, la réalisatrice des “Amours d’Anaïs” fait le portrait d’une chirurgienne quinquagénaire accomplie, ayant su façonner son existence selon ses idéaux. Un rôle qu’embrasse la comédienne avec une impressionnante virtuosité."
-        },
-        {
-          "titre_presse": "Version Femina",
-          "note": 4.0,
-          "auteur": "Hadrien Machart",
-          "citation": "Charline Bourgeois-Tacquet offre à Léa Drucker un rôle à la hauteur de sa nuance et aux âmes sensibles l’occasion de suivre, l’œil captif et le cœur battant, une héroïne en proie aux sentiments."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Laurent Cambon",
-          "citation": "Un beau film dense et gracieux."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 3.0,
-          "auteur": "Benjamin Bidolet",
-          "citation": "Léa Drucker surnage dans un drame romantique qui |un peu] manque de substance."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Yal Sadat",
-          "citation": "C’est le sujet du scénario : une femme n’a qu’une vie, et malgré la multiplicité des responsabilités, des aspirations, il faut choisir. Rien d’époustouflant, mais la subtilité gît dans le rapprochement des amantes, mis en scène sous forme d’à-coups furtifs en milieu hostile, les corps profitant d’être fondus dans la foule pour s’unir [...]. On voit ici combien la perspective de se réinventer à travers le désir est en soi précaire, aussi fugitive qu’un frôlement. En amour comme au travail, le temps manque."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 3.0,
-          "auteur": "Josué Morel",
-          "citation": "C'est le nœud assez fascinant de ce film sentimental qui ne voudrait pas paraître trop \"déconnecté\" : porté par une Léa Drucker brillant de mille feux, \"La Vie d'une femme\" n'est jamais meilleur que lorsqu'il assume sa nature fondamentalement bourgeoise."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 3.0,
-          "auteur": "Thibault Liessi",
-          "citation": "Probablement trop bourgeois pour être pleinement impliquant, La Vie d’une femme réussit pourtant son mélange entre comédie romantique et drame social grâce au talent de son rôle principal, Léa Drucker."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 3.0,
-          "auteur": "Charlotte Langrand",
-          "citation": "La Vie d'une femme souffre par moments d'ellipses quelque peu brutales. Mais il confirme la singularité gracieuse et cohérente de son autrice qui, d'un film à l'autre, tisse les mêmes motifs pour explorer intensément la condition féminine contemporaine."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 3.0,
-          "auteur": "Thibault Liessi",
-          "citation": "Mais ce qui permet à La Vie d’une femme de s’incarner, c’est Léa Drucker. Le film n’existerait pas sans elle. Tous les défauts précédemment énumérés fondent comme neige au soleil devant la facilité de la star à passer de la comédie romantique au drame social en un instant avec une humanité chevillée au corps. Celle d’une femme qui a vécu, qui vit et qui a encore à vivre."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Boris Bastide",
-          "citation": "Un portrait vif et alerte porté avec finesse par Léa Drucker."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Gilles Tourman",
-          "citation": "Paradoxe : des plus irritants lorsqu’il s’efforce en vain de déjouer ses impensés bourgeois, le nouveau film de l’autrice des Amours d’Anaïs convainc lorsqu’il s’y abandonne."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 2.0,
-          "auteur": "Perrine Quennesson",
-          "citation": "Plutôt confus et peu inspiré."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 2.0,
-          "auteur": "Céline Rouden",
-          "citation": "Léa Drucker impressionne, comme toujours, dans un film qui n’évite pas toujours les clichés."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327941/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 259
+      "nb_notes_spectateurs": 224
     }
   },
   {
@@ -3110,10 +2715,6 @@
     "synopsis": "Poussée par le désir de révéler un secret de famille profondément ancré, la réalisatrice Olga Lucovnicova décide de se rendre dans une petite ville située aux confins de l'Oural. Pendant ses recherches multiples en vue de renouer avec son passé, la Russie déclenche une guerre. Les voix vont-elles de nouveau être réduites au silence ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5ceca374-e0c7-47c8-b7c9-5a170d40129c.jpg",
     "seances": [
-      {
-        "heure": "11/09 16:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "13/09 16:20",
         "cinema": "Aventure"
@@ -3268,18 +2869,6 @@
     "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
-      {
-        "heure": "11/09 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 16:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 20:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 13:40",
         "cinema": "Vendôme"
@@ -3506,7 +3095,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000044063/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 1144
+      "nb_notes_spectateurs": 1145
     }
   },
   {
@@ -3519,14 +3108,6 @@
     "synopsis": "Mon voisin sonne souvent chez moi à l'improviste. Il s'appelle Christophe, il est bûcheron, passionné de foot, et en situation de handicap mental. Autour de lui : Gil, son meilleur ami, dont le cerveau grésille parfois comme une ligne téléphonique brouillée et Guillaume, dont la joie insouciante se heurte à ses désirs d’émancipation.\nBref, j’ai rencontré mon voisin - et un monde que je ne soupçonnais pas.\n\n",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
     "seances": [
-      {
-        "heure": "11/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 18:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/09 12:50",
         "cinema": "Aventure"
@@ -3791,8 +3372,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004679/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.5,
-      "nb_notes_spectateurs": 41
+      "note_moyenne_spectateurs": 2.4,
+      "nb_notes_spectateurs": 56
     }
   },
   {
@@ -3805,30 +3386,6 @@
     "synopsis": "À 16 ans, Lucia, jeune fille introvertie, rejoint la chorale de son école catholique et se lie d’amitié avec la charismatique Ana-Maria. Lors d’un week-end de répétitions dans un couvent isolé, son attirance pour un mystérieux restaurateur éveille en elle des désirs inattendus, mettant à l’épreuve sa foi, son amitié et son identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/67fb5fc7-c6da-47e0-8feb-dc11e32bbfc0.jpg",
     "seances": [
-      {
-        "heure": "11/09 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 14:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 16:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "11/09 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 18:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/09 13:40",
         "cinema": "Vendôme"
@@ -4233,7 +3790,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-14790/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 28145
+      "nb_notes_spectateurs": 28146
     }
   },
   {
@@ -4683,7 +4240,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000028234/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 6306
+      "nb_notes_spectateurs": 6318
     }
   },
   {
@@ -4758,8 +4315,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000021803/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 3
+      "note_moyenne_spectateurs": 4.0,
+      "nb_notes_spectateurs": 28
     }
   },
   {
@@ -4904,7 +4461,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017192/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 578
+      "nb_notes_spectateurs": 580
     }
   },
   {
@@ -4967,7 +4524,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-929/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 21203
+      "nb_notes_spectateurs": 21205
     }
   },
   {
@@ -5042,10 +4599,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/19719daa-a7b1-45cc-bd63-e81a19574de4.jpg",
     "seances": [
       {
-        "heure": "11/09 13:30",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "13/09 17:05",
         "cinema": "Palace"
       },
@@ -5070,93 +4623,6 @@
     }
   },
   {
-    "titre": "Practical Magic 2",
-    "annee": 2026,
-    "duree_minutes": 129,
-    "realisateurs": [
-      "Susanne Bier"
-    ],
-    "synopsis": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312b9008-0c8a-4e8d-8862-88721ee5606a.jpg",
-    "seances": [
-      {
-        "heure": "11/09 20:30",
-        "cinema": "Le Stockel"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000004679",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000004679/critiques/presse/",
-      "note_moyenne_presse": 1.8,
-      "nb_critiques_presse": 10,
-      "critiques_presse": [
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 3.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "[Un] film aussi farfelu que touchant, plein de légèreté, de charme et de tendresse."
-        },
-        {
-          "titre_presse": "Le Journal du Geek",
-          "note": 3.0,
-          "auteur": "Julie Hay",
-          "citation": "Les sœurs Owen continuent de nous envoûter... mais elles sont bien les seules. Dépossédée de sa caution nostalgie, son grain et son ambiance, Les Ensorceleuses 2 ne parvient pas à retrouver la magie de ses débuts. La faute à une intrigue qui veut trop en raconter, des dialogues étranges et une mise en scène qui manque d'idées."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 3.0,
-          "auteur": "Pascal Pinteau",
-          "citation": "Grâce au punch de ses stars, cette aventure divertit tout en traitant plutôt finement les thèmes de la résilience, des secrets de famille et de la succession des générations."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 2.0,
-          "auteur": "Antoine Desrues",
-          "citation": "L’exemple parfait de la suite déjà périmée, qui ne sait pas à qui s’adresser, et opte pour la voie du renoncement avec une mise en scène télévisuelle. Sandra Bullock et Nicole Kidman méritaient mieux."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 2.0,
-          "auteur": "Camille Nevers",
-          "citation": "La suite des \"Ensorceleuses\" trente ans après n’est pas meilleure que le film original, qui n’était pas bon. La faute bis à un scénario paresseux, délayé et hasardeux, qui se cherche un rythme en vain."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 1.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Susanne Bier fait entrer au chausse-pied les thèmes féministes du roman de Hoffman : l’émancipation des filles, le sacrifice des mères, le libre choix de vie."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 1.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Après l’amour interdit à ces femmes, les voici dans les bras de l’amour fou, avec une naïveté de conte de fées, d’une mièvrerie romantique sans magie."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 1.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Les sorcières Sandra Bullock et Nicole Kidman sont de retour, mais la magie ne prend pas. Cette suite du film original de 1998 s’avère navrante et un bien mauvais tour joué à ceux qui avaient apprécié le premier. Rien ne va."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 1.0,
-          "auteur": "Thierry Cheze",
-          "citation": "Et le duo Sandra Bullock-Nicole Kidman tout ça ? Le plus grand ratage du film – qui les collectionne – est de ne jamais réellement jouer sur leur complicité et leur humour. Au moins, un troisième épisode paraît compromis."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 1.0,
-          "auteur": "Cécile Mury",
-          "citation": "28 ans après un premier volet déjà niais mais divertissant, Sandra Bullock et Nicole Kidman reprennent leur rôle des sœurs Owens, les sorcières bien-aimées. Mais pour ce deuxième opus, la magie n’opère pas."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004679/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.5,
-      "nb_notes_spectateurs": 41
-    }
-  },
-  {
     "titre": "Pressure",
     "annee": 2026,
     "duree_minutes": 100,
@@ -5166,14 +4632,6 @@
     "synopsis": "Dans les soixante-douze heures précédant le Jour J, le chef météorologue britannique James Stagg est appelé à fournir les prévisions les plus importantes de l'histoire afin que les Alliés puissent débarquer sur les plages normandes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a5c53ad6-07b9-4057-82af-46f28e59103d.jpg",
     "seances": [
-      {
-        "heure": "11/09 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 19:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/09 15:00",
         "cinema": "Aventure"
@@ -5368,7 +4826,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004458/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 287
+      "nb_notes_spectateurs": 392
     }
   },
   {
@@ -5381,18 +4839,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "11/09 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 17:30",
-        "cinema": "Cineflagey"
-      },
       {
         "heure": "12/09 12:30",
         "cinema": "Aventure"
@@ -5434,38 +4880,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "11/09 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 19:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/09 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/09 13:00",
         "cinema": "Galeries"
@@ -5743,8 +5157,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 37
+      "note_moyenne_spectateurs": 3.8,
+      "nb_notes_spectateurs": 101
     }
   },
   {
@@ -5757,10 +5171,6 @@
     "synopsis": "Un ginkgo centenaire situé à l'université Philipps de Marbourg, en Allemagne, qui a été le témoin silencieux de trois époques différentes : 1908, 1972 et 2020.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/753bdb39-f35d-4080-bd50-34084c7decc2.jpg",
     "seances": [
-      {
-        "heure": "11/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 20:40",
         "cinema": "Palace"
@@ -5912,145 +5322,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-315015/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
       "nb_notes_spectateurs": 381
-    }
-  },
-  {
-    "titre": "Sketches of Frank Gehry",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "11/09 20:15",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "111325",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-111325/critiques/presse/",
-      "note_moyenne_presse": 3.7,
-      "nb_critiques_presse": 19,
-      "critiques_presse": [
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Eric Libiot",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 5.0,
-          "auteur": "Vincent Ostria",
-          "citation": "Monumental (...) Pollack parvient, avec ce film sans prétention tourné en partie en DV, à rendre l'architecture passionnante et accessible."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "Cette danse s'appuie sur un rythme, une musicalité de la création. tout à l'air si simple, si fluide."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Frédéric Strauss",
-          "citation": "(...) tout en ayant l'air de se balader avec Gehry, Pollack creuse et affine sans cesse le portrait de cet homme étonnant, attachant. (...) Il réussit à nous transmettre ce qui habite l'architecte : un désir, une joie de s'ouvrir au monde, de saisir l'énergie de la vie et de lui donner un toit."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 4.0,
-          "auteur": "Philippe Paumier",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Marie-Noëlle Tranchant",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 4.0,
-          "auteur": "Marie-Noëlle Tranchant",
-          "citation": "Rien de didactique, mais un savoureux petit film attentif et chaleureux, qui donne l'impression de participer à leur conversation."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Vincent Ostria",
-          "citation": "(...) le film de Pollack est une réussite, car, au lieu de regarder le travail d'un artiste de l'extérieur, on l'observe de l'intérieur."
-        },
-        {
-          "titre_presse": "MCinéma.com",
-          "note": 4.0,
-          "auteur": "Hugo de Saint Phalle",
-          "citation": "Cette exposition filmique reste (...) originale, attachante et parfois profonde, notamment quand Polack et Gehry s'interrogent sur le rapport délicat entre Art et obligations commerciales."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "La rédaction",
-          "citation": "Le documentaire, une première pour le cinéaste de Out of Africa. Une première également pour un architecte qui s'y était toujours refusé."
-        },
-        {
-          "titre_presse": "Score",
-          "note": 4.0,
-          "auteur": "Emmanuelle Spadacenta",
-          "citation": "(...) un très joli témoignage sur la cohabitation entre génie et marketing."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 4.0,
-          "auteur": "Thomas Baurez",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 4.0,
-          "auteur": "La rédaction",
-          "citation": "Sydney Pollack s'efface devant son sujet et son interlocuteur. Une humilité qui rend d'autant plus accessible au spectateur le processus complexe de la création."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Antoine Thirion",
-          "citation": "Réduit à un jeu de construction de maquettes indépendant de toute considération politique, esthétique ou théorique, le travail de Gehry ne sert qu'à entretenir le mythe d'une architecture indestructible (...) pure image d'une ville qu'aucun avion n'aurait jamais amputé de ses emblèmes d'héroïsme."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 3.0,
-          "auteur": "Florence Ben Sadoun",
-          "citation": "(...) Pollack capte le travail de l'architecte en train de se faire (...) On a juste envie d'en savoir un peu plus sur l'architecte Frank O. Gehry (...)"
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Ange-Dominique Bouzet",
-          "citation": "On n'est pas ici dans l'étude d'une architecture, mais dans un portrait qui flirte avec le panégyrique (...) Mais une bonne façon, pour les non spécialistes, de se faire une idée sur l'un des artistes les plus célèbres du moment."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Gaël Gohlen",
-          "citation": "Loin de retrouver le souffle de l'architecte (...), cette désinvolture donne au film un aspect trop brouillon pour être vraiment convaincant."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 2.0,
-          "auteur": "Jérôme Provencal",
-          "citation": "(...) le résultat, fruit d'un tournage étalé sur cinq ans, dénote un manque d'audace en contradiction flagrante avec la singularité lumineuse des oeuvres de Frank Gehry (...)"
-        },
-        {
-          "titre_presse": "Brazil",
-          "note": 1.0,
-          "auteur": "La rédaction",
-          "citation": "A oublier."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-111325/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 23
     }
   },
   {
@@ -6242,7 +5513,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 7927
+      "nb_notes_spectateurs": 7947
     }
   },
   {
@@ -6435,7 +5706,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 7927
+      "nb_notes_spectateurs": 7947
     }
   },
   {
@@ -6448,10 +5719,6 @@
     "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
-      {
-        "heure": "11/09 18:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/09 13:55",
         "cinema": "Palace"
@@ -6498,30 +5765,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "11/09 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 16:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/09 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "11/09 20:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 21:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 16:10",
         "cinema": "Galeries"
@@ -6747,10 +5990,6 @@
     "synopsis": "Les enfants d'un artiste autrefois célèbre engagent un faussaire pour achever certaines toiles inachevées et abandonnées depuis longtemps, afin de pouvoir toucher un héritage à sa mort.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
-      {
-        "heure": "11/09 16:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/09 20:55",
         "cinema": "Vendôme"
@@ -7170,7 +6409,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314503/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 2452
+      "nb_notes_spectateurs": 2465
     }
   },
   {
@@ -7224,14 +6463,6 @@
     "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
-      {
-        "heure": "11/09 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 18:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 16:10",
         "cinema": "Palace"
@@ -7430,7 +6661,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039625/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 266
+      "nb_notes_spectateurs": 267
     }
   },
   {
@@ -7443,10 +6674,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "11/09 20:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/09 12:50",
         "cinema": "Galeries"
@@ -7715,7 +6942,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 13056
+      "nb_notes_spectateurs": 13104
     }
   },
   {
@@ -7766,30 +6993,6 @@
     }
   },
   {
-    "titre": "The Son and the Sea",
-    "annee": 2024,
-    "duree_minutes": 99,
-    "realisateurs": [],
-    "synopsis": "Deux meilleurs amis, Jonah et Lee, partent en voyage sur la côte Nord-Est de l'Écosse, où Jonah espère échapper au chaos dans lequel il a plongé sa vie à Londres. Ils rencontrent Charlie, qui est sourd, et nouent une amitié qui finit par amener Jonah à découvrir le courage d'être vulnérable.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/51c539da-8455-4641-ba99-5fce0cd073cb.jpg",
-    "seances": [
-      {
-        "heure": "11/09 19:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000028062",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000028062/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000028062/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Tombé du Ciel",
     "annee": 2025,
     "duree_minutes": 92,
@@ -7799,10 +7002,6 @@
     "synopsis": "Ilyes mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : le bac. Après avoir échoué deux fois, c’est sa dernière chance de l’avoir et de rendre enfin fier ses parents. Mais un incendie survient pendant le bac blanc, et on l’accuse d’en être à l’origine… Exclu de son lycée, il doit quitter son quartier et aller dans le seul établissement qui l’accepte : le pensionnat catholique de Saint-Albert-le-Grand, en Bourgogne. Entre choc des cultures et quête de rédemption, Ilyes va devoir surmonter ses préjugés… Et ceux des autres.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5f743673-97b9-450c-8893-9a220a1d6fa1.png",
     "seances": [
-      {
-        "heure": "11/09 18:30",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "14/09 20:15",
         "cinema": "Le Stockel"
@@ -7859,7 +7058,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000032856/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 2834
+      "nb_notes_spectateurs": 2863
     }
   },
   {
@@ -8041,26 +7240,6 @@
     "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
-      {
-        "heure": "11/09 13:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/09 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/09 20:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/09 11:30",
         "cinema": "Palace"
@@ -8250,14 +7429,6 @@
     "synopsis": "Morville, trentenaire solitaire, est épuisé par un système qui l’a laissé tomber. Bien décidé à agir à sa façon, il devient Vigilante, soit un néo-justicier qui s’est donné pour but d’exposer et ruiner la vie des pédophiles qui trainent sur les réseaux sociaux.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d3693699-e17b-46d9-9369-1205f8464356.jpg",
     "seances": [
-      {
-        "heure": "11/09 14:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/09 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/09 14:10",
         "cinema": "Aventure"
@@ -8554,32 +7725,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-25300/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
       "nb_notes_spectateurs": 1014
-    }
-  },
-  {
-    "titre": "Zerkalo",
-    "annee": 1975,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "Andrej Tarkovskij"
-    ],
-    "synopsis": "Rien de plus subversif, de plus \"dissident\" que cet hymne visionnaire à la beauté de la vie dans un pays que l’histoire s’acharne à humilier, à offenser, en vain. Une autobiographie exaltée du réalisateur, évoquant le père-poète, la mère-épouse (jouée par la même actrice), la terre de son enfance, en un flot d’images onirico-affectives. Pour beaucoup, l’œuvre majeure de Tarkovski, visuellement époustouflante, est une vision contemplative qui fait appel à l’inconscient collectif de sorte que le miroir reflète des images-souvenir universelles.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fd59c280-ee7b-4e0f-96b6-5d733dd20622.jpg",
-    "seances": [
-      {
-        "heure": "13/09 19:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1822",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1822/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1822/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 779
     }
   },
   {

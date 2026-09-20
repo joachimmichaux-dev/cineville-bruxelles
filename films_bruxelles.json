@@ -58,22 +58,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "19/09 10:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/09 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 21:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/09 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "20/09 17:10",
         "cinema": "Aventure"
       },
@@ -108,22 +92,6 @@
     ]
   },
   {
-    "titre": "Aleksander Nevskiy",
-    "annee": 1938,
-    "duree_minutes": 108,
-    "realisateurs": [
-      "Sergei Mikhailovich Eisenstein"
-    ],
-    "synopsis": "Dans la Russie médiévale, l’affrontement guerrier du Prince Nevski et des Chevaliers teutoniques, s’achevant par la bataille légendaire sur le lac de Tchoudsk figé par les glaces. Eisenstein a conçu son épopée patriotique à la manière d’un opéra flamboyant, où la partition de Sergei Prokofiev se calquerait sur les images somptueuses du réalisateur, en une symbiose plastique et musicale unique au cinéma.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ceb5170-d061-48ab-978d-02dc57064cba.jpg",
-    "seances": [
-      {
-        "heure": "19/09 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Alice au pays des colons",
     "annee": null,
     "duree_minutes": null,
@@ -131,10 +99,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "19/09 16:10",
-        "cinema": "Galeries"
-      },
       {
         "heure": "20/09 13:40",
         "cinema": "Galeries"
@@ -171,22 +135,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "19/09 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 18:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 19:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 20:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "20/09 13:45",
         "cinema": "Vendôme"
@@ -252,10 +200,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "19/09 11:55",
-        "cinema": "Palace"
-      },
-      {
         "heure": "20/09 19:15",
         "cinema": "Palace"
       },
@@ -281,22 +225,6 @@
     "seances": [
       {
         "heure": "21/09 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Det hemmelighedsfulde X",
-    "annee": 1983,
-    "duree_minutes": 114,
-    "realisateurs": [
-      "Benjamin Christensen"
-    ],
-    "synopsis": "Un lieutenant de marine se fait voler des documents par un espion qui les utilise pour faire chanter son épouse. Benjamin Christensen (futur réalisateur de La Sorcellerie à travers les âges) fait preuve d’une invention et d’un raffinement digne de Feuillade.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/63c72617-c567-4892-a9b2-84c56899a2d9.jpeg",
-    "seances": [
-      {
-        "heure": "19/09 20:15",
         "cinema": "Cinematek"
       }
     ]
@@ -349,22 +277,6 @@
     ]
   },
   {
-    "titre": "Fremde Haut",
-    "annee": 2005,
-    "duree_minutes": 100,
-    "realisateurs": [
-      "Angelina Maccarone"
-    ],
-    "synopsis": "Fariba fuit l’Iran : sa relation lesbienne vient d’être exposée et le régime islamique lui réserve un châtiment violent. Lorsque sa requête d’asile auprès de l’État allemand est refusée, elle emprunte l’identité de son ami Siamak et commence une vie de travailleur ‘illégal’. À l’usine, elle rencontre Anne.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "19/09 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Hannah and her Sisters",
     "annee": 1986,
     "duree_minutes": 106,
@@ -391,10 +303,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cb69383e-bee6-416b-a221-9347572a86ad.jpg",
     "seances": [
       {
-        "heure": "19/09 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "21/09 11:15",
         "cinema": "Palace"
       },
@@ -415,28 +323,40 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/53107630-b2e0-43eb-8bb3-5290e89d5ea5.jpg",
     "seances": [
       {
-        "heure": "19/09 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "20/09 11:30",
         "cinema": "Palace"
       }
     ]
   },
   {
-    "titre": "Jaws - 4K",
-    "annee": 1975,
-    "duree_minutes": 124,
+    "titre": "Iron Sky",
+    "annee": 2012,
+    "duree_minutes": 89,
     "realisateurs": [
-      "Steven Spielberg"
+      "Timo Vuorensola"
     ],
-    "synopsis": "Lorsqu'un gigantesque grand requin blanc commence à menacer la petite communauté insulaire d'Amity, un chef de police, un scientifique marin et un pêcheur chevronné entreprennent de l'arrêter.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bb6d1c45-0c01-4bff-9092-82247da6147a.jpeg",
+    "synopsis": "Et si les nazis s’étaient planqués sur la face cachée de la Lune en 1945 pour revenir en 2018 ? Et si une chargée de com’ trouvait génial de les recruter pour la campagne de la présidente des USA, caricature plus vraie que nature de la républicaine Sarah Palin ? Hilarante satire qui tire à boulets rouges sur les fantasmes complotisto-ufologiques (telle la théorie fumeuse des \"OVNI du IIIe Reich\"), \"Iron Sky\" dénonce les similarités entre la propagande nazie et le discours politico-publicitaire des \"démocraties\" capitalistes modernes. Se payant le luxe d’aligner aussi bien Udo Kier (en fürher lunaire) que le groupe Laibach (qui signe la BO), ce film indépendant renoue avec l’exubérance subversive du cinéma d’exploitation des années 70. Et malgré son budget ridicule, il tient la dragée haute aux blockbusters insipides recyclant et édulcorant à l’infini la SF qui faisait rêver (et réfléchir).\n\nLa séance sera présentée par Daniel Paris-Clavel (rédacteur en chef de ChériBibi)",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4e656201-9511-4c48-891a-6f5b9d3f99d6.jpg",
     "seances": [
       {
-        "heure": "19/09 21:00",
-        "cinema": "Palace"
+        "heure": "26/09 21:30",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
+    "titre": "It Happened Here",
+    "annee": 1964,
+    "duree_minutes": 101,
+    "realisateurs": [
+      "Kevin Brownlow & Andrew Mollo"
+    ],
+    "synopsis": "Et si les nazis avaient envahit l’Angleterre en 1940 ? Quatre ans après, tandis que les fascistes britanniques jouent les supplétifs zélés des forces d’occupation allemandes, une infirmière irlandaise (jouée par une véritable infirmière irlandaise, Pauline Murray) s’enfonce servilement dans l’horreur par désir de \"sécurité\" et peur du \"désordre\"… Réalisé avec beaucoup de système D par deux adolescents au culot monstre, \"It Happened Here\" dépeint avec un réalisme glaçant comment une société s’accommode au quotidien des doctrines nationales-socialistes, entre résignation individualiste et collaboration active… Un cri d’alerte face à la banalisation du fascisme, qui fit scandale à sa sortie en brisant le mythe voulant qu’une telle chose (la collaboration notamment) \"ne pourrait pas arriver ici\".\n\nLa séance sera présentée par Daniel Paris-Clavel (rédacteur en chef de ChériBibi)\n\nps : nouveaux sous-titres français par le Nova.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/51bbccc5-c20b-4fb5-ac95-ed6623f33f79.jpg",
+    "seances": [
+      {
+        "heure": "26/09 19:00",
+        "cinema": "Nova"
       }
     ]
   },
@@ -451,10 +371,6 @@
     "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
-      {
-        "heure": "19/09 18:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "20/09 18:00",
         "cinema": "Galeries"
@@ -471,18 +387,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "19/09 12:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/09 15:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 20:20",
-        "cinema": "Galeries"
-      },
       {
         "heure": "20/09 15:30",
         "cinema": "Galeries"
@@ -516,14 +420,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
       {
-        "heure": "19/09 10:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 16:40",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "20/09 21:00",
         "cinema": "Palace"
       },
@@ -545,10 +441,6 @@
     "synopsis": "Une plume magique qui rend réel tout ce qu’elle écrit vient bouleverser la vie de Providence, 11 ans, et de son cochon d’Inde Airbag. Dotés de cet immense pouvoir, ils s’envolent pour un incroyable voyage…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a64c050-c213-4535-867a-b5e66f811ce1.jpg",
     "seances": [
-      {
-        "heure": "19/09 15:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "20/09 15:00",
         "cinema": "Palace"
@@ -581,38 +473,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "19/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 14:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 18:20",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "19/09 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 19:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "19/09 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "20/09 13:45",
         "cinema": "Vendôme"
@@ -708,22 +568,6 @@
     ]
   },
   {
-    "titre": "Last Letters from my Grandma",
-    "annee": 2026,
-    "duree_minutes": 94,
-    "realisateurs": [
-      "Olga Lucovnicova"
-    ],
-    "synopsis": "Poussée par le désir de révéler un secret de famille profondément ancré, la réalisatrice Olga Lucovnicova décide de se rendre dans une petite ville située aux confins de l'Oural. Pendant ses recherches multiples en vue de renouer avec son passé, la Russie déclenche une guerre. Les voix vont-elles de nouveau être réduites au silence ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5ceca374-e0c7-47c8-b7c9-5a170d40129c.jpg",
-    "seances": [
-      {
-        "heure": "19/09 11:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Last Things",
     "annee": 2023,
     "duree_minutes": 50,
@@ -750,10 +594,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
       {
-        "heure": "19/09 19:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "20/09 13:00",
         "cinema": "Palace"
       },
@@ -777,10 +617,6 @@
     "synopsis": "Mon voisin sonne souvent chez moi à l'improviste. Il s'appelle Christophe, il est bûcheron, passionné de foot, et en situation de handicap mental. Autour de lui : Gil, son meilleur ami, dont le cerveau grésille parfois comme une ligne téléphonique brouillée et Guillaume, dont la joie insouciante se heurte à ses désirs d’émancipation.\nBref, j’ai rencontré mon voisin - et un monde que je ne soupçonnais pas.\n\n",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
     "seances": [
-      {
-        "heure": "19/09 10:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "20/09 12:30",
         "cinema": "Aventure"
@@ -841,24 +677,6 @@
     ]
   },
   {
-    "titre": "Little Explorer!",
-    "annee": 2026,
-    "duree_minutes": 57,
-    "realisateurs": [],
-    "synopsis": "Une sélection des meilleurs courts métrages jeune public du Festival Anima 2026, avec plein d’animaux audacieux, des images et des techniques prodigieuses et, en bouquet final, un ourson nommé aux Oscars !",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6ef593b-6be6-4baf-baa3-041d2f9072e2.png",
-    "seances": [
-      {
-        "heure": "19/09 12:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "19/09 14:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Little Trouble Girls",
     "annee": 2025,
     "duree_minutes": 89,
@@ -897,14 +715,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
     "seances": [
       {
-        "heure": "19/09 10:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 13:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "20/09 13:45",
         "cinema": "Palace"
       }
@@ -937,22 +747,6 @@
       {
         "heure": "23/09 21:15",
         "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
-    "titre": "Nausicäa de la vallée du vent",
-    "annee": 1984,
-    "duree_minutes": 117,
-    "realisateurs": [
-      "Hayao Miyazaki"
-    ],
-    "synopsis": "Sur une Terre ravagée par la folie des hommes, une poignée d’humains a réussi à survivre dans une vallée protégée par le vent. Ce peuple agricole est pourtant menacé par une forêt toxique où seuls survivent des insectes géants. Ces quelques survivants voient un jour leur roi bien\u0002aimé assassiné et leur princesse Nausicaä faite prisonnière.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3b5ec4f2-9271-473a-9a3a-4c7ac93b793a.jpg",
-    "seances": [
-      {
-        "heure": "19/09 10:30",
-        "cinema": "Palace"
       }
     ]
   },
@@ -1004,22 +798,6 @@
     ]
   },
   {
-    "titre": "Per qualche dollaro in più",
-    "annee": 1965,
-    "duree_minutes": 131,
-    "realisateurs": [
-      "Sergio Leone"
-    ],
-    "synopsis": "Un univers de canailles cupides et de chasseurs de prime, avec humour macabre, sophistication de la violence et confirmation d'un Clint Eastwood de BD pour adultes.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a5966689-151c-4854-918f-86e002db4ce9.jpg",
-    "seances": [
-      {
-        "heure": "19/09 21:30",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Peter Hujar's Day",
     "annee": 2026,
     "duree_minutes": 75,
@@ -1062,10 +840,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a5c53ad6-07b9-4057-82af-46f28e59103d.jpg",
     "seances": [
       {
-        "heure": "19/09 14:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "20/09 10:30",
         "cinema": "Aventure"
       },
@@ -1106,14 +880,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "19/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 15:15",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "20/09 11:00",
         "cinema": "Aventure"
       },
@@ -1142,14 +908,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "19/09 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "20/09 21:30",
         "cinema": "Aventure"
       },
@@ -1177,30 +935,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "19/09 14:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 17:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 17:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 19:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "20/09 13:40",
         "cinema": "Vendôme"
@@ -1344,22 +1078,6 @@
     ]
   },
   {
-    "titre": "Spider-Man : Brand New Day",
-    "annee": 2026,
-    "duree_minutes": 198,
-    "realisateurs": [
-      "Destin Daniel Cretton"
-    ],
-    "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/33e102a0-27d7-4d93-8a66-6b02498afcd3.jpg",
-    "seances": [
-      {
-        "heure": "19/09 15:25",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Spider-Man: Brand New Day",
     "annee": 2026,
     "duree_minutes": 200,
@@ -1406,10 +1124,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
       {
-        "heure": "19/09 14:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "20/09 14:00",
         "cinema": "Palace"
       }
@@ -1442,14 +1156,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
       {
-        "heure": "19/09 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 20:50",
-        "cinema": "Palace"
-      },
-      {
         "heure": "20/09 16:15",
         "cinema": "Palace"
       },
@@ -1480,22 +1186,6 @@
     ]
   },
   {
-    "titre": "Terminator 2: Judgment Day",
-    "annee": 1991,
-    "duree_minutes": 136,
-    "realisateurs": [
-      "James Cameron"
-    ],
-    "synopsis": "Arnold Schwarzenegger joue un vétuste T-800 renvoyé dans le temps pour sauver le futur sauveur de l’humanité des griffes acérées du T-1000, un robot bien plus avancé et constitué de métal liquide ! Ce carton au box-office a beau porter un message de paix, il n’en est pas moins rempli de poursuites, explosions et effets spéciaux hallucinants.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/713596c1-0946-4099-bb48-6df40e277a56.PNG",
-    "seances": [
-      {
-        "heure": "19/09 11:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "The Christophers",
     "annee": 2026,
     "duree_minutes": 100,
@@ -1505,10 +1195,6 @@
     "synopsis": "Les enfants d'un artiste autrefois célèbre engagent un faussaire pour achever certaines toiles inachevées et abandonnées depuis longtemps, afin de pouvoir toucher un héritage à sa mort.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/015519f8-9e8d-45f5-9082-d7b5c7d80dfe.jpg",
     "seances": [
-      {
-        "heure": "19/09 21:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "20/09 16:00",
         "cinema": "Vendôme"
@@ -1599,66 +1285,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "19/09 13:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 15:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/09 15:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 17:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 19:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/09 19:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "19/09 21:10",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "19/09 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 21:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "20/09 13:15",
         "cinema": "Galeries"
@@ -1820,14 +1446,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
       {
-        "heure": "19/09 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 21:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "20/09 13:45",
         "cinema": "Palace"
       },
@@ -1864,10 +1482,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
       {
-        "heure": "19/09 20:30",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "20/09 15:45",
         "cinema": "Vendôme"
       },
@@ -1899,14 +1513,6 @@
     "synopsis": "Un préadolescent maladroit sur le plan social doit faire face à la hiérarchie impitoyable d'un stage de water-polo, et son anxiété se transforme en véritable tourmente psychologique au cours de l'été.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/16d88a0c-53c3-4fff-92fc-9f8882579837.jpg",
     "seances": [
-      {
-        "heure": "19/09 13:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/09 19:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "20/09 15:30",
         "cinema": "Aventure"
@@ -1989,10 +1595,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0b11325-f8a9-4c21-805c-73e8293dc1d3.jpg",
     "seances": [
       {
-        "heure": "19/09 13:45",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "20/09 13:45",
         "cinema": "Vendôme"
       },
@@ -2012,22 +1614,6 @@
     "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
-      {
-        "heure": "19/09 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/09 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/09 19:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "20/09 16:00",
         "cinema": "Palace"
@@ -2085,28 +1671,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8df2b6d7-54bf-4054-a157-9bbe2f256b23.jpg",
     "seances": [
       {
-        "heure": "19/09 20:00",
-        "cinema": "Nova"
-      },
-      {
         "heure": "24/09 20:00",
         "cinema": "Nova"
-      }
-    ]
-  },
-  {
-    "titre": "Wait Until Spring, Bandini",
-    "annee": 1989,
-    "duree_minutes": 103,
-    "realisateurs": [
-      "Dominique Deruddere"
-    ],
-    "synopsis": "Entre espoir et désespoir, dans une atmosphère sombre et pesante, une émouvante chronique familiale dans le Colorado de 1925 à travers la crise d’un couple d’immigré·es italien·nes. Réunissant un casting de haut vol – Faye Dunaway, Joe Montagna et Ornella Mutti, l’adaptation par Dominique Deruddere du chef-d’œuvre de John Fante, dont Coppola supervisa la production.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cf2d21eb-4a32-4314-8a58-e58c5f93d9bb.jfif",
-    "seances": [
-      {
-        "heure": "19/09 17:00",
-        "cinema": "Cinematek"
       }
     ]
   },

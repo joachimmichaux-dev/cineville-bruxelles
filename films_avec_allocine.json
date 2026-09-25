@@ -157,18 +157,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "24/09 15:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 21:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "24/09 21:10",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "25/09 12:15",
         "cinema": "Galeries"
       },
@@ -221,7 +209,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12235
+      "nb_notes_spectateurs": 12238
     }
   },
   {
@@ -232,10 +220,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "24/09 16:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "25/09 16:15",
         "cinema": "Galeries"
@@ -397,7 +381,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-64439/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 70365
+      "nb_notes_spectateurs": 70368
     }
   },
   {
@@ -439,6 +423,10 @@
       {
         "heure": "26/09 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "01/10 20:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": {
@@ -462,14 +450,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "24/09 15:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "25/09 18:10",
         "cinema": "Vendôme"
@@ -602,7 +582,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000027149/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 160
+      "nb_notes_spectateurs": 161
     }
   },
   {
@@ -628,7 +608,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2461/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 10025
+      "nb_notes_spectateurs": 10027
     }
   },
   {
@@ -641,14 +621,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "24/09 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "25/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "26/09 21:05",
         "cinema": "Palace"
@@ -867,10 +839,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dad2948b-f71d-44e6-bf86-a02bb7dec59e.png",
     "seances": [
       {
-        "heure": "24/09 20:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "26/09 18:00",
         "cinema": "Cinematek"
       }
@@ -905,54 +873,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "24/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 14:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 17:45",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "24/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 21:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/09 14:00",
         "cinema": "Vendôme"
@@ -1178,7 +1098,7 @@
       "allocine_id": "1000026039",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/presse/",
       "note_moyenne_presse": 3.5,
-      "nb_critiques_presse": 34,
+      "nb_critiques_presse": 35,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -1251,6 +1171,12 @@
           "note": 4.0,
           "auteur": "Adrien Gombeaud",
           "citation": "Un film sensible, porté par une prestation flamboyante d'Adèle Exarchopoulos, qui interroge les addictions, les réalités du monde du spectacle et la place de l'amour face à la détresse de la maladie."
+        },
+        {
+          "titre_presse": "Marianne",
+          "note": 4.0,
+          "auteur": "Carlos Gomez",
+          "citation": "Un film réussi sur le sujet difficile."
         },
         {
           "titre_presse": "Ouest France",
@@ -1387,7 +1313,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 202
+      "nb_notes_spectateurs": 405
     }
   },
   {
@@ -1433,32 +1359,6 @@
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Hannah and Her Sisters",
-    "annee": 1986,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "Woody Allen"
-    ],
-    "synopsis": "Dans la lignée des trois sœurs tchekhoviennes, les problèmes sentimentalo-conjugaux d’un clan familial, mêlant intimisme et mal de vivre, humour crispé et mélancolie distanciée. Woody Allen (également interprète) au sommet de son art, jonglant avec brio entre plusieurs intrigues grâce à une distribution impeccable, dont Diane Wiest et Michael Caine, tous deux oscarisés.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e011606f-3528-4ba9-a32b-83f7570a4e56.jpg",
-    "seances": [
-      {
-        "heure": "24/09 21:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1810",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1810/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1810/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1278
-    }
   },
   {
     "titre": "Heart of the Beast",
@@ -1650,7 +1550,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 157
+      "nb_notes_spectateurs": 296
     }
   },
   {
@@ -1893,7 +1793,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000009982/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 3604
+      "nb_notes_spectateurs": 3609
     }
   },
   {
@@ -2112,7 +2012,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-293636/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 1187
+      "nb_notes_spectateurs": 1189
     }
   },
   {
@@ -2204,10 +2104,6 @@
     "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
-      {
-        "heure": "24/09 19:15",
-        "cinema": "Galeries"
-      },
       {
         "heure": "26/09 18:30",
         "cinema": "Galeries"
@@ -2408,33 +2304,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-310112/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 2583
-    }
-  },
-  {
-    "titre": "Kings of the Sky",
-    "annee": 2004,
-    "duree_minutes": 68,
-    "realisateurs": [
-      "Deborah Stratman"
-    ],
-    "synopsis": "Deborah Stratman, connue aussi pour ses films expérimentaux, a suivi pendant quatre mois la troupe d’Adil Hoxur le dernier descendant d’une lignée de funambules adulée par les Ouïghours. Avec une attention particulière au quotidien et faisant fi de commentaires, la cinéaste nous livre un portrait loin de tout exotisme. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a27936d5-2c0a-4623-bcf1-ff716f3c5714.jpg",
-    "seances": [
-      {
-        "heure": "24/09 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "193523",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-193523/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-193523/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "nb_notes_spectateurs": 2584
     }
   },
   {
@@ -2447,10 +2317,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "24/09 15:15",
-        "cinema": "Galeries"
-      },
       {
         "heure": "25/09 14:45",
         "cinema": "Galeries"
@@ -2646,10 +2512,6 @@
     "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
-      {
-        "heure": "24/09 20:35",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/09 16:00",
         "cinema": "Palace"
@@ -2934,7 +2796,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327993/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.7,
-      "nb_notes_spectateurs": 881
+      "nb_notes_spectateurs": 885
     }
   },
   {
@@ -3272,7 +3134,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-320681/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 254
+      "nb_notes_spectateurs": 255
     }
   },
   {
@@ -3285,30 +3147,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "24/09 14:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 14:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 19:10",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "24/09 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "25/09 13:45",
         "cinema": "Vendôme"
@@ -3671,7 +3509,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327941/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1274
+      "nb_notes_spectateurs": 1312
     }
   },
   {
@@ -3736,10 +3574,6 @@
     "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
-      {
-        "heure": "24/09 16:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/09 21:20",
         "cinema": "Palace"
@@ -4073,32 +3907,6 @@
     }
   },
   {
-    "titre": "Le chantier des gosses",
-    "annee": 1956,
-    "duree_minutes": 76,
-    "realisateurs": [
-      "Jean Harlez"
-    ],
-    "synopsis": "Dans un quartier populaire bruxellois, des enfants défendent leur terrain vague menacé par d’étranges visiteurs en chapeaux mous armés de plans.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/35963fb9-8245-4510-bd42-90997fd55b08.png",
-    "seances": [
-      {
-        "heure": "24/09 15:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000017891",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000017891/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017891/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Le ciel est à vous",
     "annee": 1943,
     "duree_minutes": 106,
@@ -4252,35 +4060,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019329/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
       "nb_notes_spectateurs": 14
-    }
-  },
-  {
-    "titre": "Leviticus",
-    "annee": 2026,
-    "duree_minutes": 0,
-    "realisateurs": [
-      "Adrian Chiarella",
-      "Sarah Vaughan",
-      "Matty Barker",
-      "Oli"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
-    "seances": [
-      {
-        "heure": "24/09 19:30",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000037443",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000037443/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037443/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
     }
   },
   {
@@ -4677,7 +4456,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-14790/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 28175
+      "nb_notes_spectateurs": 28180
     }
   },
   {
@@ -4729,32 +4508,6 @@
       "nb_critiques_presse": 0,
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-130175/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
-    "titre": "Notre Salut",
-    "annee": 2026,
-    "duree_minutes": 155,
-    "realisateurs": [
-      "Emmanuel Marre"
-    ],
-    "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
-    "seances": [
-      {
-        "heure": "24/09 18:00",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000007388",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
     }
@@ -4945,7 +4698,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-259606/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2663
+      "nb_notes_spectateurs": 2664
     }
   },
   {
@@ -4984,10 +4737,6 @@
     "synopsis": "Après sept ans de prison, Suleyman (Saïd Boumazoughe) revient dans l'immeuble délabré Paradijs, où sa mère malade (Fatima Khanfour) vit toujours sous la coupe du chef de gang Prince (Achmed Akkabi) et de son bras droit De Leeuw (Jamal Ben Saddik). Son retour coïncide avec une descente de police violente, transformant le bâtiment en véritable zone de guerre. Alors qu'il ne cherche qu'à sauver sa mère, Suleyman se retrouve pris au piège entre les bandes qui s'affrontent. Lorsqu'il sauve la jeune policière Yasmine (Clara Cleymans) d'une exécution, ils unissent leurs forces et se fraient un chemin à travers l'immeuble, où une confrontation sans merci les attend.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d5d9ba75-1aaa-4918-9dac-e60722e240a1.jpg",
     "seances": [
-      {
-        "heure": "24/09 12:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "25/09 21:30",
         "cinema": "Aventure"
@@ -5126,7 +4875,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-308394/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 95
+      "nb_notes_spectateurs": 96
     }
   },
   {
@@ -5336,7 +5085,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-110204/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 23795
+      "nb_notes_spectateurs": 23796
     }
   },
   {
@@ -5554,7 +5303,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004458/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 1445
+      "nb_notes_spectateurs": 1456
     }
   },
   {
@@ -5588,14 +5337,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "24/09 12:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 17:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "25/09 17:20",
         "cinema": "Aventure"
@@ -5736,7 +5477,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1352
+      "nb_notes_spectateurs": 1475
     }
   },
   {
@@ -5749,38 +5490,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "24/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 16:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 17:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "24/09 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 21:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "25/09 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/09 14:00",
         "cinema": "Vendôme"
@@ -6061,7 +5770,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 454
+      "nb_notes_spectateurs": 473
     }
   },
   {
@@ -6179,18 +5888,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "24/09 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "24/09 21:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "25/09 18:50",
         "cinema": "Cineflagey"
@@ -6338,8 +6035,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.8,
-      "nb_notes_spectateurs": 18
+      "note_moyenne_spectateurs": 3.4,
+      "nb_notes_spectateurs": 47
     }
   },
   {
@@ -6698,7 +6395,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 8332
+      "nb_notes_spectateurs": 8353
     }
   },
   {
@@ -6742,10 +6439,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "24/09 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "25/09 16:15",
         "cinema": "Palace"
       },
@@ -6782,14 +6475,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "24/09 21:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "25/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/09 21:00",
         "cinema": "Palace"
@@ -6878,7 +6563,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024260/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 43
+      "nb_notes_spectateurs": 47
     }
   },
   {
@@ -6897,60 +6582,6 @@
     "allocine": null
   },
   {
-    "titre": "The Coffin Painter",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "24/09 19:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "The Holy Mountain",
-    "annee": 1973,
-    "duree_minutes": 115,
-    "realisateurs": [
-      "Alejandro Jodorowsky"
-    ],
-    "synopsis": "Un personnage christique erre dans un monde bizarre et grotesque, rempli d'images religieuses et sacrilèges. Il rencontre un alchimiste mystique qui l'accompagne dans sa quête de la montagne sacrée. En chemin, ils rencontrent sept individus représentant les planètes du système solaire, chacun avec ses propres obsessions et désirs.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c4344005-4c29-4994-9764-9151b73730b6.png",
-    "seances": [
-      {
-        "heure": "24/09 19:00",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "5539",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-5539/critiques/presse/",
-      "note_moyenne_presse": 4.5,
-      "nb_critiques_presse": 2,
-      "critiques_presse": [
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Olivier Père",
-          "citation": "Spectaculaire, filmé en Technicolor, La Montagne sacrée offre une expérience de spectateur assez unique, impressionnante par l'ampleur de son délire visuel et la beauté convulsive de ses images, obscénité, onirisme et vérité se mêlant dans un vaste champ poétique."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Nicolas Bauche",
-          "citation": "Cadrage, montage et réalisation, tout relève d'un sens aigu du cinéma (...)"
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-5539/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 876
-    }
-  },
-  {
     "titre": "The Invite",
     "annee": 2026,
     "duree_minutes": 107,
@@ -6960,58 +6591,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "24/09 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/09 13:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 18:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/09 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/09 20:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/09 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/09 14:00",
         "cinema": "Galeries"
@@ -7450,7 +7029,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 922
+      "nb_notes_spectateurs": 973
     }
   },
   {
@@ -7476,23 +7055,6 @@
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
     }
-  },
-  {
-    "titre": "The Leopard Men of Africa",
-    "annee": 1940,
-    "duree_minutes": 64,
-    "realisateurs": [
-      "Paul L. Hoefler"
-    ],
-    "synopsis": "Le photographe et cinéaste américain Paul L. Hoefler filme en 1928 et 1929 une tribu cannibale de chasseurs de léopards en Afrique centrale. Des 12.000 mètres de pellicule accumulés, résulte ce documentaire sensationnaliste qui est présenté sous la forme d’un film d’aventure.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "24/09 18:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "The Life and Death of Colonel Blimp",
@@ -7550,10 +7112,6 @@
     "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
-      {
-        "heure": "24/09 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/09 13:45",
         "cinema": "Palace"
@@ -7756,7 +7314,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039625/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 329
+      "nb_notes_spectateurs": 331
     }
   },
   {
@@ -8033,7 +7591,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 13719
+      "nb_notes_spectateurs": 13731
     }
   },
   {
@@ -8298,7 +7856,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2770/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 31641
+      "nb_notes_spectateurs": 31645
     }
   },
   {
@@ -8367,7 +7925,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000032856/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 3041
+      "nb_notes_spectateurs": 3046
     }
   },
   {
@@ -8380,14 +7938,6 @@
     "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
-      {
-        "heure": "24/09 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/09 21:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/09 17:00",
         "cinema": "Vendôme"
@@ -8553,75 +8103,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327942/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
       "nb_notes_spectateurs": 419
-    }
-  },
-  {
-    "titre": "Un lugar más grande",
-    "annee": 2025,
-    "duree_minutes": 115,
-    "realisateurs": [
-      "Nicolás Défossé"
-    ],
-    "synopsis": "Au Chiapas, dans le sud du Mexique, le village maya ch’ol de Tila a chassé la mairie et la police de son territoire. Reste alors à faire vivre, jour après jour, une autonomie qui ne se décrète pas. Nicolas Défossé filme cette expérience d’autogouvernement au plus près de celles et ceux qui la construisent : assemblées, justice communautaire, travaux collectifs, fêtes, désaccords et décisions partagées. Héritière des luttes zapatistes, cette organisation politique se révèle ici moins comme une utopie que comme une pratique concrète, fragile et exigeante. Dans la tradition du cinéma direct, \"Un lugar más grande\" ne cherche ni héros ni discours explicatif : il observe les gestes, les paroles, les paysages et les liens qui composent une communauté. Un film ample et attentif sur ce que signifie reprendre collectivement prise sur sa propre existence, et inventer d’autres formes de vie commune.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8df2b6d7-54bf-4054-a157-9bbe2f256b23.jpg",
-    "seances": [
-      {
-        "heure": "24/09 20:00",
-        "cinema": "Nova"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000031603",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000031603/critiques/presse/",
-      "note_moyenne_presse": 3.4,
-      "nb_critiques_presse": 7,
-      "critiques_presse": [
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Vincent Ostria",
-          "citation": "On apprécie sans le comprendre complètement cet éclairage ponctuel et brut sur le problème du Chiapas et de ses habitants, en porte-à-faux par rapport aux élites occidentalisées de Mexico."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Simon Hoareau",
-          "citation": "La force du documentaire tient à son approche in situ, évacuant de fait tout surplomb occidentalo-centré."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Laura Tuillier",
-          "citation": "Immersion dans la vie d’un territoire mexicain autogéré sur fond de violences paramilitaires, le documentaire du Français Nicolas Défossé brosse avec précision le casse-tête de la démocratie locale."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 3.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Sciemment, le metteur en scène choisit de se limiter à la période de construction du processus, sans montrer, sauf lors d'un hommage final, la montée des conflits armés et les assassinats qui résultèrent de cette expérience. Une option qui permet de poser cette autonomie comme une possibilité, loin des éternels tricheurs qui tente d'acheter son échec."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Claire Allouche",
-          "citation": "Un lugar más grande pâtit presque d’un d’excès de respect: en accordant une importance presque égale à tout ce qui est filmé et monté, il dilue le point de vue sur les événements."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Nicolas Moreno",
-          "citation": "Le sous-commandant Marcos distinguait deux états : le travail et la poésie. Le film l’illustre parfaitement, en montrant comment les zapatistes cherchent à partager le travail pour profiter au plus de la vie, malgré la menace étatique qui rôde, partout autour."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Victor Laye",
-          "citation": "Un documentaire exigeant, qui donne à voir une application concrète du zapatisme au Mexique, mais aurait nécessité davantage de contextualisation."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000031603/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 26
     }
   },
   {

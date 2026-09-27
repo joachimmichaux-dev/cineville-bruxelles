@@ -24,14 +24,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "26/09 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 21:15",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "27/09 16:50",
         "cinema": "Aventure"
       },
@@ -72,26 +64,6 @@
     ]
   },
   {
-    "titre": "Belle",
-    "annee": 2020,
-    "duree_minutes": 126,
-    "realisateurs": [
-      "Mamoru Hosoda"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d240d2ad-7b71-40a7-8756-9179979bfcee.jpg",
-    "seances": [
-      {
-        "heure": "26/09 16:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/09 11:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Big Trouble in Little China",
     "annee": 1986,
     "duree_minutes": 99,
@@ -118,10 +90,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b27fb97b-f8b3-4f18-87e9-72486f72f2e7.jpg",
     "seances": [
       {
-        "heure": "26/09 20:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "01/10 20:00",
         "cinema": "Cinematek"
       }
@@ -137,14 +105,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "26/09 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "27/09 21:10",
         "cinema": "Vendôme"
@@ -190,10 +150,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "26/09 21:05",
-        "cinema": "Palace"
-      },
-      {
         "heure": "27/09 17:15",
         "cinema": "Palace"
       },
@@ -226,37 +182,6 @@
     ]
   },
   {
-    "titre": "Comme un château fort",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "26/09 15:30",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "Diagonalsymphonien + Terje Vigen",
-    "annee": 0,
-    "duree_minutes": 51,
-    "realisateurs": [
-      "Viking Eggeling",
-      "Victor Sjöström"
-    ],
-    "synopsis": "Symphonie diagonale de l’artiste suédois Viking Eggeling est un des premiers films abstraits de l’histoire. Suivi de Terje Vigen ou la splendide transposition exaltée d’un poème d’Ibsen, où Sjöström interprète lui-même un pêcheur prisonnier des Anglais et rêvant de vengeance. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dad2948b-f71d-44e6-bf86-a02bb7dec59e.png",
-    "seances": [
-      {
-        "heure": "26/09 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Garance",
     "annee": 2026,
     "duree_minutes": 106,
@@ -266,58 +191,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "26/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 14:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 19:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 21:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 10:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 10:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/09 14:00",
         "cinema": "Vendôme"
@@ -494,38 +367,6 @@
     ]
   },
   {
-    "titre": "I Swear",
-    "annee": 0,
-    "duree_minutes": 121,
-    "realisateurs": [
-      "Kirk Jones"
-    ],
-    "synopsis": "Dans les années 1980, John Davidson grandit avec le syndrome de Gilles de la Tourette, une pathologie encore largement méconnue. Entre incompréhension, stigmatisation et détermination, son parcours d’abord semé d'embûches se transforme en combat pour être reconnu tel qu’il est, au-delà des préjugés.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c26046c1-0e94-42e2-b93b-07e603a68924.jpg",
-    "seances": [
-      {
-        "heure": "27/09 10:15",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "In Waves",
-    "annee": 2026,
-    "duree_minutes": 91,
-    "realisateurs": [
-      "Phuong Mai Nguyen"
-    ],
-    "synopsis": "A Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/53107630-b2e0-43eb-8bb3-5290e89d5ea5.jpg",
-    "seances": [
-      {
-        "heure": "26/09 16:15",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Ingmarssönerna",
     "annee": 1918,
     "duree_minutes": 143,
@@ -542,38 +383,6 @@
     ]
   },
   {
-    "titre": "Iron Sky",
-    "annee": 2012,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Timo Vuorensola"
-    ],
-    "synopsis": "Et si les nazis s’étaient planqués sur la face cachée de la Lune en 1945 pour revenir en 2018 ? Et si une chargée de com’ trouvait génial de les recruter pour la campagne de la présidente des USA, caricature plus vraie que nature de la républicaine Sarah Palin ? Hilarante satire qui tire à boulets rouges sur les fantasmes complotisto-ufologiques (telle la théorie fumeuse des \"OVNI du IIIe Reich\"), \"Iron Sky\" dénonce les similarités entre la propagande nazie et le discours politico-publicitaire des \"démocraties\" capitalistes modernes. Se payant le luxe d’aligner aussi bien Udo Kier (en fürher lunaire) que le groupe Laibach (qui signe la BO), ce film indépendant renoue avec l’exubérance subversive du cinéma d’exploitation des années 70. Et malgré son budget ridicule, il tient la dragée haute aux blockbusters insipides recyclant et édulcorant à l’infini la SF qui faisait rêver (et réfléchir).\n\nLa séance sera présentée par Daniel Paris-Clavel (rédacteur en chef de ChériBibi)",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4e656201-9511-4c48-891a-6f5b9d3f99d6.jpg",
-    "seances": [
-      {
-        "heure": "26/09 21:30",
-        "cinema": "Nova"
-      }
-    ]
-  },
-  {
-    "titre": "It Happened Here",
-    "annee": 1964,
-    "duree_minutes": 101,
-    "realisateurs": [
-      "Kevin Brownlow & Andrew Mollo"
-    ],
-    "synopsis": "Et si les nazis avaient envahit l’Angleterre en 1940 ? Quatre ans après, tandis que les fascistes britanniques jouent les supplétifs zélés des forces d’occupation allemandes, une infirmière irlandaise (jouée par une véritable infirmière irlandaise, Pauline Murray) s’enfonce servilement dans l’horreur par désir de \"sécurité\" et peur du \"désordre\"… Réalisé avec beaucoup de système D par deux adolescents au culot monstre, \"It Happened Here\" dépeint avec un réalisme glaçant comment une société s’accommode au quotidien des doctrines nationales-socialistes, entre résignation individualiste et collaboration active… Un cri d’alerte face à la banalisation du fascisme, qui fit scandale à sa sortie en brisant le mythe voulant qu’une telle chose (la collaboration notamment) \"ne pourrait pas arriver ici\".\n\nLa séance sera présentée par Daniel Paris-Clavel (rédacteur en chef de ChériBibi)\n\nps : nouveaux sous-titres français par le Nova.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/51bbccc5-c20b-4fb5-ac95-ed6623f33f79.jpg",
-    "seances": [
-      {
-        "heure": "26/09 19:00",
-        "cinema": "Nova"
-      }
-    ]
-  },
-  {
     "titre": "Jim Queen",
     "annee": 2026,
     "duree_minutes": 85,
@@ -584,10 +393,6 @@
     "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
-      {
-        "heure": "26/09 18:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "27/09 18:20",
         "cinema": "Galeries"
@@ -612,14 +417,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "26/09 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 20:20",
-        "cinema": "Galeries"
-      },
       {
         "heure": "27/09 15:40",
         "cinema": "Vendôme"
@@ -649,59 +446,11 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
       {
-        "heure": "26/09 13:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "27/09 20:35",
         "cinema": "Palace"
       },
       {
         "heure": "29/09 20:35",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "L'ourse et l'oiseau",
-    "annee": 2026,
-    "duree_minutes": 42,
-    "realisateurs": [],
-    "synopsis": "Quatre ours, quatre contes, quatre saisons : qu’ils soient immenses, ensommeillés ou gourmands, les ours savent aussi être tendres. À leurs côtés, un oisillon malicieux, un petit lapin friand de noisettes ou encore un oiseau sentimental vivent des aventures extraordinaires. Tout doucement, ils découvrent le bonheur d’être ensemble.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a2983bb9-730e-4178-abf5-97f2cef443a9.jpg",
-    "seances": [
-      {
-        "heure": "27/09 10:00",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "La Baie des Anges",
-    "annee": 1963,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Jacques Demy"
-    ],
-    "synopsis": "Jean Fournier, un jeune employé de banque, découvre qu’un de ses collègues, Caron, est un joueur invétéré qui vient de gagner gros au casino.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/35ec6b2e-16e4-424c-9b90-57282e9e634e.jpg",
-    "seances": [
-      {
-        "heure": "26/09 17:10",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "La Fille dans les nuages",
-    "annee": 2026,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Une plume magique qui rend réel tout ce qu’elle écrit vient bouleverser la vie de Providence, 11 ans, et de son cochon d’Inde Airbag. Dotés de cet immense pouvoir, ils s’envolent pour un incroyable voyage…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a64c050-c213-4535-867a-b5e66f811ce1.jpg",
-    "seances": [
-      {
-        "heure": "26/09 15:00",
         "cinema": "Palace"
       }
     ]
@@ -732,34 +481,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "26/09 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 14:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "26/09 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "27/09 13:30",
         "cinema": "Vendôme"
@@ -847,22 +568,6 @@
     ]
   },
   {
-    "titre": "Le Corset",
-    "annee": 2026,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Louis Clichy"
-    ],
-    "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
-    "seances": [
-      {
-        "heure": "27/09 10:45",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
     "titre": "Le Vertige",
     "annee": 2026,
     "duree_minutes": 68,
@@ -872,14 +577,6 @@
     "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
-      {
-        "heure": "26/09 13:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 14:00",
-        "cinema": "Cineflagey"
-      },
       {
         "heure": "27/09 21:15",
         "cinema": "Palace"
@@ -938,70 +635,6 @@
     "seances": [
       {
         "heure": "27/09 15:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Les contes du Pommier",
-    "annee": 2026,
-    "duree_minutes": 70,
-    "realisateurs": [],
-    "synopsis": "Lors d’un week-end chez son grand-père, Suzanne, 8 ans, se découvre un talent de conteuse. Pour apporter un peu de magie dans la maison et adoucir l’absence de leur grand-mère, elle embarque ses frères Tom et Derek dans des histoires fabuleuses qu’elle invente au fil des jours. D'abord un peu grognon, leur grand-père se laisse entraîner. Ensemble, ils transforment ces moments en une parenthèse pleine d’imagination, de complicité et de tendresse. Et chacun retrouve le goût de rêver. Une adaptation de trois contes écrits par Arnost Goldflam.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/905c5904-f96a-4064-9b35-bff6074a30db.jpg",
-    "seances": [
-      {
-        "heure": "27/09 11:00",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Linka Linka",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "26/09 19:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Loups tendres et loufoques",
-    "annee": 2019,
-    "duree_minutes": 52,
-    "realisateurs": [
-      "Anaïs Sorrentino",
-      "Arnaud Demuynck",
-      "Pascale Hecquet",
-      "Rémi Durin",
-      "Hugo Frassetto"
-    ],
-    "synopsis": "La Chouette du cinéma a rassemblé plusieurs courts métrages autour de la figure du grand méchant loup dans le programme \"Loups tendres et loufoques\", qui revisite cette figure dans les contes et les livres, avec humour et poésie, pour amener les petits dès 3 ans à le voir autrement...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
-    "seances": [
-      {
-        "heure": "27/09 10:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "L’ora di religione - Il sorriso di mia madre",
-    "annee": 2002,
-    "duree_minutes": 104,
-    "realisateurs": [
-      "Marco Bellocchio"
-    ],
-    "synopsis": "Un peintre à succès découvre les secrets de sa propre famille - dont l’hypocrisie révolte ses convictions libertaires - , lorsqu’on vient lui annoncer que l’Église entend béatifier sa mère. Un drame feutré dans lequel Bellocchio dénonce sans détours les travers de l’obscurantisme religieux. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/719eebfd-bedd-4773-9fa2-cf529a8310a9.jpg",
-    "seances": [
-      {
-        "heure": "26/09 17:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1066,6 +699,10 @@
       {
         "heure": "28/09 18:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "03/10 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1098,6 +735,10 @@
       {
         "heure": "28/09 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "03/10 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1111,10 +752,6 @@
     "synopsis": "Après sept ans de prison, Suleyman (Saïd Boumazoughe) revient dans l'immeuble délabré Paradijs, où sa mère malade (Fatima Khanfour) vit toujours sous la coupe du chef de gang Prince (Achmed Akkabi) et de son bras droit De Leeuw (Jamal Ben Saddik). Son retour coïncide avec une descente de police violente, transformant le bâtiment en véritable zone de guerre. Alors qu'il ne cherche qu'à sauver sa mère, Suleyman se retrouve pris au piège entre les bandes qui s'affrontent. Lorsqu'il sauve la jeune policière Yasmine (Clara Cleymans) d'une exécution, ils unissent leurs forces et se fraient un chemin à travers l'immeuble, où une confrontation sans merci les attend.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d5d9ba75-1aaa-4918-9dac-e60722e240a1.jpg",
     "seances": [
-      {
-        "heure": "26/09 12:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/09 12:30",
         "cinema": "Aventure"
@@ -1183,22 +820,6 @@
     ]
   },
   {
-    "titre": "Pressure",
-    "annee": 2026,
-    "duree_minutes": 100,
-    "realisateurs": [
-      "Anthony Maras"
-    ],
-    "synopsis": "Dans les soixante-douze heures précédant le Jour J, le chef météorologue britannique James Stagg est appelé à fournir les prévisions les plus importantes de l'histoire afin que les Alliés puissent débarquer sur les plages normandes.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a5c53ad6-07b9-4057-82af-46f28e59103d.jpg",
-    "seances": [
-      {
-        "heure": "26/09 18:00",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Res Nullius",
     "annee": 2026,
     "duree_minutes": 67,
@@ -1224,18 +845,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "26/09 12:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 17:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/09 15:00",
         "cinema": "Aventure"
@@ -1272,22 +881,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "26/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 16:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 19:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "27/09 15:40",
         "cinema": "Vendôme"
@@ -1369,12 +962,12 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "29/09 20:35",
-        "cinema": "Palace"
-      },
-      {
         "heure": "29/09 21:00",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "29/09 21:15",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1404,26 +997,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "26/09 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "26/09 21:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "26/09 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 10:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/09 14:20",
         "cinema": "Aventure"
@@ -1479,28 +1052,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/753bdb39-f35d-4080-bd50-34084c7decc2.jpg",
     "seances": [
       {
-        "heure": "27/09 11:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "28/09 11:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Spider-Man : Brand New Day",
-    "annee": 2026,
-    "duree_minutes": 198,
-    "realisateurs": [
-      "Destin Daniel Cretton"
-    ],
-    "synopsis": "C'est UN NOUVEAU JOUR pour Peter Parker. Désormais Spider-Man à plein temps luttant contre le crime, dans un monde qui ne se souvient plus de lui, et confronté à la douleur de voir ses anciens amis avancer sans lui, Peter traverse un changement qu'il pourrait ne pas être capable de maîtriser. Mais cette transformation pourrait aussi être la seule chose capable d'arrêter une nouvelle menace aussi terrifiante qu'inattendue qui pèse sur la ville et sur ceux qu'il aime : un puissant ennemi que personne ne peut même voir. Car si le monde ne se souvient plus de Peter Parker, lui ne l’a pas oublié…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/33e102a0-27d7-4d93-8a66-6b02498afcd3.jpg",
-    "seances": [
-      {
-        "heure": "26/09 13:00",
-        "cinema": "Le Stockel"
       }
     ]
   },
@@ -1515,12 +1068,24 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
       {
-        "heure": "27/09 10:45",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "27/09 16:15",
         "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Tales of the Wounded Land",
+    "annee": 2025,
+    "duree_minutes": 119,
+    "realisateurs": [
+      "Abbas Fahdel"
+    ],
+    "synopsis": "Pendant seize mois, Abbas Fahdel filme le sud du Liban, d’abord sous les bombardements israéliens, puis au moment du retour. Avec sa femme, l’artiste Nour Ballouk, et leur petite fille, il retrouve des villages éventrés, des maisons en ruine, des voisins, des morts, des arbres calcinés. Mais \"Tales of the Wounded Land\" refuse les images spectaculaires de la guerre. Il s’attarde sur ce qu’elle laisse derrière elle : des paysages devenus étrangers, des objets déplacés, des gestes quotidiens qui reprennent, des enfants qui continuent à jouer. Des fragments de poèmes écrits pendant les attaques accompagnent ce journal familial où l’intime se mêle sans cesse à l’Histoire. Après \"Homeland : Iraq Year Zero\", Fahdel filme une nouvelle fois au plus près des siens, avec une attention simple aux êtres et aux lieux. Comme si filmer permettait, sinon de réparer, du moins de retenir quelque chose de ce que la guerre cherche à effacer.\n\nPremière projection le 03.10, suivie d’une discussion avec Abbas Fahdel.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/801a2f11-278e-4228-99d3-dbefa4c3fb95.jpg",
+    "seances": [
+      {
+        "heure": "03/10 20:00",
+        "cinema": "Nova"
       }
     ]
   },
@@ -1534,14 +1099,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "26/09 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "28/09 11:45",
         "cinema": "Palace"
@@ -1566,10 +1123,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "26/09 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "27/09 21:00",
         "cinema": "Palace"
@@ -1612,50 +1165,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "26/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 13:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/09 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 17:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/09 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 19:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/09 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/09 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "27/09 13:00",
         "cinema": "Aventure"
@@ -1836,14 +1345,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
       {
-        "heure": "26/09 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 10:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "27/09 21:30",
         "cinema": "Palace"
       },
@@ -1871,14 +1372,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "26/09 15:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/09 20:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "27/09 17:45",
         "cinema": "Vendôme"
@@ -1954,36 +1447,6 @@
     ]
   },
   {
-    "titre": "The Untouchables",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "26/09 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Tombé du Ciel",
-    "annee": 2025,
-    "duree_minutes": 92,
-    "realisateurs": [
-      " Mohamed Hamidi"
-    ],
-    "synopsis": "Ilyes mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : le bac. Après avoir échoué deux fois, c’est sa dernière chance de l’avoir et de rendre enfin fier ses parents. Mais un incendie survient pendant le bac blanc, et on l’accuse d’en être à l’origine… Exclu de son lycée, il doit quitter son quartier et aller dans le seul établissement qui l’accepte : le pensionnat catholique de Saint-Albert-le-Grand, en Bourgogne. Entre choc des cultures et quête de rédemption, Ilyes va devoir surmonter ses préjugés… Et ceux des autres.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5f743673-97b9-450c-8893-9a220a1d6fa1.png",
-    "seances": [
-      {
-        "heure": "26/09 16:00",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Un Anno di Scuola",
     "annee": 2026,
     "duree_minutes": 102,
@@ -1993,18 +1456,6 @@
     "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
-      {
-        "heure": "26/09 11:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/09 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 11:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "27/09 13:30",
         "cinema": "Vendôme"
@@ -2040,22 +1491,6 @@
     ]
   },
   {
-    "titre": "Yi yi",
-    "annee": 2000,
-    "duree_minutes": 173,
-    "realisateurs": [
-      "Edward Yang"
-    ],
-    "synopsis": "Jouant sur la durée et l'entrelacement narratif d'une série d'intrigues familiales, une chronique polyphonique et intimiste à la fois, rigoureusement contée. Des personnages observés avec émotion, légèreté et tendresse, en un cérémonial alternant drame et drôlerie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/754fed6b-000c-4731-9cf0-934ff1386298.png",
-    "seances": [
-      {
-        "heure": "27/09 10:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Young Mr. Lincoln",
     "annee": 1939,
     "duree_minutes": 94,
@@ -2084,22 +1519,6 @@
       {
         "heure": "27/09 13:00",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Ziggy Stardust and the Spiders From Mars",
-    "annee": 1979,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "D.A. Pennebaker"
-    ],
-    "synopsis": "Le 3 juillet 1973, David Bowie, icône du rock, surprend ses fans et son groupe en annonçant qu'il donnera son dernier concert ce soir-là. Bowie se produirait encore, bien sûr, mais plus jamais sous le nom de Ziggy Stardust and the Spiders from Mars. Le documentariste D.A. Pennebaker était à Londres pour enregistrer une émission spéciale de trente minutes sur le spectacle de Bowie, mais il a été tellement captivé par l'artiste qu'il a décidé sur-le-champ de faire un film plus long.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/290667d5-ca0f-4650-be0c-f9c02cfeb90e.png",
-    "seances": [
-      {
-        "heure": "26/09 21:15",
-        "cinema": "Cinematek"
       }
     ]
   },

@@ -24,18 +24,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "27/09 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 20:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/09 12:15",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "28/09 21:15",
         "cinema": "Galeries"
       },
@@ -60,6 +48,40 @@
       {
         "heure": "29/09 16:20",
         "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "An Evening on Bordwell & Thompson",
+    "annee": 0,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Kristin Thompson",
+      "Anke Brouwers",
+      "Tom Paulus"
+    ],
+    "synopsis": "Une soirée consacrée aux spécialistes du cinéma David Bordwell et Kristin Thompson, avec des interventions de Tom Paulus (Universiteit Antwerpen) et Tomas Leyers (conservateur de la CINEMATEK), ainsi qu’un entretien avec Kristin Thompson mené par Anke Brouwers (KASK School of Arts/HoGent).",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "01/10 18:30",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Berg-Ejvind och hans hustru",
+    "annee": 1917,
+    "duree_minutes": 106,
+    "realisateurs": [
+      "Victor Sjöström"
+    ],
+    "synopsis": "Dans les paysages sauvages et décharnés de l’Islande, deux amants traqués aux prises avec la nature primitive. \"Le plus beau film du monde\", selon Louis Delluc. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/52dfdc09-3e6f-46c0-b47b-a5cd2c4747d7.jpg",
+    "seances": [
+      {
+        "heure": "04/10 15:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -106,10 +128,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
       {
-        "heure": "27/09 21:10",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "28/09 18:10",
         "cinema": "Vendôme"
       },
@@ -150,10 +168,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "27/09 17:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "28/09 14:45",
         "cinema": "Palace"
       },
@@ -168,16 +182,63 @@
     ]
   },
   {
-    "titre": "Chinatown Cha-Cha",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
+    "titre": "Ceux qui restent",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "The Afterlife of a Sacrifice\nRand Chmaitilly, 2025, LB, DCP, vo ar st ang, 36'\n\nJeune cinéaste anthropologue, Rand Chmaitilly est allée filmer ces femmes qui vouent leur vies à préserver la mémoire des hommes qui se sont sacrifiés pour la cause, la défense du territoire libanais contre l’envahisseur israélien - la cause chiite du Hezbollah. À travers archives, interviews, portraits, le film explore avec beaucoup de tact le deuil porté par ces femmes qui tressent autour du souvenir des martyrs qu’elles préservent non seulement une mémoire de la lutte collective mais aussi leur propre espace de résistance.\n\nUn cœur perdu et autres rêves de Beyrouth\nMaya Abdul Malak, 2023, FR-LB, DCP, vo ar st fr, 35'\n\nÀ Beyrouth, tandis que la mer souffle et que les murs s’effritent, hommes et femmes racontent des rêves que leurs aimés disparus viennent hanter. Livrés en voix off, dans une parole aussi intime qu’une confidence, ces récits s’étalent sur des images lumineuses de corps bien vivant ou sur la ville tremblante de ses blessures. Un film qui tisse l’invisible au visible, la vie à la mort, le passé au le présent, et se tient aussi près des ombres que des vivants qui les portent.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/40cb80ba-23a1-4854-98db-a734386a558f.jpg",
+    "seances": [
+      {
+        "heure": "04/10 20:30",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
+    "titre": "Come Back, Africa + An American in Sophiatown",
+    "annee": 0,
+    "duree_minutes": 155,
+    "realisateurs": [
+      "Lionel Rogosin",
+      "Earl Lloyd Ross"
+    ],
+    "synopsis": "Après avoir éprouvé sa méthode dans On the Bowery, Lionel Rogosin réalise enfin son grand projet, celui de dénoncer l’Apartheid en cours en Afrique du Sud. Il s’infiltre ainsi clandestinement dans un township et y suit la vie d’une famille. Son fils Michael retrouve les protagonistes de cette histoire remarquable et nous la relate dans An American in Sophiatown. ",
     "affiche_url": null,
     "seances": [
       {
-        "heure": "27/09 19:00",
-        "cinema": "Aventure"
+        "heure": "02/10 18:30",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Décombres",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/eb5af669-7ef3-41ed-ae28-5ba9a08b3996.png",
+    "seances": [
+      {
+        "heure": "04/10 18:00",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
+    "titre": "Et Dieu... créa la femme",
+    "annee": 1956,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Roger Vadim"
+    ],
+    "synopsis": "Une jeune orpheline insouciante à la beauté spontanée déchaîne les passions et bouleverse la tranquillité d’un petit port traditionnel. Par un franc-tireur proche de la Nouvelle Vague, le film qui révéla Brigitte Bardot, en emblème sauvage de la liberté sexuelle. Pour l'anecdote, au cours du tournage, Bardot succomba aux charmes de Trintignant, et les deux acteurs vécurent une idylle loin des regards indiscrets des paparazzi.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9624d64c-85be-4814-aa83-15f7b7e08ef5.png",
+    "seances": [
+      {
+        "heure": "01/10 15:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -191,46 +252,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "27/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 19:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "27/09 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 14:00",
         "cinema": "Palace"
@@ -318,6 +339,22 @@
     ]
   },
   {
+    "titre": "Gaslight",
+    "annee": 1944,
+    "duree_minutes": 115,
+    "realisateurs": [
+      "George Cukor"
+    ],
+    "synopsis": "Paula, een jonge naïeve vrouw, wordt hopeloos verliefd op Gregory, een oudere pianist die ze enkele weken na hun ontmoeting huwt. Al snel blijkt de man sluw en berekenend te zijn. Hij weet Paula terug te brengen naar de luxueuze Londense villa van haar jeugd, waar ze achtervolgd door de herinnering aan haar tante die voor haar ogen werd vermoord. Profiterend van de gevolgen van dit trauma, bouwt Gregory systematisch een controlemechanisme op dat zijn vrouw onvermijdelijk in de val lokt. Paula denkt dat ze gek wordt. De echtgenoot is echter niet alleen een perverse manipulator; de film neemt een wending naar een politieverhaal en onthult het duivelse plan van dit donkere personage. Met opmerkelijk acteerwerk van Ingrid Bergmann en Charles Boyer, heeft de verfijnde psychologische regie van deze krachtige film geleid tot de term ’gaslighting’ om een vorm van manipulatie te beschrijven die erop gericht is de macht over iemands bewustzijn te krijgen door hen toegang tot de waarheid te verhinderen.\n\n",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2de072be-36f5-4fd8-b64e-d9956bbb4ede.png",
+    "seances": [
+      {
+        "heure": "03/10 17:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Germinal",
     "annee": 1913,
     "duree_minutes": 146,
@@ -351,18 +388,39 @@
     ]
   },
   {
-    "titre": "Heart of the Beast",
-    "annee": 2026,
-    "duree_minutes": 101,
+    "titre": "How Do You Like Them Bananas? + Oysters 'R' in Season + Day with Dean",
+    "annee": 0,
+    "duree_minutes": 55,
     "realisateurs": [
-      "David Ayer"
+      "Lionel Rogosin",
+      "Michael Ariel Rogosin"
     ],
-    "synopsis": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi magnifique qu’impitoyable, ils devront puiser dans leurs dernières forces pour survivre ensemble.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
+    "synopsis": "Pour se distraire des difficultés rencontrées à montrer Good Times, Wonderful Times, Rogosin s’essaye à la comédie avec plus ou moins de succès. Le documentaire traitant de cette expérience nous fait découvrir une autre facette du réalisateur. ",
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "27/09 16:00",
-        "cinema": "Le Stockel"
+        "heure": "01/10 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "I Am a Fugitive from a Chain Gang",
+    "annee": 1932,
+    "duree_minutes": 92,
+    "realisateurs": [
+      "Mervyn LeRoy"
+    ],
+    "synopsis": "Un ancien combattant de la Première Guerre mondiale, aspirant ingénieur, tente de se réinsérer dans la vie civile. Impliqué malgré lui dans un vol, il subit les conditions insupportables d’un bagne du Sud, luttant pour prouver son innocence et sa valeur. Porté par une interprétation remarquable d’un des plus grands acteurs américains de l’époque, Paul Muni, un chef-d’œuvre incontournable d’une grande pertinence quant à son analyse percutante de la cruauté institutionnelle et de l’exclusion sociale. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/023e50ce-7dba-4e5c-a9d1-1f0b4daa36b5.png",
+    "seances": [
+      {
+        "heure": "02/10 18:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "04/10 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -394,10 +452,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
       {
-        "heure": "27/09 18:20",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "28/09 18:45",
         "cinema": "Galeries"
       },
@@ -417,10 +471,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "27/09 15:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 15:50",
         "cinema": "Vendôme"
@@ -446,28 +496,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
       {
-        "heure": "27/09 20:35",
-        "cinema": "Palace"
-      },
-      {
         "heure": "29/09 20:35",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "La Pat'Patrouille : Le film mission Dino",
-    "annee": 2026,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Cal Brunker"
-    ],
-    "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des années et devenu un véritable expert des dinosaures. Mais leur ennemi de toujours, M.Hellinger, arrive lui aussi sur l’île avec un projet dangereux : exploiter ses richesses naturelles en creusant des mines. Ses actions imprudentes déclenchent bientôt l’éruption d’un gigantesque volcan endormi. La Pat’ Patrouille se retrouve alors entraînée dans une série de missions de sauvetage spectaculaires, plus impressionnantes que tout ce qu’elle a connu jusqu’ici. Elle devra arrêter M. Hellinger et sauver l’île avant qu’il ne soit trop tard.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbaa38d9-806f-4921-b2bf-7c482b925137.jpg",
-    "seances": [
-      {
-        "heure": "27/09 14:00",
-        "cinema": "Le Stockel"
       }
     ]
   },
@@ -481,26 +511,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "27/09 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 14:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 18:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 13:45",
         "cinema": "Vendôme"
@@ -552,22 +562,6 @@
     ]
   },
   {
-    "titre": "Last Things",
-    "annee": 2023,
-    "duree_minutes": 50,
-    "realisateurs": [
-      "Deborah Stratman"
-    ],
-    "synopsis": "\"Last Things\" s’ouvre sur une vision post-apocalyptique de l’avenir de la Terre : nous sommes destinés à mourir. S’inspirant de récits de J.-H. Rosny (pseudonyme commun de deux frères écrivains belges, pionniers de la science-fiction moderne), Deborah Stratman imagine un monde où toute vie semble avoir disparu. Puis, soudainement, nous réalisons que des nouvelles formes de vie émergent des paysages minéraux. Petit à petit, le film se révèle comme une surprenante méditation sur l’évolution de la vie sur notre planète à travers un collage mêlant images d’archives, animation, microphotographie, imagerie scientifique et séquences tournées spécialement pour le film. Des réflexions de la géologue Marcia Bjornerud ponctuent le film et nous invitent à repenser la survie, l’extinction et la capacité de la Terre à se souvenir au-delà des limites de l’histoire humaine. \"Last Things\" estompe les frontières entre documentaire et fiction et nous transporte dans un film-essai de science fiction !",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2d0598b7-89fe-4fc4-9879-9d3b8f002295.png",
-    "seances": [
-      {
-        "heure": "27/09 21:00",
-        "cinema": "Nova"
-      }
-    ]
-  },
-  {
     "titre": "Le Vertige",
     "annee": 2026,
     "duree_minutes": 68,
@@ -578,28 +572,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
       {
-        "heure": "27/09 21:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "29/09 13:45",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Le Voisin",
-    "annee": 2026,
-    "duree_minutes": 70,
-    "realisateurs": [
-      "Xavier Ziomek"
-    ],
-    "synopsis": "Mon voisin sonne souvent chez moi à l'improviste. Il s'appelle Christophe, il est bûcheron, passionné de foot, et en situation de handicap mental. Autour de lui : Gil, son meilleur ami, dont le cerveau grésille parfois comme une ligne téléphonique brouillée et Guillaume, dont la joie insouciante se heurte à ses désirs d’émancipation.\nBref, j’ai rencontré mon voisin - et un monde que je ne soupçonnais pas.\n\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
-    "seances": [
-      {
-        "heure": "27/09 12:50",
-        "cinema": "Aventure"
       }
     ]
   },
@@ -614,27 +588,24 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b6de2283-a7db-413c-b938-ad7bc0f65692.jpg",
     "seances": [
       {
-        "heure": "27/09 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "30/09 20:00",
         "cinema": "Cinematek"
       }
     ]
   },
   {
-    "titre": "Les Cent et Une Nuits de Simon Cinéma",
-    "annee": 1994,
-    "duree_minutes": 125,
+    "titre": "Les courts des grands V",
+    "annee": 0,
+    "duree_minutes": 34,
     "realisateurs": [
-      "Agnès Varda"
+      "Werner Herzog",
+      "Wim Wenders"
     ],
-    "synopsis": "Monsieur Cinéma, un très vieil acteur-réalisateur vit seul dans une immense villa et voit peu à peu sa mémoire s’effriter. Convaincu d’incarner à lui seul tout l’univers du cinéma, il engage la jeune Camille pour raviver ses souvenirs à travers des récits de films et de cinéastes.  ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c58879ec-3da2-4c02-bd07-6c97ef8ca74a.png",
+    "synopsis": "Letzte Worte est un pseudo-documentaire absurde de Wenders dans lequel le dernier habitant d’une île grecque déserte s’obstine à garder le silence. Alabama : 2000 Light Years est un road-movie au style audacieux sur la mort, imprégné de musique pop, avec notamment la chanson All Along the Watchtower jouée à plusieurs reprises. Un premier signe avant-coureur des futurs road-movies de Wenders et de son amour pour la culture américaine. ",
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "27/09 15:00",
+        "heure": "02/10 20:00",
         "cinema": "Cinematek"
       }
     ]
@@ -650,22 +621,6 @@
       {
         "heure": "30/09 19:00",
         "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
-    "titre": "Mochy",
-    "annee": 2026,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
-    ],
-    "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
-    "seances": [
-      {
-        "heure": "27/09 15:00",
-        "cinema": "Palace"
       }
     ]
   },
@@ -707,22 +662,6 @@
     ]
   },
   {
-    "titre": "Onoda: 1000 Nights in the Jungle",
-    "annee": 2020,
-    "duree_minutes": 165,
-    "realisateurs": [
-      "Arthur Harari"
-    ],
-    "synopsis": "Fin 1944. Le Japon est en train de perdre la guerre. Sur ordre du mystérieux Major Taniguchi, le jeune Hiroo Onoda est envoyé sur une île des Philippines juste avant le débarquement américain. La poignée de soldats qu'il entraîne dans la jungle découvre bientôt la doctrine inconnue qui va les lier à cet homme : la Guerre Secrète. Pour l'Empire, la guerre est sur le point de finir. Pour Onoda, elle s'achèvera 10 000 nuits plus tard.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/80f96747-4a87-4e91-8179-5329825b0be6.jpg",
-    "seances": [
-      {
-        "heure": "27/09 20:35",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Os canibais",
     "annee": 1988,
     "duree_minutes": 98,
@@ -752,14 +691,6 @@
     "synopsis": "Après sept ans de prison, Suleyman (Saïd Boumazoughe) revient dans l'immeuble délabré Paradijs, où sa mère malade (Fatima Khanfour) vit toujours sous la coupe du chef de gang Prince (Achmed Akkabi) et de son bras droit De Leeuw (Jamal Ben Saddik). Son retour coïncide avec une descente de police violente, transformant le bâtiment en véritable zone de guerre. Alors qu'il ne cherche qu'à sauver sa mère, Suleyman se retrouve pris au piège entre les bandes qui s'affrontent. Lorsqu'il sauve la jeune policière Yasmine (Clara Cleymans) d'une exécution, ils unissent leurs forces et se fraient un chemin à travers l'immeuble, où une confrontation sans merci les attend.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d5d9ba75-1aaa-4918-9dac-e60722e240a1.jpg",
     "seances": [
-      {
-        "heure": "27/09 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/09 12:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/09 12:30",
         "cinema": "Aventure"
@@ -794,27 +725,23 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8d0e7bc6-5108-4d96-9d42-28771e7334a6.jpg",
     "seances": [
       {
-        "heure": "27/09 20:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "29/09 18:00",
         "cinema": "Cinematek"
       }
     ]
   },
   {
-    "titre": "Portrait du peintre dans son atelier",
-    "annee": 1985,
-    "duree_minutes": 40,
+    "titre": "Prince of Darkness",
+    "annee": 1988,
+    "duree_minutes": 102,
     "realisateurs": [
-      "Boris Lehman"
+      "John Carpenter"
     ],
-    "synopsis": " “Le film est la rencontre – cinématographique – de deux regards (celui du peintre Arié Mandelbaum et du cinéaste Boris Lehman) avec une voix : celle de la cantatrice Esther Lamandier (qui porte le même nom qu’Arié : Mandelbaum signifie I’amandier). Cette triple rencontre de la musique, de la peinture et du cinéma se réalise dans le quotidien d’un lieu unique: l’atelier du peintre. » – Boris Lehman\n\nVersion restaurée (DCP) par CINEMATEK en 2025, grâce au financement de NextGenerationEU et avec le soutien de la Fédération Wallonie-Bruxelles. Les travaux ont été effectués à partir des négatifs 16mm conservés dans les collections de CINEMATEK, où le film a été numérisé en 2K.\n\nSéance organisée dans le cadre de la Fête de la Fédération Wallonie-Bruxelles. Suivi d’une conversation en français entre Boris Lehman et Arié Mandelbaum, modérée par Bruno Benvindo, directeur des expositions au Musée Juif de Belgique. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1201d7cb-b8f4-411f-a8a6-089d202d2650.jpg",
+    "synopsis": "À la demande d’un prêtre, un groupe de scientifiques vient étudier un mystérieux cylindre de verre enfermé dans la crypte d’une église de banlieue à Los Angeles. Au cours de leurs recherches, les scientifiques comprennent qu’ils se trouvent devant un processus irréversible dont le but est l’avènement du Mal...",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/30fb8b44-626d-4230-8a69-26300749c279.png",
     "seances": [
       {
-        "heure": "27/09 17:30",
+        "heure": "02/10 21:30",
         "cinema": "Cinematek"
       }
     ]
@@ -846,14 +773,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "27/09 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 21:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "28/09 17:20",
         "cinema": "Aventure"
       },
@@ -881,38 +800,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "27/09 15:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 15:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "27/09 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/09 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "28/09 13:45",
         "cinema": "Vendôme"
@@ -962,12 +849,28 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "29/09 21:00",
-        "cinema": "Galeries"
+        "heure": "29/09 20:35",
+        "cinema": "Palace"
       },
       {
-        "heure": "29/09 21:15",
-        "cinema": "Palace"
+        "heure": "29/09 21:00",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Rèn xiāo yáo",
+    "annee": 2002,
+    "duree_minutes": 112,
+    "realisateurs": [
+      "Jia Zhangke"
+    ],
+    "synopsis": "Deux jeunes Chinois désabusés et sans emploi mènent une existence à la dérive dans les rues de leur ville industrielle ; leurs chemins croisent celui d'une jeune chanteuse et danseuse locale, égérie d'une marque de spiritueux.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5e5c41e0-d599-4ec2-98e2-eef46e1a85fd.jpg",
+    "seances": [
+      {
+        "heure": "04/10 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -984,6 +887,10 @@
       {
         "heure": "30/09 18:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "04/10 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -997,14 +904,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "27/09 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 19:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "28/09 14:20",
         "cinema": "Aventure"
@@ -1028,48 +927,18 @@
     ]
   },
   {
-    "titre": "Short Film Selection + Q&A",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Silent Friend",
-    "annee": 2026,
-    "duree_minutes": 147,
+    "titre": "Sleeping Beauty",
+    "annee": 2011,
+    "duree_minutes": 102,
     "realisateurs": [
-      "Ildiko Enyedi"
+      "Julia Leigh"
     ],
-    "synopsis": "Un ginkgo centenaire situé à l'université Philipps de Marbourg, en Allemagne, qui a été le témoin silencieux de trois époques différentes : 1908, 1972 et 2020.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/753bdb39-f35d-4080-bd50-34084c7decc2.jpg",
+    "synopsis": "Hantée par la mort et d’une témérité discrète, Lucy est une étudiante qui accepte un emploi de « Belle au bois dormant ». Dans une maison de ville luxueuse des hommes âgés recherchent une expérience érotique exigeant la soumission absolue de la jeune femme. Mais bientôt, elle ressent le besoin grandissant de savoir ce qui lui arrive lorsqu’elle est endormie. La cinéaste et écrivaine australienne Julia Leigh explore un récit troublant, à la fois classique et contemporain. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9f4aea27-5546-418b-abd1-871e924b2cf1.png",
     "seances": [
       {
-        "heure": "28/09 11:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Sunny Dancer",
-    "annee": 2026,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "George Jaques"
-    ],
-    "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
-    "seances": [
-      {
-        "heure": "27/09 16:15",
-        "cinema": "Palace"
+        "heure": "03/10 21:15",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1100,10 +969,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "28/09 11:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "28/09 16:45",
         "cinema": "Palace"
       },
@@ -1123,14 +988,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "27/09 21:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 21:00",
         "cinema": "Palace"
@@ -1165,54 +1022,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "27/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 13:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 14:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 17:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/09 18:20",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "27/09 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "28/09 13:45",
         "cinema": "Vendôme"
@@ -1318,18 +1127,18 @@
     ]
   },
   {
-    "titre": "The Life and Death of Colonel Blimp",
-    "annee": 1943,
-    "duree_minutes": 163,
+    "titre": "The Last of the Mohicans (1920)",
+    "annee": 1920,
+    "duree_minutes": 75,
     "realisateurs": [
-      "Michael Powell",
-      "Emeric Pressburger"
+      "Maurice Tourneur",
+      "Clarence Brown"
     ],
-    "synopsis": "De la guerre des Boers au nazisme, l’amitié à problèmes d’un officier britannique et d’un gradé allemand. Le crépuscule des conceptions chevaleresques de l’armée, sur fond d’humour et de nostalgie mis en scène en Technicolor par Powell et Pressburger dont la maîtrise crève les yeux. Un film que Churchill haïssait, qui fût mutilé d’un tiers, et ici restauré intégralement.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2de2937a-c450-4860-8772-ea7bc29a9d73.jpg",
+    "synopsis": "En pleine guerre de la Conquête, la fille aînée d'un officier britannique s'éprend d'un allié amérindien, dernier guerrier survivant de sa tribu : les Mohicans.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c14d127f-76e1-4e8a-8135-ffec54d85a58.png",
     "seances": [
       {
-        "heure": "27/09 20:30",
+        "heure": "01/10 21:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1344,14 +1153,6 @@
     "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
-      {
-        "heure": "27/09 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "28/09 20:35",
         "cinema": "Palace"
@@ -1372,18 +1173,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "27/09 17:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 20:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/09 13:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "29/09 13:00",
         "cinema": "Galeries"
@@ -1433,16 +1222,34 @@
     ]
   },
   {
-    "titre": "The Silence Treatment",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "titre": "The Shop Around the Corner",
+    "annee": 1940,
+    "duree_minutes": 98,
+    "realisateurs": [
+      "Ernst Lubitsch"
+    ],
+    "synopsis": "Deux employés d'une boutique de cadeaux ne peuvent pas se supporter, sans se rendre compte qu'ils tombent amoureux par courrier interposé en tant que correspondants anonymes.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b15a8acf-02fb-4e1e-ad22-c911773a7881.jpg",
     "seances": [
       {
-        "heure": "27/09 13:30",
-        "cinema": "Galeries"
+        "heure": "04/10 17:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "They Live",
+    "annee": 1988,
+    "duree_minutes": 94,
+    "realisateurs": [
+      "John Carpenter"
+    ],
+    "synopsis": "De méchants extra-terrestres tentent de conquérir le monde par des messages médiatiques subliminaux. Un renouvellement de la SF, à travers une métaphore des yuppies affairistes de la mondialisation.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a686710a-c3b9-4370-9ca2-14906faa4db0.png",
+    "seances": [
+      {
+        "heure": "03/10 19:15",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1456,14 +1263,6 @@
     "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
-      {
-        "heure": "27/09 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 13:40",
         "cinema": "Vendôme"
@@ -1491,6 +1290,22 @@
     ]
   },
   {
+    "titre": "Wardi",
+    "annee": 2019,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Mats Grorud"
+    ],
+    "synopsis": "Beyrouth, Liban, aujourd’hui. Wardi, une jeune Palestinienne de onze ans, vit avec toute sa famille dans le camp de réfugiés où elle est née. Sidi, son arrière-grand-père adoré, fut l’un des premiers à s’y installer après avoir été chassé de son village en 1948. Le jour où Sidi lui confie la clé de son ancienne maison en Galilée, Wardi craint qu’il ait perdu l’espoir d’y retourner un jour. Mais comment chaque membre de la famille peut-il aider à sa façon la petite fille à renouer avec cet espoir ?",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e20aedb5-68cf-4bd5-92cb-642611408753.jpeg",
+    "seances": [
+      {
+        "heure": "04/10 16:00",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
     "titre": "Young Mr. Lincoln",
     "annee": 1939,
     "duree_minutes": 94,
@@ -1507,34 +1322,18 @@
     ]
   },
   {
-    "titre": "Yugly",
-    "annee": 2026,
-    "duree_minutes": 86,
+    "titre": "Ziggy Stardust and the Spiders From Mars",
+    "annee": 1979,
+    "duree_minutes": 89,
     "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
+      "D.A. Pennebaker"
     ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/adbd23cb-6f1e-491b-b500-c9459f882889.jpg",
+    "synopsis": "Le 3 juillet 1973, David Bowie, icône du rock, surprend ses fans et son groupe en annonçant qu'il donnera son dernier concert ce soir-là. Bowie se produirait encore, bien sûr, mais plus jamais sous le nom de Ziggy Stardust and the Spiders from Mars. Le documentariste D.A. Pennebaker était à Londres pour enregistrer une émission spéciale de trente minutes sur le spectacle de Bowie, mais il a été tellement captivé par l'artiste qu'il a décidé sur-le-champ de faire un film plus long.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/290667d5-ca0f-4650-be0c-f9c02cfeb90e.png",
     "seances": [
       {
-        "heure": "27/09 13:00",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Élever au grain",
-    "annee": 2025,
-    "duree_minutes": 82,
-    "realisateurs": [
-      "Alice Godart"
-    ],
-    "synopsis": "Étienne partage son temps entre son élevage de volailles, à l’avenir très incertain, et sa passion pour les motos. Alors que la fin de la ferme approche, Alice revient et tente d’explorer sa relation distante avec son père. Entre poulets et moteurs, le film suit cette relation et tente de la transformer.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/970f477a-bc7e-49ed-aad7-6f3fbf563c2a.jpg",
-    "seances": [
-      {
-        "heure": "27/09 16:00",
-        "cinema": "Galeries"
+        "heure": "04/10 21:15",
+        "cinema": "Cinematek"
       }
     ]
   }

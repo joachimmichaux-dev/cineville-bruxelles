@@ -117,7 +117,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-108917/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 23840
+      "nb_notes_spectateurs": 23843
     }
   },
   {
@@ -130,18 +130,6 @@
     "synopsis": "Ce classique du cyberpunk suit un jeune motard dont les pouvoirs psychiques deviennent incontrôlables et le menacent, lui et le monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
-      {
-        "heure": "27/09 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 20:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/09 12:15",
-        "cinema": "Galeries"
-      },
       {
         "heure": "28/09 21:15",
         "cinema": "Galeries"
@@ -159,7 +147,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12244
+      "nb_notes_spectateurs": 12247
     }
   },
   {
@@ -236,7 +224,52 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000040828/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 243
+      "nb_notes_spectateurs": 244
+    }
+  },
+  {
+    "titre": "An Evening on Bordwell & Thompson",
+    "annee": 0,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Kristin Thompson",
+      "Anke Brouwers",
+      "Tom Paulus"
+    ],
+    "synopsis": "Une soirée consacrée aux spécialistes du cinéma David Bordwell et Kristin Thompson, avec des interventions de Tom Paulus (Universiteit Antwerpen) et Tomas Leyers (conservateur de la CINEMATEK), ainsi qu’un entretien avec Kristin Thompson mené par Anke Brouwers (KASK School of Arts/HoGent).",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "01/10 18:30",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": null
+  },
+  {
+    "titre": "Berg-Ejvind och hans hustru",
+    "annee": 1917,
+    "duree_minutes": 106,
+    "realisateurs": [
+      "Victor Sjöström"
+    ],
+    "synopsis": "Dans les paysages sauvages et décharnés de l’Islande, deux amants traqués aux prises avec la nature primitive. \"Le plus beau film du monde\", selon Louis Delluc. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/52dfdc09-3e6f-46c0-b47b-a5cd2c4747d7.jpg",
+    "seances": [
+      {
+        "heure": "04/10 15:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "3802",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-3802/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3802/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 2.8,
+      "nb_notes_spectateurs": 16
     }
   },
   {
@@ -301,10 +334,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "27/09 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 18:10",
         "cinema": "Vendôme"
@@ -416,8 +445,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000027149/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 161
+      "note_moyenne_spectateurs": 3.3,
+      "nb_notes_spectateurs": 166
     }
   },
   {
@@ -443,7 +472,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2461/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 10029
+      "nb_notes_spectateurs": 10031
     }
   },
   {
@@ -456,10 +485,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "27/09 17:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "28/09 14:45",
         "cinema": "Palace"
@@ -485,27 +510,186 @@
     }
   },
   {
-    "titre": "Chinatown Cha-Cha",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "titre": "Ceux qui restent",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "The Afterlife of a Sacrifice\nRand Chmaitilly, 2025, LB, DCP, vo ar st ang, 36'\n\nJeune cinéaste anthropologue, Rand Chmaitilly est allée filmer ces femmes qui vouent leur vies à préserver la mémoire des hommes qui se sont sacrifiés pour la cause, la défense du territoire libanais contre l’envahisseur israélien - la cause chiite du Hezbollah. À travers archives, interviews, portraits, le film explore avec beaucoup de tact le deuil porté par ces femmes qui tressent autour du souvenir des martyrs qu’elles préservent non seulement une mémoire de la lutte collective mais aussi leur propre espace de résistance.\n\nUn cœur perdu et autres rêves de Beyrouth\nMaya Abdul Malak, 2023, FR-LB, DCP, vo ar st fr, 35'\n\nÀ Beyrouth, tandis que la mer souffle et que les murs s’effritent, hommes et femmes racontent des rêves que leurs aimés disparus viennent hanter. Livrés en voix off, dans une parole aussi intime qu’une confidence, ces récits s’étalent sur des images lumineuses de corps bien vivant ou sur la ville tremblante de ses blessures. Un film qui tisse l’invisible au visible, la vie à la mort, le passé au le présent, et se tient aussi près des ombres que des vivants qui les portent.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/40cb80ba-23a1-4854-98db-a734386a558f.jpg",
     "seances": [
       {
-        "heure": "27/09 19:00",
-        "cinema": "Aventure"
+        "heure": "04/10 20:30",
+        "cinema": "Nova"
       }
     ],
     "allocine": {
-      "allocine_id": "1000014508",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000014508/critiques/presse/",
+      "allocine_id": "119410",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-119410/critiques/presse/",
+      "note_moyenne_presse": 4.1,
+      "nb_critiques_presse": 15,
+      "critiques_presse": [
+        {
+          "titre_presse": "L'Express",
+          "note": 5.0,
+          "auteur": "Eric Libiot",
+          "citation": "Voir la critique sur www.lexpress.fr"
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 5.0,
+          "auteur": "Jean-Pierre Lacomme",
+          "citation": "Pour son passa ge à la réalisation, la comédienne Anne Le Ny s'impose avec talent. Concetrée sur ses personnages, elle signe une mise en scène fluide dans laquelle le pathos est banni."
+        },
+        {
+          "titre_presse": "Ouest France",
+          "note": 5.0,
+          "auteur": "La rédaction",
+          "citation": "Un modèle d'écriture pour un régal de mise en scène."
+        },
+        {
+          "titre_presse": "Score",
+          "note": 5.0,
+          "auteur": "Romain Cole",
+          "citation": "Vincent Lindon, impeccable, livre ici l'une de ses compositions les plus touchantes (...) En face, Emmanuelle Devos offre un contrepoint intelligent (...)"
+        },
+        {
+          "titre_presse": "Télé 7 Jours",
+          "note": 5.0,
+          "auteur": "Viviane Pescheux",
+          "citation": "Fluidité de la mise en scène, finesse du scénario et parti pris de ne jamais montrer les malades, elle (Anne Le Ny, Ndlr) évacue tout pathos pour aller droit à l'essentiel : une histoire d'amour naissante, drôle et grave à la fois."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 5.0,
+          "auteur": "Juliette Bénabent",
+          "citation": "Jamais tire-larmes, tournant farouchement le dos au pathos, le film met en scène des personnages qui nous bouleversent à contre-courant : notre émotion naît de leur lutte pour ne pas se laisser submerger par les leurs."
+        },
+        {
+          "titre_presse": "Elle",
+          "note": 4.0,
+          "auteur": "Michel Palmiéri",
+          "citation": "Etrangement optimiste, souvent drôle, toujours juste, \"Ceux qui restent\" est admirablement servi par deux grands, qui incarnent plus qu'ils n'interprètent et suscitent l'émotion sans la solliciter."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Pierre Vavasseur",
+          "citation": "On était loin de se douter que la discrète et attachante Anne Le Ny nous préparait une telle effraction sentimentale. Voilà un film sensible et puissant, simple et humain, qui passe très au large du mélo."
+        },
+        {
+          "titre_presse": "MCinéma.com",
+          "note": 4.0,
+          "auteur": "Hugo de Saint Phalle",
+          "citation": "Sans jamais tirer les larmes, Anne Le Ny touche au coeur par petites touches (...)"
+        },
+        {
+          "titre_presse": "Paris Match",
+          "note": 4.0,
+          "auteur": "Alain Spira",
+          "citation": "Avec le tact et l'élégance d'un Truffaut, la réalisatrice laisse ses personnages vivre leurs émotions pour nous mieux nous les faire partager."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 4.0,
+          "auteur": "Sophie Grassin",
+          "citation": "(...) la cinéaste évite un à un tous les pièges dans lesquels elle aurait pu tomber (...) On prend..."
+        },
+        {
+          "titre_presse": "TéléCinéObs",
+          "note": 4.0,
+          "auteur": "Jean-Philippe Guérand",
+          "citation": "La comédienne Anne Le Ny signe un premier film d'une pudeur et d'une délicatesse extrêmes où tout sonne juste. Sur un thème a priori difficile, elle réussit à émouvoir sans apitoyer et à évoquer simplement des sentiments extrêmement complexes."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Jean-Luc Douin",
+          "citation": "Rythmé (...) entraîne une émotion, contenue. La composition de Vincent Lindon (...) n'y est pas pour rien."
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 3.0,
+          "auteur": "Michel Ciment",
+          "citation": "(...) \"Ceux qui restent\" n'est qu'une oeuvre estimable, sans réelle idée de mise en scène (...), un film de plus dans le paysage du cinéma français, où psychologie et sujet de société font bon ménage et permettent ici à deux excellents interprètes de confirmer la maîtrise de leur jeu."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 2.0,
+          "auteur": "Axelle Ropert",
+          "citation": "Un film qui associe nuance et bon sens, fausse délicatesse et vraie grossièreté, duo qui veut le beurre et l'argent du beurre."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-119410/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.3,
+      "nb_notes_spectateurs": 1351
+    }
+  },
+  {
+    "titre": "Come Back, Africa + An American in Sophiatown",
+    "annee": 0,
+    "duree_minutes": 155,
+    "realisateurs": [
+      "Lionel Rogosin",
+      "Earl Lloyd Ross"
+    ],
+    "synopsis": "Après avoir éprouvé sa méthode dans On the Bowery, Lionel Rogosin réalise enfin son grand projet, celui de dénoncer l’Apartheid en cours en Afrique du Sud. Il s’infiltre ainsi clandestinement dans un township et y suit la vie d’une famille. Son fils Michael retrouve les protagonistes de cette histoire remarquable et nous la relate dans An American in Sophiatown. ",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "02/10 18:30",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": null
+  },
+  {
+    "titre": "Décombres",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/eb5af669-7ef3-41ed-ae28-5ba9a08b3996.png",
+    "seances": [
+      {
+        "heure": "04/10 18:00",
+        "cinema": "Nova"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "52209",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-52209/critiques/presse/",
       "note_moyenne_presse": null,
       "nb_critiques_presse": 0,
       "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000014508/critiques/spectateurs/",
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-52209/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
+    }
+  },
+  {
+    "titre": "Et Dieu... créa la femme",
+    "annee": 1956,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Roger Vadim"
+    ],
+    "synopsis": "Une jeune orpheline insouciante à la beauté spontanée déchaîne les passions et bouleverse la tranquillité d’un petit port traditionnel. Par un franc-tireur proche de la Nouvelle Vague, le film qui révéla Brigitte Bardot, en emblème sauvage de la liberté sexuelle. Pour l'anecdote, au cours du tournage, Bardot succomba aux charmes de Trintignant, et les deux acteurs vécurent une idylle loin des regards indiscrets des paparazzi.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9624d64c-85be-4814-aa83-15f7b7e08ef5.png",
+    "seances": [
+      {
+        "heure": "01/10 15:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "185",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-185/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-185/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.0,
+      "nb_notes_spectateurs": 886
     }
   },
   {
@@ -518,46 +702,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "27/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 19:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "27/09 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 14:00",
         "cinema": "Palace"
@@ -868,7 +1012,40 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 778
+      "nb_notes_spectateurs": 1014
+    }
+  },
+  {
+    "titre": "Gaslight",
+    "annee": 1944,
+    "duree_minutes": 115,
+    "realisateurs": [
+      "George Cukor"
+    ],
+    "synopsis": "Paula, een jonge naïeve vrouw, wordt hopeloos verliefd op Gregory, een oudere pianist die ze enkele weken na hun ontmoeting huwt. Al snel blijkt de man sluw en berekenend te zijn. Hij weet Paula terug te brengen naar de luxueuze Londense villa van haar jeugd, waar ze achtervolgd door de herinnering aan haar tante die voor haar ogen werd vermoord. Profiterend van de gevolgen van dit trauma, bouwt Gregory systematisch een controlemechanisme op dat zijn vrouw onvermijdelijk in de val lokt. Paula denkt dat ze gek wordt. De echtgenoot is echter niet alleen een perverse manipulator; de film neemt een wending naar een politieverhaal en onthult het duivelse plan van dit donkere personage. Met opmerkelijk acteerwerk van Ingrid Bergmann en Charles Boyer, heeft de verfijnde psychologische regie van deze krachtige film geleid tot de term ’gaslighting’ om een vorm van manipulatie te beschrijven die erop gericht is de macht over iemands bewustzijn te krijgen door hen toegang tot de waarheid te verhinderen.\n\n",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2de072be-36f5-4fd8-b64e-d9956bbb4ede.png",
+    "seances": [
+      {
+        "heure": "03/10 17:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "2748",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2748/critiques/presse/",
+      "note_moyenne_presse": 4.0,
+      "nb_critiques_presse": 1,
+      "critiques_presse": [
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 4.0,
+          "auteur": "Axelle Ropert",
+          "citation": "La version Cukor d'un genre clé du cinéma hollywoodien des années 40."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2748/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 4.1,
+      "nb_notes_spectateurs": 443
     }
   },
   {
@@ -887,14 +1064,14 @@
       }
     ],
     "allocine": {
-      "allocine_id": "30245",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-30245/critiques/presse/",
+      "allocine_id": "8360",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-8360/critiques/presse/",
       "note_moyenne_presse": null,
       "nb_critiques_presse": 0,
       "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-30245/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 5166
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-8360/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.6,
+      "nb_notes_spectateurs": 62
     }
   },
   {
@@ -916,216 +1093,51 @@
     "allocine": null
   },
   {
-    "titre": "Heart of the Beast",
-    "annee": 2026,
-    "duree_minutes": 101,
+    "titre": "How Do You Like Them Bananas? + Oysters 'R' in Season + Day with Dean",
+    "annee": 0,
+    "duree_minutes": 55,
     "realisateurs": [
-      "David Ayer"
+      "Lionel Rogosin",
+      "Michael Ariel Rogosin"
     ],
-    "synopsis": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi magnifique qu’impitoyable, ils devront puiser dans leurs dernières forces pour survivre ensemble.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
+    "synopsis": "Pour se distraire des difficultés rencontrées à montrer Good Times, Wonderful Times, Rogosin s’essaye à la comédie avec plus ou moins de succès. Le documentaire traitant de cette expérience nous fait découvrir une autre facette du réalisateur. ",
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "27/09 16:00",
-        "cinema": "Le Stockel"
+        "heure": "01/10 18:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": null
+  },
+  {
+    "titre": "I Am a Fugitive from a Chain Gang",
+    "annee": 1932,
+    "duree_minutes": 92,
+    "realisateurs": [
+      "Mervyn LeRoy"
+    ],
+    "synopsis": "Un ancien combattant de la Première Guerre mondiale, aspirant ingénieur, tente de se réinsérer dans la vie civile. Impliqué malgré lui dans un vol, il subit les conditions insupportables d’un bagne du Sud, luttant pour prouver son innocence et sa valeur. Porté par une interprétation remarquable d’un des plus grands acteurs américains de l’époque, Paul Muni, un chef-d’œuvre incontournable d’une grande pertinence quant à son analyse percutante de la cruauté institutionnelle et de l’exclusion sociale. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/023e50ce-7dba-4e5c-a9d1-1f0b4daa36b5.png",
+    "seances": [
+      {
+        "heure": "02/10 18:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "04/10 20:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": {
-      "allocine_id": "1000000085",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/presse/",
-      "note_moyenne_presse": 2.9,
-      "nb_critiques_presse": 31,
-      "critiques_presse": [
-        {
-          "titre_presse": "Diverto",
-          "note": 5.0,
-          "auteur": "Sarah Ziaï",
-          "citation": "Le film de survie nous tien en haleine du début à la fin."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Cette histoire d’amitié entre un homme et un animal fonctionne parfaitement au gré d’aventures efficaces car très bien filmées."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 4.0,
-          "auteur": "Aurélien Allin",
-          "citation": "David Ayer réinvente presque entièrement son cinéma pour une aventure silencieuse, patiente et très juste au cœur de l’Alaska. Un homme, un chien, et beaucoup d’émotions."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "L'histoire est simple, stylisée à l'extrême, mais pourquoi pas ? Au moins, les fans de Brad Pitt en auront pour leur argent !"
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Olivier Delcroix",
-          "citation": "Un thriller taillé à l’os."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "Coup de cœur pour ce film d'action qui vaut pour l'épure de son dispositif."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Etonnant et spectaculaire."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Des rebondissements nombreux et haletants."
-        },
-        {
-          "titre_presse": "Closer",
-          "note": 3.0,
-          "auteur": "O.C.",
-          "citation": "On se laisse embarquer par ce trip (...)."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 3.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Le scénariste Cameron Alexander ne s’est pas creusé la tête pour écrire l’histoire simple de Heart of The Beast, redite de moult récits d’aventures et de survie."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 3.0,
-          "auteur": "Christophe Caron",
-          "citation": "Dommage, parce que le film de David Ayer (Fury, Suicide Squad) se révèle d’une très bonne tenue, assumant ses clins d’œil à Jack London, jusqu’à apparaître comme un blockbuster un peu à part, à la marge des canons hollywoodiens actuels."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 3.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "David Ayer peut compter sur la solide interprétation de Brad Pitt pour donner, malgré de rares dialogues, de la force dramatique au périple épuisant d’un homme blessé, traversant d’improbables épreuves. Mais c’est moins lui qui obsède le récit, émeut, éprouve, que le chien, grand personnage, maître du film, dont le regard expressif bouleverse à chaque instant."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 3.0,
-          "auteur": "Marc Godin",
-          "citation": "Un « survival » rugueux, suffisamment musclé pour laisser quelques bleus, mais assez émouvant pour faire verser un torrent de larmes."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Théo Ribeton",
-          "citation": "Un modeste mais prenant récit de survie dans les bois, où se télescopent Jack London et Kelly Reichardt entre les coutures d’une forme hollywoodienne beaufisante."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Lelo Jimmy Batista",
-          "citation": "Le programme est balisé (...) mais jamais déplaisant, son côté naïf-gros sabots s'avérant même plutôt rafraîchissant."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 3.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Le jeu de Brad Pitt, qui, à l’exception d’une courte séquence avec J. K. Simmons, ne donne la réplique qu’au toutou Odin, fait ressentir toute la douleur éprouvée par cet homme désabusé face à un monde où il ne trouve plus d’humanité."
-        },
-        {
-          "titre_presse": "Rolling Stone",
-          "note": 3.0,
-          "auteur": "Xavier Bonnet",
-          "citation": "De quoi enrager, se décourager et se dire que l’on serait bien mieux à cultiver des vignes et retaper un studio d’enregistrement en Provence. Ça tient vraiment à rien, des fois…"
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 3.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Sans égaler Into the Wild de Sean Penn, la mise en scène saisit la nature de l’Alaska où, à la suite d’un crash d’avion, le duo se retrouve isolé. Un terrain plus hostile qu’il n’y paraît…"
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 3.0,
-          "auteur": "F.-X.T.",
-          "citation": "On regrettera une bande musicale un peu appuyée et un dernier acte qui tranche avec la sécheresse de ce film tendu et rythmé."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Jacques Morice",
-          "citation": "Un film qui ne brille pas par l’originalité de son scénario même si la relation entre l’homme et l’animal s’avère émouvante."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 3.0,
-          "auteur": "Robin Berthelot",
-          "citation": "Brad Pitt. Un berger allemand. Les paysages de l’Alaska. Que demande le peuple ?"
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 2.0,
-          "auteur": "Antoine Desrues",
-          "citation": "Un survival pataud et politiquement douteux. Allez, on rajoute une étoile pour le chien."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 2.0,
-          "auteur": "Laurence Houot",
-          "citation": "Si les deux acteurs, Brad Pitt comme le chien, omniprésents à l'écran, transmettent une belle complicité et nous font ressentir la puissance d'une amitié \"humano-canine\", le film s'enlise néanmoins dans un scénario répétitif et un pathos appuyé par une musique envahissante, qui empêchent l'émotion de nous gagner."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 2.0,
-          "auteur": "Cl. F.",
-          "citation": "C’est la partie la plus prévisible du récit, jalonné de péripéties toujours plus dures et cruelles – sans compter cet ours furieux, visiblement créé par effet numérique, dont la fourrure incroyablement soyeuse semble sortie d’une pub pour shampoing. Ce que réussit le mieux Heart of the Beast, c’est nous transmettre cet incroyable attachement entre l’homme et l’animal."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 2.0,
-          "auteur": "Chloé Caye",
-          "citation": "Brad Pitt et son chien affrontent le froid, les animaux sauvages et leurs propres cauchemars. Dans ce film survivaliste, David Ayer exhibe les souffrances physiques de son héros de façon peu inspirée et répétitive."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 2.0,
-          "auteur": "Simon Hoareau",
-          "citation": "12 ans après \"Fury\", et toujours avec Brad Pitt devant la caméra, David Ayer raconte à nouveau l'horreur de la guerre, mais en se concentrant cette fois-ci sur “l'après”. Pour ce faire, il imagine un film de survie de facture classique et au propos insuffisant."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 2.0,
-          "auteur": "Andrès Godefroy",
-          "citation": "Malgré une idée intéressante, les péripéties rythmant les 80 kilomètres de parcours paraissent parfois longues, se perdent, se répètent parfois, en jouant sur des sauvetages successifs et ne déclenchent jamais vraiment l’émotion forte qu’aurait pu susciter une relation comme celle visible à l’écran."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 2.0,
-          "auteur": "Frédéric Foubert",
-          "citation": "Brad Pitt ! Un chien ! Le réalisateur de Fury aux manettes ! Sans compter cette bande-annonce surexcitante… Tout dans le programme de Heart of the Beast nous donnait envie de nous ruer voir ce film, promesse d’un grand récit d’aventures en milieu hostile, avec le spectre de Jack London pour guide, et qui permettrait au passage de nous venger du dernier survival homme-chien usiné par Hollywood, le très faiblard The Dog Stars de Ridley Scott."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 2.0,
-          "auteur": "J.B.",
-          "citation": "La déception, l'emporte, tant l'odyssée sauvage se révèle moins tendue et rugueuse qu'escompté, souvent déjà vue (...)."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 1.0,
-          "auteur": "Kevin Gueydan",
-          "citation": "Le scénario est cousu de fil blanc et enchaîne des péripéties vues et revues, cochant toutes les cases de ce genre de film une à une sans une once d’imagination. [...] L’alchimie ente Bratt Pitt et le chien est assez impressionnante à l’écran, donnant littéralement corps au lien unique et indéfectible qui unit un maître à son chien. [...] Mais entre les deux, la véritable star du film c’est Odin."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 1.0,
-          "auteur": "Nicolas Schaller",
-          "citation": "Entre aventure réaliste à base d’animaux sauvages en images de synthèse et éloge con-con des chiens-soldats ponctué de flash-back grotesques, ce survival burné, écrit avec des moufles, sent le sapin."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 724
+      "allocine_id": "2035",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2035/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2035/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 4.0,
+      "nb_notes_spectateurs": 96
     }
   },
   {
@@ -1165,10 +1177,6 @@
     "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
-      {
-        "heure": "27/09 18:20",
-        "cinema": "Galeries"
-      },
       {
         "heure": "28/09 18:45",
         "cinema": "Galeries"
@@ -1361,7 +1369,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-310112/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 2589
+      "nb_notes_spectateurs": 2591
     }
   },
   {
@@ -1374,10 +1382,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "27/09 15:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 15:50",
         "cinema": "Vendôme"
@@ -1544,7 +1548,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018284/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 708
+      "nb_notes_spectateurs": 710
     }
   },
   {
@@ -1557,10 +1561,6 @@
     "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
     "seances": [
-      {
-        "heure": "27/09 20:35",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/09 20:35",
         "cinema": "Palace"
@@ -1833,130 +1833,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327993/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.7,
-      "nb_notes_spectateurs": 902
-    }
-  },
-  {
-    "titre": "La Pat'Patrouille : Le film mission Dino",
-    "annee": 2026,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Cal Brunker"
-    ],
-    "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des années et devenu un véritable expert des dinosaures. Mais leur ennemi de toujours, M.Hellinger, arrive lui aussi sur l’île avec un projet dangereux : exploiter ses richesses naturelles en creusant des mines. Ses actions imprudentes déclenchent bientôt l’éruption d’un gigantesque volcan endormi. La Pat’ Patrouille se retrouve alors entraînée dans une série de missions de sauvetage spectaculaires, plus impressionnantes que tout ce qu’elle a connu jusqu’ici. Elle devra arrêter M. Hellinger et sauver l’île avant qu’il ne soit trop tard.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbaa38d9-806f-4921-b2bf-7c482b925137.jpg",
-    "seances": [
-      {
-        "heure": "27/09 14:00",
-        "cinema": "Le Stockel"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "320681",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-320681/critiques/presse/",
-      "note_moyenne_presse": 3.1,
-      "nb_critiques_presse": 16,
-      "critiques_presse": [
-        {
-          "titre_presse": "Diverto",
-          "note": 4.0,
-          "auteur": "Laure-Hélène de Vriendt",
-          "citation": "Les plus grands, adultes compris, passeront un bon moment devant La Pat’Patrouille : Mission Dino, aussi drôle que touchant. Un film \"de wouf\", qui fait du bien à toute la famille et qui sera sans aucun doute le succès de l’été."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "C'est mignon, rythmé, drôle."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Maïlys Tourly Tarrega",
-          "citation": "Les héros canins préférés des petits font leur retour au cinéma ce mercredi pour une nouvelle aventure qui devrait ravir toute la famille."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 4.0,
-          "auteur": "L.M.",
-          "citation": "Une aventure divertissante et rythmée."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Une aventure que les plus jeunes vont trouver au poil."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 3.0,
-          "auteur": "Thibault Liessi",
-          "citation": "Mettant en avant Marcus, le chiot pompier, et Rex, un chiot échoué devenu paléontologue, La Pat’ Patrouille : Le film mission Dino se révèle plaisant."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 3.0,
-          "auteur": "Thibault Liessi",
-          "citation": "Même si tout sonne comme une campagne de pub géante pour vendre des jouets (courage, chers parents. Noël n’est que dans quatre mois…) et que son humour perd tout intérêt pour les spectateurs de plus de 10 ans, on ne jettera pas ce dessin animé aux chiens. Au contraire…"
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 3.0,
-          "auteur": "S.B.",
-          "citation": "Accessible dès 3 ans, ce divertissement familial lorgne du côté de la saga Jurassic Park pour proposer une aventure animée à la fois drôle et dynamique. Un récit qui réfléchit sur notre relation à la nature, rempli de bienveillance, et qui célèbre des valeurs comme le courage, la détermination, le sens du devoir, le dépassement de soi, l’inclusion."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 3.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "S'il ne relève pas de la plus grande élégance formelle, ce divertissement destiné aux tout petits remplit son rôle de blockbuster en culottes courtes."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Jean-Baptiste Morain",
-          "citation": "On notera que la Pat’ Patrouille a bon esprit : chez les humain·es, gens de toutes couleurs, de toutes carrures, etc. s’entendent parfaitement. La diversité de dinosaures n’en fait pas pour autant des prédateurs les uns des autres. La communauté demeure toujours soudée."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 3.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Le côté Jurassic Park fonctionne correctement et les scènes d’action se multiplient, ce qui permet de tenir en haleine les culottes courtes. La partie technique, léchée, est également au-dessus de la moyenne et surclasse en tout point – et heureusement – celle de la série TV, très générique."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 3.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Rythmé et bourré d'humour."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Mené sur un bon rythme qui ne laisse pas de place à l’ennui, un divertissement familial de bonne tenue."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 3.0,
-          "auteur": "Benjamin Oppert",
-          "citation": "Une nouvelle aventure avec du gigantisme visuel... mais pas pour tous les yeux !"
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 2.0,
-          "auteur": "Violette Messager",
-          "citation": "Si le film, entre action militariste obsessionnelle et ode à l’amitié, ne plaira qu’à son jeune public déjà conquis, il a le mérite de faire un effort sur son rendu visuel et sur le design des dinosaures."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 1.0,
-          "auteur": "Adèle Buijtenhuijs",
-          "citation": "Si ce film d’animation prend un air de fable écologique qui valorise le dépassement de soi et la découverte de l’autre, il est surtout une machine à cash aussi pauvre narrativement que visuellement."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-320681/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 256
+      "nb_notes_spectateurs": 907
     }
   },
   {
@@ -1969,26 +1846,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "27/09 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 14:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 18:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 13:45",
         "cinema": "Vendôme"
@@ -2275,33 +2132,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327941/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1382
-    }
-  },
-  {
-    "titre": "Last Things",
-    "annee": 2023,
-    "duree_minutes": 50,
-    "realisateurs": [
-      "Deborah Stratman"
-    ],
-    "synopsis": "\"Last Things\" s’ouvre sur une vision post-apocalyptique de l’avenir de la Terre : nous sommes destinés à mourir. S’inspirant de récits de J.-H. Rosny (pseudonyme commun de deux frères écrivains belges, pionniers de la science-fiction moderne), Deborah Stratman imagine un monde où toute vie semble avoir disparu. Puis, soudainement, nous réalisons que des nouvelles formes de vie émergent des paysages minéraux. Petit à petit, le film se révèle comme une surprenante méditation sur l’évolution de la vie sur notre planète à travers un collage mêlant images d’archives, animation, microphotographie, imagerie scientifique et séquences tournées spécialement pour le film. Des réflexions de la géologue Marcia Bjornerud ponctuent le film et nous invitent à repenser la survie, l’extinction et la capacité de la Terre à se souvenir au-delà des limites de l’histoire humaine. \"Last Things\" estompe les frontières entre documentaire et fiction et nous transporte dans un film-essai de science fiction !",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2d0598b7-89fe-4fc4-9879-9d3b8f002295.png",
-    "seances": [
-      {
-        "heure": "27/09 21:00",
-        "cinema": "Nova"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "311178",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-311178/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-311178/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 1
+      "nb_notes_spectateurs": 1440
     }
   },
   {
@@ -2314,10 +2145,6 @@
     "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
     "seances": [
-      {
-        "heure": "27/09 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/09 13:45",
         "cinema": "Palace"
@@ -2512,118 +2339,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000044063/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 1154
-    }
-  },
-  {
-    "titre": "Le Voisin",
-    "annee": 2026,
-    "duree_minutes": 70,
-    "realisateurs": [
-      "Xavier Ziomek"
-    ],
-    "synopsis": "Mon voisin sonne souvent chez moi à l'improviste. Il s'appelle Christophe, il est bûcheron, passionné de foot, et en situation de handicap mental. Autour de lui : Gil, son meilleur ami, dont le cerveau grésille parfois comme une ligne téléphonique brouillée et Guillaume, dont la joie insouciante se heurte à ses désirs d’émancipation.\nBref, j’ai rencontré mon voisin - et un monde que je ne soupçonnais pas.\n\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
-    "seances": [
-      {
-        "heure": "27/09 12:50",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "180258",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-180258/critiques/presse/",
-      "note_moyenne_presse": 3.4,
-      "nb_critiques_presse": 14,
-      "critiques_presse": [
-        {
-          "titre_presse": "Brazil",
-          "note": 5.0,
-          "auteur": "Alexandra Louvet",
-          "citation": "Bourré de situations cocasses, tout en étant toujours sur la corde raide et ultra-tendu, le film vous baladera durant deux heures, pour se terminer par une des scènes les plus glaçantes, cyniques et effroyables qu'on ait vues depuis un bail. Les murs à détruire ne sont pas ceux que l'on croit..."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Cette comédie grinçante et réjouissante témoigne du dynamisme du cinéma argentin  (....)."
-        },
-        {
-          "titre_presse": "Excessif",
-          "note": 4.0,
-          "auteur": "Julien Jouanneau",
-          "citation": "Un des meilleurs films de voisins jamais conçu."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Corinne Renou-Nativel",
-          "citation": "Dans ce film oppressant, toujours sur le fil de la comédie et du drame, la mise en scène s'affirme constamment inventive et structurée, comme pour se hisser à la hauteur de l'esthétique du bâtiment de Le Corbusier."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Thomas Sotinel",
-          "citation": "Au bout du compte, on obtient un film rare, même s'il est imparfait, une satire analytique qui exige un peu de réflexion pour faire rire."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Clément Ghys",
-          "citation": "Dans cette comédie grinçante, le propos de Mariano Cohn et Gastón Duprat est simple, un peu facile, mais efficace et donne une nouvelle preuve du dynamisme du cinéma argentin."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Alain Spira",
-          "citation": "Cette comédie, plus rugueuse qu'un crépi, part d'une simple querelle de voisinage pour peindre au pistolet deux milieux socioculturels qui n'auraient jamais dû se croiser."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Vincent Thabourey",
-          "citation": "La mise en tension de ce duel s'avère habile, jouant des audaces architecturales de cette maison atypique."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Isabelle Danel",
-          "citation": "C'est désagréable mais ambitieux."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Cécile Mury",
-          "citation": "L'idée serait parfaite pour un court métrage. Mais cette comédie cruelle se répète et se dilue. L'interprétation incisive des comédiens et l'élégance froide de la fameuse demeure méritent néanmoins le détour."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 2.0,
-          "auteur": "Arnaud Hée",
-          "citation": "Si cette mise en scène de l'altérité sociale se retient plutôt aux branches pour ne pas tomber dans tous les écueils du genre, elle ne manque tout de même pas de dérouler un menu assez convenu."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 2.0,
-          "auteur": "Vincent Ostria",
-          "citation": "Tout en reconnaissant que le point de départ – l'idée de la fenêtre, l'utilisation du bâtiment futuriste – est excellent, on aurait aimé se passer de la caractérisation sociologique assez grossière et pesante qui s'ensuit."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 2.0,
-          "auteur": "Vincent Ostria",
-          "citation": "Une histoire de harcèlement, dont l'humour s'évapore bien vite au profit de la satire surlignée."
-        },
-        {
-          "titre_presse": "Studio Ciné Live",
-          "note": 2.0,
-          "auteur": "Thomas Baurez",
-          "citation": "Si la bonne idée du film est de ne jamais essayer de valoriser aucun des personnages, leur antipathie finit quand même par irriter."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-180258/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 68
+      "nb_notes_spectateurs": 1155
     }
   },
   {
@@ -2636,10 +2352,6 @@
     "synopsis": "Une aviatrice de province s’attaquant à un record féminin de vol. Elle traverse la Méditerranée, mais disparaît bientôt sans donner signe de vie… puis on apprend finalement sa victoire ! Véritable récit sur le triomphe de la détermination et l’amour d’un couple bravant les barrières sociales et les conventions. Avec Le ciel est à vous, Grémillon délivre un message d’espoir au cœur des campagnes françaises et invite à toujours se battre pour sa liberté.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b6de2283-a7db-413c-b938-ad7bc0f65692.jpg",
     "seances": [
-      {
-        "heure": "27/09 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "30/09 20:00",
         "cinema": "Cinematek"
@@ -2657,30 +2369,22 @@
     }
   },
   {
-    "titre": "Les Cent et Une Nuits de Simon Cinéma",
-    "annee": 1994,
-    "duree_minutes": 125,
+    "titre": "Les courts des grands V",
+    "annee": 0,
+    "duree_minutes": 34,
     "realisateurs": [
-      "Agnès Varda"
+      "Werner Herzog",
+      "Wim Wenders"
     ],
-    "synopsis": "Monsieur Cinéma, un très vieil acteur-réalisateur vit seul dans une immense villa et voit peu à peu sa mémoire s’effriter. Convaincu d’incarner à lui seul tout l’univers du cinéma, il engage la jeune Camille pour raviver ses souvenirs à travers des récits de films et de cinéastes.  ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c58879ec-3da2-4c02-bd07-6c97ef8ca74a.png",
+    "synopsis": "Letzte Worte est un pseudo-documentaire absurde de Wenders dans lequel le dernier habitant d’une île grecque déserte s’obstine à garder le silence. Alabama : 2000 Light Years est un road-movie au style audacieux sur la mort, imprégné de musique pop, avec notamment la chanson All Along the Watchtower jouée à plusieurs reprises. Un premier signe avant-coureur des futurs road-movies de Wenders et de son amour pour la culture américaine. ",
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "27/09 15:00",
+        "heure": "02/10 20:00",
         "cinema": "Cinematek"
       }
     ],
-    "allocine": {
-      "allocine_id": "11426",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-11426/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-11426/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.8,
-      "nb_notes_spectateurs": 278
-    }
+    "allocine": null
   },
   {
     "titre": "Mariinka",
@@ -2702,32 +2406,6 @@
       "nb_critiques_presse": 0,
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039322/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
-    "titre": "Mochy",
-    "annee": 2026,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
-    ],
-    "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
-    "seances": [
-      {
-        "heure": "27/09 15:00",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000013643",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
     }
@@ -2790,195 +2468,6 @@
     }
   },
   {
-    "titre": "Onoda: 1000 Nights in the Jungle",
-    "annee": 2020,
-    "duree_minutes": 165,
-    "realisateurs": [
-      "Arthur Harari"
-    ],
-    "synopsis": "Fin 1944. Le Japon est en train de perdre la guerre. Sur ordre du mystérieux Major Taniguchi, le jeune Hiroo Onoda est envoyé sur une île des Philippines juste avant le débarquement américain. La poignée de soldats qu'il entraîne dans la jungle découvre bientôt la doctrine inconnue qui va les lier à cet homme : la Guerre Secrète. Pour l'Empire, la guerre est sur le point de finir. Pour Onoda, elle s'achèvera 10 000 nuits plus tard.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/80f96747-4a87-4e91-8179-5329825b0be6.jpg",
-    "seances": [
-      {
-        "heure": "27/09 20:35",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "259606",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-259606/critiques/presse/",
-      "note_moyenne_presse": 4.4,
-      "nb_critiques_presse": 27,
-      "critiques_presse": [
-        {
-          "titre_presse": "Bande à part",
-          "note": 5.0,
-          "auteur": "Benoit Basirico",
-          "citation": "Une aventure intérieure démente !"
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 5.0,
-          "auteur": "Aurélien Allin",
-          "citation": "Un très grand film."
-        },
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Pas un film facile, évident, ni un film radical, mais une expérience qui hante quelques jours durant. On n’en ressort pas en hurlant au chef-d’œuvre – cet horrible mot. Mais, deux jours plus tard, on finit par se dire : j’ai vu quelque chose."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 5.0,
-          "auteur": "Christophe Ono-dit-Biot",
-          "citation": "Tout est là, intense, humide, dément et sauvage."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 5.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "Un projet hors norme. L'un des trésors du Festival de Cannes 2021."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 5.0,
-          "auteur": "Nicolas Marcadé",
-          "citation": "Un second long métrage très audacieux, dont le panache assez héroïque n’exclut pas une sensibilité vibrante et délicate."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Ludovic Béot",
-          "citation": "Une multiplicité de motifs qui questionnent, sans jamais tenter de l’élucider, le mystère Onoda, et laissent un sentiment de vertige particulièrement tenace après la projection."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Luc Chessel",
-          "citation": "A travers l’histoire vraie d’un Japonais qui, sur une île philippine, a continué de se battre pendant trente ans après la Seconde Guerre mondiale, Arthur Harari signe le biopic magnifique d’un homme qui ne voulait ni la paix ni mourir."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 5.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Une histoire vraie et hors du commun pour un film qui détonne dans le cinéma français."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Baptiste Roux",
-          "citation": "Loin d’une simple transposition factuelle, l’œuvre s’approprie la matière autobiographique pour lui communiquer une ampleur rarement vue dans un cinéma français que l’on n’avait pas connu aussi ambitieux dans son appréhension de l’épopée et son lyrisme sec."
-        },
-        {
-          "titre_presse": "Transfuge",
-          "note": 5.0,
-          "auteur": "Séverine Danflous",
-          "citation": "Après avoir revisité brillamment le film noir avec Diamant noir, Arthur Harari prend des chemins de traverse pour s’attaquer au film de guerre. Ou plutôt au fantôme du film de guerre. Et le résultat est somptueux."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Une histoire incroyable pour un film qui ne l'est pas moins."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Le réalisateur français en a fait un film d’aventures, plus qu’un film de guerre, avec un suspense qui distille ses effets de surprise pendant 2h45."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 4.0,
-          "auteur": "Alice Leroy",
-          "citation": "Presque maniériste dans sa mise en scène, célébrant les formes d’un classicisme revisité avec grâce, le film flotte un peu dans une première partie qui peine à dérouler les tumultes de l’histoire, avant de trouver sa propre mesure dans une vie méditative au rythme des saisons et des moussons."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Salim Belghache",
-          "citation": "Avec Onoda : 10 000 nuits dans la jungle, Arthur Harari réalise un tour de force magistral en offrant une œuvre exigeante, accomplie et admirable. Jamais dépassé par son grand sujet et l’aspect monumental de son projet, le réalisateur français est concrètement en passe d’être l’une des grandes figures d’un cinéma hexagonal, partagé entre la question du genre populaire et la beauté de l’art avec un grand A."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Cyprien Caddeo",
-          "citation": "Tantôt organique, la mise en scène d’Arthur Harari sait parfois se faire plus onirique, restituant avec un certain sens de la poésie naturaliste l’enfermement mental d’un homme dévoué à sa cause au point de nier les évidences, de ne pouvoir physiquement abdiquer."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Nicolas Schaller",
-          "citation": "L’aventure humaine se mue en fable sur la guerre, sa folie, puis en réflexion sur l’existence dans une nature immuable qu’Harari filme comme le(s) visage(s) d’Onoda (interprété par Yûya Endô et Kanji Tsuda) : avec humilité et fascination."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Céline Rouden",
-          "citation": "Le réalisateur français surprend à nouveau avec un grand film d’aventures métaphysique sur l’histoire vraie d’un soldat japonais réfugié pendant trente ans sur une île du Pacifique dans l’ignorance de la fin de la guerre."
-        },
-        {
-          "titre_presse": "La Septième Obsession",
-          "note": 4.0,
-          "auteur": "Lucas Charrier",
-          "citation": "De cette folle histoire vraie d'un militaire japonais menant sa guerre sur une île des Philippines malgré la reddition du Japon, le cinéaste tire une oeuvre brillante sur l'aveuglement, la croyance et l'obsession, qui fait écho à deux autres épopées récentes, Silence de Martin Scorsese et Ad Astra de James Gray, dont il pourrait être le contrechamp."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "Un huis clos à ciel ouvert captivant en dépit de son rythme lent, qui éblouit par l’ampleur de sa mise en scène."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Mathieu Macheret",
-          "citation": "Arthur Haraki s'empare magnifiquement de l'histoire vraie d'un japonais resté trente ans sur son île."
-        },
-        {
-          "titre_presse": "Mad Movies",
-          "note": 4.0,
-          "auteur": "Gilles Esposito",
-          "citation": "Le pari est donc gagné pour ce projet fou (tournage au Cambodge, dans une langue étrangère) qui a osé s’élancer à mille lieues de l’habituel confort naturaliste du cinéma français."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Yannick Vely",
-          "citation": "Après le très réussi « Diamant noir », le jeune cinéaste français Arthur Harari confirme au-delà des espérances avec « Onoda - 10000 nuits dans la jungle », « survival » de guerre métaphysique qui convoque Samuel Fuller et Lav Diaz, Kon Ichikawa et Clint Eastwood."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Thomas Baurez",
-          "citation": "Un film d'aventures et de survie, inspiré de l'histoire vraie d'un soldat japonais refusant de croire à la fin de la guerre du Pacifique. Un vrai choc."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Cécile Mury",
-          "citation": "L’histoire d’une folie, sobrement mise en scène."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Thomas Bonicel",
-          "citation": "En ouverture de la section \"Un Certain Regard\", Onoda a de quoi séduire, avec une atmosphère joliment travaillée et un récit-fleuve envoûtant."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 2.0,
-          "auteur": "Corentin Lê",
-          "citation": "De ce qui peut amener un être humain à se fondre ainsi dans la jungle, nous n’en saurons pas plus à la fin qu’au début du film. Du cinéma d’Arthur Harari non plus."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-259606/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2665
-    }
-  },
-  {
     "titre": "Os canibais",
     "annee": 1988,
     "duree_minutes": 98,
@@ -3018,14 +2507,6 @@
     "synopsis": "Après sept ans de prison, Suleyman (Saïd Boumazoughe) revient dans l'immeuble délabré Paradijs, où sa mère malade (Fatima Khanfour) vit toujours sous la coupe du chef de gang Prince (Achmed Akkabi) et de son bras droit De Leeuw (Jamal Ben Saddik). Son retour coïncide avec une descente de police violente, transformant le bâtiment en véritable zone de guerre. Alors qu'il ne cherche qu'à sauver sa mère, Suleyman se retrouve pris au piège entre les bandes qui s'affrontent. Lorsqu'il sauve la jeune policière Yasmine (Clara Cleymans) d'une exécution, ils unissent leurs forces et se fraient un chemin à travers l'immeuble, où une confrontation sans merci les attend.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d5d9ba75-1aaa-4918-9dac-e60722e240a1.jpg",
     "seances": [
-      {
-        "heure": "27/09 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/09 12:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/09 12:30",
         "cinema": "Aventure"
@@ -3332,7 +2813,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-110204/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 23797
+      "nb_notes_spectateurs": 23801
     }
   },
   {
@@ -3346,10 +2827,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8d0e7bc6-5108-4d96-9d42-28771e7334a6.jpg",
     "seances": [
       {
-        "heure": "27/09 20:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "29/09 18:00",
         "cinema": "Cinematek"
       }
@@ -3357,29 +2834,29 @@
     "allocine": null
   },
   {
-    "titre": "Portrait du peintre dans son atelier",
-    "annee": 1985,
-    "duree_minutes": 40,
+    "titre": "Prince of Darkness",
+    "annee": 1988,
+    "duree_minutes": 102,
     "realisateurs": [
-      "Boris Lehman"
+      "John Carpenter"
     ],
-    "synopsis": " “Le film est la rencontre – cinématographique – de deux regards (celui du peintre Arié Mandelbaum et du cinéaste Boris Lehman) avec une voix : celle de la cantatrice Esther Lamandier (qui porte le même nom qu’Arié : Mandelbaum signifie I’amandier). Cette triple rencontre de la musique, de la peinture et du cinéma se réalise dans le quotidien d’un lieu unique: l’atelier du peintre. » – Boris Lehman\n\nVersion restaurée (DCP) par CINEMATEK en 2025, grâce au financement de NextGenerationEU et avec le soutien de la Fédération Wallonie-Bruxelles. Les travaux ont été effectués à partir des négatifs 16mm conservés dans les collections de CINEMATEK, où le film a été numérisé en 2K.\n\nSéance organisée dans le cadre de la Fête de la Fédération Wallonie-Bruxelles. Suivi d’une conversation en français entre Boris Lehman et Arié Mandelbaum, modérée par Bruno Benvindo, directeur des expositions au Musée Juif de Belgique. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1201d7cb-b8f4-411f-a8a6-089d202d2650.jpg",
+    "synopsis": "À la demande d’un prêtre, un groupe de scientifiques vient étudier un mystérieux cylindre de verre enfermé dans la crypte d’une église de banlieue à Los Angeles. Au cours de leurs recherches, les scientifiques comprennent qu’ils se trouvent devant un processus irréversible dont le but est l’avènement du Mal...",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/30fb8b44-626d-4230-8a69-26300749c279.png",
     "seances": [
       {
-        "heure": "27/09 17:30",
+        "heure": "02/10 21:30",
         "cinema": "Cinematek"
       }
     ],
     "allocine": {
-      "allocine_id": "6423",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-6423/critiques/presse/",
+      "allocine_id": "2552",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2552/critiques/presse/",
       "note_moyenne_presse": null,
       "nb_critiques_presse": 0,
       "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6423/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2552/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.4,
+      "nb_notes_spectateurs": 278
     }
   },
   {
@@ -3409,14 +2886,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "27/09 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "28/09 17:20",
         "cinema": "Aventure"
@@ -3533,7 +3002,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1668
+      "nb_notes_spectateurs": 1786
     }
   },
   {
@@ -3546,38 +3015,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "27/09 15:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 15:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "27/09 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/09 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "28/09 13:45",
         "cinema": "Vendôme"
@@ -3627,12 +3064,12 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "29/09 21:00",
-        "cinema": "Galeries"
+        "heure": "29/09 20:35",
+        "cinema": "Palace"
       },
       {
-        "heure": "29/09 21:15",
-        "cinema": "Palace"
+        "heure": "29/09 21:00",
+        "cinema": "Galeries"
       }
     ],
     "allocine": {
@@ -3782,7 +3219,142 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 493
+      "nb_notes_spectateurs": 506
+    }
+  },
+  {
+    "titre": "Rèn xiāo yáo",
+    "annee": 2002,
+    "duree_minutes": 112,
+    "realisateurs": [
+      "Jia Zhangke"
+    ],
+    "synopsis": "Deux jeunes Chinois désabusés et sans emploi mènent une existence à la dérive dans les rues de leur ville industrielle ; leurs chemins croisent celui d'une jeune chanteuse et danseuse locale, égérie d'une marque de spiritueux.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5e5c41e0-d599-4ec2-98e2-eef46e1a85fd.jpg",
+    "seances": [
+      {
+        "heure": "04/10 19:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "45258",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-45258/critiques/presse/",
+      "note_moyenne_presse": 3.4,
+      "nb_critiques_presse": 18,
+      "critiques_presse": [
+        {
+          "titre_presse": "Chronic'art.com",
+          "note": 5.0,
+          "auteur": "Jean-Philippe Tessé",
+          "citation": "Plaisirs inconnus, pourtant, n'a rien d'une chronique lugubre sur la jeunesse désoeuvrée. Au contraire, et c'est bien là l'exploit, les déambulations molles de Xiao Ji et Bin Bin, leurs stations sèches et alanguies, leurs pulsions brusques, évoquent la légèreté désespérée des films d'Eustache."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 5.0,
+          "auteur": "Amélie Dubois",
+          "citation": "Plaisirs inconnus est un grand film, non seulement parce que c'est l'un des rares à dresser un état des lieux aussi juste de la jeunesse, amis aussi parce que sa force d'expression est issue du coeur même d'une mise en scène sobre, rigoureuse, intelligente et singulière."
+        },
+        {
+          "titre_presse": "Aden",
+          "note": 4.0,
+          "auteur": "Philippe Piazzo",
+          "citation": "Ce portrait-confession de quelques enfants du siècle de l'autre bout du monde ne s'érige jamais en manifeste mais laisse bien un goût de calme révolte au fond des yeux de ses spectateurs."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 4.0,
+          "auteur": "Clélia Cohen",
+          "citation": "C'est un film sur les lendemains qui chantent même s'ils sont tout sauf prometteurs."
+        },
+        {
+          "titre_presse": "L'Humanité",
+          "note": 4.0,
+          "auteur": "Jean Roy",
+          "citation": "Il y a là comme un travail du deuil des films d'ados américains des années cinquante, écho de ce que les personnages ressentent et vivent eux-mêmes. C'est beau, tristement beau."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 4.0,
+          "auteur": "Isabelle Regnier",
+          "citation": "Plastiquement, Plaisirs inconnus est une merveille. L'image DV accentue l'uniformité terne du décor, où rocaille, béton et ciel forment la toile de fond sur laquelle évoluent les personnages principaux, magnifiquement détachés, dans leurs vêtements aux couleurs pop."
+        },
+        {
+          "titre_presse": "Les Echos",
+          "note": 4.0,
+          "auteur": "Annie Coppermann",
+          "citation": "On en ressort un peu chancelant, tant, malgré tout de même la constance et la distanciation d'un humour discrètement grinçant, la tristesse qui en sourd est presque contagieuse. Une contagion qui, finalement, est bien la marque d'un beau film réussi..."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 4.0,
+          "auteur": "Didier Péron",
+          "citation": "\"Plaisirs inconnus\" de Jia Zhang-ke restitue le spleen vertigineux de la jeunesse chinoise."
+        },
+        {
+          "titre_presse": "TéléCinéObs",
+          "note": 4.0,
+          "auteur": "Frédéric Faure",
+          "citation": "Jia Zhang-Ke s'affirme ici comme un cinéaste de tout premier plan."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 4.0,
+          "auteur": "Marine Landrot",
+          "citation": "Plaisirs inconnus n'est pas un voyage à la découverte de sensations extatiques secrètes. Inconnus, les plaisirs le restent farouchement pour ces zonards de la Chine profonde, où le jeune cinéaste a tourné une nouvelle fois sous le manteau."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 3.0,
+          "auteur": "Marie-Noëlle Tranchant",
+          "citation": "Voir la critique sur www.lefigaro.fr"
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 3.0,
+          "auteur": "Vincent Amiel",
+          "citation": "Plaisirs inconnus, tout en paraissant saisir l'air du temps, n'échappe pas à la tentation d'un moralisme très convenu."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 3.0,
+          "auteur": "Olivier De Bruyn",
+          "citation": "Et si l'on aime les scènes qui durent et abritent les gesticulations de personnages rongés par une fureur muette (...), on peut s'abandonner à ces plaisirs effectivement inconnus."
+        },
+        {
+          "titre_presse": "Ciné Live",
+          "note": 2.0,
+          "auteur": "Sandra Benedetti",
+          "citation": "Voir la critique sur www.cinelive.fr"
+        },
+        {
+          "titre_presse": "L'Express",
+          "note": 2.0,
+          "auteur": "Eric Libiot",
+          "citation": "Voir la critique sur www.lexpress.fr"
+        },
+        {
+          "titre_presse": "MCinéma.com",
+          "note": 2.0,
+          "auteur": "Yann Kerloc'h",
+          "citation": "Le cadre (...) est d'une magnifique précision, mais quand Jia Zhang-ke s'approche de ses personnages, il affadit son regard et nous empêche, au début, de cerner l'esprit de son film."
+        },
+        {
+          "titre_presse": "Studio Magazine",
+          "note": 2.0,
+          "auteur": "Thierry Chèze",
+          "citation": "Voir la critique sur www.studiomag.com"
+        },
+        {
+          "titre_presse": "Zurban",
+          "note": 2.0,
+          "auteur": "Véronique Le Bris",
+          "citation": "La description de cette Chine en mutation, touchée par le chômage, est intéressante car inédite, mais l'ennui des personnages nous gagne rapidement. Leur destin laisse indifférent, même si l'ambiance sonore réveille un peu notre engourdissement bienveillant."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-45258/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.3,
+      "nb_notes_spectateurs": 47
     }
   },
   {
@@ -3797,6 +3369,10 @@
     "seances": [
       {
         "heure": "30/09 18:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "04/10 18:00",
         "cinema": "Cinematek"
       }
     ],
@@ -3900,14 +3476,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "27/09 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 19:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "28/09 14:20",
         "cinema": "Aventure"
@@ -4015,208 +3583,83 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 105
+      "note_moyenne_spectateurs": 3.6,
+      "nb_notes_spectateurs": 148
     }
   },
   {
-    "titre": "Short Film Selection + Q&A",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Silent Friend",
-    "annee": 2026,
-    "duree_minutes": 147,
+    "titre": "Sleeping Beauty",
+    "annee": 2011,
+    "duree_minutes": 102,
     "realisateurs": [
-      "Ildiko Enyedi"
+      "Julia Leigh"
     ],
-    "synopsis": "Un ginkgo centenaire situé à l'université Philipps de Marbourg, en Allemagne, qui a été le témoin silencieux de trois époques différentes : 1908, 1972 et 2020.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/753bdb39-f35d-4080-bd50-34084c7decc2.jpg",
+    "synopsis": "Hantée par la mort et d’une témérité discrète, Lucy est une étudiante qui accepte un emploi de « Belle au bois dormant ». Dans une maison de ville luxueuse des hommes âgés recherchent une expérience érotique exigeant la soumission absolue de la jeune femme. Mais bientôt, elle ressent le besoin grandissant de savoir ce qui lui arrive lorsqu’elle est endormie. La cinéaste et écrivaine australienne Julia Leigh explore un récit troublant, à la fois classique et contemporain. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9f4aea27-5546-418b-abd1-871e924b2cf1.png",
     "seances": [
       {
-        "heure": "28/09 11:30",
-        "cinema": "Palace"
+        "heure": "03/10 21:15",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": {
-      "allocine_id": "315015",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-315015/critiques/presse/",
-      "note_moyenne_presse": 4.0,
-      "nb_critiques_presse": 22,
+      "allocine_id": "177094",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-177094/critiques/presse/",
+      "note_moyenne_presse": 3.5,
+      "nb_critiques_presse": 8,
       "critiques_presse": [
         {
-          "titre_presse": "Abus de Ciné",
-          "note": 5.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Un projet d’une originalité folle, autour d’un arbre témoin de la communication entre humains. [...] D'une fascinante beauté et d'une étrange tonalité, il s'agit là d'un des grands films de cette année 2026."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 5.0,
-          "auteur": "Marc-Aurèle Garreau",
-          "citation": "Silent Friend déjoue le piège anthropomorphique de son sujet en misant sur ses puissantes sensations. Un film miraculeux conçu comme une photosynthèse amoureuse et de laquelle éclôt une humanité totale."
-        },
-        {
-          "titre_presse": "Bande à part",
+          "titre_presse": "Le Journal du Dimanche",
           "note": 4.0,
-          "auteur": "Isabelle Danel",
-          "citation": "Prodigue en cadrages de toute beauté, magnifiquement éclairés par le chef-opérateur Gergely Pálos, ce voyage poétique et puissant nous invite au cœur de ce qui nous lie."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 4.0,
-          "auteur": "Clément Colliaux",
-          "citation": "Voilà ce qui compose l’horizon d’Ildikó Enyedi : faire émerger, à travers trois récits centrés sur la botanique et situés sur un même campus à des époques différentes, un nouveau regard, plus horizontal et poreux à la présence du vivant autour des personnages."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 4.0,
-          "auteur": "Constantin Lacombe",
-          "citation": "Jamais nébuleux ni aliénant, SILENT FRIEND observe les âmes esseulées avec douceur, comme si la caméra réifiait le point de vue de cet arbre immobile et immuable, témoin de nos vies éphémères sur Terre comme autant d’histoires à raconter. Étonnant."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Une splendide fable animiste, métaphysique et mélancolique."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Antoine Desrues",
-          "citation": "Tony Leung Chiu-wai confirme qu’il est l’un des plus grands acteurs en activité en transcendant cet appel du sensible et du délicat que recherche Ildikó Enyedi. Un petit miracle de cinéma."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Vincent Ostria",
-          "citation": "L’audacieuse réalisatrice hongroise fait entrevoir par petites touches l’envoûtante utopie d’une communication entre humains et végétaux en entrelaçant les périodes et les modes de pensée."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Le découpage du film, enspiralé en trois histoires, en trois temps différents, avec en leur centre des scientifiques solitaires et rêveurs que relie l’arbre centenaire, est à la fois la force et la faiblesse de ce récit magnifiquement photographié par Gegerly Pàlos."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Eric Neuhoff",
-          "citation": "Une ode aux sens et à la nature."
+          "auteur": "Stéphanie Belpêche",
+          "citation": "On est captivé par ces luttes de pouvoirs intestines, dignes de Dallas !"
         },
         {
           "titre_presse": "Le Monde",
           "note": 4.0,
-          "auteur": "Bo. B.",
-          "citation": "Tony Leung et Léa Seydoux éclipsés par un ginkgo biloba. Un arbre vieux de près de 200 ans situé dans le jardin botanique de l’université de Marbourg, au centre de l’Allemagne, vole la vedette au casting pourtant impeccable de Silent Friend."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Contemplatif, fascinant, formidablement réalisé et interprété."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Florence Colombani",
-          "citation": "Les histoires s’entrelacent avec une grande fluidité, et la profondeur philosophique du regard qu’Ildikó Enyedi pose sur le monde impressionne."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "La grande réalisatrice hongroise Ildikó Enyedi signe une fable écologique et historique, tissée d'images somptueuses et porté par le charme de Tony Leung et Léa Seydoux."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Michael Ghennam",
-          "citation": "Un film ample et envoûtant, dopé par les prestations de Tony Leung Chiu-wai et de la révélation Luna Wedler."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Bruno Deruisseau",
-          "citation": "Aussi cérébral que sensuel, Silent Friend ouvre, pour peu qu’on se donne la peine de bien le regarder et l’écouter, une porte vers un nouveau monde qu’Ildiko Enyedi filme avec une inventivité folle."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Camille Nevers",
-          "citation": "Les chronologies maniées par Enyedi sont des portions de temps (les trois époques), que son cinéma imbrique par les raccords de plan qui font rimes et des échos à chaque glissement presque érotique."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Jacques Morice",
-          "citation": "Troublant et merveilleux."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Gérard Crespo",
-          "citation": "Une œuvre majeure sur les rapports à la science et le lien avec la nature, d’une structure narrative à la fois élaborée et fluide, qui confirme l’importance du cinéma d’Ildikó Enyedi."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Nicolas Schaller",
-          "citation": "Mû par des forces contraires – l’évanescent et l’immuable, l’onirisme et l’observation scientifique – et par un travail d’orfèvre sur la bande-son, « Silent Friend » envoûte et interroge. A condition de se délester de tout préjugé et de se laisser porter par sa douceur autre qu’incarne à merveille Tony Leung Chiu-wai, le crâne rasé, revenu de chez John Woo et Wong Kar-wai."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 3.0,
-          "auteur": "Céline Rouden",
-          "citation": "La cinéaste hongroise Ildiko Enyedi fait d’un splendide ginkgo le témoin silencieux des passions humaines sur trois époques. Silent Friend, bien qu’un peu conceptuel, est un film envoûtant sur notre rapport au vivant."
+          "auteur": "Thomas Sotinel",
+          "citation": "(...) un film au ton étonnamment libre, qui revient sur la décennie, de 1984 à 1994, qui vit le studio fondé par Walt Disney renaître d'entre les morts et asseoir à nouveau son emprise sur les imaginaires enfantins de la planète et les marchés financiers."
         },
         {
           "titre_presse": "Première",
+          "note": 4.0,
+          "auteur": "Christophe Narbonne",
+          "citation": "Captivant."
+        },
+        {
+          "titre_presse": "TéléCinéObs",
+          "note": 4.0,
+          "auteur": "Nicolas Schaller",
+          "citation": "Le documentaire, qui, en filigrane, raconte la prise de pouvoir de la génération blockbuster à Hollywood, se suit comme une saga digne du \" Parrain \" avec ses personnages hauts en couleur, ses guerres d'egos, ses trahisons... Captivant."
+        },
+        {
+          "titre_presse": "Brazil",
           "note": 3.0,
-          "auteur": "Thierry Chèze",
-          "citation": "A travers ces trois explorateurs solitaires en quête de savoir, Ildikó Enyedi célèbre la complexité de la nature selon le principe que les plantes sont au fond des humains comme les autres. Son aridité en laissera beaucoup à la porte mais pour peu qu’on s’y abandonne, le voyage se révèle d’une poésie et d’une profondeur renversantes."
+          "auteur": "Julien Leimdorfer",
+          "citation": "De surprise en coup de théâtre, le scénario dessine une histoire d'Hollywood (...) Une construction digne de véritables Storytellers, et qui n'a rien à envier aux plus solides fictions."
+        },
+        {
+          "titre_presse": "L'Express",
+          "note": 3.0,
+          "auteur": "Eric Libiot",
+          "citation": "Voir la critique sur le site L'Express.fr"
+        },
+        {
+          "titre_presse": "Studio Ciné Live",
+          "note": 3.0,
+          "auteur": "Thierry Cheze",
+          "citation": "Voir le site de Studio Ciné Live."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Aurélien Ferenczi",
+          "citation": "A voir, à moins d'attendre que ce doc devienne, sous peu, un copieux bonus DVD..."
         }
       ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-315015/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 382
-    }
-  },
-  {
-    "titre": "Sunny Dancer",
-    "annee": 2026,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "George Jaques"
-    ],
-    "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
-    "seances": [
-      {
-        "heure": "27/09 16:15",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000002229",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000002229/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000002229/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-177094/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 153
     }
   },
   {
@@ -4256,10 +3699,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "28/09 11:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "28/09 16:45",
         "cinema": "Palace"
       },
@@ -4280,14 +3719,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "27/09 21:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 21:00",
         "cinema": "Palace"
@@ -4360,7 +3791,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024260/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 52
+      "nb_notes_spectateurs": 57
     }
   },
   {
@@ -4388,54 +3819,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "27/09 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 13:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 14:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/09 17:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/09 18:20",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "27/09 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/09 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "28/09 13:45",
         "cinema": "Vendôme"
@@ -4738,7 +4121,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 1061
+      "nb_notes_spectateurs": 1123
     }
   },
   {
@@ -4766,49 +4149,30 @@
     }
   },
   {
-    "titre": "The Life and Death of Colonel Blimp",
-    "annee": 1943,
-    "duree_minutes": 163,
+    "titre": "The Last of the Mohicans (1920)",
+    "annee": 1920,
+    "duree_minutes": 75,
     "realisateurs": [
-      "Michael Powell",
-      "Emeric Pressburger"
+      "Maurice Tourneur",
+      "Clarence Brown"
     ],
-    "synopsis": "De la guerre des Boers au nazisme, l’amitié à problèmes d’un officier britannique et d’un gradé allemand. Le crépuscule des conceptions chevaleresques de l’armée, sur fond d’humour et de nostalgie mis en scène en Technicolor par Powell et Pressburger dont la maîtrise crève les yeux. Un film que Churchill haïssait, qui fût mutilé d’un tiers, et ici restauré intégralement.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2de2937a-c450-4860-8772-ea7bc29a9d73.jpg",
+    "synopsis": "En pleine guerre de la Conquête, la fille aînée d'un officier britannique s'éprend d'un allié amérindien, dernier guerrier survivant de sa tribu : les Mohicans.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c14d127f-76e1-4e8a-8135-ffec54d85a58.png",
     "seances": [
       {
-        "heure": "27/09 20:30",
+        "heure": "01/10 21:00",
         "cinema": "Cinematek"
       }
     ],
     "allocine": {
-      "allocine_id": "4082",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-4082/critiques/presse/",
-      "note_moyenne_presse": 4.3,
-      "nb_critiques_presse": 3,
-      "critiques_presse": [
-        {
-          "titre_presse": "Ecran Large",
-          "note": 5.0,
-          "auteur": "Sébastien de Sainte Croix",
-          "citation": "La suite inconsciente (ou pas) à \"La grande illusion\" de Renoir. D'une humanité inaltérable et toujours aussi bouleversante vision après vision."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Eric Libiot",
-          "citation": "Du cinéma comme un rêve."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 3.0,
-          "auteur": "Raphaëlle Pireyre",
-          "citation": "Entre les différentes époques du récit, le \"Colonel Blimp\" est présenté tour à tour sous le jour de la respectabilité, du grotesque, du romantisme. Il est donc difficile de voir une unité au personnage comme au film."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4082/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 173
+      "allocine_id": "2947",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2947/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2947/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.3,
+      "nb_notes_spectateurs": 24
     }
   },
   {
@@ -4821,14 +4185,6 @@
     "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
-      {
-        "heure": "27/09 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "28/09 20:35",
         "cinema": "Palace"
@@ -5003,7 +4359,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039625/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 332
+      "nb_notes_spectateurs": 341
     }
   },
   {
@@ -5016,18 +4372,6 @@
     "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
     "seances": [
-      {
-        "heure": "27/09 17:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 20:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/09 13:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "29/09 13:00",
         "cinema": "Galeries"
@@ -5264,7 +4608,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013045/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 13840
+      "nb_notes_spectateurs": 13901
     }
   },
   {
@@ -5430,19 +4774,63 @@
     "allocine": null
   },
   {
-    "titre": "The Silence Treatment",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "titre": "The Shop Around the Corner",
+    "annee": 1940,
+    "duree_minutes": 98,
+    "realisateurs": [
+      "Ernst Lubitsch"
+    ],
+    "synopsis": "Deux employés d'une boutique de cadeaux ne peuvent pas se supporter, sans se rendre compte qu'ils tombent amoureux par courrier interposé en tant que correspondants anonymes.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b15a8acf-02fb-4e1e-ad22-c911773a7881.jpg",
     "seances": [
       {
-        "heure": "27/09 13:30",
-        "cinema": "Galeries"
+        "heure": "04/10 17:00",
+        "cinema": "Cinematek"
       }
     ],
-    "allocine": null
+    "allocine": {
+      "allocine_id": "679",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-679/critiques/presse/",
+      "note_moyenne_presse": 4.0,
+      "nb_critiques_presse": 1,
+      "critiques_presse": [
+        {
+          "titre_presse": "Critikat.com",
+          "note": 4.0,
+          "auteur": "Ophélie Wiel",
+          "citation": "The Shop Around the Corner retravaille finement les thèmes lubitschiens de l'apparence et du quiproquo révélateur en y ajoutant un parfum doux-amer qui n'est pas pour nous déplaire..."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-679/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 4.3,
+      "nb_notes_spectateurs": 914
+    }
+  },
+  {
+    "titre": "They Live",
+    "annee": 1988,
+    "duree_minutes": 94,
+    "realisateurs": [
+      "John Carpenter"
+    ],
+    "synopsis": "De méchants extra-terrestres tentent de conquérir le monde par des messages médiatiques subliminaux. Un renouvellement de la SF, à travers une métaphore des yuppies affairistes de la mondialisation.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a686710a-c3b9-4370-9ca2-14906faa4db0.png",
+    "seances": [
+      {
+        "heure": "03/10 19:15",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "4660",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-4660/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4660/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.4,
+      "nb_notes_spectateurs": 6524
+    }
   },
   {
     "titre": "Un Anno di Scuola",
@@ -5454,14 +4842,6 @@
     "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
     "seances": [
-      {
-        "heure": "27/09 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/09 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "28/09 13:40",
         "cinema": "Vendôme"
@@ -5598,7 +4978,148 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327942/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 419
+      "nb_notes_spectateurs": 421
+    }
+  },
+  {
+    "titre": "Wardi",
+    "annee": 2019,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Mats Grorud"
+    ],
+    "synopsis": "Beyrouth, Liban, aujourd’hui. Wardi, une jeune Palestinienne de onze ans, vit avec toute sa famille dans le camp de réfugiés où elle est née. Sidi, son arrière-grand-père adoré, fut l’un des premiers à s’y installer après avoir été chassé de son village en 1948. Le jour où Sidi lui confie la clé de son ancienne maison en Galilée, Wardi craint qu’il ait perdu l’espoir d’y retourner un jour. Mais comment chaque membre de la famille peut-il aider à sa façon la petite fille à renouer avec cet espoir ?",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e20aedb5-68cf-4bd5-92cb-642611408753.jpeg",
+    "seances": [
+      {
+        "heure": "04/10 16:00",
+        "cinema": "Nova"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "263794",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-263794/critiques/presse/",
+      "note_moyenne_presse": 3.7,
+      "nb_critiques_presse": 19,
+      "critiques_presse": [
+        {
+          "titre_presse": "Paris Match",
+          "note": 5.0,
+          "auteur": "Karelle Fitoussi",
+          "citation": "Un voyage indispensable pour voir le monde autrement."
+        },
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "« Wardi » mélange les techniques d’animation pour donne un résultat bouleversant."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 4.0,
+          "auteur": "Thierry Méranger",
+          "citation": "Un film étonnant, aussi précieux dans sa forme que par son sujet."
+        },
+        {
+          "titre_presse": "L'Express",
+          "note": 4.0,
+          "auteur": "Christophe Carrière",
+          "citation": "En refusant de faire l'impasse sur les conséquences d'une tragédie tout en évitant un ton belliqueux, [Mats Grorud] s'acquitte d'un film propice au débat et à la réflexion."
+        },
+        {
+          "titre_presse": "L'Humanité",
+          "note": 4.0,
+          "auteur": "Dominique Widemann",
+          "citation": "Un film poétique mêle les techniques d’animation et travaille l’histoire dans un camp de réfugiés palestiniens."
+        },
+        {
+          "titre_presse": "L'Obs",
+          "note": 4.0,
+          "auteur": "Xavier Leherpeur",
+          "citation": "Relevant le défi d'un film en stop-motion, bourré d'humour, sur le sort des expatriés, cette fable politique et poétique, relevée d'un soupçon de cocasserie surréaliste, fait mouche. Une saga familiale sur le déracinement qui éclairera parents et enfants sur la blessure à vif d'un peuple oublié."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 4.0,
+          "auteur": "Jean Serroy",
+          "citation": "Les souvenirs, les drames, les désespoirs, mais aussi la chaleur humaine, l’humour, la cocasserie, tissent le fil d’un récit que l’animation de figurines originales charge d’une poésie simple."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 4.0,
+          "auteur": "Simon Hoarau",
+          "citation": "À la croisée des techniques de l'animation, ce film d'animation séduit par son récit mémoriel et sa prégnance lyrique."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 4.0,
+          "auteur": "Marius Chapuis",
+          "citation": "Si le film de Mats Grorud n’a pas la puissance formelle de \"Valse avec Bachir\" ou de \"Persepolis\", il écrit joliment et à hauteur d’homme l’histoire des vaincus, de ceux qui n’intéressent plus."
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 4.0,
+          "auteur": "Eithne O'Neill",
+          "citation": "Qu'il s'agisse du temps perdu ou du présent, le réalisme et l'art poétique coïncident dans le portrait brossé de la joie et de la peine."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 4.0,
+          "auteur": "Samuel Douhaire",
+          "citation": "Avec des dessins pour les flash-back et des marionnettes pour le présent, la vie des réfugiés palestiniens au Liban suscite une profonde empathie."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 4.0,
+          "auteur": "Arthur Champilou",
+          "citation": "Habile dans son utilisation des techniques d’animation traditionnelles, Wardi narre un récit fort et tendre, au prisme du regard d’une jeune héroïne en quête de son passé."
+        },
+        {
+          "titre_presse": "Culturopoing.com",
+          "note": 3.0,
+          "auteur": "Emmanuel Le Gagne",
+          "citation": "Malgré ses menus défauts, (...) \"Wardi\" reste une belle proposition de cinéma, à travers cette suite de témoignages recueillis par une jeune héroïne qui garde l'espoir d'un avenir meilleur."
+        },
+        {
+          "titre_presse": "La Croix",
+          "note": 3.0,
+          "auteur": "Stéphane Dreyfus",
+          "citation": "L’animation permet certes de créer une distance avec ces histoires tragiques, mais ce filtre n’est parfois pas suffisant pour sublimer la dureté de certaines scènes."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 3.0,
+          "auteur": "La Rédaction",
+          "citation": "Juste, sensible et non dénué d'humour."
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 3.0,
+          "auteur": "Baptiste Thion",
+          "citation": "Ce premier film, mêlant 2D et animation en volume, sonde avec délicatesse la mémoire d’exilés tous orphelins d’une terre où certains n’ont jamais mis les pieds."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Clarisse Fabre",
+          "citation": "Le réalisateur, norvégien, dont la mère était infirmière dans des camps libanais, a enseigné dans le camp beyrouhtin de Burj ElBarajneh. Il livre un « conte », poétique et fort bien documenté, à la portée d’enfants de 10 ou 11 ans."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 3.0,
+          "auteur": "Bruno Deruisseau",
+          "citation": "Parfaitement maîtrisé, cet alliage inventif permet à ce premier long métrage du réalisateur norvégien Mats Grorud, de poser avec une rare force son sujet sous-jacent, à savoir le rapport entre l’écoulement du temps, la mémoire et l’espoir."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 3.0,
+          "auteur": "Christophe Narbonne",
+          "citation": "Joli mélange d’animation de marionnettes (pour le récit au présent) et d’animation traditionnelle (pour les flashbacks), Wardi est une bonne introduction, tendre et cruelle à la fois, à l’adresse de la jeunesse pour comprendre l’état de notre monde."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-263794/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.7,
+      "nb_notes_spectateurs": 102
     }
   },
   {
@@ -5628,44 +5149,18 @@
     }
   },
   {
-    "titre": "Yugly",
-    "annee": 2026,
-    "duree_minutes": 86,
+    "titre": "Ziggy Stardust and the Spiders From Mars",
+    "annee": 1979,
+    "duree_minutes": 89,
     "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
+      "D.A. Pennebaker"
     ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/adbd23cb-6f1e-491b-b500-c9459f882889.jpg",
+    "synopsis": "Le 3 juillet 1973, David Bowie, icône du rock, surprend ses fans et son groupe en annonçant qu'il donnera son dernier concert ce soir-là. Bowie se produirait encore, bien sûr, mais plus jamais sous le nom de Ziggy Stardust and the Spiders from Mars. Le documentariste D.A. Pennebaker était à Londres pour enregistrer une émission spéciale de trente minutes sur le spectacle de Bowie, mais il a été tellement captivé par l'artiste qu'il a décidé sur-le-champ de faire un film plus long.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/290667d5-ca0f-4650-be0c-f9c02cfeb90e.png",
     "seances": [
       {
-        "heure": "27/09 13:00",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000013643",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
-    "titre": "Élever au grain",
-    "annee": 2025,
-    "duree_minutes": 82,
-    "realisateurs": [
-      "Alice Godart"
-    ],
-    "synopsis": "Étienne partage son temps entre son élevage de volailles, à l’avenir très incertain, et sa passion pour les motos. Alors que la fin de la ferme approche, Alice revient et tente d’explorer sa relation distante avec son père. Entre poulets et moteurs, le film suit cette relation et tente de la transformer.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/970f477a-bc7e-49ed-aad7-6f3fbf563c2a.jpg",
-    "seances": [
-      {
-        "heure": "27/09 16:00",
-        "cinema": "Galeries"
+        "heure": "04/10 21:15",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": null

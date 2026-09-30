@@ -48,6 +48,10 @@
       {
         "heure": "05/10 12:30",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 17:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -61,10 +65,6 @@
     "synopsis": "Ce classique du cyberpunk suit un jeune motard dont les pouvoirs psychiques deviennent incontrôlables et le menacent, lui et le monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
-      {
-        "heure": "29/09 16:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/09 16:00",
         "cinema": "Galeries"
@@ -96,6 +96,10 @@
       {
         "heure": "04/10 16:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 16:30",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -107,10 +111,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "29/09 16:20",
-        "cinema": "Galeries"
-      },
       {
         "heure": "02/10 11:00",
         "cinema": "Galeries"
@@ -206,10 +206,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
       {
-        "heure": "29/09 21:10",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "01/10 21:00",
         "cinema": "Vendôme"
       },
@@ -220,22 +216,10 @@
       {
         "heure": "04/10 21:00",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Blue Velvet",
-    "annee": 1986,
-    "duree_minutes": 120,
-    "realisateurs": [
-      "David Lynch"
-    ],
-    "synopsis": "La découverte d'une oreille humaine coupée dans un champ entraîne un jeune homme dans une enquête liée à une belle et mystérieuse chanteuse de boîte de nuit et à un groupe de criminels psychopathes qui ont kidnappé son enfant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd8a8d70-f5df-4a53-a3e5-3bd84e371dcb.png",
-    "seances": [
+      },
       {
-        "heure": "29/09 19:00",
-        "cinema": "Cinema RITCS"
+        "heure": "06/10 18:30",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -249,10 +233,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "29/09 19:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/09 13:30",
         "cinema": "Palace"
@@ -279,6 +259,14 @@
       },
       {
         "heure": "05/10 13:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 13:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 18:00",
         "cinema": "Palace"
       }
     ]
@@ -419,6 +407,10 @@
       {
         "heure": "05/10 15:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 21:20",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -433,6 +425,22 @@
       {
         "heure": "04/10 18:00",
         "cinema": "Nova"
+      }
+    ]
+  },
+  {
+    "titre": "El desencanto",
+    "annee": 1976,
+    "duree_minutes": 97,
+    "realisateurs": [
+      "Jaime Chávarri"
+    ],
+    "synopsis": "Ce film est un documentaire sur le poète Leopoldo Panero. Sa veuve et ses fils y évoquent la mort en général — dans ce contexte particulier — ainsi que leurs propres problèmes familiaux.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/57ceb286-d09b-44e9-bfdb-7be5c3fe6af4.jpg",
+    "seances": [
+      {
+        "heure": "06/10 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -462,46 +470,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "29/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/09 14:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/09 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/09 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/09 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/09 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/09 13:45",
         "cinema": "Vendôme"
@@ -713,6 +681,42 @@
       {
         "heure": "05/10 21:10",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 13:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 15:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 19:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 21:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 21:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -728,22 +732,6 @@
     "seances": [
       {
         "heure": "03/10 17:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Germinal",
-    "annee": 1913,
-    "duree_minutes": 146,
-    "realisateurs": [
-      "Albert Capellani"
-    ],
-    "synopsis": "Il y a quelques décennies encore, Alberto Capellani était un nom méconnu. Les deux rétrospectives au festival Il Cinema Ritrovato en 2010 et 2011, ont clairement démontré qu’il était un réalisateur d’envergure, au même titre que D. W. Griffith, Louis Feuillade et Victor Sjöström. Germinal est sans doute son chef-d’œuvre, l’un des grands films qui ont fait de 1913 l’annus mirabilis du cinéma des débuts. Son jeu d’acteurs relativement sobre, son réalisme cru, fidèle au roman de Zola, et ses longs plans habilement menés sont uniques pour cette époque. Ce film mérite d’être vu sur grand écran. — Kristin Thompson\n\nPrécédé d’une introduction en anglais par Kristin Thompson. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4285b136-02e0-4c99-b9da-899a8fcfb038.jpg",
-    "seances": [
-      {
-        "heure": "29/09 19:00",
         "cinema": "Cinematek"
       }
     ]
@@ -777,6 +765,10 @@
     "seances": [
       {
         "heure": "01/10 18:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "06/10 20:45",
         "cinema": "Cinematek"
       }
     ]
@@ -830,7 +822,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/08da2acf-2f6c-47cd-842c-fcc43d07ec4b.jpg",
     "seances": [
       {
-        "heure": "29/09 20:00",
+        "heure": "06/10 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -861,7 +853,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
       {
-        "heure": "29/09 18:15",
+        "heure": "06/10 18:30",
         "cinema": "Galeries"
       }
     ]
@@ -884,6 +876,20 @@
     ]
   },
   {
+    "titre": "Knit Night #14 : Portrait de la jeune fille en feu",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "06/10 19:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Kokuho",
     "annee": 2026,
     "duree_minutes": 175,
@@ -893,10 +899,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "29/09 14:50",
-        "cinema": "Galeries"
-      },
       {
         "heure": "30/09 15:00",
         "cinema": "Galeries"
@@ -916,18 +918,18 @@
     ]
   },
   {
-    "titre": "L'inconnue",
-    "annee": 2026,
-    "duree_minutes": 140,
+    "titre": "L'une chante, l'autre pas",
+    "annee": 1977,
+    "duree_minutes": 122,
     "realisateurs": [
-      "Arthur Harari"
+      "Agnès Varda"
     ],
-    "synopsis": "Après avoir couché avec une inconnue, David se réveille enfermé dans son corps. Sur ce postulat terrible, Arthur Harari réalise un grand film paranoïaque sur la dissolution de l’identité. Porté par les interprétations hallucinées de Nils Schneider et Léa Seydoux, L’Inconnue est une expérience de cinéma âpre et douloureuse dont on ne ressort pas indemne.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283c9e80-7c50-4fd9-b53e-3bc181896321.jpg",
+    "synopsis": "Le film se concentre sur les vies entremêlées de deux amies dans la France des années 1970, alors que le mouvement féministe battait son plein. Pauline et Suzanne se rencontrent lorsque l'une aide l'autre à opter pour un avortement illégal sur la grossesse d'une troisième personne. Elles perdent contact, mais se retrouvent dix ans plus tard, Pauline – désormais célèbre sous le nom de « Pomme » – étant devenue une ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/beda2540-b533-4863-95eb-d9001aeb62b6.jpg",
     "seances": [
       {
-        "heure": "29/09 20:35",
-        "cinema": "Palace"
+        "heure": "06/10 19:00",
+        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -959,34 +961,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "29/09 14:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/09 14:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/09 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/09 14:15",
         "cinema": "Vendôme"
@@ -1102,22 +1076,26 @@
       {
         "heure": "06/10 11:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Le Vertige",
-    "annee": 2026,
-    "duree_minutes": 68,
-    "realisateurs": [
-      "Quentin Dupieux"
-    ],
-    "synopsis": "Jacques se rend chez son ami Bruno pour lui annoncer une nouvelle importante : l’humanité toute entière vit dans une simulation…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c68e401a-747c-4c0f-8648-2bccd5d4fd5e.jpg",
-    "seances": [
+      },
       {
-        "heure": "29/09 13:45",
+        "heure": "06/10 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 16:00",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "06/10 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 18:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 21:10",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1133,6 +1111,10 @@
     "seances": [
       {
         "heure": "30/09 18:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 17:30",
         "cinema": "Aventure"
       }
     ]
@@ -1237,10 +1219,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
       {
-        "heure": "30/09 12:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "30/09 13:35",
         "cinema": "Vendôme"
       },
@@ -1335,6 +1313,22 @@
       {
         "heure": "06/10 12:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 13:35",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 20:30",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -1349,14 +1343,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "30/09 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 12:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/09 13:15",
         "cinema": "Galeries"
@@ -1572,6 +1558,10 @@
       {
         "heure": "05/10 20:50",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "06/10 18:30",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1601,18 +1591,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "30/09 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 13:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "30/09 13:15",
         "cinema": "Vendôme"
@@ -1820,6 +1798,34 @@
       {
         "heure": "06/10 13:00",
         "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 13:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 15:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 15:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "06/10 16:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 20:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 20:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "06/10 20:30",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1835,22 +1841,6 @@
     "seances": [
       {
         "heure": "03/10 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Plaisir d’amour en Iran + 7 p., cuis., s. de b., ... à saisir",
-    "annee": 0,
-    "duree_minutes": 33,
-    "realisateurs": [
-      "Agnès Varda"
-    ],
-    "synopsis": "Deux courts métrages d’Agnès Varda qui mettent en rapport l’architecture et deux histoires d’amours. Un couple trouve son amour érotique parfaitement reflété dans l’architecture et les mosaïques de l’Iran ; et dans 7 p., cuis., s.de b... à saisir, un agent immobilier tente de vendre une maison à un jeune couple. Une caméra nous emmène à la découverte des lieux, tandis qu’un narrateur nous parle des précédents occupants, un médecin et sa femme, et du terrible drame qui les a frappés. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8d0e7bc6-5108-4d96-9d42-28771e7334a6.jpg",
-    "seances": [
-      {
-        "heure": "29/09 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1902,12 +1892,12 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "29/09 18:45",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "04/10 14:00",
         "cinema": "Cineflagey"
+      },
+      {
+        "heure": "06/10 18:45",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1921,10 +1911,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "29/09 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "30/09 21:30",
         "cinema": "Aventure"
@@ -1973,30 +1959,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "29/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/09 16:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/09 21:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "30/09 16:25",
         "cinema": "Vendôme"
@@ -2108,6 +2070,22 @@
       {
         "heure": "06/10 12:10",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "06/10 16:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 16:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 20:35",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 21:20",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -2174,14 +2152,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "29/09 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/09 21:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "30/09 14:30",
         "cinema": "Aventure"
       },
@@ -2240,6 +2210,34 @@
       {
         "heure": "05/10 18:40",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 14:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 19:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Si tu penses bien",
+    "annee": 2026,
+    "duree_minutes": 94,
+    "realisateurs": [
+      "Géraldine Nakache"
+    ],
+    "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
+    "seances": [
+      {
+        "heure": "06/10 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 19:15",
+        "cinema": "Palace"
       }
     ]
   },
@@ -2356,14 +2354,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "29/09 14:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "30/09 21:30",
         "cinema": "Palace"
       },
@@ -2402,6 +2392,10 @@
       {
         "heure": "06/10 11:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 16:05",
+        "cinema": "Palace"
       }
     ]
   },
@@ -2415,10 +2409,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "29/09 20:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/09 21:15",
         "cinema": "Palace"
@@ -2438,16 +2428,16 @@
     ]
   },
   {
-    "titre": "The Cineville Film Quiz",
-    "annee": 0,
-    "duree_minutes": 180,
-    "realisateurs": [],
-    "synopsis": "Du 21 au 30 septembre, le Cineville Film Quiz s'invite dans 11 cinémas partout en Belgique ! Formez une équipe de 4 personnes maximum (ou concourez seul, pourquoi pas ?) pour 1h30 à 2 heures de pur plaisir cinéma, avec un quiz qui mélange extraits de films, BO et images-mystères. Pas besoin d'être un.e cinéphile harcore pour participer, une bonne dose d'enthousiasme suffit ! L'entrée est gratuite pour les Cinevillers, les autres spectateurs paient le prix normal du billet. Choisissez votre cinéma ci-dessous et rejoignez-nous.\n\n**Infos pratiques**\n\n**Durée** : environ 1h30 à 2 heures\n**Équipe** : 4 personnes maximum, une participation individuelle est également acceptée. Max. 1 Filmquiz par an et par personne.\n**Prix** : gratuit pour les Cinevillers / prix normal du billet pour les non-membres\n**À gagner** : Pass Cineville gratuits & plus (seront annoncés bientôt !)\n\nChoisissez votre cinéma\n\n**Galeries** (Bruxelles) Lundi 21/09 à 19h00 (en anglais)\n**Sphinx Cinema** (Gand) Mardi 22/09 à 20h00 (en néerlandais)\n**Lumière Malines** Mardi 22/09 à 20h00 (en néerlandais)\n**ZED Louvain** Mercredi 23/09 à 20h00 (en néerlandais)\n**Cinema RITCS** (Bruxelles) Mercredi 23/09 à 19h00 (en néerlandais)\n**Quai 10**(Charleroi) Mercredi 23/09 à 19h30 (en français)\n**ZED Hasselt** Jeudi 24/09 à 20h00 (en néerlandais)\n**Palace** (Bruxelles) Mardi 29/09 à 19h00 (en français)\n**Cartoon's** (Anvers) Mardi 29/09 à 20h00 (en néerlandais)\n**Sauvenière** (Liège) Mercredi 30/09 à 20h00 (en néerlandais et français)\n**Lumière Bruges** Mercredi 30/09 à 20h00 en néerlandais\n\n**Comment réserver ?**\n\nFormez votre équipe. Chaque membre réserve ou achète un billet comme pour une séance habituelle. Les membres Cineville, qu'ils soient abonnés ou non, sont les bienvenus. Vous pouvez aussi participer individuellement.\n\nRendez-vous au cinéma avec votre équipe le jour convenu. Sur place, vous indiquerez le nom de votre équipe et recevrez un questionnaire-papier. Prévoyez un support d'écriture pour plus de facilité. \nVous ne pouvez finalement pas venir ? Merci de prévenir le cinéma afin qu'il puisse proposer votre place à quelqu'un d'autre. Merci !\n\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/652d6da3-5c1b-4412-b59e-653d4968024e.jpg",
+    "titre": "The Big Bird Cage",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "29/09 19:00",
-        "cinema": "Palace"
+        "heure": "06/10 21:20",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2461,46 +2451,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "29/09 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/09 18:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "29/09 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "29/09 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 20:25",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "29/09 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/09 13:50",
         "cinema": "Vendôme"
@@ -2692,6 +2642,38 @@
       {
         "heure": "05/10 21:35",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 13:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 14:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "06/10 14:10",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "06/10 18:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 20:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "06/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 21:35",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "06/10 21:40",
+        "cinema": "Palace"
       }
     ]
   },
@@ -2737,14 +2719,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
       {
-        "heure": "29/09 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "01/10 11:30",
         "cinema": "Palace"
       },
@@ -2771,30 +2745,6 @@
     ]
   },
   {
-    "titre": "The Odyssey",
-    "annee": 2026,
-    "duree_minutes": 173,
-    "realisateurs": [
-      "Christopher Nolan"
-    ],
-    "synopsis": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/092a7fe9-6859-434e-8a44-b824d6523ad2.jpg",
-    "seances": [
-      {
-        "heure": "29/09 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 17:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "29/09 20:10",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "The Sessions",
     "annee": 2026,
     "duree_minutes": 72,
@@ -2806,20 +2756,6 @@
     "seances": [
       {
         "heure": "30/09 19:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "The Shadow’s Edge + Closing Remarks",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "29/09 18:50",
         "cinema": "Aventure"
       }
     ]
@@ -2857,22 +2793,18 @@
     ]
   },
   {
-    "titre": "Un Anno di Scuola",
-    "annee": 2026,
-    "duree_minutes": 102,
+    "titre": "Un peintre sous surveillance",
+    "annee": 2005,
+    "duree_minutes": 23,
     "realisateurs": [
-      "Laura Samani"
+      "Boris Lehman"
     ],
-    "synopsis": "Drame italien éblouissant et primé sur une jeune fille qui trouve sa place dans une école remplie de garçons",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ef1afab-5185-4a8f-9ce2-62f57770918a.jpg",
+    "synopsis": "Qu'est-ce qu'un peintre ? Comment filmer un homme qui peint ? Vingt ans après avoir réalisé Portrait du peintre dans son atelier (1985), Boris Lehman revient chez son ami Arié, pour réaliser un autre film avec les mêmes éléments de base. Les deux films forment à présent un diptyque.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/29d511bc-1e9a-4b85-a1a9-9ab71a2a1c2b.jpeg",
     "seances": [
       {
-        "heure": "29/09 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/09 21:15",
-        "cinema": "Vendôme"
+        "heure": "06/10 19:00",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -2892,6 +2824,10 @@
       },
       {
         "heure": "02/10 20:30",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "06/10 18:10",
         "cinema": "Le Stockel"
       }
     ]

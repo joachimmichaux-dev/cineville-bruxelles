@@ -26,14 +26,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/176666f1-d4d5-4069-9796-e17814ac75bc.jpg",
     "seances": [
       {
-        "heure": "30/09 17:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 12:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "02/10 17:00",
         "cinema": "Aventure"
       },
@@ -65,14 +57,6 @@
     "synopsis": "Ce classique du cyberpunk suit un jeune motard dont les pouvoirs psychiques deviennent incontrôlables et le menacent, lui et le monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
-      {
-        "heure": "30/09 16:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/09 16:15",
-        "cinema": "Cineflagey"
-      },
       {
         "heure": "01/10 20:45",
         "cinema": "Galeries"
@@ -234,10 +218,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "30/09 13:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "01/10 21:15",
         "cinema": "Palace"
       },
@@ -335,6 +315,20 @@
     ]
   },
   {
+    "titre": "DRØMKIT",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "07/10 19:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Digger",
     "annee": 2026,
     "duree_minutes": 129,
@@ -344,14 +338,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "30/09 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/09 21:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "01/10 16:40",
         "cinema": "Aventure"
@@ -470,42 +456,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "30/09 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 16:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/09 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/09 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "01/10 13:45",
         "cinema": "Vendôme"
@@ -794,6 +744,10 @@
       {
         "heure": "05/10 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "07/10 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -900,10 +854,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
       {
-        "heure": "30/09 15:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "02/10 15:10",
         "cinema": "Galeries"
       },
@@ -961,22 +911,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "30/09 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 18:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "01/10 13:50",
         "cinema": "Vendôme"
@@ -1110,28 +1044,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
     "seances": [
       {
-        "heure": "30/09 18:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "06/10 17:30",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Le ciel est à vous",
-    "annee": 1943,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "Jean Grémillon"
-    ],
-    "synopsis": "Une aviatrice de province s’attaquant à un record féminin de vol. Elle traverse la Méditerranée, mais disparaît bientôt sans donner signe de vie… puis on apprend finalement sa victoire ! Véritable récit sur le triomphe de la détermination et l’amour d’un couple bravant les barrières sociales et les conventions. Avec Le ciel est à vous, Grémillon délivre un message d’espoir au cœur des campagnes françaises et invite à toujours se battre pour sa liberté.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b6de2283-a7db-413c-b938-ad7bc0f65692.jpg",
-    "seances": [
-      {
-        "heure": "30/09 20:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -1181,20 +1095,6 @@
     ]
   },
   {
-    "titre": "Mariinka",
-    "annee": 2026,
-    "duree_minutes": 94,
-    "realisateurs": [],
-    "synopsis": "Dans l'est de l'Ukraine, des amis d'enfance voient leur vie basculer violemment, déstabilisée par une ligne de front en perpétuel déplacement. Natasha, une boxeuse prometteuse, devient infirmière militaire. Angela, qui a perdu ses parents très jeune, survit en transportant des marchandises des deux côtés du front. Pris dans une tragédie grecque moderne, les frères Mark et Ruslan se battent désormais dans des camps opposés, l'un contre l'autre. Leur plus jeune frère, Daniil, suit la guerre à distance depuis la sécurité de sa famille adoptive aux États-Unis.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0d2d9e5c-d5f3-4c2c-93f7-7f793e60ca51.jpg",
-    "seances": [
-      {
-        "heure": "30/09 19:00",
-        "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
     "titre": "Memoirs of an Invisible Man",
     "annee": 1992,
     "duree_minutes": 99,
@@ -1218,18 +1118,6 @@
     "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu’elle s’y rend, elle est prise d’un vertige et replonge dans le souvenir de l’été 1958, celui de sa première nuit avec un homme. Nuit dont l’onde de choc s’est propagée violemment dans son corps et sur le reste de son existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
-      {
-        "heure": "30/09 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 18:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "01/10 13:35",
         "cinema": "Vendôme"
@@ -1343,50 +1231,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "30/09 13:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/09 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 17:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/09 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 18:40",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "30/09 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/09 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 13:15",
-        "cinema": "Galeries"
-      },
       {
         "heure": "01/10 14:00",
         "cinema": "Palace"
@@ -1591,38 +1435,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "30/09 13:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 15:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/09 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 20:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "01/10 13:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "01/10 13:30",
         "cinema": "Vendôme"
@@ -1892,8 +1704,24 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
+        "heure": "01/10 19:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "03/10 14:30",
+        "cinema": "Aventure"
+      },
+      {
         "heure": "04/10 14:00",
         "cinema": "Cineflagey"
+      },
+      {
+        "heure": "05/10 14:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "06/10 17:50",
+        "cinema": "Aventure"
       },
       {
         "heure": "06/10 18:45",
@@ -1911,10 +1739,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "30/09 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "01/10 21:30",
         "cinema": "Aventure"
@@ -1959,26 +1783,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "30/09 16:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "01/10 13:30",
         "cinema": "Galeries"
@@ -2106,6 +1910,20 @@
     ]
   },
   {
+    "titre": "Résister Pour Exister ",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/10 20:40",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Sahara",
     "annee": 1943,
     "duree_minutes": 93,
@@ -2115,10 +1933,6 @@
     "synopsis": "Après la chute de Tobrouk en 1942, lors de la retraite des Alliés dans le désert libyen, un char américain embarque un groupe hétéroclite de survivants. Isolés de tout et manquant d’eau, ils doivent faire face à l’avancée des Allemands. Tourné en 1943 dans le but de remonter le moral des troupes, un incontournable du genre, emmené par un excellent Bogart, qui redouble d’héroïsme dans ce combat inégal contre un bataillon de l’Afrikakorps. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/585ccefb-8efe-4296-9277-279ff3dece2a.jpg",
     "seances": [
-      {
-        "heure": "30/09 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "04/10 18:00",
         "cinema": "Cinematek"
@@ -2142,6 +1956,20 @@
     ]
   },
   {
+    "titre": "Sauf le passé",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "07/10 19:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Sense and Sensibility (2026)",
     "annee": 2026,
     "duree_minutes": 131,
@@ -2151,14 +1979,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "30/09 14:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/09 16:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "01/10 14:00",
         "cinema": "Aventure"
@@ -2268,10 +2088,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7d1fec45-834a-4c58-8fa6-664604deab87.jpg",
     "seances": [
       {
-        "heure": "01/10 12:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "03/10 12:40",
         "cinema": "Aventure"
       },
@@ -2314,10 +2130,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6b398224-5221-4a50-9533-cf75e94efa07.jpg",
     "seances": [
       {
-        "heure": "30/09 14:00",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "03/10 14:00",
         "cinema": "Le Stockel"
       },
@@ -2353,10 +2165,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "30/09 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "01/10 13:30",
         "cinema": "Palace"
@@ -2410,10 +2218,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
       {
-        "heure": "30/09 21:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "02/10 21:15",
         "cinema": "Palace"
       },
@@ -2451,38 +2255,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "30/09 13:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 15:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 18:40",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "30/09 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "30/09 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "30/09 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "30/09 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "30/09 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "01/10 14:40",
         "cinema": "Aventure"
@@ -2678,20 +2450,6 @@
     ]
   },
   {
-    "titre": "The Land of the Enlightened",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "30/09 21:00",
-        "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
     "titre": "The Last of the Mohicans (1920)",
     "annee": 1920,
     "duree_minutes": 75,
@@ -2719,10 +2477,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
       {
-        "heure": "01/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "02/10 11:30",
         "cinema": "Palace"
       },
@@ -2741,22 +2495,6 @@
       {
         "heure": "06/10 11:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "The Sessions",
-    "annee": 2026,
-    "duree_minutes": 72,
-    "realisateurs": [
-      "Sien Versteyhe"
-    ],
-    "synopsis": "The Sessions est un documentaire intime qui suit une jeune étudiante dans les suites d’une agression sexuelle commise par une personne en qui elle avait confiance. Au fil de sa thérapie, elle tente de se reconstruire et de reprendre sa vie en main, étape par étape. En dehors de ces séances, elle ne se confie presque à personne. Lorsqu’elle décide de porter plainte, elle se retrouve confrontée à un système judiciaire que de nombreuses victimes peinent à appréhender. Avec pudeur et sensibilité, The Sessions nous plonge dans le combat d’une jeune femme pour retrouver sa voix et se réapproprier son avenir.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f80e6d37-72a1-486e-bf53-46cf84a3b709.png",
-    "seances": [
-      {
-        "heure": "30/09 19:00",
-        "cinema": "Aventure"
       }
     ]
   },
@@ -2818,10 +2556,6 @@
     "synopsis": "Lowen Ashleigh est une écrivaine solitaire. Peinant à vivre de son métier, elle accepte de devenir le prête-plume de l'autrice à succès, Verity Crawford, et s'installe dans sa propriété isolée des regards. En découvrant ce qui semble être les notes personnelles de Verity, la jeune Lowen se retrouve confrontée à des révélations troublantes et inquiétantes concernant Jeremy, le mari de Verity. Elle peine alors à distinguer la fiction de la réalité, la manipulation de l'attirance, le trouble de l'obsession.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c959ee1a-74e9-41f1-9197-b0b211f2529f.jpg",
     "seances": [
-      {
-        "heure": "30/09 20:25",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "02/10 20:30",
         "cinema": "Le Stockel"
@@ -2911,22 +2645,6 @@
       {
         "heure": "03/10 10:10",
         "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "Young Mr. Lincoln",
-    "annee": 1939,
-    "duree_minutes": 94,
-    "realisateurs": [
-      "John Ford"
-    ],
-    "synopsis": "Un récit romancé des débuts de la vie du président américain, alors jeune avocat confronté à son procès le plus important. Une mise en scène magistrale, une splendide photographie, des scènes de tribunal particulièrement saisissantes et Henry Fonda livrant une interprétation authentique et charmante du président Abraham Lincoln, profondément émouvant et patriotique, pour un des premiers chefs-d’œuvre de John Ford, admiré par Eisenstein.\n\nPrécédé d’une longue introduction de Lea Jacobs (historienne du cinéma et autrice de l’ouvrage John Ford at Work: Production Histories 1927-1939) et suivi d’un entretien entre l’autrice, Patrick Duynslaeger et David Vanden Bossche (University of Wisconsin-Madison). ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/30c1127a-1fcc-4531-bc0d-df6ce9444136.jpg",
-    "seances": [
-      {
-        "heure": "30/09 19:00",
-        "cinema": "Cinematek"
       }
     ]
   },

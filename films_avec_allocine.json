@@ -125,7 +125,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-47795/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 21581
+      "nb_notes_spectateurs": 21586
     }
   },
   {
@@ -181,10 +181,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "01/10 20:45",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "02/10 13:15",
         "cinema": "Galeries"
       },
@@ -217,7 +213,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12259
+      "nb_notes_spectateurs": 12264
     }
   },
   {
@@ -228,10 +224,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "02/10 11:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "03/10 11:00",
         "cinema": "Galeries"
@@ -302,27 +294,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000040828/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 244
+      "nb_notes_spectateurs": 245
     }
-  },
-  {
-    "titre": "An Evening on Bordwell & Thompson",
-    "annee": 0,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Kristin Thompson",
-      "Anke Brouwers",
-      "Tom Paulus"
-    ],
-    "synopsis": "Une soirée consacrée aux spécialistes du cinéma David Bordwell et Kristin Thompson, avec des interventions de Tom Paulus (Universiteit Antwerpen) et Tomas Leyers (conservateur de la CINEMATEK), ainsi qu’un entretien avec Kristin Thompson mené par Anke Brouwers (KASK School of Arts/HoGent).",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "01/10 18:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Berg-Ejvind och hans hustru",
@@ -614,33 +587,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-216633/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 22634
-    }
-  },
-  {
-    "titre": "Black Moon Rising",
-    "annee": 1986,
-    "duree_minutes": 100,
-    "realisateurs": [
-      "Harley Cokeliss"
-    ],
-    "synopsis": "En échange de son impunité, un voleur professionnel vole des informations qu’il cache dans une voiture volée par une séduisante jeune femme. Au départ d’un scénario imaginé par Carpenter, un polar typique des années 1980, qui mêle sci-fi et action dans un face à face entre Tommy Lee Jones et Linda Hamilton (tout juste remise de l’immense succès de Terminator). ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b27fb97b-f8b3-4f18-87e9-72486f72f2e7.jpg",
-    "seances": [
-      {
-        "heure": "01/10 20:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1556",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1556/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1556/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.3,
-      "nb_notes_spectateurs": 89
+      "nb_notes_spectateurs": 22638
     }
   },
   {
@@ -653,10 +600,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "01/10 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "03/10 14:00",
         "cinema": "Vendôme"
@@ -769,7 +712,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000027149/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 167
+      "nb_notes_spectateurs": 168
     }
   },
   {
@@ -782,10 +725,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "01/10 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "02/10 13:30",
         "cinema": "Palace"
@@ -1330,22 +1269,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "01/10 16:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 17:50",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "02/10 13:40",
         "cinema": "Aventure"
       },
@@ -1394,7 +1317,7 @@
       "allocine_id": "327174",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-327174/critiques/presse/",
       "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 28,
+      "nb_critiques_presse": 29,
       "critiques_presse": [
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -1505,6 +1428,12 @@
           "citation": "Il faut digérer cet ovni déroutant et désespéré, délibérément caricatural et boursouflé, qui confine à l’exercice de style mais démontre une audace et une liberté forçant le respect."
         },
         {
+          "titre_presse": "Le Journal du Geek",
+          "note": 3.0,
+          "auteur": "Allan Blanvillain",
+          "citation": "Digger demande à être digéré tant il est gourmand et parfois beaucoup trop pour son bien. On en ressort lessivé en se demandant encore ce qu'on a vu. Un film qui fera débat, en bien ou en mal."
+        },
+        {
           "titre_presse": "Le Monde",
           "note": 3.0,
           "auteur": "J. Ma.",
@@ -1567,7 +1496,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 266
+      "nb_notes_spectateurs": 406
     }
   },
   {
@@ -1621,32 +1550,6 @@
     }
   },
   {
-    "titre": "Et Dieu... créa la femme",
-    "annee": 1956,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Roger Vadim"
-    ],
-    "synopsis": "Une jeune orpheline insouciante à la beauté spontanée déchaîne les passions et bouleverse la tranquillité d’un petit port traditionnel. Par un franc-tireur proche de la Nouvelle Vague, le film qui révéla Brigitte Bardot, en emblème sauvage de la liberté sexuelle. Pour l'anecdote, au cours du tournage, Bardot succomba aux charmes de Trintignant, et les deux acteurs vécurent une idylle loin des regards indiscrets des paparazzi.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9624d64c-85be-4814-aa83-15f7b7e08ef5.png",
-    "seances": [
-      {
-        "heure": "01/10 15:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "185",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-185/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-185/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 885
-    }
-  },
-  {
     "titre": "Garance",
     "annee": 2026,
     "duree_minutes": 106,
@@ -1656,42 +1559,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "01/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 15:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "02/10 13:45",
         "cinema": "Vendôme"
@@ -1873,7 +1740,7 @@
       "allocine_id": "1000026039",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/presse/",
       "note_moyenne_presse": 3.5,
-      "nb_critiques_presse": 37,
+      "nb_critiques_presse": 38,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -1904,6 +1771,12 @@
           "note": 4.0,
           "auteur": "Déborah Lechner",
           "citation": "Jeanne Herry jette un regard neuf sur un problème de société bien ancré en remettant l’individu, sa beauté et toute sa complexité au centre du dispositif."
+        },
+        {
+          "titre_presse": "Femme Actuelle",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Un portrait sensible et crédible."
         },
         {
           "titre_presse": "Franceinfo Culture",
@@ -2100,7 +1973,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1354
+      "nb_notes_spectateurs": 1437
     }
   },
   {
@@ -2115,6 +1988,10 @@
     "seances": [
       {
         "heure": "03/10 17:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "08/10 15:00",
         "cinema": "Cinematek"
       }
     ],
@@ -2346,7 +2223,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1324
+      "nb_notes_spectateurs": 1398
     }
   },
   {
@@ -2360,10 +2237,6 @@
     "synopsis": "Pour se distraire des difficultés rencontrées à montrer Good Times, Wonderful Times, Rogosin s’essaye à la comédie avec plus ou moins de succès. Le documentaire traitant de cette expérience nous fait découvrir une autre facette du réalisateur. ",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "01/10 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "06/10 20:45",
         "cinema": "Cinematek"
@@ -2686,33 +2559,6 @@
     }
   },
   {
-    "titre": "Just Friends",
-    "annee": 1993,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Alexandre Wajnberg",
-      "Marc-Henri Wajnberg"
-    ],
-    "synopsis": "Anvers, 1959. Jack, brillant saxophoniste ténor, travaille aux docks afin d’assurer sa survie. Son plus grand rêve est de partir à New York pour se confronter aux maîtres du jazz qu’il admire tant. Mais comment faire de ce rêve une réalité ? Et que se passera-t-il s’il doit choisir entre la musique et l’amour ?",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "01/10 17:15",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "9173",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-9173/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-9173/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 4
-    }
-  },
-  {
     "titre": "Knit Night #14 : Portrait de la jeune fille en feu",
     "annee": null,
     "duree_minutes": null,
@@ -2860,7 +2706,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-115362/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 114000
+      "nb_notes_spectateurs": 114003
     }
   },
   {
@@ -3185,30 +3031,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "01/10 13:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 19:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "01/10 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "02/10 14:15",
         "cinema": "Vendôme"
@@ -3543,7 +3365,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327941/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1529
+      "nb_notes_spectateurs": 1545
     }
   },
   {
@@ -3773,30 +3595,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
       {
-        "heure": "01/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 15:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "01/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "02/10 13:35",
         "cinema": "Vendôme"
       },
@@ -3877,7 +3675,7 @@
       "allocine_id": "1000026296",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000026296/critiques/presse/",
       "note_moyenne_presse": 3.3,
-      "nb_critiques_presse": 25,
+      "nb_critiques_presse": 26,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -3982,6 +3780,12 @@
           "citation": "Un film souvent maladroit, mais qui, à l’image de son héroïne, parvient à évoluer et mûrir au fil du récit."
         },
         {
+          "titre_presse": "Paris Match",
+          "note": 3.0,
+          "auteur": "Christophe Carrière",
+          "citation": "[Le] talent et [la] présence [de Tess Barthélémy] sont tels qu’ils pallient les petites faiblesses d’un dernier tiers moins fort que ce qui précède, comme un épilogue qui prendrait ses aises."
+        },
+        {
           "titre_presse": "Positif",
           "note": 3.0,
           "auteur": "Jacqueline Nacache",
@@ -4031,8 +3835,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026296/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 95
+      "note_moyenne_spectateurs": 3.2,
+      "nb_notes_spectateurs": 125
     }
   },
   {
@@ -4046,30 +3850,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "01/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 17:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 19:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "02/10 13:20",
         "cinema": "Galeries"
@@ -4247,6 +4027,10 @@
       {
         "heure": "03/10 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "08/10 18:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": {
@@ -4270,38 +4054,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "01/10 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 15:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 20:25",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "02/10 13:00",
         "cinema": "Palace"
@@ -4479,7 +4231,7 @@
       "allocine_id": "1000007388",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/presse/",
       "note_moyenne_presse": 4.5,
-      "nb_critiques_presse": 41,
+      "nb_critiques_presse": 42,
       "critiques_presse": [
         {
           "titre_presse": "Bande à part",
@@ -4504,6 +4256,12 @@
           "note": 5.0,
           "auteur": "Nathalie Chifflet",
           "citation": "L'anachronisme est l'une des grandes audaces de Notre Salut : BO avec tubes pop des années 60 et 80 ; dialogues actuels ; forme de faux documentaire contemporain avec des personnages pris en flagrant délit de normalité réactionnaire."
+        },
+        {
+          "titre_presse": "Femme Actuelle",
+          "note": 5.0,
+          "auteur": "La Rédaction",
+          "citation": "Au centre du jeu, Swann Arlaud excelle à rendre son personnage opaque. Bravo !"
         },
         {
           "titre_presse": "Franceinfo Culture",
@@ -4729,8 +4487,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 270
+      "note_moyenne_spectateurs": 3.8,
+      "nb_notes_spectateurs": 393
     }
   },
   {
@@ -4931,7 +4689,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004458/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 1747
+      "nb_notes_spectateurs": 1762
     }
   },
   {
@@ -4971,10 +4729,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "01/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "03/10 14:30",
         "cinema": "Aventure"
       },
@@ -5007,10 +4761,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "01/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "02/10 18:10",
         "cinema": "Aventure"
@@ -5139,7 +4889,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1986
+      "nb_notes_spectateurs": 2049
     }
   },
   {
@@ -5152,22 +4902,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "01/10 13:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 16:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "02/10 16:25",
         "cinema": "Vendôme"
@@ -5408,7 +5142,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 526
+      "nb_notes_spectateurs": 529
     }
   },
   {
@@ -5727,14 +5461,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "01/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "02/10 14:30",
         "cinema": "Aventure"
       },
@@ -5874,7 +5600,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 233
+      "nb_notes_spectateurs": 255
     }
   },
   {
@@ -6079,7 +5805,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000043221/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1140
+      "nb_notes_spectateurs": 1178
     }
   },
   {
@@ -6339,7 +6065,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 8479
+      "nb_notes_spectateurs": 8494
     }
   },
   {
@@ -6516,14 +6242,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "01/10 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "02/10 21:30",
         "cinema": "Palace"
       },
@@ -6644,7 +6362,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024260/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 63
+      "nb_notes_spectateurs": 64
     }
   },
   {
@@ -6681,34 +6399,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "01/10 14:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 15:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 16:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "02/10 13:50",
         "cinema": "Vendôme"
@@ -7087,34 +6777,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 1240
-    }
-  },
-  {
-    "titre": "The Last of the Mohicans (1920)",
-    "annee": 1920,
-    "duree_minutes": 75,
-    "realisateurs": [
-      "Maurice Tourneur",
-      "Clarence Brown"
-    ],
-    "synopsis": "En pleine guerre de la Conquête, la fille aînée d'un officier britannique s'éprend d'un allié amérindien, dernier guerrier survivant de sa tribu : les Mohicans.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c14d127f-76e1-4e8a-8135-ffec54d85a58.png",
-    "seances": [
-      {
-        "heure": "01/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "2947",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2947/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2947/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 24
+      "nb_notes_spectateurs": 1255
     }
   },
   {
@@ -7127,10 +6790,6 @@
     "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
-      {
-        "heure": "02/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "03/10 16:05",
         "cinema": "Palace"
@@ -7313,7 +6972,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039625/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 343
+      "nb_notes_spectateurs": 345
     }
   },
   {
@@ -7361,6 +7020,10 @@
     "seances": [
       {
         "heure": "03/10 19:15",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "08/10 21:30",
         "cinema": "Cinematek"
       }
     ],
@@ -7414,8 +7077,8 @@
     "allocine": {
       "allocine_id": "1000015739",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000015739/critiques/presse/",
-      "note_moyenne_presse": 2.5,
-      "nb_critiques_presse": 8,
+      "note_moyenne_presse": 2.3,
+      "nb_critiques_presse": 9,
       "critiques_presse": [
         {
           "titre_presse": "Voici",
@@ -7464,11 +7127,17 @@
           "note": 2.0,
           "auteur": "Cédric Coppola",
           "citation": "On sent aussi derrière ce projet l’envie de surfer sur le succès de La Femme de ménage en abordant des thématiques comme le triangle amoureux, la femme amoureuse et la toxicité dans le couple. Le décor principal, une maison bourgeoise coupée du monde, renforce cette impression. Quant aux quelques rebondissements ainsi qu'à la micro-réflexion sur l’écriture et la vérité, ils ne parviennent pas à rattraper les errances de cette proposition insignifiante."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 1.0,
+          "auteur": "Adèle Buijtenhuijs",
+          "citation": "Au lieu de plonger dans un thriller complexe, on sombre dans une intrigue bête et téléphonée."
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000015739/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 105
+      "nb_notes_spectateurs": 157
     }
   },
   {
@@ -7999,7 +7668,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-25300/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1018
+      "nb_notes_spectateurs": 1019
     }
   },
   {

@@ -58,10 +58,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "01/10 20:45",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "02/10 13:15",
         "cinema": "Galeries"
       },
@@ -96,10 +92,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "02/10 11:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "03/10 11:00",
         "cinema": "Galeries"
       },
@@ -110,24 +102,6 @@
       {
         "heure": "06/10 13:10",
         "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "An Evening on Bordwell & Thompson",
-    "annee": 0,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Kristin Thompson",
-      "Anke Brouwers",
-      "Tom Paulus"
-    ],
-    "synopsis": "Une soirée consacrée aux spécialistes du cinéma David Bordwell et Kristin Thompson, avec des interventions de Tom Paulus (Universiteit Antwerpen) et Tomas Leyers (conservateur de la CINEMATEK), ainsi qu’un entretien avec Kristin Thompson mené par Anke Brouwers (KASK School of Arts/HoGent).",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "01/10 18:30",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -164,22 +138,6 @@
     ]
   },
   {
-    "titre": "Black Moon Rising",
-    "annee": 1986,
-    "duree_minutes": 100,
-    "realisateurs": [
-      "Harley Cokeliss"
-    ],
-    "synopsis": "En échange de son impunité, un voleur professionnel vole des informations qu’il cache dans une voiture volée par une séduisante jeune femme. Au départ d’un scénario imaginé par Carpenter, un polar typique des années 1980, qui mêle sci-fi et action dans un face à face entre Tommy Lee Jones et Linda Hamilton (tout juste remise de l’immense succès de Terminator). ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b27fb97b-f8b3-4f18-87e9-72486f72f2e7.jpg",
-    "seances": [
-      {
-        "heure": "01/10 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Blue Heron",
     "annee": 2026,
     "duree_minutes": 90,
@@ -189,10 +147,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "01/10 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "03/10 14:00",
         "cinema": "Vendôme"
@@ -217,10 +171,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "01/10 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "02/10 13:30",
         "cinema": "Palace"
@@ -339,22 +289,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "01/10 16:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 17:50",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "02/10 13:40",
         "cinema": "Aventure"
       },
@@ -431,22 +365,6 @@
     ]
   },
   {
-    "titre": "Et Dieu... créa la femme",
-    "annee": 1956,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Roger Vadim"
-    ],
-    "synopsis": "Une jeune orpheline insouciante à la beauté spontanée déchaîne les passions et bouleverse la tranquillité d’un petit port traditionnel. Par un franc-tireur proche de la Nouvelle Vague, le film qui révéla Brigitte Bardot, en emblème sauvage de la liberté sexuelle. Pour l'anecdote, au cours du tournage, Bardot succomba aux charmes de Trintignant, et les deux acteurs vécurent une idylle loin des regards indiscrets des paparazzi.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9624d64c-85be-4814-aa83-15f7b7e08ef5.png",
-    "seances": [
-      {
-        "heure": "01/10 15:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Garance",
     "annee": 2026,
     "duree_minutes": 106,
@@ -456,42 +374,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "01/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 15:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "02/10 13:45",
         "cinema": "Vendôme"
@@ -683,6 +565,10 @@
       {
         "heure": "03/10 17:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "08/10 15:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -713,10 +599,6 @@
     "synopsis": "Pour se distraire des difficultés rencontrées à montrer Good Times, Wonderful Times, Rogosin s’essaye à la comédie avec plus ou moins de succès. Le documentaire traitant de cette expérience nous fait découvrir une autre facette du réalisateur. ",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "01/10 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "06/10 20:45",
         "cinema": "Cinematek"
@@ -813,23 +695,6 @@
     ]
   },
   {
-    "titre": "Just Friends",
-    "annee": 1993,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Alexandre Wajnberg",
-      "Marc-Henri Wajnberg"
-    ],
-    "synopsis": "Anvers, 1959. Jack, brillant saxophoniste ténor, travaille aux docks afin d’assurer sa survie. Son plus grand rêve est de partir à New York pour se confronter aux maîtres du jazz qu’il admire tant. Mais comment faire de ce rêve une réalité ? Et que se passera-t-il s’il doit choisir entre la musique et l’amour ?",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "01/10 17:15",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Knit Night #14 : Portrait de la jeune fille en feu",
     "annee": null,
     "duree_minutes": null,
@@ -911,30 +776,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "01/10 13:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 19:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "01/10 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "02/10 14:15",
         "cinema": "Vendôme"
@@ -1119,30 +960,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
       {
-        "heure": "01/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 15:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "01/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "02/10 13:35",
         "cinema": "Vendôme"
       },
@@ -1231,30 +1048,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "01/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 17:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 19:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "02/10 13:20",
         "cinema": "Galeries"
@@ -1422,6 +1215,10 @@
       {
         "heure": "03/10 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "08/10 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1435,38 +1232,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "01/10 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 15:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 20:25",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "02/10 13:00",
         "cinema": "Palace"
@@ -1704,10 +1469,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "01/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "03/10 14:30",
         "cinema": "Aventure"
       },
@@ -1739,10 +1500,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "01/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "02/10 18:10",
         "cinema": "Aventure"
@@ -1783,22 +1540,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "01/10 13:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 16:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "02/10 16:25",
         "cinema": "Vendôme"
@@ -1980,14 +1721,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "01/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "02/10 14:30",
         "cinema": "Aventure"
       },
@@ -2166,14 +1899,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "01/10 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "02/10 21:30",
         "cinema": "Palace"
       },
@@ -2255,34 +1980,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "01/10 14:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "01/10 15:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 16:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "01/10 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "01/10 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "01/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "02/10 13:50",
         "cinema": "Vendôme"
@@ -2450,23 +2147,6 @@
     ]
   },
   {
-    "titre": "The Last of the Mohicans (1920)",
-    "annee": 1920,
-    "duree_minutes": 75,
-    "realisateurs": [
-      "Maurice Tourneur",
-      "Clarence Brown"
-    ],
-    "synopsis": "En pleine guerre de la Conquête, la fille aînée d'un officier britannique s'éprend d'un allié amérindien, dernier guerrier survivant de sa tribu : les Mohicans.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c14d127f-76e1-4e8a-8135-ffec54d85a58.png",
-    "seances": [
-      {
-        "heure": "01/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "The Meltdown",
     "annee": 2026,
     "duree_minutes": 108,
@@ -2476,10 +2156,6 @@
     "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec Hanna, une jeune sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser de trace, l’enfant cherche à comprendre…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
-      {
-        "heure": "02/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "03/10 16:05",
         "cinema": "Palace"
@@ -2526,6 +2202,10 @@
     "seances": [
       {
         "heure": "03/10 19:15",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "08/10 21:30",
         "cinema": "Cinematek"
       }
     ]

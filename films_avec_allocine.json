@@ -1,134 +1,5 @@
 [
   {
-    "titre": "21 Grams",
-    "annee": 2003,
-    "duree_minutes": 124,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Autour d'un accident tragique, et d'un cœur attendu pour une transplantation, un film d'une émotion à la fois pure et infinie, où Sean Penn - magnifique - trouve un de ses tout meilleurs rôle.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/31a22936-d3a1-45ec-8340-bce1d2f5966d.jfif",
-    "seances": [
-      {
-        "heure": "02/10 16:30",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "47795",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-47795/critiques/presse/",
-      "note_moyenne_presse": 4.1,
-      "nb_critiques_presse": 17,
-      "critiques_presse": [
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Jean-Pierre Dufreigne",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "(...) puzzle virtuose qui place le spectateur en état de choc."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 5.0,
-          "auteur": "Dominique Borde",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Jean-Luc Wachtausen",
-          "citation": "(...) Iñarritu signe une brillante méditation sur le hasard, les remords et sur ce drôle de jeu qu'est la vie. Le tout est magistralement joué par des acteurs poussés dans leurs retranchements, Charlotte Gainsbourg en tête."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Jean-Luc Douin",
-          "citation": "Pourquoi ces trois personnages à cent lieues les uns des autres vont-il se croiser, comment vont-ils être amenés à se haïr, se tuer et s'aimer ? C'est évidemment le sujet de 21 grammes, mais cerner ainsi le film du surdoué Alejandro Gonzales Inarritu serait le réduire, sinon le trahir (...) ce qui l'obsède est plus complexe, tant dans le fond que dans la forme."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 5.0,
-          "auteur": "Olivier De Bruyn",
-          "citation": "Voir la critique sur www.lepoint.fr"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Frank Garbarz",
-          "citation": "(...) Inarritu s'impose (...) comme un des talents les plus vigoureux et les plus originaux de sa génération (...) Son style fiévreux, survolté, sa direction d'acteurs impérieuse (...) son jeu baroque avec les spirales du temps, allant de pair avec une fulgurante intensité émotionnelle, font de 21 grammes une expérience rare."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "Brillantisime d'invention et d'énergie concentrée, la mise en scène serre au plus près les fluctuations nerveuses des personnages (...) Le résultat mêle intelligence et puissance. Pour son second film, Alejandro Gonzalez Inarritu frappe un second grand coup. Donc un sans-faute."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 5.0,
-          "auteur": "Jean-Pierre Lavoignat",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 5.0,
-          "auteur": "Bernard Achour",
-          "citation": "Rien qu'un accident de voiture central, un implacable puzzle de destins fracassés et des acteurs au-delà d'eux-mêmes, héros d'une tragédie dont on ressort accablé mais enthousiaste, hanté par l'émotion que véhicule ce film rare tant par le fond que par la forme."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Gérard Lefort",
-          "citation": "La question des 21 Grammes (...) ne prend tout son poids, lourd de réponse et de sens, qu'à l'extrême fin. Toutefois, ce remue-méninges théorique ne fait de l'effet que parce qu'il est à l'image, donc physiquement, un fameux chahut."
-        },
-        {
-          "titre_presse": "Aden",
-          "note": 3.0,
-          "auteur": "Philippe Piazzo",
-          "citation": "(...) l'histoire n'est ici qu'un support pour épater le spectateur. Voyez comme la mise en scène est habile. Et comme les acteurs sont prodigieux (...) Désagréable sensation, finalement, une fois la performance générale achevée, que derrière ces jeux sophistiqués de la caméra et des acteurs se cache une certaine indécence."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 3.0,
-          "auteur": "Sandra Benedetti",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Alex Masson",
-          "citation": "Malgré les affèteries stylistiques et structurelles, l'émotion pointe dans ce film à l'interprétation hors pair."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Louis Guichard",
-          "citation": "Exercice de style, oui, mais immédiatement relevé par la puissance des comédiens, qui en sont la vraie pièce maîtresse (...) Ce sombre déterminisme (...) s'illustre ici avec trop d'insistance pour ne pas apparenter les personnages à des marionnettes, sans prise sur leur destin."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 2.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "21 grammes, c'est peu pour un film qui solde tout au poids : l'âme, les sentiments et la pellicule qui les porte."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 2.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "Marre (...) de ce cinéma péteux, de ces petits champions de l'esbroufe assez racoleurs en vérité dans leur manière de dispenser des cours de philo pour les nuls du haut de leur piédestal auteuriste, drapé dans un pseudo formalisme bourrichon, épaté par leurs coups de force autoproclamés."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-47795/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 21586
-    }
-  },
-  {
     "titre": "500 Miles",
     "annee": 2026,
     "duree_minutes": 101,
@@ -138,10 +9,6 @@
     "synopsis": "Finn et son petit frère Charlie s'enfuient de chez eux en Angleterre à l'aube. Alors que leurs parents sont en train de se séparer, ils veulent éviter d'être séparés l'un de l'autre. Ils partent pour la côte ouest de l'Irlande, chez leur grand-père excentrique. Au cours de leur long voyage, ils doivent compter sur leur charme, leur intelligence et la gentillesse des inconnus. Surtout de celle de Kait, une musicienne de rue libre d’esprit qui fuit elle-même certains problèmes...",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/176666f1-d4d5-4069-9796-e17814ac75bc.jpg",
     "seances": [
-      {
-        "heure": "02/10 17:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "03/10 12:30",
         "cinema": "Aventure"
@@ -181,10 +48,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "02/10 13:15",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "03/10 18:30",
         "cinema": "Cineflagey"
       },
@@ -213,7 +76,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12264
+      "nb_notes_spectateurs": 12265
     }
   },
   {
@@ -224,10 +87,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "03/10 11:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "05/10 12:00",
         "cinema": "Galeries"
@@ -587,7 +446,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-216633/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 22638
+      "nb_notes_spectateurs": 22641
     }
   },
   {
@@ -725,10 +584,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "02/10 13:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "03/10 13:30",
         "cinema": "Palace"
@@ -1028,24 +883,6 @@
     }
   },
   {
-    "titre": "Come Back, Africa + An American in Sophiatown",
-    "annee": 0,
-    "duree_minutes": 155,
-    "realisateurs": [
-      "Lionel Rogosin",
-      "Earl Lloyd Ross"
-    ],
-    "synopsis": "Après avoir éprouvé sa méthode dans On the Bowery, Lionel Rogosin réalise enfin son grand projet, celui de dénoncer l’Apartheid en cours en Afrique du Sud. Il s’infiltre ainsi clandestinement dans un township et y suit la vie d’une famille. Son fils Michael retrouve les protagonistes de cette histoire remarquable et nous la relate dans An American in Sophiatown. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "02/10 18:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Confession",
     "annee": 2025,
     "duree_minutes": 105,
@@ -1269,18 +1106,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "02/10 13:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 18:50",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "02/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "03/10 15:50",
         "cinema": "Aventure"
       },
@@ -1317,7 +1142,7 @@
       "allocine_id": "327174",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-327174/critiques/presse/",
       "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 29,
+      "nb_critiques_presse": 30,
       "critiques_presse": [
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -1410,6 +1235,12 @@
           "citation": "Véritable ovni cinéphilique, à la fois drôle et cruel, ce « Digger » creuse où ça fait mal et s’impose comme un anti-blockbuster, arme de destruction massive qui s’affranchit de tous les codes pour s’imposer comme un film libre dans son approche, son ton, sa forme et ses partis pris politiques."
         },
         {
+          "titre_presse": "Abus de Ciné",
+          "note": 3.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Une satire en demi-teinte, portée par un Tom Cruise habité et des décors somptueusement composés."
+        },
+        {
           "titre_presse": "CinemaTeaser",
           "note": 3.0,
           "auteur": "Aurélien Allin",
@@ -1496,7 +1327,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 406
+      "nb_notes_spectateurs": 560
     }
   },
   {
@@ -1559,42 +1390,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "02/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 16:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "03/10 13:45",
         "cinema": "Vendôme"
@@ -1973,7 +1768,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1437
+      "nb_notes_spectateurs": 1536
     }
   },
   {
@@ -2223,7 +2018,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1398
+      "nb_notes_spectateurs": 1466
     }
   },
   {
@@ -2254,10 +2049,6 @@
     "synopsis": "Un ancien combattant de la Première Guerre mondiale, aspirant ingénieur, tente de se réinsérer dans la vie civile. Impliqué malgré lui dans un vol, il subit les conditions insupportables d’un bagne du Sud, luttant pour prouver son innocence et sa valeur. Porté par une interprétation remarquable d’un des plus grands acteurs américains de l’époque, Paul Muni, un chef-d’œuvre incontournable d’une grande pertinence quant à son analyse percutante de la cruauté institutionnelle et de l’exclusion sociale. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/023e50ce-7dba-4e5c-a9d1-1f0b4daa36b5.png",
     "seances": [
-      {
-        "heure": "02/10 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "04/10 20:00",
         "cinema": "Cinematek"
@@ -2555,7 +2346,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-310112/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 2598
+      "nb_notes_spectateurs": 2600
     }
   },
   {
@@ -2706,7 +2497,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-115362/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 114003
+      "nb_notes_spectateurs": 114005
     }
   },
   {
@@ -2719,10 +2510,6 @@
     "synopsis": "Nagasaki, 1964 - A la mort de son père, chef d’un gang de yakuzas, Kikuo, 14 ans, est confié à un célèbre acteur de kabuki. Aux côtés de Shunsuke, le fils unique de ce dernier, il décide de se consacrer à ce théâtre traditionnel. Durant des décennies, les deux jeunes hommes évoluent côte à côte, de l’école du jeu aux plus belles salles de spectacle, entre scandales et gloire, fraternité et trahisons... L'un des deux deviendra le plus grand maître japonais de l'art du kabuki.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
-      {
-        "heure": "02/10 15:10",
-        "cinema": "Galeries"
-      },
       {
         "heure": "03/10 15:00",
         "cinema": "Galeries"
@@ -2911,7 +2698,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1485/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 266
+      "nb_notes_spectateurs": 267
     }
   },
   {
@@ -3031,26 +2818,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "02/10 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 12:05",
-        "cinema": "Palace"
-      },
       {
         "heure": "03/10 14:15",
         "cinema": "Vendôme"
@@ -3365,7 +3132,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327941/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1545
+      "nb_notes_spectateurs": 1565
     }
   },
   {
@@ -3491,11 +3258,11 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "02/10 20:00",
+        "heure": "05/10 18:00",
         "cinema": "Cinematek"
       },
       {
-        "heure": "05/10 18:00",
+        "heure": "09/10 18:00",
         "cinema": "Cinematek"
       }
     ],
@@ -3515,10 +3282,6 @@
     "synopsis": "La Chouette du cinéma a rassemblé plusieurs courts métrages autour de la figure du grand méchant loup dans le programme \"Loups tendres et loufoques\", qui revisite cette figure dans les contes et les livres, avec humour et poésie, pour amener les petits dès 3 ans à le voir autrement...",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
     "seances": [
-      {
-        "heure": "03/10 10:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/10 10:45",
         "cinema": "Palace"
@@ -3583,7 +3346,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-7586/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 711
+      "nb_notes_spectateurs": 712
     }
   },
   {
@@ -3594,22 +3357,6 @@
     "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu’elle s’y rend, elle est prise d’un vertige et replonge dans le souvenir de l’été 1958, celui de sa première nuit avec un homme. Nuit dont l’onde de choc s’est propagée violemment dans son corps et sur le reste de son existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
-      {
-        "heure": "02/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 10:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "03/10 16:10",
         "cinema": "Vendôme"
@@ -3836,7 +3583,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026296/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 125
+      "nb_notes_spectateurs": 144
     }
   },
   {
@@ -3850,42 +3597,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "02/10 13:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "02/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 17:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "02/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 11:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "03/10 12:30",
         "cinema": "Aventure"
@@ -4054,42 +3765,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "02/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 13:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 15:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "02/10 15:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 20:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/10 10:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "03/10 13:30",
         "cinema": "Vendôme"
@@ -4488,7 +4163,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 393
+      "nb_notes_spectateurs": 468
     }
   },
   {
@@ -4527,10 +4202,6 @@
     "synopsis": "Dans les soixante-douze heures précédant le Jour J, le chef météorologue britannique James Stagg est appelé à fournir les prévisions les plus importantes de l'histoire afin que les Alliés puissent débarquer sur les plages normandes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a5c53ad6-07b9-4057-82af-46f28e59103d.jpg",
     "seances": [
-      {
-        "heure": "02/10 18:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "05/10 15:15",
         "cinema": "Le Stockel"
@@ -4689,33 +4360,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004458/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 1762
-    }
-  },
-  {
-    "titre": "Prince of Darkness",
-    "annee": 1988,
-    "duree_minutes": 102,
-    "realisateurs": [
-      "John Carpenter"
-    ],
-    "synopsis": "À la demande d’un prêtre, un groupe de scientifiques vient étudier un mystérieux cylindre de verre enfermé dans la crypte d’une église de banlieue à Los Angeles. Au cours de leurs recherches, les scientifiques comprennent qu’ils se trouvent devant un processus irréversible dont le but est l’avènement du Mal...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/30fb8b44-626d-4230-8a69-26300749c279.png",
-    "seances": [
-      {
-        "heure": "02/10 21:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "2552",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2552/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2552/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 278
+      "nb_notes_spectateurs": 1783
     }
   },
   {
@@ -4761,14 +4406,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "02/10 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "03/10 18:10",
         "cinema": "Aventure"
@@ -4889,7 +4526,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2049
+      "nb_notes_spectateurs": 2092
     }
   },
   {
@@ -4902,22 +4539,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "02/10 16:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "03/10 14:00",
         "cinema": "Palace"
@@ -5142,7 +4763,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 529
+      "nb_notes_spectateurs": 542
     }
   },
   {
@@ -5461,18 +5082,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "02/10 14:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 21:15",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "03/10 14:00",
         "cinema": "Aventure"
       },
@@ -5599,8 +5208,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 255
+      "note_moyenne_spectateurs": 3.7,
+      "nb_notes_spectateurs": 273
     }
   },
   {
@@ -5805,7 +5414,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000043221/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1178
+      "nb_notes_spectateurs": 1215
     }
   },
   {
@@ -6065,7 +5674,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-276608/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 8494
+      "nb_notes_spectateurs": 8514
     }
   },
   {
@@ -6078,10 +5687,6 @@
     "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
     "seances": [
-      {
-        "heure": "03/10 11:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/10 11:15",
         "cinema": "Palace"
@@ -6242,14 +5847,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "02/10 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "03/10 19:00",
         "cinema": "Palace"
       },
@@ -6286,10 +5883,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "02/10 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "03/10 21:15",
         "cinema": "Palace"
@@ -6361,8 +5954,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024260/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 64
+      "note_moyenne_spectateurs": 3.1,
+      "nb_notes_spectateurs": 65
     }
   },
   {
@@ -6399,34 +5992,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "02/10 13:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 15:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "02/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "02/10 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "02/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "02/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "03/10 13:50",
         "cinema": "Vendôme"
@@ -6777,7 +6342,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 1255
+      "nb_notes_spectateurs": 1291
     }
   },
   {
@@ -6972,7 +6537,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039625/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 345
+      "nb_notes_spectateurs": 346
     }
   },
   {
@@ -7035,7 +6600,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4660/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 6526
+      "nb_notes_spectateurs": 6528
     }
   },
   {
@@ -7065,10 +6630,6 @@
     "synopsis": "Lowen Ashleigh est une écrivaine solitaire. Peinant à vivre de son métier, elle accepte de devenir le prête-plume de l'autrice à succès, Verity Crawford, et s'installe dans sa propriété isolée des regards. En découvrant ce qui semble être les notes personnelles de Verity, la jeune Lowen se retrouve confrontée à des révélations troublantes et inquiétantes concernant Jeremy, le mari de Verity. Elle peine alors à distinguer la fiction de la réalité, la manipulation de l'attirance, le trouble de l'obsession.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c959ee1a-74e9-41f1-9197-b0b211f2529f.jpg",
     "seances": [
-      {
-        "heure": "02/10 20:30",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "06/10 18:10",
         "cinema": "Le Stockel"
@@ -7136,8 +6697,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000015739/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 157
+      "note_moyenne_spectateurs": 3.0,
+      "nb_notes_spectateurs": 208
     }
   },
   {
@@ -7156,12 +6717,12 @@
       }
     ],
     "allocine": {
-      "allocine_id": "18350",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-18350/critiques/presse/",
+      "allocine_id": "309416",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-309416/critiques/presse/",
       "note_moyenne_presse": null,
       "nb_critiques_presse": 0,
       "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-18350/critiques/spectateurs/",
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-309416/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
     }
@@ -7468,207 +7029,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-56869/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
       "nb_notes_spectateurs": 91
-    }
-  },
-  {
-    "titre": "Yi yi",
-    "annee": 2000,
-    "duree_minutes": 173,
-    "realisateurs": [
-      "Edward Yang"
-    ],
-    "synopsis": "Jouant sur la durée et l'entrelacement narratif d'une série d'intrigues familiales, une chronique polyphonique et intimiste à la fois, rigoureusement contée. Des personnages observés avec émotion, légèreté et tendresse, en un cérémonial alternant drame et drôlerie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/754fed6b-000c-4731-9cf0-934ff1386298.png",
-    "seances": [
-      {
-        "heure": "03/10 10:10",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "25300",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-25300/critiques/presse/",
-      "note_moyenne_presse": 4.8,
-      "nb_critiques_presse": 29,
-      "critiques_presse": [
-        {
-          "titre_presse": "Aden",
-          "note": 5.0,
-          "auteur": "Philippe Piazzo",
-          "citation": "Yi Yi est notre palme d'or personnelle et absolue. En un seul mot bien pesé : sublime."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 5.0,
-          "auteur": "Emmanuel Burdeau",
-          "citation": "Un seul fil relie bel et bien toutes les vies ici représentées, mais c'est parce qu'il s'agit dès le départ et jusqu'à la fin d'une seule vie (...), donnant à voir simultanément (...), non son sens mais la totalité de ses manifestations et de ses images."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 5.0,
-          "auteur": "Frank Beauvais",
-          "citation": "La rigueur formelle de Yi Yi, l'adéquation avec le flux de son sujet, son élégante sobriété (...) en font un film riche et nécessaire qui figure ce que le cinéma a à nous offrir de plus abouti aujourd'hui."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 5.0,
-          "auteur": "Philippe Paumier",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Cplanet.com",
-          "note": 5.0,
-          "auteur": "Emmanuel Quintin",
-          "citation": "(...) une oeuvre d'une grande richesse formelle et émotive grâce au grand soin apporté à la composition de l'image, et au déplacement presque chorégraphique des corps dans l'espace."
-        },
-        {
-          "titre_presse": "Fluctuat.net",
-          "note": 5.0,
-          "auteur": "Laure Charcossey",
-          "citation": "(...) ce que sera parvenu à réaliser Edward Yang avec \" Yi Yi \" : nous faire voir ce que l'on refuse lâchement de regarder et d'affronter parfois, \" les choses de la vie \" tout simplement ."
-        },
-        {
-          "titre_presse": "L'Evénement",
-          "note": 5.0,
-          "auteur": "Elizabeth Gouslan",
-          "citation": "Oeuvre drôle et poignante, Yi Yi frôle l'excellence dans l'analyse du rapport au réel (...)"
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Sophie Grassin",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 5.0,
-          "auteur": "Michel Guilloux",
-          "citation": "Loin de tout exotisme, de tout cynisme, Edward Yang regarde sans fard la pâte humaine, mais son amour désespéré de l'art nous le rend bien proche."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "C'est un film magique, un film comme on en connaît peu. Un film qui vous saisit sans que vous y preniez garde, et qui ne vous lâche plus."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "(...) le premier film asiatique qui mette d'accord critique et spectateur. Il a pour cela, l'intelligence et la grâce, la profondeur et la séduction."
-        },
-        {
-          "titre_presse": "Le Figaro Magazine",
-          "note": 5.0,
-          "auteur": "L.H.",
-          "citation": "(...) un conte juste, tendre et cruel qui touche à l'essentiel. Magistral."
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Françoise Maupin",
-          "citation": "(...) cette chronique familiale aux multiples personnages est aussi une superbe réflexion sur la vie, la mort, la difficulté de se trouver soi-même et c'est à juste titre qu'elle a obtenu au dernier Festival de Cannes le prix de la mise en scène."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "Yi Yi n'est pas seulement le film de la maturité d'un grand cinéaste (...). C'est aussi ce qu'on pourrait appeler un film total, par l'ampleur de son propos, la hauteur de son ambition et la profondeur de son intuition."
-        },
-        {
-          "titre_presse": "Lenouveaucinema.com",
-          "note": 5.0,
-          "auteur": "Elodie Lepage",
-          "citation": "Yi Yi est une oeuvre sensible sur la difficulté de devenir soi et, surtout de le rester. La peur, l'ennui, les regrets, voilà ce qui nous guette tous, adultes, estime avec une cruelle lucidité le metteur en scène."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Frédéric Bonnaud",
-          "citation": "Yi Yi est son chef-d'oeuvre, et beaucoup plus que cela encore : une percée du cinéma, comme il s'en produit une ou deux par décennies (...)"
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Didier Péron",
-          "citation": "(...) Edward Yang s'est efforcé de rendre le plus intelligible possible des expériences et sensations communes (...)."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Michel Ciment",
-          "citation": "(...) film admirable (...). Ce qui frappe en premier lieu, c'est la clarté de la réalisation et du scénario qui font se croiser les fils de la narration avec un sens quasi musical."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Olivier De Bruyn",
-          "citation": "(...) le cinéaste décapite les conventions de la saga familiale avec ses parallélismes plombants et ses rabâchages psycho-trucs."
-        },
-        {
-          "titre_presse": "Repérages",
-          "note": 5.0,
-          "auteur": "Samuel Zlatoff",
-          "citation": "Une fois encore, Edward Yang signe une fresque intimiste qui ouvre son pays sur le monde."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 5.0,
-          "auteur": "Thierry Cheze",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "Synopsis",
-          "note": 5.0,
-          "auteur": "Maryse Léon-Garcia",
-          "citation": "(...) admirablement visuel (...) une magnifique chronique des jours ordinaires."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Marine Landrot",
-          "citation": "Profond et euphorisant."
-        },
-        {
-          "titre_presse": "Urbuz",
-          "note": 5.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "(...) un chef-d'oeuvre absolu, à voir et à revoir."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Claude Baignères",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Jean-Pierre Lacomme",
-          "citation": "(...) Edward Yang porte un regard attentif et chaleureux sur chacun de ses personnages. La force de la simplicité au service de l'émotion."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Eric Leguèbe",
-          "citation": "(...) Yi Yi est certes plus axé vers les purs cinéphiles que vers les amateurs de cinéma d'action. En revanche, il traite des cascades les plus universelles qui soient : celles du coeur, des sentiments et des mélancolies."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "Voir la critique sur www.lepoint.fr"
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "Annie Coppermann",
-          "citation": "Ce n'est (...) pas grand-chose que « Yi-Yi ». Tout juste... un reflet de tout ce qui tisse nos existences. Et qu'Edward Yang, d'une caméra fluide, attentive, sait regarder, et saisir, avec une infinie justesse, mélange de pudeur, de sensibilité et de drôlerie."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-25300/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1019
     }
   },
   {

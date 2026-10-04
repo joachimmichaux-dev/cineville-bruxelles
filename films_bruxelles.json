@@ -10,10 +10,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/176666f1-d4d5-4069-9796-e17814ac75bc.jpg",
     "seances": [
       {
-        "heure": "03/10 12:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "04/10 17:00",
         "cinema": "Aventure"
       },
@@ -28,6 +24,22 @@
     ]
   },
   {
+    "titre": "Action Item",
+    "annee": 0,
+    "duree_minutes": 69,
+    "realisateurs": [
+      "Paula Ďurinová"
+    ],
+    "synopsis": "Alternant des images de paysages et de témoignages d’expériences de vie liées au burn-out, qu’il soit professionnel, étudiant ou militant, Action Item invite à aller regarder au-delà des raisons et des responsabilités individuelles de l’épuisement. A partir d’un espace commun de partage des vécus difficiles ces personnes livrent des récits qui très souvent ne trouvent pas l’écho nécessaire ou sont vécus comme honteux ou pas assez endurants. Le burn-out est la maladie de ce siècle et pour autant les causes sociales de son existence sont rarement mises en lien avec tous ces parcours de vie marqués durablement. Par la sensorialité des images nous somme invitées à plonger pour un moment dans les yeux, les sensations et le récit de ces personnes qui se livrent dans cette intimité mise en place par la réalisatrice, qui part elle-même de son expérience personnelle.\n\nPremière projection le 25.09 suivie d’une rencontre avec le sociologue Simon Cottin-Marx, co-auteur avec Hélène Balazard de l’ouvrage \"Burn-out militant\" (Payot).\nSéance du 10.10 suivie d’une rencontre avec Paula Ďurinová.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1334960c-0774-4717-b198-b22155dce74f.jpg",
+    "seances": [
+      {
+        "heure": "10/10 19:30",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
     "titre": "Akira",
     "annee": 1988,
     "duree_minutes": 124,
@@ -37,18 +49,6 @@
     "synopsis": "Ce classique du cyberpunk suit un jeune motard dont les pouvoirs psychiques deviennent incontrôlables et le menacent, lui et le monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
-      {
-        "heure": "03/10 18:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "04/10 10:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "04/10 11:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "04/10 16:50",
         "cinema": "Aventure"
@@ -94,22 +94,6 @@
     ]
   },
   {
-    "titre": "Birdman",
-    "annee": 2014,
-    "duree_minutes": 119,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Un acteur connu pour avoir incarné un célèbre super-héros, monte une pièce à Broadway autour de son propre personnage dans l'espoir de renouer avec sa gloire passée.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6f158e4a-685f-4f96-98fc-d372313ac61d.jpg",
-    "seances": [
-      {
-        "heure": "03/10 14:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Blue Heron",
     "annee": 2026,
     "duree_minutes": 90,
@@ -119,10 +103,6 @@
     "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
     "seances": [
-      {
-        "heure": "03/10 14:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/10 21:00",
         "cinema": "Vendôme"
@@ -143,14 +123,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "03/10 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "04/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/10 21:30",
         "cinema": "Palace"
@@ -240,14 +212,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "03/10 15:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "04/10 14:30",
         "cinema": "Aventure"
       },
@@ -313,42 +277,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "03/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 15:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 15:55",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "03/10 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/10 13:45",
         "cinema": "Vendôme"
@@ -466,28 +394,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2de072be-36f5-4fd8-b64e-d9956bbb4ede.png",
     "seances": [
       {
-        "heure": "03/10 17:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "08/10 15:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Heart of the Beast",
-    "annee": 2026,
-    "duree_minutes": 101,
-    "realisateurs": [
-      "David Ayer"
-    ],
-    "synopsis": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi magnifique qu’impitoyable, ils devront puiser dans leurs dernières forces pour survivre ensemble.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
-    "seances": [
-      {
-        "heure": "03/10 18:20",
-        "cinema": "Le Stockel"
       }
     ]
   },
@@ -618,10 +526,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/78341816-0c6e-467f-8310-9433879cbf7d.jpg",
     "seances": [
       {
-        "heure": "03/10 15:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "04/10 13:15",
         "cinema": "Galeries"
       }
@@ -652,10 +556,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a64c050-c213-4535-867a-b5e66f811ce1.jpg",
     "seances": [
       {
-        "heure": "03/10 14:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "04/10 14:15",
         "cinema": "Palace"
       }
@@ -671,26 +571,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "03/10 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "04/10 12:05",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/10 16:30",
         "cinema": "Vendôme"
@@ -750,6 +630,22 @@
     ]
   },
   {
+    "titre": "Last Things",
+    "annee": 2023,
+    "duree_minutes": 50,
+    "realisateurs": [
+      "Deborah Stratman"
+    ],
+    "synopsis": "\"Last Things\" s’ouvre sur une vision post-apocalyptique de l’avenir de la Terre : nous sommes destinés à mourir. S’inspirant de récits de J.-H. Rosny (pseudonyme commun de deux frères écrivains belges, pionniers de la science-fiction moderne), Deborah Stratman imagine un monde où toute vie semble avoir disparu. Puis, soudainement, nous réalisons que des nouvelles formes de vie émergent des paysages minéraux. Petit à petit, le film se révèle comme une surprenante méditation sur l’évolution de la vie sur notre planète à travers un collage mêlant images d’archives, animation, microphotographie, imagerie scientifique et séquences tournées spécialement pour le film. Des réflexions de la géologue Marcia Bjornerud ponctuent le film et nous invitent à repenser la survie, l’extinction et la capacité de la Terre à se souvenir au-delà des limites de l’histoire humaine. \"Last Things\" estompe les frontières entre documentaire et fiction et nous transporte dans un film-essai de science fiction !",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2d0598b7-89fe-4fc4-9879-9d3b8f002295.png",
+    "seances": [
+      {
+        "heure": "10/10 21:30",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
     "titre": "Le Voisin",
     "annee": 2026,
     "duree_minutes": 70,
@@ -787,26 +683,6 @@
     ]
   },
   {
-    "titre": "Loups tendres et loufoques",
-    "annee": 2019,
-    "duree_minutes": 52,
-    "realisateurs": [
-      "Anaïs Sorrentino",
-      "Arnaud Demuynck",
-      "Pascale Hecquet",
-      "Rémi Durin",
-      "Hugo Frassetto"
-    ],
-    "synopsis": "La Chouette du cinéma a rassemblé plusieurs courts métrages autour de la figure du grand méchant loup dans le programme \"Loups tendres et loufoques\", qui revisite cette figure dans les contes et les livres, avec humour et poésie, pour amener les petits dès 3 ans à le voir autrement...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
-    "seances": [
-      {
-        "heure": "04/10 10:45",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Memoirs of an Invisible Man",
     "annee": 1992,
     "duree_minutes": 99,
@@ -830,22 +706,6 @@
     "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu’elle s’y rend, elle est prise d’un vertige et replonge dans le souvenir de l’été 1958, celui de sa première nuit avec un homme. Nuit dont l’onde de choc s’est propagée violemment dans son corps et sur le reste de son existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
-      {
-        "heure": "03/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "04/10 12:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "04/10 13:35",
         "cinema": "Vendôme"
@@ -903,50 +763,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "03/10 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 13:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 17:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "04/10 11:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "04/10 13:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "04/10 13:45",
         "cinema": "Palace"
@@ -1032,10 +848,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9b8c951d-bff4-4f15-b4da-9fb73a5d9b3d.jpg",
     "seances": [
       {
-        "heure": "03/10 20:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "08/10 18:00",
         "cinema": "Cinematek"
       }
@@ -1051,46 +863,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "03/10 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 13:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/10 15:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 20:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/10 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 20:35",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "03/10 20:50",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "04/10 10:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/10 13:15",
         "cinema": "Vendôme"
@@ -1190,22 +962,6 @@
     ]
   },
   {
-    "titre": "Os canibais",
-    "annee": 1988,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Manoel de Oliveira"
-    ],
-    "synopsis": "Deux jeunes aristocrates amoureux tentent d’échapper à l’autorité parentale, mais leur fuite les conduit à une communauté de cannibales, scellant leur destin dans une tragédie macabre et opératique. Le détournement malicieux d’un opéra de caramel par l’humour noir. Tous les poncifs de l’art lyrique amidonné, allègrement pervertis – en un divertissement-piège saugrenu. Cette satire macabre d’opéra vaut au maître portugais Manoel de Oliveira le prix Âge d’Or en 1988. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cdf62ae7-e17b-4635-9031-dd187ea913f8.jpg",
-    "seances": [
-      {
-        "heure": "03/10 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Pressure",
     "annee": 2026,
     "duree_minutes": 100,
@@ -1231,10 +987,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "03/10 14:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "04/10 14:00",
         "cinema": "Cineflagey"
@@ -1264,14 +1016,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "03/10 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "04/10 21:30",
         "cinema": "Aventure"
       },
@@ -1295,26 +1039,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "03/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 16:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "04/10 11:20",
-        "cinema": "Galeries"
-      },
       {
         "heure": "04/10 14:00",
         "cinema": "Vendôme"
@@ -1420,22 +1144,6 @@
     ]
   },
   {
-    "titre": "Salmokji: Whispering Water",
-    "annee": 2025,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Lee Sang-Min"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1083bcdf-3572-4fd8-9bc9-6f462796bab6.jpg",
-    "seances": [
-      {
-        "heure": "03/10 19:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Sauf le passé",
     "annee": null,
     "duree_minutes": null,
@@ -1459,14 +1167,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "03/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 18:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "04/10 14:30",
         "cinema": "Aventure"
@@ -1522,22 +1222,6 @@
     ]
   },
   {
-    "titre": "Sleeping Beauty",
-    "annee": 2011,
-    "duree_minutes": 102,
-    "realisateurs": [
-      "Julia Leigh"
-    ],
-    "synopsis": "Hantée par la mort et d’une témérité discrète, Lucy est une étudiante qui accepte un emploi de « Belle au bois dormant ». Dans une maison de ville luxueuse des hommes âgés recherchent une expérience érotique exigeant la soumission absolue de la jeune femme. Mais bientôt, elle ressent le besoin grandissant de savoir ce qui lui arrive lorsqu’elle est endormie. La cinéaste et écrivaine australienne Julia Leigh explore un récit troublant, à la fois classique et contemporain. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9f4aea27-5546-418b-abd1-871e924b2cf1.png",
-    "seances": [
-      {
-        "heure": "03/10 21:15",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Spider-Man: Brand New Day",
     "annee": 2026,
     "duree_minutes": 200,
@@ -1548,32 +1232,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7d1fec45-834a-4c58-8fa6-664604deab87.jpg",
     "seances": [
       {
-        "heure": "03/10 12:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "04/10 12:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "05/10 12:40",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Sunny Dancer",
-    "annee": 2026,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "George Jaques"
-    ],
-    "synopsis": "Ivy est une adolescente en rémission d'un cancer, dont les parents tiennent absolument à ce qu'elle participe au « Children Run Free Camp », un stage d'été destiné aux jeunes adultes touchés par le cancer. Cependant, alors qu'Ivy se retrouve entraînée à contrecœur dans cette expérience, elle découvre de nouveaux sentiments auprès de ses nouveaux amis.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fba33939-ebf7-423a-8b3a-7047ae77e796.png",
-    "seances": [
-      {
-        "heure": "04/10 11:15",
-        "cinema": "Palace"
       }
     ]
   },
@@ -1586,28 +1246,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6b398224-5221-4a50-9533-cf75e94efa07.jpg",
     "seances": [
       {
-        "heure": "03/10 14:00",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "04/10 14:00",
         "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "Tales of the Wounded Land",
-    "annee": 2025,
-    "duree_minutes": 119,
-    "realisateurs": [
-      "Abbas Fahdel"
-    ],
-    "synopsis": "Pendant seize mois, Abbas Fahdel filme le sud du Liban, d’abord sous les bombardements israéliens, puis au moment du retour. Avec sa femme, l’artiste Nour Ballouk, et leur petite fille, il retrouve des villages éventrés, des maisons en ruine, des voisins, des morts, des arbres calcinés. Mais \"Tales of the Wounded Land\" refuse les images spectaculaires de la guerre. Il s’attarde sur ce qu’elle laisse derrière elle : des paysages devenus étrangers, des objets déplacés, des gestes quotidiens qui reprennent, des enfants qui continuent à jouer. Des fragments de poèmes écrits pendant les attaques accompagnent ce journal familial où l’intime se mêle sans cesse à l’Histoire. Après \"Homeland : Iraq Year Zero\", Fahdel filme une nouvelle fois au plus près des siens, avec une attention simple aux êtres et aux lieux. Comme si filmer permettait, sinon de réparer, du moins de retenir quelque chose de ce que la guerre cherche à effacer.\n\nPremière projection le 03.10, suivie d’une discussion avec Abbas Fahdel.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/801a2f11-278e-4228-99d3-dbefa4c3fb95.jpg",
-    "seances": [
-      {
-        "heure": "03/10 20:00",
-        "cinema": "Nova"
       }
     ]
   },
@@ -1621,10 +1261,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "03/10 19:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "04/10 13:30",
         "cinema": "Palace"
@@ -1658,10 +1294,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
       {
-        "heure": "03/10 21:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "04/10 21:15",
         "cinema": "Palace"
       }
@@ -1691,38 +1323,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "03/10 13:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 15:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 16:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "03/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "03/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "03/10 21:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "03/10 21:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "03/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "04/10 13:30",
         "cinema": "Galeries"
@@ -1840,10 +1440,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3a63af66-2435-44c6-89e4-a5e60fe5e257.jpg",
     "seances": [
       {
-        "heure": "03/10 16:05",
-        "cinema": "Palace"
-      },
-      {
         "heure": "04/10 16:05",
         "cinema": "Palace"
       },
@@ -1884,10 +1480,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a686710a-c3b9-4370-9ca2-14906faa4db0.png",
     "seances": [
       {
-        "heure": "03/10 19:15",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "08/10 21:30",
         "cinema": "Cinematek"
       }
@@ -1922,22 +1514,6 @@
       {
         "heure": "06/10 18:10",
         "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "Victory",
-    "annee": 2024,
-    "duree_minutes": 120,
-    "realisateurs": [
-      "Park Beom-soo"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/58866226-7c5c-4a53-adc0-d2ea48a35dfc.jpg",
-    "seances": [
-      {
-        "heure": "03/10 16:30",
-        "cinema": "Galeries"
       }
     ]
   },

@@ -32,22 +32,6 @@
     ]
   },
   {
-    "titre": "500 Miles",
-    "annee": 2026,
-    "duree_minutes": 101,
-    "realisateurs": [
-      "Morgan Matthews"
-    ],
-    "synopsis": "Finn et son petit frère Charlie s'enfuient de chez eux en Angleterre à l'aube. Alors que leurs parents sont en train de se séparer, ils veulent éviter d'être séparés l'un de l'autre. Ils partent pour la côte ouest de l'Irlande, chez leur grand-père excentrique. Au cours de leur long voyage, ils doivent compter sur leur charme, leur intelligence et la gentillesse des inconnus. Surtout de celle de Kait, une musicienne de rue libre d’esprit qui fuit elle-même certains problèmes...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/176666f1-d4d5-4069-9796-e17814ac75bc.jpg",
-    "seances": [
-      {
-        "heure": "06/10 17:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Achter het scherm (afleveringen 1, 2, 3)",
     "annee": 1966,
     "duree_minutes": 105,
@@ -106,10 +90,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "06/10 16:30",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "07/10 16:30",
         "cinema": "Galeries"
       },
@@ -140,10 +120,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "07/10 12:30",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "09/10 11:00",
         "cinema": "Galeries"
       },
@@ -154,6 +130,22 @@
       {
         "heure": "12/10 11:00",
         "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Apple Cider Vinegar",
+    "annee": 2024,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Sofie Benoot "
+    ],
+    "synopsis": "Les pierres sont à la fois l'un des éléments de construction les plus fondamentaux et les plus négligés de notre monde. Lorsqu’une narratrice de documentaires sur la nature à la retraite se penche sur son calcul rénal elle décide de raconter une dernière histoire : celle des pierres oubliées de notre monde. Apple Cider Vinegar est un essai cinématographique hypnotique qui pose des questions écologiques urgentes et nous emmène dans un voyage à la rencontre de tailleurs de pierre palestiniens de géologues britanniques passionnés et des habitants des champs de lave de Fogo.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2adc9280-672b-4bc6-8593-7dd1893019d5.jpeg",
+    "seances": [
+      {
+        "heure": "13/10 19:00",
+        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -170,22 +162,6 @@
       {
         "heure": "08/10 18:15",
         "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "Blue Heron",
-    "annee": 2026,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Sophy Romvari"
-    ],
-    "synopsis": "Une famille de six personnes s'installe dans sa nouvelle maison sur l'île de Vancouver, tandis que les dynamiques familiales se dévoilent à travers le regard du plus jeune enfant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14d8e2f9-2734-4137-bd75-90b617283b6a.jpg",
-    "seances": [
-      {
-        "heure": "06/10 18:30",
-        "cinema": "Vendôme"
       }
     ]
   },
@@ -222,10 +198,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "06/10 18:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "07/10 15:30",
         "cinema": "Palace"
       },
@@ -243,6 +215,10 @@
       },
       {
         "heure": "12/10 11:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 21:30",
         "cinema": "Palace"
       }
     ]
@@ -336,10 +312,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "06/10 21:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "07/10 15:40",
         "cinema": "Aventure"
       },
@@ -398,6 +370,14 @@
       {
         "heure": "12/10 12:40",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 15:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 21:10",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -424,22 +404,6 @@
     ]
   },
   {
-    "titre": "El desencanto",
-    "annee": 1976,
-    "duree_minutes": 97,
-    "realisateurs": [
-      "Jaime Chávarri"
-    ],
-    "synopsis": "Ce film est un documentaire sur le poète Leopoldo Panero. Sa veuve et ses fils y évoquent la mort en général — dans ce contexte particulier — ainsi que leurs propres problèmes familiaux.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/57ceb286-d09b-44e9-bfdb-7be5c3fe6af4.jpg",
-    "seances": [
-      {
-        "heure": "06/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Et Dieu... créa la femme",
     "annee": 1956,
     "duree_minutes": 90,
@@ -451,6 +415,37 @@
     "seances": [
       {
         "heure": "11/10 19:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Festival Financité : Ciné-Bingo",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "12/10 19:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Flanderns Germanisches Gesicht + Die Grosse Liebe",
+    "annee": 0,
+    "duree_minutes": 116,
+    "realisateurs": [
+      "Alfred Ehrhardt",
+      "Rolf Hansen"
+    ],
+    "synopsis": "L’actrice suédoise Zarah Leander fut très populaire pendant l’Occupation grâce à ses rôles dans des films où elle chantait et dansait pour l’essentiel. Un grand amour était un film dit Durchhaltefilm, un genre dans lequel les femmes allemandes étaient encouragées à soutenir leurs maris, même lorsque ceux-ci combattaient au front depuis des années. Suivi d’un court métrage tourné à l’initiative du service de propagande allemand en Belgique occupée, visant à prouver que Flamand·e·s et Allemand·e·s étaient apparenté·e·s. ",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "13/10 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -487,34 +482,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "06/10 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "06/10 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/10 19:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "06/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/10 13:45",
         "cinema": "Vendôme"
@@ -670,6 +637,26 @@
       {
         "heure": "13/10 13:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 14:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 16:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 19:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 21:10",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -745,23 +732,6 @@
     ]
   },
   {
-    "titre": "How Do You Like Them Bananas? + Oysters 'R' in Season + Day with Dean",
-    "annee": 0,
-    "duree_minutes": 55,
-    "realisateurs": [
-      "Lionel Rogosin",
-      "Michael Ariel Rogosin"
-    ],
-    "synopsis": "Pour se distraire des difficultés rencontrées à montrer Good Times, Wonderful Times, Rogosin s’essaye à la comédie avec plus ou moins de succès. Le documentaire traitant de cette expérience nous fait découvrir une autre facette du réalisateur. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/10 20:45",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "I Am a Fugitive from a Chain Gang",
     "annee": 1932,
     "duree_minutes": 92,
@@ -790,21 +760,9 @@
       {
         "heure": "09/10 19:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Ingmarssönerna",
-    "annee": 1918,
-    "duree_minutes": 143,
-    "realisateurs": [
-      "Victor Sjöström"
-    ],
-    "synopsis": "Réalisme et fantastique – avec un paradis à la Méliès, où grimpe le fiancé d’une fille-mère (joué par Sjöström lui-même) pour aller y consulter ses ancêtres. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/08da2acf-2f6c-47cd-842c-fcc43d07ec4b.jpg",
-    "seances": [
+      },
       {
-        "heure": "06/10 18:00",
+        "heure": "13/10 21:15",
         "cinema": "Cinematek"
       }
     ]
@@ -817,10 +775,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "07/10 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "08/10 16:10",
         "cinema": "Aventure"
@@ -858,10 +812,6 @@
     "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
     "seances": [
-      {
-        "heure": "06/10 18:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "07/10 18:30",
         "cinema": "Galeries"
@@ -919,20 +869,10 @@
       {
         "heure": "10/10 17:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Knit Night #14 : Portrait de la jeune fille en feu",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
+      },
       {
-        "heure": "06/10 19:00",
-        "cinema": "Aventure"
+        "heure": "13/10 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -961,22 +901,6 @@
       {
         "heure": "11/10 10:45",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "L'une chante, l'autre pas",
-    "annee": 1977,
-    "duree_minutes": 122,
-    "realisateurs": [
-      "Agnès Varda"
-    ],
-    "synopsis": "Le film se concentre sur les vies entremêlées de deux amies dans la France des années 1970, alors que le mouvement féministe battait son plein. Pauline et Suzanne se rencontrent lorsque l'une aide l'autre à opter pour un avortement illégal sur la grossesse d'une troisième personne. Elles perdent contact, mais se retrouvent dix ans plus tard, Pauline – désormais célèbre sous le nom de « Pomme » – étant devenue une ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/beda2540-b533-4863-95eb-d9001aeb62b6.jpg",
-    "seances": [
-      {
-        "heure": "06/10 19:00",
-        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -1015,6 +939,20 @@
     ]
   },
   {
+    "titre": "La Gradiva",
+    "annee": 2026,
+    "duree_minutes": 145,
+    "realisateurs": [],
+    "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
+    "seances": [
+      {
+        "heure": "13/10 20:00",
+        "cinema": "Cineflagey"
+      }
+    ]
+  },
+  {
     "titre": "La Grande Barrière de corail",
     "annee": 1969,
     "duree_minutes": 92,
@@ -1042,30 +980,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "06/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 16:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "06/10 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 11:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/10 16:30",
         "cinema": "Vendôme"
@@ -1123,7 +1037,7 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "12/10 16:10",
+        "heure": "12/10 16:00",
         "cinema": "Vendôme"
       },
       {
@@ -1133,6 +1047,14 @@
       {
         "heure": "13/10 11:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 21:10",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1197,22 +1119,6 @@
       {
         "heure": "08/10 19:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Le Voisin",
-    "annee": 2026,
-    "duree_minutes": 70,
-    "realisateurs": [
-      "Xavier Ziomek"
-    ],
-    "synopsis": "Mon voisin sonne souvent chez moi à l'improviste. Il s'appelle Christophe, il est bûcheron, passionné de foot, et en situation de handicap mental. Autour de lui : Gil, son meilleur ami, dont le cerveau grésille parfois comme une ligne téléphonique brouillée et Guillaume, dont la joie insouciante se heurte à ses désirs d’émancipation.\nBref, j’ai rencontré mon voisin - et un monde que je ne soupçonnais pas.\n\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ed911e9b-de98-424a-9e68-05dff409baec.jpeg",
-    "seances": [
-      {
-        "heure": "06/10 17:30",
-        "cinema": "Aventure"
       }
     ]
   },
@@ -1293,6 +1199,14 @@
       {
         "heure": "12/10 17:10",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 14:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 20:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -1350,6 +1264,22 @@
     ]
   },
   {
+    "titre": "Metropolis",
+    "annee": 1927,
+    "duree_minutes": 149,
+    "realisateurs": [
+      "Fritz Lang"
+    ],
+    "synopsis": "Metropolis, le chef-d'œuvre muet de Fritz Lang, ouvre un portail vers un monde futur aussi bouleversant qu'envoûtant en 1927. Le fondement dystopique de tous vos films de science-fiction préférés ! Ambitieux, visionnaire et étonnamment pertinent : les androïdes, l'automatisation et l'I.A.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/05236a17-179d-496e-bc10-b00927bf870f.jpg",
+    "seances": [
+      {
+        "heure": "07/10 19:00",
+        "cinema": "Cinema RITCS"
+      }
+    ]
+  },
+  {
     "titre": "Mochy",
     "annee": 2026,
     "duree_minutes": 86,
@@ -1394,18 +1324,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
       {
-        "heure": "06/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "07/10 16:10",
         "cinema": "Vendôme"
       },
@@ -1436,6 +1354,10 @@
       {
         "heure": "12/10 14:15",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 16:15",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1450,10 +1372,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "06/10 18:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "09/10 13:45",
         "cinema": "Palace"
@@ -1629,6 +1547,46 @@
       {
         "heure": "13/10 13:45",
         "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 14:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 15:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 17:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "13/10 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 18:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 18:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 18:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "13/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 20:30",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "13/10 20:50",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1642,10 +1600,6 @@
     "synopsis": "Corinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l’espoir d’être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu’une relation commence à se nouer entre les deux, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l’aider à se faire une place au sein de la grande famille du cinéma ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
-      {
-        "heure": "07/10 09:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/10 19:00",
         "cinema": "Palace"
@@ -1676,6 +1630,10 @@
       },
       {
         "heure": "12/10 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 16:30",
         "cinema": "Palace"
       }
     ]
@@ -1711,38 +1669,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
       {
-        "heure": "06/10 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/10 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/10 20:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/10 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 13:15",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "07/10 13:45",
         "cinema": "Vendôme"
       },
@@ -1757,6 +1683,10 @@
       {
         "heure": "07/10 20:15",
         "cinema": "Palace"
+      },
+      {
+        "heure": "07/10 20:20",
+        "cinema": "Galeries"
       },
       {
         "heure": "07/10 20:25",
@@ -1795,6 +1725,10 @@
         "cinema": "Cineflagey"
       },
       {
+        "heure": "08/10 20:45",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "09/10 13:00",
         "cinema": "Palace"
       },
@@ -1813,6 +1747,10 @@
       {
         "heure": "09/10 15:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "09/10 18:30",
+        "cinema": "Galeries"
       },
       {
         "heure": "09/10 20:00",
@@ -1859,6 +1797,10 @@
         "cinema": "Vendôme"
       },
       {
+        "heure": "10/10 20:30",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "11/10 13:10",
         "cinema": "Vendôme"
       },
@@ -1877,6 +1819,10 @@
       {
         "heure": "11/10 18:10",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "11/10 18:15",
+        "cinema": "Galeries"
       },
       {
         "heure": "11/10 20:00",
@@ -1915,12 +1861,40 @@
         "cinema": "Vendôme"
       },
       {
+        "heure": "12/10 20:30",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "13/10 13:00",
         "cinema": "Palace"
       },
       {
         "heure": "13/10 13:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 15:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "13/10 15:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 15:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 20:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 20:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 20:30",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -1934,10 +1908,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "07/10 09:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/10 15:45",
         "cinema": "Palace"
@@ -2037,6 +2007,18 @@
       {
         "heure": "13/10 12:45",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "13/10 15:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 21:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 21:10",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -2051,16 +2033,20 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "06/10 17:50",
+        "heure": "08/10 12:50",
         "cinema": "Aventure"
       },
       {
-        "heure": "06/10 18:45",
-        "cinema": "Vendôme"
+        "heure": "08/10 19:00",
+        "cinema": "Aventure"
       },
       {
         "heure": "11/10 16:35",
         "cinema": "Cineflagey"
+      },
+      {
+        "heure": "13/10 12:50",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2105,6 +2091,10 @@
       {
         "heure": "12/10 21:30",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 21:40",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2118,26 +2108,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "06/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/10 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/10 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 13:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/10 14:20",
         "cinema": "Vendôme"
@@ -2217,18 +2187,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "06/10 14:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "06/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "07/10 13:30",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "08/10 15:00",
         "cinema": "Aventure"
       },
@@ -2275,6 +2233,10 @@
       {
         "heure": "12/10 19:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 16:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2288,18 +2250,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "06/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/10 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 09:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/10 13:45",
         "cinema": "Palace"
@@ -2385,7 +2335,7 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "10/10 18:45",
+        "heure": "10/10 19:00",
         "cinema": "Vendôme"
       },
       {
@@ -2425,12 +2375,12 @@
         "cinema": "Palace"
       },
       {
-        "heure": "12/10 14:00",
-        "cinema": "Palace"
+        "heure": "12/10 13:45",
+        "cinema": "Vendôme"
       },
       {
         "heure": "12/10 14:00",
-        "cinema": "Vendôme"
+        "cinema": "Palace"
       },
       {
         "heure": "12/10 17:00",
@@ -2447,6 +2397,26 @@
       {
         "heure": "13/10 11:45",
         "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 16:40",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 17:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 19:00",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -2482,6 +2452,10 @@
     "seances": [
       {
         "heure": "10/10 18:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "13/10 20:30",
         "cinema": "Cinematek"
       }
     ]
@@ -2527,14 +2501,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "06/10 16:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "07/10 17:20",
         "cinema": "Palace"
       },
@@ -2573,6 +2539,26 @@
       {
         "heure": "13/10 11:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 19:15",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Taxi Driver",
+    "annee": 1976,
+    "duree_minutes": 114,
+    "realisateurs": [
+      "Martin Scorsese"
+    ],
+    "synopsis": "Un solitaire paumé dans la jungle urbaine des bas-quartiers de New York. Le portrait morbide et saisissant d'un « justicier » sombrant dans l'obsession, avec un extraordinaire Robert De Niro.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fc516764-c8a2-4b58-8df5-334db9a98d81.jpeg",
+    "seances": [
+      {
+        "heure": "08/10 19:00",
+        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -2621,20 +2607,6 @@
     ]
   },
   {
-    "titre": "The Big Bird Cage",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/10 21:20",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "The Great Barrier Reef ",
     "annee": 1968,
     "duree_minutes": 92,
@@ -2658,38 +2630,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "06/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/10 14:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 20:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "06/10 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/10 21:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/10 18:00",
         "cinema": "Aventure"
@@ -2813,6 +2753,26 @@
       {
         "heure": "12/10 21:35",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 14:50",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "13/10 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 18:50",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "13/10 21:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "13/10 21:35",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -2865,6 +2825,22 @@
     ]
   },
   {
+    "titre": "The Seventh Seal",
+    "annee": 1957,
+    "duree_minutes": 97,
+    "realisateurs": [
+      "Ingmar Bergman"
+    ],
+    "synopsis": "Au XIVe siècle, la grande peste ravage la Suède. De retour des croisades, le chevalier Antonius Blok rencontre la Mort sur son chemin. Espérant retarder l'échéance fatidique, le temps de trouver des réponses à ses questionnements métaphysiques, il lui propose une partie d'échecs. Sur la route, tandis que l'écuyer qui l'accompagne professe sa philosophie nihiliste, les deux hommes rencontrent le bateleur Jof qui chemine avec sa jeune famille au cœur du pays tourmenté et dit avoir vu la vierge Marie.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/04662a2e-5b6f-4909-ae30-ba95bf7f588e.jpg",
+    "seances": [
+      {
+        "heure": "12/10 19:00",
+        "cinema": "Cinema RITCS"
+      }
+    ]
+  },
+  {
     "titre": "The Social Reckoning",
     "annee": 2026,
     "duree_minutes": 112,
@@ -2874,10 +2850,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "07/10 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "07/10 16:50",
         "cinema": "Aventure"
@@ -2953,6 +2925,14 @@
       {
         "heure": "13/10 13:10",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 16:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 21:30",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -3019,22 +2999,6 @@
     ]
   },
   {
-    "titre": "Un peintre sous surveillance",
-    "annee": 2005,
-    "duree_minutes": 23,
-    "realisateurs": [
-      "Boris Lehman"
-    ],
-    "synopsis": "Qu'est-ce qu'un peintre ? Comment filmer un homme qui peint ? Vingt ans après avoir réalisé Portrait du peintre dans son atelier (1985), Boris Lehman revient chez son ami Arié, pour réaliser un autre film avec les mêmes éléments de base. Les deux films forment à présent un diptyque.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/29d511bc-1e9a-4b85-a1a9-9ab71a2a1c2b.jpeg",
-    "seances": [
-      {
-        "heure": "06/10 19:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Verity",
     "annee": 2026,
     "duree_minutes": 114,
@@ -3044,10 +3008,6 @@
     "synopsis": "Lowen Ashleigh est une écrivaine solitaire. Peinant à vivre de son métier, elle accepte de devenir le prête-plume de l'autrice à succès, Verity Crawford, et s'installe dans sa propriété isolée des regards. En découvrant ce qui semble être les notes personnelles de Verity, la jeune Lowen se retrouve confrontée à des révélations troublantes et inquiétantes concernant Jeremy, le mari de Verity. Elle peine alors à distinguer la fiction de la réalité, la manipulation de l'attirance, le trouble de l'obsession.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c959ee1a-74e9-41f1-9197-b0b211f2529f.jpg",
     "seances": [
-      {
-        "heure": "06/10 18:10",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "11/10 18:10",
         "cinema": "Le Stockel"
@@ -3128,6 +3088,14 @@
       {
         "heure": "13/10 13:45",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "13/10 18:20",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "13/10 18:45",
+        "cinema": "Vendôme"
       }
     ]
   },

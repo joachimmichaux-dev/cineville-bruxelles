@@ -87,169 +87,6 @@
     }
   },
   {
-    "titre": "21 Grams",
-    "annee": 2003,
-    "duree_minutes": 124,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Autour d'un accident tragique, et d'un cœur attendu pour une transplantation, un film d'une émotion à la fois pure et infinie, où Sean Penn - magnifique - trouve un de ses tout meilleurs rôle.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/31a22936-d3a1-45ec-8340-bce1d2f5966d.jfif",
-    "seances": [
-      {
-        "heure": "07/10 21:20",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "47795",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-47795/critiques/presse/",
-      "note_moyenne_presse": 4.1,
-      "nb_critiques_presse": 17,
-      "critiques_presse": [
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Jean-Pierre Dufreigne",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "(...) puzzle virtuose qui place le spectateur en état de choc."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 5.0,
-          "auteur": "Dominique Borde",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Jean-Luc Wachtausen",
-          "citation": "(...) Iñarritu signe une brillante méditation sur le hasard, les remords et sur ce drôle de jeu qu'est la vie. Le tout est magistralement joué par des acteurs poussés dans leurs retranchements, Charlotte Gainsbourg en tête."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Jean-Luc Douin",
-          "citation": "Pourquoi ces trois personnages à cent lieues les uns des autres vont-il se croiser, comment vont-ils être amenés à se haïr, se tuer et s'aimer ? C'est évidemment le sujet de 21 grammes, mais cerner ainsi le film du surdoué Alejandro Gonzales Inarritu serait le réduire, sinon le trahir (...) ce qui l'obsède est plus complexe, tant dans le fond que dans la forme."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 5.0,
-          "auteur": "Olivier De Bruyn",
-          "citation": "Voir la critique sur www.lepoint.fr"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Frank Garbarz",
-          "citation": "(...) Inarritu s'impose (...) comme un des talents les plus vigoureux et les plus originaux de sa génération (...) Son style fiévreux, survolté, sa direction d'acteurs impérieuse (...) son jeu baroque avec les spirales du temps, allant de pair avec une fulgurante intensité émotionnelle, font de 21 grammes une expérience rare."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "Brillantisime d'invention et d'énergie concentrée, la mise en scène serre au plus près les fluctuations nerveuses des personnages (...) Le résultat mêle intelligence et puissance. Pour son second film, Alejandro Gonzalez Inarritu frappe un second grand coup. Donc un sans-faute."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 5.0,
-          "auteur": "Jean-Pierre Lavoignat",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 5.0,
-          "auteur": "Bernard Achour",
-          "citation": "Rien qu'un accident de voiture central, un implacable puzzle de destins fracassés et des acteurs au-delà d'eux-mêmes, héros d'une tragédie dont on ressort accablé mais enthousiaste, hanté par l'émotion que véhicule ce film rare tant par le fond que par la forme."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Gérard Lefort",
-          "citation": "La question des 21 Grammes (...) ne prend tout son poids, lourd de réponse et de sens, qu'à l'extrême fin. Toutefois, ce remue-méninges théorique ne fait de l'effet que parce qu'il est à l'image, donc physiquement, un fameux chahut."
-        },
-        {
-          "titre_presse": "Aden",
-          "note": 3.0,
-          "auteur": "Philippe Piazzo",
-          "citation": "(...) l'histoire n'est ici qu'un support pour épater le spectateur. Voyez comme la mise en scène est habile. Et comme les acteurs sont prodigieux (...) Désagréable sensation, finalement, une fois la performance générale achevée, que derrière ces jeux sophistiqués de la caméra et des acteurs se cache une certaine indécence."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 3.0,
-          "auteur": "Sandra Benedetti",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Alex Masson",
-          "citation": "Malgré les affèteries stylistiques et structurelles, l'émotion pointe dans ce film à l'interprétation hors pair."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Louis Guichard",
-          "citation": "Exercice de style, oui, mais immédiatement relevé par la puissance des comédiens, qui en sont la vraie pièce maîtresse (...) Ce sombre déterminisme (...) s'illustre ici avec trop d'insistance pour ne pas apparenter les personnages à des marionnettes, sans prise sur leur destin."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 2.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "21 grammes, c'est peu pour un film qui solde tout au poids : l'âme, les sentiments et la pellicule qui les porte."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 2.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "Marre (...) de ce cinéma péteux, de ces petits champions de l'esbroufe assez racoleurs en vérité dans leur manière de dispenser des cours de philo pour les nuls du haut de leur piédestal auteuriste, drapé dans un pseudo formalisme bourrichon, épaté par leurs coups de force autoproclamés."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-47795/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 21602
-    }
-  },
-  {
-    "titre": "Achter het scherm (afleveringen 1, 2, 3)",
-    "annee": 1966,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "André Delvaux"
-    ],
-    "synopsis": "Série télévisée en six épisodes réalisées pour la BRT durant le tournage de Les Demoiselles de Rochefort dans laquelle Delvaux explique qui fait quoi sur un plateau de tournage. Pour tous ceux qui ont toujours voulu savoir ce que recouvrent tous ces métiers mentionnés au générique d’un film. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "07/10 17:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Achter het scherm (afleveringen 4, 5, 6)",
-    "annee": 1966,
-    "duree_minutes": 96,
-    "realisateurs": [
-      "André Delvaux"
-    ],
-    "synopsis": "Série télévisée en six épisodes réalisées pour la BRT durant le tournage de Les Demoiselles de Rochefort dans laquelle Delvaux explique qui fait quoi sur un plateau de tournage. Pour tous ceux qui ont toujours voulu savoir ce que recouvrent tous ces métiers mentionnés au générique d’un film. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "07/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Action Item",
     "annee": 0,
     "duree_minutes": 69,
@@ -286,14 +123,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "07/10 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "07/10 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "08/10 16:00",
         "cinema": "Galeries"
       },
@@ -314,7 +143,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12278
+      "nb_notes_spectateurs": 12283
     }
   },
   {
@@ -679,8 +508,26 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-216633/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 22656
+      "nb_notes_spectateurs": 22661
     }
+  },
+  {
+    "titre": "Black Roots + Bitter Sweet Stories",
+    "annee": 0,
+    "duree_minutes": 91,
+    "realisateurs": [
+      "Lionel Rogosin",
+      "Michael Ariel Rogosin"
+    ],
+    "synopsis": "Après avoir filmé à l’étranger dans les années 1960, Lionel Rogosin revient aux États-Unis afin d’y dénoncer les inégalités raciales. Ce film réussit à capter avec une grande proximité le témoignage de musicien·ne·s prominent·e·s et les difficultés rencontrés à cause de la couleur de leur peau. Précédé d’un making-off sur le film. ",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "14/10 21:15",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": null
   },
   {
     "titre": "Born in the Jungle",
@@ -690,10 +537,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "07/10 15:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "10/10 10:55",
         "cinema": "Aventure"
@@ -706,8 +549,8 @@
     "allocine": {
       "allocine_id": "302738",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-302738/critiques/presse/",
-      "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 6,
+      "note_moyenne_presse": 3.4,
+      "nb_critiques_presse": 9,
       "critiques_presse": [
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -716,10 +559,28 @@
           "citation": "Dessin animé d’aventure à destination des plus jeunes, Joyeuse Jungle ! se révèle être une expédition des plus gaies en pleine nature tropicale. Cela tient à l’équilibre de l’histoire, avec juste ce qu’il faut d’agacement de l’héroïne, d’effronterie de son petit frère et de stupidité des méchants, des braconniers, pour que tout s’emboîte avec aisance."
         },
         {
+          "titre_presse": "L'Humanité",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Un film enchanteur aux couleurs chaudes."
+        },
+        {
           "titre_presse": "Le Dauphiné Libéré",
           "note": 4.0,
           "auteur": "Thibault Liessi",
           "citation": "Mais la force majeure de Joyeuse Jungle ! saute aux yeux, ce sont ses dessins vivaces, aux couleurs chatoyantes, basés sur les travaux de l’artiste lettone Elīna Brasliņa. Ses illustrations retranscrivent l’opulence de cette nature moins sauvage qu’elle en a l’air, sans pour autant en occulter les dangers."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Renaud Baronian",
+          "citation": "Au menu, des rencontres avec plein d’animaux sympathiques, dont une bestiole magique, une lutte contre des méchants trafiquants d’espèces rares, la découverte d’une tribu ancienne secrète... Ce très joli film d’animation letton, au graphisme coloré et très épuré, fera la joie des plus jeunes... Les adultes qui les accompagneront ne s’ennuieront pas."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 4.0,
+          "auteur": "Gilles Tourman",
+          "citation": "Un message vivant et drôle sur la nécessité de respecter la nature."
         },
         {
           "titre_presse": "Abus de Ciné",
@@ -761,10 +622,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "07/10 15:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "08/10 21:00",
         "cinema": "Palace"
@@ -981,30 +838,6 @@
     "allocine": null
   },
   {
-    "titre": "DRØMKIT",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "07/10 19:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000053132",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000053132/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000053132/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Dans les ruches",
     "annee": null,
     "duree_minutes": null,
@@ -1029,22 +862,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "07/10 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "07/10 17:40",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "07/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "08/10 14:10",
         "cinema": "Aventure"
@@ -1102,7 +919,7 @@
       "allocine_id": "327174",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-327174/critiques/presse/",
       "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 33,
+      "nb_critiques_presse": 34,
       "critiques_presse": [
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -1285,6 +1102,12 @@
           "citation": "Une dystopie riche en rebondissements mais assez lourdingue."
         },
         {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 1.0,
+          "auteur": "Clément Colliaux",
+          "citation": "Plutôt que désespéré, le film devient surtout déplaisant : face à l’entropie du monde, le cinéma a perdu, et nous aussi ; il n’y a bien qu’Iñárritu, protégé par la distance maline de l’ironie, qui emporte la mise."
+        },
+        {
           "titre_presse": "Les Inrockuptibles",
           "note": 1.0,
           "auteur": "La rédaction",
@@ -1305,7 +1128,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1376
+      "nb_notes_spectateurs": 1461
     }
   },
   {
@@ -1316,10 +1139,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "07/10 15:50",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "10/10 14:15",
         "cinema": "Le Stockel"
@@ -1392,7 +1211,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.8,
-      "nb_notes_spectateurs": 23
+      "nb_notes_spectateurs": 43
     }
   },
   {
@@ -1463,10 +1282,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "07/10 14:50",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "10/10 13:00",
         "cinema": "Aventure"
       },
@@ -1496,34 +1311,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "07/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 16:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 18:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "08/10 16:05",
         "cinema": "Palace"
@@ -1916,7 +1703,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1958
+      "nb_notes_spectateurs": 2013
     }
   },
   {
@@ -1968,14 +1755,14 @@
       }
     ],
     "allocine": {
-      "allocine_id": "270481",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-270481/critiques/presse/",
+      "allocine_id": "1000050128",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000050128/critiques/presse/",
       "note_moyenne_presse": null,
       "nb_critiques_presse": 0,
       "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-270481/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 13
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000050128/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -2221,33 +2008,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1878
-    }
-  },
-  {
-    "titre": "I Am a Fugitive from a Chain Gang",
-    "annee": 1932,
-    "duree_minutes": 92,
-    "realisateurs": [
-      "Mervyn LeRoy"
-    ],
-    "synopsis": "Un ancien combattant de la Première Guerre mondiale, aspirant ingénieur, tente de se réinsérer dans la vie civile. Impliqué malgré lui dans un vol, il subit les conditions insupportables d’un bagne du Sud, luttant pour prouver son innocence et sa valeur. Porté par une interprétation remarquable d’un des plus grands acteurs américains de l’époque, Paul Muni, un chef-d’œuvre incontournable d’une grande pertinence quant à son analyse percutante de la cruauté institutionnelle et de l’exclusion sociale. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/023e50ce-7dba-4e5c-a9d1-1f0b4daa36b5.png",
-    "seances": [
-      {
-        "heure": "07/10 20:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "2035",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2035/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2035/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 96
+      "nb_notes_spectateurs": 1897
     }
   },
   {
@@ -2277,7 +2038,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-11541/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 5209
+      "nb_notes_spectateurs": 5210
     }
   },
   {
@@ -2325,208 +2086,6 @@
     }
   },
   {
-    "titre": "Jim Queen",
-    "annee": 2026,
-    "duree_minutes": 85,
-    "realisateurs": [
-      "Marco Nguyen",
-      "Nicolas Athané"
-    ],
-    "synopsis": "Et si un virus avait le pouvoir de vous rendre… hétéro ? C’est le drame terrible que vit Jim, icône sexy de la scène gay parisienne, bientôt lancé dans une quête hilarante pour guérir de cette terrible maladie. Le film a fait l’unanimité au dernier Festival de Cannes et tord avec bonheur quelques clichés sur l’homosexualité qui ont la dent dure !",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/912b262e-8af0-4fdb-9ab5-36d6d3b2e7a7.png",
-    "seances": [
-      {
-        "heure": "07/10 18:30",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "310112",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-310112/critiques/presse/",
-      "note_moyenne_presse": 4.1,
-      "nb_critiques_presse": 29,
-      "critiques_presse": [
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 5.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Jim Queen en fait trop, mais trop bien, méchamment satirique, férocement bien vu. Attention au virus contagieux de l’hilarité."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 5.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Entre Jim le musclé et Lucien le chétif, il y a comme un duo de buddy movie, cousins de corps de Laurel et Hardy."
-        },
-        {
-          "titre_presse": "Le Journal du Geek",
-          "note": 5.0,
-          "auteur": "Amandine Jonniaux",
-          "citation": "Bobbypills signe un premier long métrage qui n'a rien d'un galop d'essai. Jim Queen est drôle, politique, documenté et visuellement impeccable. On chipote sur un rythme qui accuse le coup dans son dernier tiers, mais on ressort de la salle avec l'envie d'en parler à tout le monde. C'est d'ailleurs ce qu'on a fait."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Marius Chapuis",
-          "citation": "Epopée d’erotic fantasy où une icône gay est subitement atteinte d’hétérosexualité, le film du génial studio français Bobbypills est drôle et survolté."
-        },
-        {
-          "titre_presse": "Mad Movies",
-          "note": 5.0,
-          "auteur": "François Cau",
-          "citation": "L'œil est caressé par la profusion visuelle de chaque plan, l'oreille chatouillée par l'acidité des dialogues, les zygomatiques secoués par une infinité de détails couillons et d'élans satiriques portés à un délicieux paroxysme."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 5.0,
-          "auteur": "Maxime Wettweis",
-          "citation": "Provoquant, drôle, didactique."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 4.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Un film d’animation délirant sur le milieu queer, où tout est vrai (ou presque)."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 4.0,
-          "auteur": "Hélène Boons",
-          "citation": "(…) les mille et une nuances de rose d’un délire parodique s’imposant comme mythe, avec son lexique, sa géographie (le labyrinthe du Louvre), ses fantasmes (nazis à talonnettes compris), sa violence, sa hiérarchie et ses archétypes : drags et kiffeurs, twinks maigrelets et bears en bedaine, avec un fort tropisme parisien."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 4.0,
-          "auteur": "Renan Cros",
-          "citation": "Un gros plaisir gonflé à bloc."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Antoine Desrues",
-          "citation": "Un vrai film pop malin, qui fait de son mix d’influences un cri de ralliement culturel. Et puis, qu’est-ce que c’est drôle !"
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Laurence Houot",
-          "citation": "Derrière son outrance réjouissante (et instructive !), le film offre aussi une tonalité plus mélancolique sur la violence et l'intolérance dont sont aujourd'hui toujours victimes les homosexuels, avec en filigrane, la menace d'un retour en arrière qui plane sur la communauté."
-        },
-        {
-          "titre_presse": "Konbini",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Une dynamite pop et queer qui a tout pour devenir culte. Cette comédie haute en couleur se révèle touchante, drôle, ultra référencée et pertinente."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Cyprien Caddeo",
-          "citation": "le film assume fièrement sa charge politique, incarnée dans une confrontation finale avec une antagoniste sans équivoque, dont le patronyme renvoie autant à Christine Boutin qu'aux années sida."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Nicolas Schaller",
-          "citation": "On n’en dira pas plus sinon vous enjoindre à adopter le mantra de Jim – « Reste toi-même, les autres sont déjà pris » – et faire un triomphe à ce joyeux délire qui ne prend pas les cockrings pour des ronds de serviette."
-        },
-        {
-          "titre_presse": "La Septième Obsession",
-          "note": 4.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "John Waters n’est pas loin, et c’est le plus compliment que l’on puisse adresse à cette volcanique éruption trash et queer."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Eric Neuhoff",
-          "citation": "Un film d’animation à mourir de rire."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "J. Ma.",
-          "citation": "Tout cela s’inscrivant dans une esthétique pop et camp de la plus belle eau. Soit l’hyperbole et l’autodérision comme forme critique des normes sociales, le delirium de l’uniforme, des couleurs et du travestissement."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Catherine Balle",
-          "citation": "Une comédie animée trash et hilarante sur des homos menacés de disparition."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Marc Godin",
-          "citation": "Un des films les plus libres, hilarants et politiques de l'année."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Une réflexion profonde sur le regard."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Jean-Marc Lalanne",
-          "citation": "À ce pamphlet échauffé contre l’hétérosexualité oppressive, \"Jim Queen\" combine une satire moqueuse mais tendre des stéréotypes gays, son clanisme, sa propension à produire ses propres normes. Il sait rire contre (l’oppression) et avec (l’autodérision), militant et joueur."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Fabrice Leclerc",
-          "citation": "Jouisseur et jouissif, « Jim Queen » est la meilleure des réponses aux rétrogrades de tous poils."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Gael Golhen",
-          "citation": "Le cœur du film, c'est autant les blagues culs de Jim que le cheminement de Lucien, jeune gay encore planqué, qui apprend à s'assumer en accompagnant son idole déchue. Et l'animation élastique, obscène et joyeusement régressive, puise avec délice dans le cartoon adulte américain et dans une tradition française qui s'assume enfin."
-        },
-        {
-          "titre_presse": "So Film",
-          "note": 4.0,
-          "auteur": "Alfred Sebald",
-          "citation": "Un film, souvent très drôle, qui se montre authentiquement émouvant."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Julien Rousset",
-          "citation": "Acide, pop, « Jim Queen » est évidemment une réponse toute en fantaisie et en humour à l’homophobie, mais le scénario, malin, n’épargne pas les gays. Le film se moque tendrement mais sûrement de certains conformismes et diktats."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Louis Guichard",
-          "citation": "Un regard hilarant et abrasif sur la société et la sexualité."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Gags énormes, répliques vouées à devenir cultes, esthétique colorée : imparable !"
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 3.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "Cette comédie satirique à l’esthétique de manga et pour le moins inattendue ose, provoque mais surtout s’avère très drôle par sa liberté totale !"
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Thomas Fouet",
-          "citation": "D’abord joyeusement camp et transgressif, ce premier long métrage d’animation s’épuise, et se disperse, hélas, sur la durée."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-310112/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 2606
-    }
-  },
-  {
     "titre": "Joyeuse Jungle",
     "annee": null,
     "duree_minutes": null,
@@ -2534,14 +2093,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "07/10 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 14:50",
-        "cinema": "Galeries"
-      },
       {
         "heure": "10/10 11:40",
         "cinema": "Galeries"
@@ -2820,7 +2371,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-115362/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 114025
+      "nb_notes_spectateurs": 114035
     }
   },
   {
@@ -2857,10 +2408,6 @@
     "synopsis": "Jo et Raissa sont meilleures amies depuis la primaire. Aaprès avoir obtenu le baccalauréat, elles sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elles fêtent leur dernière soirée ensemble, les deux jeunes filles tombent sur un portail mystérieux qui les transporte sur l’île fantastique de Nakali, peuplée de créatures magiques tout droit sorties des contes mythologiques philippins de leur enfance…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0c62a2d-3178-4a6f-816e-8b04aa7eaedf.jpg",
     "seances": [
-      {
-        "heure": "07/10 13:45",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "11/10 14:00",
         "cinema": "Le Stockel"
@@ -3042,18 +2589,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "07/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 17:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "07/10 18:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "08/10 16:30",
         "cinema": "Vendôme"
@@ -3356,7 +2891,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327941/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1677
+      "nb_notes_spectateurs": 1692
     }
   },
   {
@@ -3383,32 +2918,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-311178/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.0,
       "nb_notes_spectateurs": 1
-    }
-  },
-  {
-    "titre": "Lazybones",
-    "annee": 1925,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Frank Borzage"
-    ],
-    "synopsis": "Dans un village américain, au début du vingtième siècle, un jeune homme est la risée de tous à cause de son penchant appuyé pour la fainéantise. Il est sous le charme d'une jeune femme, mais dont la mère tyrannique et inflexible refuse catégoriquement qu'on puisse envisager un mariage entre elle et lui.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/70c022f9-d3cc-477b-bbe3-8b0898c8ad04.jpg",
-    "seances": [
-      {
-        "heure": "07/10 18:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "187774",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-187774/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-187774/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
     }
   },
   {
@@ -3494,6 +3003,10 @@
       {
         "heure": "10/10 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "14/10 18:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": null
@@ -3511,14 +3024,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
-      {
-        "heure": "07/10 17:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "07/10 20:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "08/10 17:20",
         "cinema": "Aventure"
@@ -3686,8 +3191,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037443/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 59
+      "note_moyenne_spectateurs": 3.1,
+      "nb_notes_spectateurs": 97
     }
   },
   {
@@ -3776,6 +3281,10 @@
       {
         "heure": "12/10 18:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "14/10 20:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": {
@@ -3787,87 +3296,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-26413/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
       "nb_notes_spectateurs": 3
-    }
-  },
-  {
-    "titre": "Metropolis",
-    "annee": 1927,
-    "duree_minutes": 149,
-    "realisateurs": [
-      "Fritz Lang"
-    ],
-    "synopsis": "Metropolis, le chef-d'œuvre muet de Fritz Lang, ouvre un portail vers un monde futur aussi bouleversant qu'envoûtant en 1927. Le fondement dystopique de tous vos films de science-fiction préférés ! Ambitieux, visionnaire et étonnamment pertinent : les androïdes, l'automatisation et l'I.A.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/05236a17-179d-496e-bc10-b00927bf870f.jpg",
-    "seances": [
-      {
-        "heure": "07/10 19:00",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "240",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-240/critiques/presse/",
-      "note_moyenne_presse": 4.8,
-      "nb_critiques_presse": 9,
-      "critiques_presse": [
-        {
-          "titre_presse": "Critikat.com",
-          "note": 5.0,
-          "auteur": "Benoît Smith",
-          "citation": "[\"Metropolis\"], oeuvre désormais visible dans son ensemble ou peu s'en faut, peut enfin commencer à vivre parmi ses pairs du cinéma d'hier et d'aujourd'hui, hors du musée où on serait tenté de le laisser cloîtré."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 5.0,
-          "auteur": "P.-B. Ch.",
-          "citation": "(…) le travail d'enquête et de restaurateur est magnifique. \"Metropolis\" n'avait en effet pas été épargné par les larges coupes de sombres brutes qui considéraient le film comme trop long. (…) Deuxièmement, la musique rock composée par Moroder est de grande qualité et enrichit certainement le film. La Croix, 17 mai 84"
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 5.0,
-          "auteur": "La rédaction",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Thomas Sotinel",
-          "citation": "\"Metropolis\" n'est plus seulement la matrice de films de science-fiction (…) ou un élément du débat sur la lutte des classes en Europe. C'est une œuvre à part entière, dont les faiblesses (…) font encore mieux ressortir la richesse. Le Monde, 14 février 2010"
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Le plus célèbre classique de maître Lang, où se côtoient invention architecturale et préfiguration du nazisme."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Samuel Douhaire",
-          "citation": "Si l'on peut préférer Docteur Mabuse  ou  Les Espions  dans la première période allemande de Fritz Lang, Metropolis reste pourtant incontournable."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Claude-Jean Philippe",
-          "citation": "[Fritz Lang] redouble (…) de sévérité morale et de rigueur esthétique pour désigner les maux qui nous rongent. Avec lui les parles de l'Ecclésiaste reprennent tout leur sens sacré : \"Vanité des vanités, tout est vanité\" !"
-        },
-        {
-          "titre_presse": "France Soir",
-          "note": 4.0,
-          "auteur": "Robert Chazal",
-          "citation": "Du très grand spectacle. France-Soir, 10 août 84"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Brigitte Cieutat",
-          "citation": "Film ambitieux et ambigu, \"Metropolis\" marquait sans aucun doute l'apogée de l'œuvre muette de Fritz Lang, malgré son idéologie discutable. Positif 285, novembre 84"
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-240/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 8811
     }
   },
   {
@@ -3972,7 +3400,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1832/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 34948
+      "nb_notes_spectateurs": 34951
     }
   },
   {
@@ -3983,14 +3411,6 @@
     "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu’elle s’y rend, elle est prise d’un vertige et replonge dans le souvenir de l’été 1958, celui de sa première nuit avec un homme. Nuit dont l’onde de choc s’est propagée violemment dans son corps et sur le reste de son existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
-      {
-        "heure": "07/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "08/10 15:50",
         "cinema": "Vendôme"
@@ -4191,7 +3611,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026296/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 246
+      "nb_notes_spectateurs": 264
     }
   },
   {
@@ -4444,14 +3864,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
       {
-        "heure": "07/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "08/10 14:30",
         "cinema": "Palace"
       },
@@ -4468,10 +3880,6 @@
         "cinema": "Le Stockel"
       },
       {
-        "heure": "11/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "12/10 11:30",
         "cinema": "Palace"
       },
@@ -4484,7 +3892,7 @@
       "allocine_id": "1000023992",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000023992/critiques/presse/",
       "note_moyenne_presse": 3.6,
-      "nb_critiques_presse": 38,
+      "nb_critiques_presse": 39,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -4631,6 +4039,12 @@
           "citation": "Un tandem féminin de haute volée pour une comédie aussi sarcastique que tendre sur les coulisses du monde du cinéma."
         },
         {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 3.0,
+          "auteur": "Charlotte Garson",
+          "citation": "La vision d’une Huppert à la marge de rôles qu’elle a véritablement tenus (Madame Bovary) et des lieux qu’elle a pleinement investis (le théâtre de l’Odéon) dépasse le gag référencé pour produire un certain vertige – et si l’actrice n’avait jamais percé ? Cette veine mélancolique (un Mulholland Drive germanopratin), Fitoussi s’en éloigne hélas à mesure que croît l’amitié entre Corinne Maclou (Isabelle Huppert) et Sandrine Kiberlain (Sandrine Kiberlain)."
+        },
+        {
           "titre_presse": "Franceinfo Culture",
           "note": 3.0,
           "auteur": "Laurence Houot",
@@ -4716,8 +4130,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000023992/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 37
+      "note_moyenne_spectateurs": 3.7,
+      "nb_notes_spectateurs": 157
     }
   },
   {
@@ -4760,42 +4174,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "07/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 20:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 20:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "07/10 20:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 13:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "08/10 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "08/10 15:20",
         "cinema": "Vendôme"
@@ -5256,7 +4634,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1167
+      "nb_notes_spectateurs": 1263
     }
   },
   {
@@ -5269,26 +4647,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "07/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 16:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "07/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 19:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "07/10 21:35",
-        "cinema": "Palace"
-      },
       {
         "heure": "08/10 15:45",
         "cinema": "Palace"
@@ -5385,8 +4743,8 @@
     "allocine": {
       "allocine_id": "1000013908",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/presse/",
-      "note_moyenne_presse": 3.3,
-      "nb_critiques_presse": 30,
+      "note_moyenne_presse": 3.2,
+      "nb_critiques_presse": 31,
       "critiques_presse": [
         {
           "titre_presse": "La Tribune Dimanche",
@@ -5527,6 +4885,12 @@
           "citation": "Ce premier film formellement très ambitieux sacrifie un peu son fond, malgré les performances d’un casting étourdissant."
         },
         {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 2.0,
+          "auteur": "Josué Morel",
+          "citation": "Primetime, dont le versant maniériste se dilue dans la patine caractéristique des productions A24 (néons, flous, etc.) se perd dans des couches de commentaires redoublant ce qu’on avait déjà compris."
+        },
+        {
           "titre_presse": "CinemaTeaser",
           "note": 2.0,
           "auteur": "Renan Cros",
@@ -5570,8 +4934,59 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 716
+      "note_moyenne_spectateurs": 3.2,
+      "nb_notes_spectateurs": 751
+    }
+  },
+  {
+    "titre": "Punishment Park",
+    "annee": 1971,
+    "duree_minutes": 92,
+    "realisateurs": [
+      "Peter Watkins"
+    ],
+    "synopsis": "A la façon d'un reportage télévisé, un script de politique-fiction - avec son président des USA arrêtant tous les \"séditieux \"et les poussant vers une traque filmée, dans un désert impitoyable.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1d088304-44d7-4b52-9d82-4e5ad2e5eb34.jpg",
+    "seances": [
+      {
+        "heure": "14/10 19:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "4113",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-4113/critiques/presse/",
+      "note_moyenne_presse": 4.8,
+      "nb_critiques_presse": 4,
+      "critiques_presse": [
+        {
+          "titre_presse": "L'Humanité",
+          "note": 5.0,
+          "auteur": "Marie-José Sirach",
+          "citation": "(...) un film à charge mais qui déjoue tous les pièges tendus du manichéisme absolu."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 5.0,
+          "auteur": "Florence Colombani",
+          "citation": "Voir la critique sur www.lepoint.fr"
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 5.0,
+          "auteur": "Philippe Azoury",
+          "citation": "La force de la manière Watkins, c'est d'instaurer le trouble en montrant l'affaire comme s'il s'agissait d'une émission de télé-réalité. (...) il se présente comme une anticipation du stade critique de l'omniprésence paranoïaque des médias et du souci du contrôle politique dans lequel nous baignons quotidiennement."
+        },
+        {
+          "titre_presse": "Africultures.com",
+          "note": 4.0,
+          "auteur": "Anne Crémieux",
+          "citation": "Ce film étonnant, dont l'économie de moyens renforce l'efficacité, parvient à imbriquer tant de questions toujours d'actualité, depuis l'inégalité de la répartition des richesses à la manipulation des soldats (...) c'est un film inclassable, qui laisse perplexe."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4113/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 692
     }
   },
   {
@@ -5584,10 +4999,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "08/10 12:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "08/10 19:00",
         "cinema": "Aventure"
@@ -5613,10 +5024,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "07/10 21:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "08/10 17:40",
         "cinema": "Aventure"
@@ -5654,13 +5061,19 @@
       "allocine_id": "1000018854",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/presse/",
       "note_moyenne_presse": 3.8,
-      "nb_critiques_presse": 15,
+      "nb_critiques_presse": 16,
       "critiques_presse": [
         {
           "titre_presse": "Abus de Ciné",
           "note": 5.0,
           "auteur": "Germain Brévot",
           "citation": "On vous l’annonce aujourd’hui avec une banane jusqu'aux oreilles : \"Resident Evil\" n’est peut-être pas l’adaptation que vous attendiez, mais c’est celle que vous méritez. \"Resident Evil\" nous rappelle deux choses : pourquoi on a aimé les jeux et pourquoi on adore le cinéma."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 4.0,
+          "auteur": "Jean-Marie Samocki",
+          "citation": "En faisant se chevaucher le cauchemar viscéral et la relance burlesque sans jamais céder à la parodie, Cregger transforme cette course d’obstacles en un précis de mise en scène jubilatoire, où la survie ne tient qu’à la persistance d’un corps en perpétuel déséquilibre."
         },
         {
           "titre_presse": "Diverto",
@@ -5749,7 +5162,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2346
+      "nb_notes_spectateurs": 2347
     }
   },
   {
@@ -5762,18 +5175,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "07/10 14:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 13:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 13:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "09/10 13:20",
         "cinema": "Vendôme"
@@ -5962,23 +5363,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 585
+      "nb_notes_spectateurs": 587
     }
-  },
-  {
-    "titre": "Sauf le passé",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "07/10 19:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Sense and Sensibility (2026)",
@@ -6047,7 +5433,7 @@
       "allocine_id": "1000026622",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/presse/",
       "note_moyenne_presse": 3.4,
-      "nb_critiques_presse": 13,
+      "nb_critiques_presse": 14,
       "critiques_presse": [
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -6084,6 +5470,12 @@
           "note": 4.0,
           "auteur": "Michael Ghennam",
           "citation": "Georgia Oakley adapte le classique de Jane Austen à sa manière - plus viscérale, moins satirique - sans en dénaturer le propos toujours contemporain."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 3.0,
+          "auteur": "Hélène Boons",
+          "citation": "Peu à peu, en sourdine, Elinor (Daisy Edgar-Jones) et Marianne (Esmé Creed-Miles) détricotent les rapports de force qui structurent la séduction, sans que cela ne nuise aucunement à l’irénisme émouvant du happy end et au plaisir de contempler une balançoire oscillant au gré de la brise anglaise : tout à fait ce qu’on attend en 2026 d’une bonne rom-com."
         },
         {
           "titre_presse": "Ecran Large",
@@ -6130,7 +5522,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 368
+      "nb_notes_spectateurs": 385
     }
   },
   {
@@ -6143,34 +5535,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "07/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "08/10 14:10",
         "cinema": "Vendôme"
@@ -6494,8 +5858,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000043221/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1362
+      "note_moyenne_spectateurs": 3.8,
+      "nb_notes_spectateurs": 1392
     }
   },
   {
@@ -6508,10 +5872,6 @@
     "synopsis": "Par une journée étouffante d’été à Tokyo, le jeune détective Murakami se fait voler son pistolet dans un bus bondé. Désespéré, il part à la recherche de l’arme, aidé par le détective expérimenté Sato. Leur enquête les mène dans les bas-fonds de la ville, où Murakami découvre que le voleur est un ancien soldat désœuvré, poussé au crime par la misère. Le film mêle suspense, critique sociale et une réflexion sur la culpabilité et la rédemption dans le Japon d’après-guerre.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a9b78108-4b9c-4085-893a-d858019178f1.jpg",
     "seances": [
-      {
-        "heure": "07/10 21:15",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "12/10 20:15",
         "cinema": "Cinematek"
@@ -6698,18 +6058,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "07/10 17:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 21:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "09/10 11:30",
         "cinema": "Palace"
       },
@@ -6816,7 +6164,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-308/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 40272
+      "nb_notes_spectateurs": 40276
     }
   },
   {
@@ -6829,10 +6177,6 @@
     "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
     "seances": [
-      {
-        "heure": "08/10 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "09/10 20:45",
         "cinema": "Palace"
@@ -6972,30 +6316,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "07/10 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "07/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/10 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/10 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "07/10 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 13:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "08/10 18:40",
         "cinema": "Vendôme"
@@ -7330,7 +6650,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 1428
+      "nb_notes_spectateurs": 1454
     }
   },
   {
@@ -7836,7 +7156,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-182266/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 46502
+      "nb_notes_spectateurs": 46510
     }
   },
   {
@@ -7906,14 +7226,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "07/10 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "07/10 20:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "08/10 14:00",
         "cinema": "Aventure"
@@ -7995,8 +7307,14 @@
       "allocine_id": "1000026649",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000026649/critiques/presse/",
       "note_moyenne_presse": 3.1,
-      "nb_critiques_presse": 25,
+      "nb_critiques_presse": 27,
       "critiques_presse": [
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Fiona Bonassin",
+          "citation": "\"The Social Reckoning\" arrive donc comme un thriller judiciaire et politique, un miroir tendu à une société qui s’informe encore massivement via Facebook."
+        },
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
           "note": 4.0,
@@ -8124,6 +7442,12 @@
           "citation": "Une investigation conduite avec grand sérieux (le studio a même engagé un cabinet d’avocats pour faire face aux contraintes juridiques), et une interprétation solide de la part de Mikey Madison (la révélation du palmé « Anora ») et Jeremy Allen White (« The Bear ») dans la peau de Haugen et Horwitz."
         },
         {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 2.0,
+          "auteur": "Élodie Tamayo",
+          "citation": "Efficace digest de l’enquête, le film en restitue les données et faits marquants tandis que le montage alterné avec la prise complotiste du Capitole fabrique une étude de cas. Mais sa mise en scène informative ressemble à l’objet qu’il entend critiquer, et en désamorce toute portée disruptive."
+        },
+        {
           "titre_presse": "Le Monde",
           "note": 2.0,
           "auteur": "J. Ma.",
@@ -8149,8 +7473,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026649/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 8
+      "note_moyenne_spectateurs": 3.5,
+      "nb_notes_spectateurs": 50
     }
   },
   {
@@ -8373,7 +7697,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000015739/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.7,
-      "nb_notes_spectateurs": 497
+      "nb_notes_spectateurs": 541
     }
   },
   {
@@ -8413,18 +7737,6 @@
     "synopsis": "Au moment crucial de la perte d’autonomie, des personnes âgées, leurs familles, soignants et aidants proches, entament un voyage initiatique en terre vieille, là où se jouent des affrontements, des pertes, des solidarités, des tendresses et des joies qui disent l’épaisseur du temps long de la vie… Une immersion au cœur d’histoires individuelles mettant en scène des volontés farouches qui se heurtent à des logiques institutionnelles dont elles sortent parfois gagnantes… ou perdantes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
-      {
-        "heure": "07/10 13:45",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "07/10 18:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "08/10 15:30",
         "cinema": "Le Stockel"

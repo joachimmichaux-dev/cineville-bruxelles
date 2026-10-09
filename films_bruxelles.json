@@ -42,10 +42,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "08/10 16:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "09/10 16:30",
         "cinema": "Cineflagey"
       },
@@ -63,10 +59,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "09/10 11:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "11/10 11:00",
         "cinema": "Galeries"
@@ -90,22 +82,6 @@
       {
         "heure": "13/10 19:00",
         "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
-    "titre": "Birdman",
-    "annee": 2014,
-    "duree_minutes": 119,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Un acteur connu pour avoir incarné un célèbre super-héros, monte une pièce à Broadway autour de son propre personnage dans l'espoir de renouer avec sa gloire passée.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6f158e4a-685f-4f96-98fc-d372313ac61d.jpg",
-    "seances": [
-      {
-        "heure": "08/10 18:15",
-        "cinema": "Cineflagey"
       }
     ]
   },
@@ -155,15 +131,11 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "08/10 21:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "10/10 14:55",
         "cinema": "Palace"
       },
       {
-        "heure": "11/10 12:15",
+        "heure": "11/10 12:40",
         "cinema": "Palace"
       },
       {
@@ -213,34 +185,6 @@
     ]
   },
   {
-    "titre": "Comme un château fort",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "08/10 16:30",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "Dans les ruches",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "08/10 18:45",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Digger",
     "annee": 2026,
     "duree_minutes": 129,
@@ -250,14 +194,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "08/10 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 21:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "09/10 15:30",
         "cinema": "Aventure"
@@ -319,6 +255,23 @@
       {
         "heure": "11/10 16:10",
         "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
+    "titre": "Een man gaat zijn weg + Kora Terry",
+    "annee": 0,
+    "duree_minutes": 116,
+    "realisateurs": [
+      "Kurt Stefan",
+      "Georg Jacoby"
+    ],
+    "synopsis": "Marika Rökk, qui s’est rendue en Belgique occupée pendant la guerre, a connu un immense succès avec le film Kora Terry. Rökk y interprète un double-rôle de sœurs jumelles acrobates, dont la respectable Mara est éclipsée par la séduisante mais malveillante Kora. Il s’agissait pour les Allemands de répondre à leur manière à la comédie musicale américaine. En complément, un film de propagande dans lequel les Belges sont encouragé·e·s à aller travailler en Allemagne. ",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -397,26 +350,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "08/10 16:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 18:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "09/10 13:45",
         "cinema": "Vendôme"
@@ -548,38 +481,6 @@
     ]
   },
   {
-    "titre": "Gaslight",
-    "annee": 1944,
-    "duree_minutes": 115,
-    "realisateurs": [
-      "George Cukor"
-    ],
-    "synopsis": "Paula, een jonge naïeve vrouw, wordt hopeloos verliefd op Gregory, een oudere pianist die ze enkele weken na hun ontmoeting huwt. Al snel blijkt de man sluw en berekenend te zijn. Hij weet Paula terug te brengen naar de luxueuze Londense villa van haar jeugd, waar ze achtervolgd door de herinnering aan haar tante die voor haar ogen werd vermoord. Profiterend van de gevolgen van dit trauma, bouwt Gregory systematisch een controlemechanisme op dat zijn vrouw onvermijdelijk in de val lokt. Paula denkt dat ze gek wordt. De echtgenoot is echter niet alleen een perverse manipulator; de film neemt een wending naar een politieverhaal en onthult het duivelse plan van dit donkere personage. Met opmerkelijk acteerwerk van Ingrid Bergmann en Charles Boyer, heeft de verfijnde psychologische regie van deze krachtige film geleid tot de term ’gaslighting’ om een vorm van manipulatie te beschrijven die erop gericht is de macht over iemands bewustzijn te krijgen door hen toegang tot de waarheid te verhinderen.\n\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2de072be-36f5-4fd8-b64e-d9956bbb4ede.png",
-    "seances": [
-      {
-        "heure": "08/10 15:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Grandir",
-    "annee": 2025,
-    "duree_minutes": 88,
-    "realisateurs": [
-      "Géraldine Doigon"
-    ],
-    "synopsis": "LUNA, 18 ans, va devenir maman. CHARLINE, 17, pratique le sport intensément. Luna vit de l’aide sociale. Charline s’accroche à l’école pour obtenir son diplôme. Tout les oppose sauf un passé commun: un placement en foyer enfant, un père inexistant, une mère inapte. Aujourd’hui, à la sortie des Institutions, comment font-elles pour grandir seules ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3e00ce79-7f84-4ebe-b721-55e1acfb84d1.jpeg",
-    "seances": [
-      {
-        "heure": "08/10 19:00",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Gruffalo, de père en fils",
     "annee": 2026,
     "duree_minutes": 53,
@@ -608,10 +509,6 @@
     "synopsis": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi magnifique qu’impitoyable, ils devront puiser dans leurs dernières forces pour survivre ensemble.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
     "seances": [
-      {
-        "heure": "08/10 20:15",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "12/10 18:00",
         "cinema": "Le Stockel"
@@ -646,14 +543,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "08/10 16:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/10 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "10/10 09:50",
         "cinema": "Aventure"
@@ -823,18 +712,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
       {
-        "heure": "08/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 20:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 21:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "09/10 16:10",
         "cinema": "Vendôme"
       },
@@ -921,22 +798,6 @@
     ]
   },
   {
-    "titre": "Le Maître de musique",
-    "annee": 1988,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Gérard Corbiau"
-    ],
-    "synopsis": "Joachim Dallayrac, célèbre basse-baryton, au sommet de sa carrière, annonce brutalement qu'il se retire de la scène. Dans son château, il se consacrera désormais à la formation d'une seule élève, Sophie, dont il recherche la perfection vocale. Puis il rencontrera Jean, voyou à la voix d'or, qu'il s'efforcera également d'élever dans l'art du chant. La musique, ici, résonne comme un dialogue, rend plus intenses les regards des acteurs et les couleurs des décors, et ouvre le désir d'en entendre d'avantage...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e5eb40d4-ff57-4b55-8926-da6a12e786a8.jpg",
-    "seances": [
-      {
-        "heure": "08/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Les courts des grands V",
     "annee": 0,
     "duree_minutes": 34,
@@ -987,10 +848,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
       {
-        "heure": "08/10 17:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "09/10 16:40",
         "cinema": "Aventure"
       },
@@ -1035,7 +892,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
     "seances": [
       {
-        "heure": "10/10 10:10",
+        "heure": "10/10 10:30",
         "cinema": "Palace"
       }
     ]
@@ -1098,6 +955,22 @@
     ]
   },
   {
+    "titre": "Mod lyset (Towards the Light)",
+    "annee": 1919,
+    "duree_minutes": 69,
+    "realisateurs": [
+      "Holger-Madsen"
+    ],
+    "synopsis": "La comtesse Ysabel est une jeune femme fortunée qui compte de nombreux prétendants. Un baron élégant et aventureux a réussi à conquérir son cœur, mais elle continue néanmoins à jouer avec les sentiments d'autres hommes. Le sort s'acharne sur elle lorsqu'un jeune homme au cœur brisé se donne la mort et que le baron révèle, au même moment, un terrible secret. Le monde d'Ysabel semble alors s'effondrer.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f3408dcb-f022-4ad8-a7ae-406210895d0f.jpg",
+    "seances": [
+      {
+        "heure": "15/10 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Modern Times",
     "annee": 1936,
     "duree_minutes": 90,
@@ -1121,10 +994,6 @@
     "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu’elle s’y rend, elle est prise d’un vertige et replonge dans le souvenir de l’été 1958, celui de sa première nuit avec un homme. Nuit dont l’onde de choc s’est propagée violemment dans son corps et sur le reste de son existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "09/10 14:15",
         "cinema": "Vendôme"
@@ -1391,20 +1260,16 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
       {
-        "heure": "08/10 14:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "10/10 14:30",
         "cinema": "Palace"
       },
       {
         "heure": "10/10 20:15",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "11/10 19:00",
+        "cinema": "Palace"
       },
       {
         "heure": "12/10 11:30",
@@ -1427,10 +1292,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9b8c951d-bff4-4f15-b4da-9fb73a5d9b3d.jpg",
     "seances": [
       {
-        "heure": "08/10 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "11/10 20:00",
         "cinema": "Cinematek"
       }
@@ -1446,38 +1307,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 20:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 20:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 20:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "08/10 20:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "09/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/10 13:15",
-        "cinema": "Galeries"
-      },
       {
         "heure": "09/10 13:45",
         "cinema": "Vendôme"
@@ -1651,26 +1480,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
       {
-        "heure": "08/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 16:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "08/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "09/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "09/10 15:45",
         "cinema": "Palace"
       },
@@ -1771,10 +1580,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "08/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "11/10 16:35",
         "cinema": "Cineflagey"
       },
@@ -1794,14 +1599,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "08/10 17:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "09/10 21:40",
         "cinema": "Aventure"
@@ -1839,14 +1636,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
       {
-        "heure": "09/10 13:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/10 13:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "10/10 13:30",
         "cinema": "Palace"
       },
@@ -1881,6 +1670,22 @@
     ]
   },
   {
+    "titre": "Sax",
+    "annee": 1981,
+    "duree_minutes": 105,
+    "realisateurs": [
+      "Gérard Corbiau"
+    ],
+    "synopsis": "Dès 1980, Gérard Corbiau se tourne vers la réalisation de fictions télévisées sur la musique au sein de la RTBF. Il réalise deux contes musicaux : le premier Sax, en trois parties qui revient sur la vie et la carrière d’Adolphe Sax (1814-1894), facteur d’instruments de musique belge, qui améliora les instruments à vent et créa une nouvelle famille, les saxophones. Ce conte remporta l’Antenne de Cristal en 1981. ",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 19:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Sense and Sensibility (2026)",
     "annee": 2026,
     "duree_minutes": 131,
@@ -1890,18 +1695,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 17:35",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "08/10 18:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "09/10 18:40",
         "cinema": "Aventure"
@@ -1954,30 +1747,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "08/10 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 16:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "09/10 14:00",
         "cinema": "Vendôme"
@@ -2109,6 +1878,10 @@
       {
         "heure": "12/10 20:15",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "15/10 15:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -2173,10 +1946,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "09/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "09/10 17:00",
         "cinema": "Palace"
       },
@@ -2203,22 +1972,6 @@
       {
         "heure": "13/10 19:15",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Taxi Driver",
-    "annee": 1976,
-    "duree_minutes": 114,
-    "realisateurs": [
-      "Martin Scorsese"
-    ],
-    "synopsis": "Un solitaire paumé dans la jungle urbaine des bas-quartiers de New York. Le portrait morbide et saisissant d'un « justicier » sombrant dans l'obsession, avec un extraordinaire Robert De Niro.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fc516764-c8a2-4b58-8df5-334db9a98d81.jpeg",
-    "seances": [
-      {
-        "heure": "08/10 19:00",
-        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -2259,6 +2012,10 @@
       {
         "heure": "11/10 15:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "15/10 21:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -2286,26 +2043,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "08/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "08/10 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/10 13:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "09/10 18:50",
         "cinema": "Vendôme"
@@ -2349,6 +2086,10 @@
       {
         "heure": "10/10 21:35",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "11/10 13:50",
+        "cinema": "Palace"
       },
       {
         "heure": "11/10 14:30",
@@ -2483,22 +2224,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
       {
-        "heure": "08/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 20:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/10 12:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "09/10 16:30",
         "cinema": "Aventure"
       },
@@ -2557,38 +2282,6 @@
       {
         "heure": "13/10 21:30",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "They Live",
-    "annee": 1988,
-    "duree_minutes": 94,
-    "realisateurs": [
-      "John Carpenter"
-    ],
-    "synopsis": "De méchants extra-terrestres tentent de conquérir le monde par des messages médiatiques subliminaux. Un renouvellement de la SF, à travers une métaphore des yuppies affairistes de la mondialisation.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a686710a-c3b9-4370-9ca2-14906faa4db0.png",
-    "seances": [
-      {
-        "heure": "08/10 21:30",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Thomas Graals bästa film",
-    "annee": 1918,
-    "duree_minutes": 58,
-    "realisateurs": [
-      "Mauritz Stiller"
-    ],
-    "synopsis": "Thomas Graal, scénariste, est très épris de sa secrétaire Bessie. Surprise par un baiser de Thomas, elle s'enfuit. Dans sa déconvenue, Thomas écrit un scénario inspiré par Bessie. Mais celle-ci n'a pas été tout à fait honnête avec lui. Il manque 31 minutes de métrage, considérées comme perdues.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/561e1daa-b5f2-4a40-8748-d6c55b885dc1.png",
-    "seances": [
-      {
-        "heure": "08/10 20:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -2665,14 +2358,6 @@
     "synopsis": "Au moment crucial de la perte d’autonomie, des personnes âgées, leurs familles, soignants et aidants proches, entament un voyage initiatique en terre vieille, là où se jouent des affrontements, des pertes, des solidarités, des tendresses et des joies qui disent l’épaisseur du temps long de la vie… Une immersion au cœur d’histoires individuelles mettant en scène des volontés farouches qui se heurtent à des logiques institutionnelles dont elles sortent parfois gagnantes… ou perdantes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "08/10 18:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "09/10 13:45",
         "cinema": "Aventure"

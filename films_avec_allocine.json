@@ -123,10 +123,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "08/10 16:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "09/10 16:30",
         "cinema": "Cineflagey"
       },
@@ -143,7 +139,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12283
+      "nb_notes_spectateurs": 12285
     }
   },
   {
@@ -154,10 +150,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "09/10 11:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "11/10 11:00",
         "cinema": "Galeries"
@@ -243,273 +235,6 @@
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Birdman",
-    "annee": 2014,
-    "duree_minutes": 119,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Un acteur connu pour avoir incarné un célèbre super-héros, monte une pièce à Broadway autour de son propre personnage dans l'espoir de renouer avec sa gloire passée.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6f158e4a-685f-4f96-98fc-d372313ac61d.jpg",
-    "seances": [
-      {
-        "heure": "08/10 18:15",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "216633",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-216633/critiques/presse/",
-      "note_moyenne_presse": 4.0,
-      "nb_critiques_presse": 40,
-      "critiques_presse": [
-        {
-          "titre_presse": "20 Minutes",
-          "note": 5.0,
-          "auteur": "Caroline Vié",
-          "citation": "\"Birdman\" a bien mérité ses Oscars."
-        },
-        {
-          "titre_presse": "CNews",
-          "note": 5.0,
-          "auteur": "La rédaction",
-          "citation": "(...) une œuvre d’une toute nouvelle audace formelle. Iñárritu embrasse le plan-séquence tous azimuts dans cette tragi-comédie portée par un incroyable Michael Keaton (...)."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 5.0,
-          "auteur": "Khadija Moussou",
-          "citation": "(...) le réalisateur mexicain réalise un tour de force avec son (faux) plan-séquence, qui donne donc la sensation que le long-métrage a été film en une seule fois, sans coupures. C’est beau, mais surtout brillant, car cela donne l’impression que tous les moments sont connectés les uns aux autres."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Que vous aimiez le cinéma populaire ou d'auteur, le pop-corn ou les prises de tête, il ne faut pas passer à côté de cette performance."
-        },
-        {
-          "titre_presse": "Gala",
-          "note": 5.0,
-          "auteur": "Jean-Christian Hay",
-          "citation": "Iñár­ritu signe un film magistral."
-        },
-        {
-          "titre_presse": "L'Ecran Fantastique",
-          "note": 5.0,
-          "auteur": "Nathalie Dassa",
-          "citation": "Michael Keaton se présente ici au sommet de son art, s'appropriant avec charisme, drôlerie et sincérité l'acteur Riggan Thompson dans ses multiples facettes."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "François Forestier",
-          "citation": "\"Birdman\" est une merveille, une oeuvre éblouissante."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 5.0,
-          "auteur": "Philippe Lagouche",
-          "citation": "Vertigineuse leçon de cinéma."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Alain Grasset",
-          "citation": "Remarquablement filmé par le Mexicain Alejandro G. Iñarritu et rythmé par de longs plans-séquences étonnants à l'intérieur du théâtre dans les loges, les coursives et la scène où se déroule l'action, des dialogues bien ficelés et souvent drôles, le film est à la fois brillant, cynique, bouleversant et jubilatoire."
-        },
-        {
-          "titre_presse": "Mad Movies",
-          "note": 5.0,
-          "auteur": "Alexandre Poncet",
-          "citation": "POUR: Un vrai boeuf de jazz cinématographique, porté par une maîtrise technique incroyable."
-        },
-        {
-          "titre_presse": "Marianne",
-          "note": 5.0,
-          "auteur": "Danièle Heymann",
-          "citation": "Le mexicain Alejandro Gonzalez Inarritu fait un film envoûtant sur la déchéance du superhéros Birdman. Incarné par un Michael Keaton grandiose."
-        },
-        {
-          "titre_presse": "Metro",
-          "note": 5.0,
-          "auteur": "Mehdi Omaïs",
-          "citation": "Dimanche soir, \"Birdman\", le cinquième long métrage d’Alejandro González Iñárritu, a remporté quatre Oscars, dont celui du meilleur film et du meilleur réalisateur. Un plébiscite mérité pour ce portrait tragicomique d’un acteur qui cherche une seconde gloire."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 5.0,
-          "auteur": "Pierre Fornerod",
-          "citation": "Un formidable Michael Keaton entre fiction et réalité, trouve là son meilleur rôle. (...) Un audacieux exercice de cinéma."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Philippe Rouyer",
-          "citation": "Tour de force narratif et visuel, \"Birdman\" est aussi une gageure pour l'ensemble des comédiens. Michael Keaton, autrefois interprète de Batman pour Tim Burton, apporte une touche méta-cinématographique à ce film brillant, grinçant et ludique qui lui offre en retour, comme une évidence, le rôle de sa vie."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Christophe Narbonne",
-          "citation": "Tourné à la manière d’un prologue de combat de boxe (l...), \"Birdman\" est un tour de force technique qui frise l’insolence."
-        },
-        {
-          "titre_presse": "Public",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Du grand spectacle !"
-        },
-        {
-          "titre_presse": "Studio Ciné Live",
-          "note": 5.0,
-          "auteur": "Sandra Benedetti",
-          "citation": "Voir la critique sur le site de Studio Ciné Live."
-        },
-        {
-          "titre_presse": "Time Out Paris",
-          "note": 5.0,
-          "auteur": "Tania Brimson",
-          "citation": "Même s’il s’essouffle un peu en fin de course, étourdi peut-être de s’être trop regardé tournoyer avec une souplesse ahurissante, le dernier Iñárritu se dévore comme une grande bouffée d’air frais."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 5.0,
-          "auteur": "Thomas Colpaert",
-          "citation": "Alejandro González Iñárritu confirme toute l’originalité et la virtuosité de son cinéma avec ce véritable tour de force. Techniquement à couper le souffle, son film se compose de plans séquences d’une longueur inimaginable."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 5.0,
-          "auteur": "Philippe Ross",
-          "citation": "Iñarritu met sa caméra virtuose au service de la trajectoire d'un has-been en voie de rédemption. Avec un atout maître  Michael Keaton."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Une vertigineuse mise en abyme, orchestrée par le réalisateur de \"Babel\" et \"21 grammes\"."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Jacky Bornet",
-          "citation": "\"Birdman\", au-delà de sa réflexion autour de la création dramatique, est ponctué de purs instants de poésie. L’humour et l’émotion sont constants. Alejandro González Iñárritu et ses complices méritent très largement leur reconnaissance par l’Académie des Oscars."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 4.0,
-          "auteur": "Eric Libiot",
-          "citation": "\"Birdman\" -Oscar du meilleur film- est une oeuvre qui n'a pas peur de se montrer, à la fois émouvante et prétentieuse. Baroque et passionnante. Glaçante, brûlante, jamais tiède."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Marie Soyeux",
-          "citation": "Avec \"Birdman\", Alejandro Iñarritu sonde les blessures narcissiques d'un acteur sur le retour. Avec une virtuosité indéniable, au point d'étourdir un peu."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "(...) un exercice de style ambitieux pour une mise en abyme fascinante. Michael Keaton réalise la meilleure performance de sa carrière."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Serge Kaganski",
-          "citation": "Il y a dans \"Birdman\" une dimension bling-bling, extravertie, \"m'as-tu-vu\", consubstantielle au style d'Inarritu, et qui souvent agace chez lui, mais il faut reconnaitre aussi le côté pile de ces défauts : une énergie carnassière, invraisemblable, qui emporte tout ici."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Yannick Yannick Vely",
-          "citation": "Après une première heure de haute voltige (...) le film effectue un certain surplace, peinant à sortir des rails de sa mécanique narrative parfaitement huilé. Mais quand le récit reprend son envol, d’abord au sens figuré puis au sens propre, impossible de ne pas être touché par la trajectoire surréaliste de Riggan Thomson (...)."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Sophie Avon",
-          "citation": "Le théâtre est un cirque où les acteurs se prennent pour des orphelins. (...) Iñárritu a décidé d'en rire, même si sa fable est impitoyable pour ce peuple de clowns jamais heureux. Sa mise en scène fluide, faite de longs plans-séquences, ne cesse de prouver à quel point sa caméra peut être virtuose (...)."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Louis Guichard",
-          "citation": "Dans son élan misanthrope, si outrancier qu'il amuse, le film discrédite toute forme de célébrité. (...) On sait déjà le résultat du match : Hollywood zéro, Broadway zéro. Mais, en se renouvelant avec cette farce noire et baroque, Iñárritu, lui, marque quelques points."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Thomas Sotinel",
-          "citation": "\"Birdman\" est un spectacle, qui laisse pantois, épuisé, euphorique, mais, au bout du compte indemne, au contraire de son dérisoire héros."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Isabelle Danel",
-          "citation": "Looping cinématographique et émotionnel, cette comédie noire est un tour de force."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 3.0,
-          "auteur": "Ted Hardy-Carnac",
-          "citation": "On est emportés par la cadence infernale du plan séquence et des solos de batterie qui l’accompagnent, impressionnés et essoufflés par le spectacle, sans arriver vraiment à adhérer à cette auto-parodie convenue et un peu vaine."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 2.0,
-          "auteur": "Yal Sadat",
-          "citation": "Non seulement cette voltige a quelque chose de nauséeux, mais elle laisse l'impression que \"Birdman\" survole fébrilement des genres bien identifiés sans se poser nulle part."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 2.0,
-          "auteur": "Aurélien Allin",
-          "citation": "Iñarritu oublie sa narration en route et multiplie les effets de manche manipulateurs au point que son scénario apparaît parfois bancal."
-        },
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 2.0,
-          "auteur": "Xanaë Bove",
-          "citation": "Une enfilade de longs (faux) plans-séquence qui semblent être là juste pour servir un certain histrionisme du réalisateur mexicain qu’on a connu autrement plus inspiré..."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 2.0,
-          "auteur": "Didier Péron",
-          "citation": "Ce qu’Iñárritu a à dire sur la condition de l’acteur (...) n’est jamais perturbant. Et son style échevelé (...) correspond une fois de plus à l’idée qu’il se fait de la mise en scène, plus proche du sport de compétition que d’un art sincèrement réflexif."
-        },
-        {
-          "titre_presse": "TF1 News",
-          "note": 2.0,
-          "auteur": "Romain Le Vern",
-          "citation": "(...) on n'oublie jamais que nous sommes dans un produit Hollywoodien et l'on regrette que le film, au prime abord alerte et acide, succombe à la pesanteur mélodramatique dans le dernier tiers."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 1.0,
-          "auteur": "Joachim Lepastier",
-          "citation": "C’est en surrégime dès les premières secondes, ça fait beaucoup de tapage, c’est clinquant et d’une suffocante autosatisfaction, et surtout ça ne cesse de tourner en rond."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 1.0,
-          "auteur": "Fabien Reyre",
-          "citation": "Trop occupé à enfoncer des portes ouvertes (...) et à endosser ses habits de grand moraliste, Iñárritu a oublié de faire du cinéma mais aura néanmoins réussi à emballer toute cette profession qu’il méprise tant."
-        },
-        {
-          "titre_presse": "Mad Movies",
-          "note": 1.0,
-          "auteur": "Gilles Esposito",
-          "citation": "CONTRE: Si c'est ça le grand Art, je préfère encore le plus formaté des super-héros."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-216633/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 22661
-    }
   },
   {
     "titre": "Black Roots + Bitter Sweet Stories",
@@ -623,15 +348,11 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "08/10 21:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "10/10 14:55",
         "cinema": "Palace"
       },
       {
-        "heure": "11/10 12:15",
+        "heure": "11/10 12:40",
         "cinema": "Palace"
       },
       {
@@ -823,36 +544,6 @@
     }
   },
   {
-    "titre": "Comme un château fort",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "08/10 16:30",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Dans les ruches",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "08/10 18:45",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Digger",
     "annee": 2026,
     "duree_minutes": 129,
@@ -862,14 +553,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "08/10 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 21:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "09/10 15:30",
         "cinema": "Aventure"
@@ -1128,7 +811,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1461
+      "nb_notes_spectateurs": 1565
     }
   },
   {
@@ -1151,7 +834,7 @@
     "allocine": {
       "allocine_id": "1000019249",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/presse/",
-      "note_moyenne_presse": 2.9,
+      "note_moyenne_presse": 2.7,
       "nb_critiques_presse": 9,
       "critiques_presse": [
         {
@@ -1179,22 +862,22 @@
           "citation": "L'ambiance Halloween, parfaite pour la saison, ravira petits et grands."
         },
         {
+          "titre_presse": "Abus de Ciné",
+          "note": 2.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Bref, si le nouveau jeune homme incarnant Ducobu, Charlie Garnier Naslin, s'en sort cette fois plutôt bien, si le générique de début façon livre pop-up avec allusion à \"Ghost Busters\" est très réussi, si Jugnot s'amuse et amuse, et si le personnage d'Emilie Caen s'épaissit un peu, ce nouvel opus peine encore à trouver son rythme."
+        },
+        {
           "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 3.0,
+          "note": 2.0,
           "auteur": "Nathalie Chifflet",
           "citation": "Un (léger) vent féministe décoiffe l’intrigue, qui démolit surtout le conservatisme rigide et étriqué de l’instituteur Latouche, ramené à de meilleurs (bons) sentiments et de compréhension. L‘école et la pédagogie par l’humiliation, c’est mal, et ça, c’est toujours bien de le redire."
         },
         {
           "titre_presse": "Le Dauphiné Libéré",
-          "note": 3.0,
+          "note": 2.0,
           "auteur": "Nathalie Chifflet",
           "citation": "Quelle autre malédiction, que de retourner son antipathie tête à claques pour en faire (enfin, ouf) un gentil qui cesse de hurler comme un aliéné ? Voilà l’idée gentillette mais sympathique de cette nouvelle aventure cinématographique au temps d’Halloween, de ses fantômes et de ses bonbons dont l’histoire a la douceur sucrée."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 2.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Bref, si le nouveau jeune homme incarnant Ducobu, Charlie Garnier Naslin, s'en sort cette fois plutôt bien, si le générique de début façon livre pop-up avec allusion à \"Ghost Busters\" est très réussi, si Jugnot s'amuse et amuse, et si le personnage d'Emilie Caen s'épaissit un peu, ce nouvel opus peine encore à trouver son rythme."
         },
         {
           "titre_presse": "Le Monde",
@@ -1210,9 +893,27 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.8,
-      "nb_notes_spectateurs": 43
+      "note_moyenne_spectateurs": 2.6,
+      "nb_notes_spectateurs": 48
     }
+  },
+  {
+    "titre": "Een man gaat zijn weg + Kora Terry",
+    "annee": 0,
+    "duree_minutes": 116,
+    "realisateurs": [
+      "Kurt Stefan",
+      "Georg Jacoby"
+    ],
+    "synopsis": "Marika Rökk, qui s’est rendue en Belgique occupée pendant la guerre, a connu un immense succès avec le film Kora Terry. Rökk y interprète un double-rôle de sœurs jumelles acrobates, dont la respectable Mara est éclipsée par la séduisante mais malveillante Kora. Il s’agissait pour les Allemands de répondre à leur manière à la comédie musicale américaine. En complément, un film de propagande dans lequel les Belges sont encouragé·e·s à aller travailler en Allemagne. ",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 20:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": null
   },
   {
     "titre": "Et Dieu... créa la femme",
@@ -1311,26 +1012,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "08/10 16:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 18:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "09/10 13:45",
         "cinema": "Vendôme"
@@ -1703,66 +1384,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2013
-    }
-  },
-  {
-    "titre": "Gaslight",
-    "annee": 1944,
-    "duree_minutes": 115,
-    "realisateurs": [
-      "George Cukor"
-    ],
-    "synopsis": "Paula, een jonge naïeve vrouw, wordt hopeloos verliefd op Gregory, een oudere pianist die ze enkele weken na hun ontmoeting huwt. Al snel blijkt de man sluw en berekenend te zijn. Hij weet Paula terug te brengen naar de luxueuze Londense villa van haar jeugd, waar ze achtervolgd door de herinnering aan haar tante die voor haar ogen werd vermoord. Profiterend van de gevolgen van dit trauma, bouwt Gregory systematisch een controlemechanisme op dat zijn vrouw onvermijdelijk in de val lokt. Paula denkt dat ze gek wordt. De echtgenoot is echter niet alleen een perverse manipulator; de film neemt een wending naar een politieverhaal en onthult het duivelse plan van dit donkere personage. Met opmerkelijk acteerwerk van Ingrid Bergmann en Charles Boyer, heeft de verfijnde psychologische regie van deze krachtige film geleid tot de term ’gaslighting’ om een vorm van manipulatie te beschrijven die erop gericht is de macht over iemands bewustzijn te krijgen door hen toegang tot de waarheid te verhinderen.\n\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2de072be-36f5-4fd8-b64e-d9956bbb4ede.png",
-    "seances": [
-      {
-        "heure": "08/10 15:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "2748",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2748/critiques/presse/",
-      "note_moyenne_presse": 4.0,
-      "nb_critiques_presse": 1,
-      "critiques_presse": [
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Axelle Ropert",
-          "citation": "La version Cukor d'un genre clé du cinéma hollywoodien des années 40."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2748/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 443
-    }
-  },
-  {
-    "titre": "Grandir",
-    "annee": 2025,
-    "duree_minutes": 88,
-    "realisateurs": [
-      "Géraldine Doigon"
-    ],
-    "synopsis": "LUNA, 18 ans, va devenir maman. CHARLINE, 17, pratique le sport intensément. Luna vit de l’aide sociale. Charline s’accroche à l’école pour obtenir son diplôme. Tout les oppose sauf un passé commun: un placement en foyer enfant, un père inexistant, une mère inapte. Aujourd’hui, à la sortie des Institutions, comment font-elles pour grandir seules ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3e00ce79-7f84-4ebe-b721-55e1acfb84d1.jpeg",
-    "seances": [
-      {
-        "heure": "08/10 19:00",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000050128",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000050128/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000050128/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "nb_notes_spectateurs": 2094
     }
   },
   {
@@ -1804,10 +1426,6 @@
     "synopsis": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi magnifique qu’impitoyable, ils devront puiser dans leurs dernières forces pour survivre ensemble.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
     "seances": [
-      {
-        "heure": "08/10 20:15",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "12/10 18:00",
         "cinema": "Le Stockel"
@@ -2008,7 +1626,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1897
+      "nb_notes_spectateurs": 2007
     }
   },
   {
@@ -2038,7 +1656,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-11541/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 5210
+      "nb_notes_spectateurs": 5211
     }
   },
   {
@@ -2049,14 +1667,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "08/10 16:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/10 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "10/10 09:50",
         "cinema": "Aventure"
@@ -2371,7 +1981,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-115362/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 114035
+      "nb_notes_spectateurs": 114037
     }
   },
   {
@@ -2589,18 +2199,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "08/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 20:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "09/10 16:10",
         "cinema": "Vendôme"
@@ -2891,7 +2489,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327941/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1692
+      "nb_notes_spectateurs": 1699
     }
   },
   {
@@ -2947,32 +2545,6 @@
     }
   },
   {
-    "titre": "Le Maître de musique",
-    "annee": 1988,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Gérard Corbiau"
-    ],
-    "synopsis": "Joachim Dallayrac, célèbre basse-baryton, au sommet de sa carrière, annonce brutalement qu'il se retire de la scène. Dans son château, il se consacrera désormais à la formation d'une seule élève, Sophie, dont il recherche la perfection vocale. Puis il rencontrera Jean, voyou à la voix d'or, qu'il s'efforcera également d'élever dans l'art du chant. La musique, ici, résonne comme un dialogue, rend plus intenses les regards des acteurs et les couleurs des décors, et ouvre le désir d'en entendre d'avantage...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e5eb40d4-ff57-4b55-8926-da6a12e786a8.jpg",
-    "seances": [
-      {
-        "heure": "08/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "3833",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-3833/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3833/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 119
-    }
-  },
-  {
     "titre": "Les courts des grands V",
     "annee": 0,
     "duree_minutes": 34,
@@ -3024,10 +2596,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
-      {
-        "heure": "08/10 17:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "09/10 16:40",
         "cinema": "Aventure"
@@ -3192,7 +2760,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037443/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 97
+      "nb_notes_spectateurs": 117
     }
   },
   {
@@ -3210,7 +2778,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/91a099ce-561a-40e6-9281-5f49ccc30a80.jpg",
     "seances": [
       {
-        "heure": "10/10 10:10",
+        "heure": "10/10 10:30",
         "cinema": "Palace"
       }
     ],
@@ -3329,6 +2897,23 @@
     }
   },
   {
+    "titre": "Mod lyset (Towards the Light)",
+    "annee": 1919,
+    "duree_minutes": 69,
+    "realisateurs": [
+      "Holger-Madsen"
+    ],
+    "synopsis": "La comtesse Ysabel est une jeune femme fortunée qui compte de nombreux prétendants. Un baron élégant et aventureux a réussi à conquérir son cœur, mais elle continue néanmoins à jouer avec les sentiments d'autres hommes. Le sort s'acharne sur elle lorsqu'un jeune homme au cœur brisé se donne la mort et que le baron révèle, au même moment, un terrible secret. Le monde d'Ysabel semble alors s'effondrer.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f3408dcb-f022-4ad8-a7ae-406210895d0f.jpg",
+    "seances": [
+      {
+        "heure": "15/10 18:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": null
+  },
+  {
     "titre": "Modern Times",
     "annee": 1936,
     "duree_minutes": 90,
@@ -3400,7 +2985,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1832/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 34951
+      "nb_notes_spectateurs": 34953
     }
   },
   {
@@ -3411,10 +2996,6 @@
     "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu’elle s’y rend, elle est prise d’un vertige et replonge dans le souvenir de l’été 1958, celui de sa première nuit avec un homme. Nuit dont l’onde de choc s’est propagée violemment dans son corps et sur le reste de son existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "09/10 14:15",
         "cinema": "Vendôme"
@@ -3610,8 +3191,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026296/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 264
+      "note_moyenne_spectateurs": 3.2,
+      "nb_notes_spectateurs": 271
     }
   },
   {
@@ -3864,20 +3445,16 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
       {
-        "heure": "08/10 14:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "10/10 14:30",
         "cinema": "Palace"
       },
       {
         "heure": "10/10 20:15",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "11/10 19:00",
+        "cinema": "Palace"
       },
       {
         "heure": "12/10 11:30",
@@ -4131,7 +3708,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000023992/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 157
+      "nb_notes_spectateurs": 245
     }
   },
   {
@@ -4144,10 +3721,6 @@
     "synopsis": "Sur la génération désabusée de 1960, un marivaudage doux amer, à l’érotisme teinté d’ironie : faux cyniques, coureurs de jupons et strip-poker à la Varsovienne, autour de la rencontre entre une jeune fille et un médecin célibataire dans une chambre d’hôtel où ils parlent de morale, tandis qu’entre eux-naît un sentiment amoureux. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9b8c951d-bff4-4f15-b4da-9fb73a5d9b3d.jpg",
     "seances": [
-      {
-        "heure": "08/10 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "11/10 20:00",
         "cinema": "Cinematek"
@@ -4174,38 +3747,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 20:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 20:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 20:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "08/10 20:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "09/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "09/10 13:15",
-        "cinema": "Galeries"
-      },
       {
         "heure": "09/10 13:45",
         "cinema": "Vendôme"
@@ -4634,7 +4175,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1263
+      "nb_notes_spectateurs": 1335
     }
   },
   {
@@ -4647,26 +4188,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 16:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "08/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "09/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "09/10 15:45",
         "cinema": "Palace"
@@ -4935,7 +4456,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 751
+      "nb_notes_spectateurs": 780
     }
   },
   {
@@ -5000,10 +4521,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "08/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "11/10 16:35",
         "cinema": "Cineflagey"
       },
@@ -5024,14 +4541,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "08/10 17:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "09/10 21:40",
         "cinema": "Aventure"
@@ -5162,7 +4671,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2347
+      "nb_notes_spectateurs": 2411
     }
   },
   {
@@ -5175,14 +4684,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "09/10 13:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/10 13:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "10/10 13:30",
         "cinema": "Palace"
@@ -5363,7 +4864,33 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 587
+      "nb_notes_spectateurs": 596
+    }
+  },
+  {
+    "titre": "Sax",
+    "annee": 1981,
+    "duree_minutes": 105,
+    "realisateurs": [
+      "Gérard Corbiau"
+    ],
+    "synopsis": "Dès 1980, Gérard Corbiau se tourne vers la réalisation de fictions télévisées sur la musique au sein de la RTBF. Il réalise deux contes musicaux : le premier Sax, en trois parties qui revient sur la vie et la carrière d’Adolphe Sax (1814-1894), facteur d’instruments de musique belge, qui améliora les instruments à vent et créa une nouvelle famille, les saxophones. Ce conte remporta l’Antenne de Cristal en 1981. ",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 19:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "218844",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-218844/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-218844/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -5376,18 +4903,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 17:35",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "08/10 18:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "09/10 18:40",
         "cinema": "Aventure"
@@ -5522,7 +5037,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 385
+      "nb_notes_spectateurs": 395
     }
   },
   {
@@ -5535,30 +5050,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "08/10 14:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 16:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "09/10 14:00",
         "cinema": "Vendôme"
@@ -5858,8 +5349,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000043221/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1392
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 1413
     }
   },
   {
@@ -5874,6 +5365,10 @@
     "seances": [
       {
         "heure": "12/10 20:15",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "15/10 15:00",
         "cinema": "Cinematek"
       }
     ],
@@ -6018,7 +5513,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-257425/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 109
+      "nb_notes_spectateurs": 110
     }
   },
   {
@@ -6058,10 +5553,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "09/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "09/10 17:00",
         "cinema": "Palace"
       },
@@ -6091,81 +5582,6 @@
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Taxi Driver",
-    "annee": 1976,
-    "duree_minutes": 114,
-    "realisateurs": [
-      "Martin Scorsese"
-    ],
-    "synopsis": "Un solitaire paumé dans la jungle urbaine des bas-quartiers de New York. Le portrait morbide et saisissant d'un « justicier » sombrant dans l'obsession, avec un extraordinaire Robert De Niro.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fc516764-c8a2-4b58-8df5-334db9a98d81.jpeg",
-    "seances": [
-      {
-        "heure": "08/10 19:00",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "308",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-308/critiques/presse/",
-      "note_moyenne_presse": 4.8,
-      "nb_critiques_presse": 8,
-      "critiques_presse": [
-        {
-          "titre_presse": "Ecran Large",
-          "note": 5.0,
-          "auteur": "Ilan Ferry",
-          "citation": "[Reprise] Voyage urbain au cœur de la paranoïa, \"Taxi Driver\" ne démérite pas sa place au panthéon des 100 plus grands films du monde et reste encore aujourd'hui une peinture glaçante de son époque."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 5.0,
-          "auteur": "Anne Diatkine",
-          "citation": "[Reprise] (...) Un film mythique sur la nuit à New York (...). Cette sortie en copie neuve permet de tomber sous le choc du jeune Robert De Niro, déjà star, et d'une gamine déjà célèbre : Jodie Foster, (..) étonnante dans le rôle d'une prostituée."
-        },
-        {
-          "titre_presse": "Le Soir",
-          "note": 5.0,
-          "auteur": "Luc Honorez",
-          "citation": "C'est du bon, du très bon cinéma américain. 23/05/1976"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Michael Henry",
-          "citation": "Avec la fascination mêlée d'effroi de qui revit un cauchemar familier, Scorsese célèbre ici la Ville retrouvée.N°183, juillet/août 1976"
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Gilbert Salachas",
-          "citation": "Un film inquiétant et par là même édifiant, dont la fascination n'a rien de morbide. 02/06/1976"
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 5.0,
-          "auteur": "Mathilde Tellier",
-          "citation": "[Reprise] La descente aux enfers de ce Travis Bickle est proprement saisissante. De Niro est d'ailleurs absolument époustouflant dans cette peinture de l'aliénation par la solitude et dans le portrait de ce justicier de la ville, victime de l'Amérique des années 70. (...) Un film éminemment pessimiste qui tend tout entier vers sa scène finale mythique. A voir aussi peut-être tout simplement pour son seul \"Are you talkin' to me ?\"."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 4.0,
-          "auteur": "Pascal Kané",
-          "citation": "Taxi Driver est l'image d'une violence qu'il faut aujourd'hui faire entrer dans le mythe (ne serait-ce que pour se rassurer) N°268-269-juillet_août 1976"
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Nom journaliste 4",
-          "citation": "A la fois un très bon film, surtout par la façon dont il est filmé, et un film un peu quelqonque par son scénario. 14/06/1976"
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-308/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 40276
-    }
   },
   {
     "titre": "Teenage Sex and Death at Camp Miasma",
@@ -6252,8 +5668,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024260/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 77
+      "note_moyenne_spectateurs": 3.1,
+      "nb_notes_spectateurs": 82
     }
   },
   {
@@ -6268,6 +5684,10 @@
     "seances": [
       {
         "heure": "11/10 15:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "15/10 21:00",
         "cinema": "Cinematek"
       }
     ],
@@ -6317,26 +5737,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
       {
-        "heure": "08/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "08/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "08/10 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "08/10 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "09/10 13:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "09/10 18:50",
         "cinema": "Vendôme"
       },
@@ -6379,6 +5779,10 @@
       {
         "heure": "10/10 21:35",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "11/10 13:50",
+        "cinema": "Palace"
       },
       {
         "heure": "11/10 14:30",
@@ -6650,7 +6054,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 1454
+      "nb_notes_spectateurs": 1462
     }
   },
   {
@@ -7156,7 +6560,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-182266/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 46510
+      "nb_notes_spectateurs": 46511
     }
   },
   {
@@ -7226,22 +6630,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "08/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "08/10 20:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "09/10 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "09/10 16:30",
         "cinema": "Aventure"
@@ -7473,60 +6861,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026649/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 50
-    }
-  },
-  {
-    "titre": "They Live",
-    "annee": 1988,
-    "duree_minutes": 94,
-    "realisateurs": [
-      "John Carpenter"
-    ],
-    "synopsis": "De méchants extra-terrestres tentent de conquérir le monde par des messages médiatiques subliminaux. Un renouvellement de la SF, à travers une métaphore des yuppies affairistes de la mondialisation.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a686710a-c3b9-4370-9ca2-14906faa4db0.png",
-    "seances": [
-      {
-        "heure": "08/10 21:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "4660",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-4660/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4660/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 6530
-    }
-  },
-  {
-    "titre": "Thomas Graals bästa film",
-    "annee": 1918,
-    "duree_minutes": 58,
-    "realisateurs": [
-      "Mauritz Stiller"
-    ],
-    "synopsis": "Thomas Graal, scénariste, est très épris de sa secrétaire Bessie. Surprise par un baiser de Thomas, elle s'enfuit. Dans sa déconvenue, Thomas écrit un scénario inspiré par Bessie. Mais celle-ci n'a pas été tout à fait honnête avec lui. Il manque 31 minutes de métrage, considérées comme perdues.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/561e1daa-b5f2-4a40-8748-d6c55b885dc1.png",
-    "seances": [
-      {
-        "heure": "08/10 20:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "81578",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-81578/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-81578/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "note_moyenne_spectateurs": 3.7,
+      "nb_notes_spectateurs": 157
     }
   },
   {
@@ -7697,7 +7033,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000015739/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.7,
-      "nb_notes_spectateurs": 541
+      "nb_notes_spectateurs": 575
     }
   },
   {
@@ -7737,14 +7073,6 @@
     "synopsis": "Au moment crucial de la perte d’autonomie, des personnes âgées, leurs familles, soignants et aidants proches, entament un voyage initiatique en terre vieille, là où se jouent des affrontements, des pertes, des solidarités, des tendresses et des joies qui disent l’épaisseur du temps long de la vie… Une immersion au cœur d’histoires individuelles mettant en scène des volontés farouches qui se heurtent à des logiques institutionnelles dont elles sortent parfois gagnantes… ou perdantes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
-      {
-        "heure": "08/10 15:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "08/10 18:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "09/10 13:45",
         "cinema": "Aventure"

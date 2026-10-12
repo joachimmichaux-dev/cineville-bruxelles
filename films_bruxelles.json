@@ -1,21 +1,5 @@
 [
   {
-    "titre": " Lost Persons Area",
-    "annee": 2009,
-    "duree_minutes": 109,
-    "realisateurs": [
-      "Caroline Strubbe"
-    ],
-    "synopsis": "",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "11/10 13:30",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "10 ans de Tënk",
     "annee": 0,
     "duree_minutes": 0,
@@ -25,6 +9,22 @@
     "seances": [
       {
         "heure": "16/10 21:00",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
+    "titre": "Action Item",
+    "annee": 0,
+    "duree_minutes": 69,
+    "realisateurs": [
+      "Paula Ďurinová"
+    ],
+    "synopsis": "Alternant des images de paysages et de témoignages d’expériences de vie liées au burn-out, qu’il soit professionnel, étudiant ou militant, Action Item invite à aller regarder au-delà des raisons et des responsabilités individuelles de l’épuisement. A partir d’un espace commun de partage des vécus difficiles ces personnes livrent des récits qui très souvent ne trouvent pas l’écho nécessaire ou sont vécus comme honteux ou pas assez endurants. Le burn-out est la maladie de ce siècle et pour autant les causes sociales de son existence sont rarement mises en lien avec tous ces parcours de vie marqués durablement. Par la sensorialité des images nous somme invitées à plonger pour un moment dans les yeux, les sensations et le récit de ces personnes qui se livrent dans cette intimité mise en place par la réalisatrice, qui part elle-même de son expérience personnelle.\n\nPremière projection le 25.09 suivie d’une rencontre avec le sociologue Simon Cottin-Marx, co-auteur avec Hélène Balazard de l’ouvrage \"Burn-out militant\" (Payot).\nSéance du 10.10 suivie d’une rencontre avec Paula Ďurinová.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1334960c-0774-4717-b198-b22155dce74f.jpg",
+    "seances": [
+      {
+        "heure": "18/10 18:00",
         "cinema": "Nova"
       }
     ]
@@ -42,20 +42,6 @@
       {
         "heure": "17/10 18:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Alice au pays des colons",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "12/10 11:00",
-        "cinema": "Galeries"
       }
     ]
   },
@@ -119,28 +105,8 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "12/10 11:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "13/10 21:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Code inconnu",
-    "annee": 2000,
-    "duree_minutes": 116,
-    "realisateurs": [
-      "Michael Haneke"
-    ],
-    "synopsis": "Une série d'événements s'enchaîne telle une réaction en chaîne, tous découlant d'un incident mineur qui réunit les cinq personnages du film. L'histoire se déroule à Paris : Anne est actrice et son compagnon, Georges, photographie la guerre au Kosovo. Le frère de Georges, Jean, cherche le code d'accès à l'appartement de ce dernier. Les vies de ces personnages s'entrecroisent avec celles d'un immigré roumain et d'un enseignant sourd.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a2085584-a5ca-4901-97b3-dc5d6eca6518.jpg",
-    "seances": [
-      {
-        "heure": "11/10 21:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -157,6 +123,10 @@
       {
         "heure": "16/10 18:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "18/10 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -171,38 +141,12 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "11/10 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 12:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 15:40",
         "cinema": "Aventure"
       },
       {
         "heure": "13/10 21:10",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Ducobu et le fantôme de Saint-Potache",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "11/10 16:10",
-        "cinema": "Le Stockel"
       }
     ]
   },
@@ -240,17 +184,17 @@
     ]
   },
   {
-    "titre": "Et Dieu... créa la femme",
-    "annee": 1956,
-    "duree_minutes": 90,
+    "titre": "Fantastic Mr. Fox",
+    "annee": 2009,
+    "duree_minutes": 87,
     "realisateurs": [
-      "Roger Vadim"
+      "Wes Anderson"
     ],
-    "synopsis": "Une jeune orpheline insouciante à la beauté spontanée déchaîne les passions et bouleverse la tranquillité d’un petit port traditionnel. Par un franc-tireur proche de la Nouvelle Vague, le film qui révéla Brigitte Bardot, en emblème sauvage de la liberté sexuelle. Pour l'anecdote, au cours du tournage, Bardot succomba aux charmes de Trintignant, et les deux acteurs vécurent une idylle loin des regards indiscrets des paparazzi.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9624d64c-85be-4814-aa83-15f7b7e08ef5.png",
+    "synopsis": "Mr. Fox, un renard, défie trois propriétaires terriens mais se rend compte, ce faisant, qu’il nuit aux autres animaux de la forêt. Roald Dahl, adapté par l’étonnant Wes Anderson réalise « à l’ancienne » un dessin animé qui appartient totalement à son univers décalé.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9ad8d7b3-8a5c-4fdd-9386-17590b045aaf.jpeg",
     "seances": [
       {
-        "heure": "11/10 19:00",
+        "heure": "18/10 17:15",
         "cinema": "Cinematek"
       }
     ]
@@ -296,30 +240,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "11/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 16:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 17:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 20:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/10 16:05",
         "cinema": "Palace"
@@ -417,20 +337,6 @@
     ]
   },
   {
-    "titre": "Joyeuse Jungle",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "11/10 15:50",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
     "titre": "Jules et Jim",
     "annee": 1962,
     "duree_minutes": 106,
@@ -442,6 +348,10 @@
     "seances": [
       {
         "heure": "13/10 19:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "18/10 21:00",
         "cinema": "Cinematek"
       }
     ]
@@ -457,22 +367,6 @@
       {
         "heure": "12/10 20:40",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "L'île des souvenirs",
-    "annee": 2026,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Joel Crawford Januel Mercado"
-    ],
-    "synopsis": "Jo et Raissa sont meilleures amies depuis la primaire. Aaprès avoir obtenu le baccalauréat, elles sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elles fêtent leur dernière soirée ensemble, les deux jeunes filles tombent sur un portail mystérieux qui les transporte sur l’île fantastique de Nakali, peuplée de créatures magiques tout droit sorties des contes mythologiques philippins de leur enfance…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0c62a2d-3178-4a6f-816e-8b04aa7eaedf.jpg",
-    "seances": [
-      {
-        "heure": "11/10 14:00",
-        "cinema": "Le Stockel"
       }
     ]
   },
@@ -500,10 +394,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "11/10 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/10 16:00",
         "cinema": "Vendôme"
@@ -571,6 +461,10 @@
       {
         "heure": "14/10 18:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "18/10 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -587,10 +481,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
-      {
-        "heure": "11/10 20:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/10 17:10",
         "cinema": "Aventure"
@@ -643,26 +533,6 @@
     ]
   },
   {
-    "titre": "Mochy",
-    "annee": 2026,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
-    ],
-    "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
-    "seances": [
-      {
-        "heure": "11/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 14:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Mod lyset (Towards the Light)",
     "annee": 1919,
     "duree_minutes": 69,
@@ -689,7 +559,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e55215f4-1aa4-41ae-be16-39c98ef2cd03.jpg",
     "seances": [
       {
-        "heure": "11/10 17:00",
+        "heure": "18/10 19:00",
         "cinema": "Cinematek"
       }
     ]
@@ -702,14 +572,6 @@
     "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu’elle s’y rend, elle est prise d’un vertige et replonge dans le souvenir de l’été 1958, celui de sa première nuit avec un homme. Nuit dont l’onde de choc s’est propagée violemment dans son corps et sur le reste de son existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
     "seances": [
-      {
-        "heure": "11/10 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 14:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/10 16:15",
         "cinema": "Vendôme"
@@ -727,58 +589,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "11/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 16:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 18:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/10 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 12:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 14:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/10 15:20",
         "cinema": "Aventure"
@@ -864,32 +674,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
       {
-        "heure": "11/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "13/10 16:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Niewinni czarodzieje",
-    "annee": 1960,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Andrzej Wajda"
-    ],
-    "synopsis": "Sur la génération désabusée de 1960, un marivaudage doux amer, à l’érotisme teinté d’ironie : faux cyniques, coureurs de jupons et strip-poker à la Varsovienne, autour de la rencontre entre une jeune fille et un médecin célibataire dans une chambre d’hôtel où ils parlent de morale, tandis qu’entre eux-naît un sentiment amoureux. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9b8c951d-bff4-4f15-b4da-9fb73a5d9b3d.jpg",
-    "seances": [
-      {
-        "heure": "11/10 20:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -903,42 +689,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "11/10 13:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/10 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 18:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 18:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "12/10 13:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/10 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/10 15:20",
         "cinema": "Vendôme"
@@ -1041,22 +791,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
       {
-        "heure": "11/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 15:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/10 20:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/10 20:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "12/10 15:45",
         "cinema": "Palace"
       },
@@ -1113,10 +847,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "11/10 16:35",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "13/10 12:50",
         "cinema": "Aventure"
       }
@@ -1132,10 +862,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "11/10 21:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/10 21:30",
         "cinema": "Aventure"
@@ -1156,22 +882,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "11/10 13:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 13:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 13:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/10 13:20",
         "cinema": "Vendôme"
@@ -1209,18 +919,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "11/10 16:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 18:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "11/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "12/10 15:00",
         "cinema": "Aventure"
       },
@@ -1244,42 +942,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "11/10 13:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 17:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 19:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 11:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 14:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/10 17:00",
         "cinema": "Vendôme"
@@ -1339,6 +1001,22 @@
     ]
   },
   {
+    "titre": "Super 8",
+    "annee": 2011,
+    "duree_minutes": 111,
+    "realisateurs": [
+      "J.J. Abrams"
+    ],
+    "synopsis": "Dans l'Ohio de la fin des années 1970, un groupe d'amis qui tourne un film de zombies amateur est témoin d'un déraillement de train dévastateur. Peu après, leur paisible ville est en proie à des disparitions inexpliquées, à des phénomènes étranges et à une peur grandissante, alors qu'ils découvrent qu'une chose terrifiante a été libérée.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7f9b81b7-7060-48ad-9838-808e0764a43e.jpg",
+    "seances": [
+      {
+        "heure": "18/10 15:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Sången om den eldröda blomman",
     "annee": 1918,
     "duree_minutes": 88,
@@ -1365,7 +1043,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/801a2f11-278e-4228-99d3-dbefa4c3fb95.jpg",
     "seances": [
       {
-        "heure": "11/10 18:00",
+        "heure": "18/10 19:30",
         "cinema": "Nova"
       }
     ]
@@ -1381,14 +1059,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "11/10 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "12/10 21:00",
         "cinema": "Palace"
       },
@@ -1398,22 +1068,6 @@
       },
       {
         "heure": "13/10 19:15",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Teenage Sex and Death at Camp Miasma",
-    "annee": 2026,
-    "duree_minutes": 0,
-    "realisateurs": [
-      "Jane Schoenbrun"
-    ],
-    "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
-    "seances": [
-      {
-        "heure": "11/10 21:25",
         "cinema": "Palace"
       }
     ]
@@ -1429,25 +1083,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cad12099-8d2c-4c41-b939-f36fe2c20316.jpg",
     "seances": [
       {
-        "heure": "11/10 15:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "15/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "The Great Barrier Reef ",
-    "annee": 1968,
-    "duree_minutes": 92,
-    "realisateurs": [],
-    "synopsis": "Un document unique relatant la vie terrestre et sous-marine de la Grande Barrière de corail. Tourné au cours d’une expédition de plus de 5 mois, le film met en scène tant la faune et la flore océaniques que le dispositif technique qui aura servi à filmer ces images splendides et désormais révolues. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/55c670c7-c209-4ff9-8f90-3fa78b6b1d17.jpg",
-    "seances": [
-      {
-        "heure": "11/10 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1462,30 +1098,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "11/10 13:50",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 14:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "11/10 18:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/10 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/10 16:30",
         "cinema": "Galeries"
@@ -1525,22 +1137,6 @@
     ]
   },
   {
-    "titre": "The Revenant",
-    "annee": 2015,
-    "duree_minutes": 156,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Durant une expédition dans une Amérique profondément sauvage, le légendaire trappeur Hugh Glass (Di Caprio) est brutalement attaqué par un ours et laissé pour mort par les membres de sa propre équipe.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b24e3c42-d0b9-4727-a2c1-443395406279.jpg",
-    "seances": [
-      {
-        "heure": "11/10 20:30",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "The Seventh Seal",
     "annee": 1957,
     "duree_minutes": 97,
@@ -1566,22 +1162,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "11/10 13:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 13:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/10 16:50",
         "cinema": "Aventure"
@@ -1635,38 +1215,6 @@
     ]
   },
   {
-    "titre": "Un lugar más grande",
-    "annee": 2025,
-    "duree_minutes": 115,
-    "realisateurs": [
-      "Nicolás Défossé"
-    ],
-    "synopsis": "Au Chiapas, dans le sud du Mexique, le village maya ch’ol de Tila a chassé la mairie et la police de son territoire. Reste alors à faire vivre, jour après jour, une autonomie qui ne se décrète pas. Nicolas Défossé filme cette expérience d’autogouvernement au plus près de celles et ceux qui la construisent : assemblées, justice communautaire, travaux collectifs, fêtes, désaccords et décisions partagées. Héritière des luttes zapatistes, cette organisation politique se révèle ici moins comme une utopie que comme une pratique concrète, fragile et exigeante. Dans la tradition du cinéma direct, \"Un lugar más grande\" ne cherche ni héros ni discours explicatif : il observe les gestes, les paroles, les paysages et les liens qui composent une communauté. Un film ample et attentif sur ce que signifie reprendre collectivement prise sur sa propre existence, et inventer d’autres formes de vie commune.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8df2b6d7-54bf-4054-a157-9bbe2f256b23.jpg",
-    "seances": [
-      {
-        "heure": "11/10 20:30",
-        "cinema": "Nova"
-      }
-    ]
-  },
-  {
-    "titre": "Verity",
-    "annee": 2026,
-    "duree_minutes": 114,
-    "realisateurs": [
-      "Michael Showalter"
-    ],
-    "synopsis": "Lowen Ashleigh est une écrivaine solitaire. Peinant à vivre de son métier, elle accepte de devenir le prête-plume de l'autrice à succès, Verity Crawford, et s'installe dans sa propriété isolée des regards. En découvrant ce qui semble être les notes personnelles de Verity, la jeune Lowen se retrouve confrontée à des révélations troublantes et inquiétantes concernant Jeremy, le mari de Verity. Elle peine alors à distinguer la fiction de la réalité, la manipulation de l'attirance, le trouble de l'obsession.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c959ee1a-74e9-41f1-9197-b0b211f2529f.jpg",
-    "seances": [
-      {
-        "heure": "11/10 18:10",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Village of the Damned",
     "annee": 1995,
     "duree_minutes": 97,
@@ -1693,14 +1241,6 @@
     "synopsis": "Au moment crucial de la perte d’autonomie, des personnes âgées, leurs familles, soignants et aidants proches, entament un voyage initiatique en terre vieille, là où se jouent des affrontements, des pertes, des solidarités, des tendresses et des joies qui disent l’épaisseur du temps long de la vie… Une immersion au cœur d’histoires individuelles mettant en scène des volontés farouches qui se heurtent à des logiques institutionnelles dont elles sortent parfois gagnantes… ou perdantes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
-      {
-        "heure": "11/10 13:45",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/10 16:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/10 16:45",
         "cinema": "Vendôme"
@@ -1732,6 +1272,22 @@
       {
         "heure": "17/10 17:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Wardi",
+    "annee": 2019,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Mats Grorud"
+    ],
+    "synopsis": "Beyrouth, Liban, aujourd’hui. Wardi, une jeune Palestinienne de onze ans, vit avec toute sa famille dans le camp de réfugiés où elle est née. Sidi, son arrière-grand-père adoré, fut l’un des premiers à s’y installer après avoir été chassé de son village en 1948. Le jour où Sidi lui confie la clé de son ancienne maison en Galilée, Wardi craint qu’il ait perdu l’espoir d’y retourner un jour. Mais comment chaque membre de la famille peut-il aider à sa façon la petite fille à renouer avec cet espoir ?",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e20aedb5-68cf-4bd5-92cb-642611408753.jpeg",
+    "seances": [
+      {
+        "heure": "18/10 16:00",
+        "cinema": "Nova"
       }
     ]
   }

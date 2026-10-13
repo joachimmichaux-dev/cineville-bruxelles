@@ -116,7 +116,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-27559/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 4790
+      "nb_notes_spectateurs": 4791
     }
   },
   {
@@ -136,6 +136,85 @@
       }
     ],
     "allocine": null
+  },
+  {
+    "titre": "Born in the Jungle",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/10 10:30",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "302738",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-302738/critiques/presse/",
+      "note_moyenne_presse": 3.4,
+      "nb_critiques_presse": 9,
+      "critiques_presse": [
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 4.0,
+          "auteur": "Thibault Liessi",
+          "citation": "Dessin animé d’aventure à destination des plus jeunes, Joyeuse Jungle ! se révèle être une expédition des plus gaies en pleine nature tropicale. Cela tient à l’équilibre de l’histoire, avec juste ce qu’il faut d’agacement de l’héroïne, d’effronterie de son petit frère et de stupidité des méchants, des braconniers, pour que tout s’emboîte avec aisance."
+        },
+        {
+          "titre_presse": "L'Humanité",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Un film enchanteur aux couleurs chaudes."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 4.0,
+          "auteur": "Thibault Liessi",
+          "citation": "Mais la force majeure de Joyeuse Jungle ! saute aux yeux, ce sont ses dessins vivaces, aux couleurs chatoyantes, basés sur les travaux de l’artiste lettone Elīna Brasliņa. Ses illustrations retranscrivent l’opulence de cette nature moins sauvage qu’elle en a l’air, sans pour autant en occulter les dangers."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Renaud Baronian",
+          "citation": "Au menu, des rencontres avec plein d’animaux sympathiques, dont une bestiole magique, une lutte contre des méchants trafiquants d’espèces rares, la découverte d’une tribu ancienne secrète... Ce très joli film d’animation letton, au graphisme coloré et très épuré, fera la joie des plus jeunes... Les adultes qui les accompagneront ne s’ennuieront pas."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 4.0,
+          "auteur": "Gilles Tourman",
+          "citation": "Un message vivant et drôle sur la nécessité de respecter la nature."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 3.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Une échappée colorée, à hauteur d’enfants, où les animaux ont un rôle important."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 3.0,
+          "auteur": "Anne Lenoir",
+          "citation": "Après Jacob, Mimi et les chiens qui parlent, Edmunds Jansons poursuit son cinéma d'animation à hauteur d’enfant, entre aventure, humour et respect de la nature."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Cécile Mury",
+          "citation": "Un savoureux goûter animé pour petits cinéphiles."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 2.0,
+          "auteur": "P. Cr.",
+          "citation": "Malgré ses tableaux plaisants à admirer et une attrayante atmosphère, ce long-métrage d’animation aux couleurs vives destiné à un jeune public se délite un peu au fil de l’empilement des péripéties. Le sujet des choix de vie faits par les parents et subis par les enfants aurait quant à lui gagné en étoffe si le ressenti d’Elizabeth n’était rapidement balayé."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-302738/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 2.9,
+      "nb_notes_spectateurs": 4
+    }
   },
   {
     "titre": "Ceci n'est pas un film français",
@@ -200,6 +279,38 @@
       },
       {
         "heure": "13/10 21:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 15:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 13:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 21:30",
         "cinema": "Aventure"
       }
     ],
@@ -416,7 +527,217 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1937
+      "nb_notes_spectateurs": 2029
+    }
+  },
+  {
+    "titre": "Donnie Darko",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "19/10 21:20",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "34193",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-34193/critiques/presse/",
+      "note_moyenne_presse": 3.9,
+      "nb_critiques_presse": 16,
+      "critiques_presse": [
+        {
+          "titre_presse": "Libération",
+          "note": 5.0,
+          "auteur": "Philippe Garnier",
+          "citation": "Mi-attrape-coeur, mi-satire sociale, film fantastique, d'horreur et de SF, Donnie Darko est un fourre-tout périlleux et ambitieux jusqu'à l'insanité, mais qui reste avec vous après coup."
+        },
+        {
+          "titre_presse": "Aden",
+          "note": 4.0,
+          "auteur": "Philippe Piazzo",
+          "citation": "C'est l'une des belles et étranges idées de ce premier film : utiliser les effets spéciaux comme prolongement direct d'un état psychologique (ce que faisait pleinement Cronenberg dans Existenz)."
+        },
+        {
+          "titre_presse": "Chronic'art.com",
+          "note": 4.0,
+          "auteur": "Grégoire Bénabent",
+          "citation": "(...) même si le film est une rêverie (accompagnée d'une bande-son remarquable), le suspense est réel, tout en pressentiment, en frayeur contenue. (...) Un premier film singulier, intense, dans lequel tout ce qui échappe laisse une trace profonde."
+        },
+        {
+          "titre_presse": "Ciné Live",
+          "note": 4.0,
+          "auteur": "Philippe Paumier",
+          "citation": "Voir la critique sur www.cinelive.fr"
+        },
+        {
+          "titre_presse": "L'Express",
+          "note": 4.0,
+          "auteur": "Arnaud Malherbe",
+          "citation": "Voir la critique sur www.lexpress.fr"
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 4.0,
+          "auteur": "La rédaction",
+          "citation": "Voir la critique sur www.lefigaro.fr"
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 4.0,
+          "auteur": "Samuel Blumenfeld",
+          "citation": "Fable et pamphlet à la fois, le film de Richard Kelly se révèle d'une extraordinaire qualité ; ses ruptures de ton et sa construction abrupte le rendent plus estimable qu'intimidant."
+        },
+        {
+          "titre_presse": "MCinéma.com",
+          "note": 4.0,
+          "auteur": "Olivier Salvano",
+          "citation": "(...) ce film observe habilement les délires paranoïaques schizophréniques d'un adolescent mentalement perturbé... et finit par rendre l'âme même du spectateur un rien décérébrée. Une belle découverte."
+        },
+        {
+          "titre_presse": "Novaplanet.com",
+          "note": 4.0,
+          "auteur": "Alex Masson",
+          "citation": "Donnie Darko est un film multiple, univers à part entière mais en perpétuelle expansion. Capable de recomposer le portrait de l'Amérique composite, quelque part entre l'éternelle théorie du complot et la fable initiatique."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 4.0,
+          "auteur": "Gérard Delorme",
+          "citation": "Un peu à la manière d'Ouvre les yeux, il confronte fantasmes et réalités, et sa façon de jouer avec diverses vitesses de temps invite à revoir le film, au risque de s'égarer parfois dans des disgressions hasardeuses."
+        },
+        {
+          "titre_presse": "Studio Magazine",
+          "note": 4.0,
+          "auteur": "Thierry Cheze",
+          "citation": "Voir la critique sur www.studiomag.com"
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 4.0,
+          "auteur": "Aurélien Ferenczi",
+          "citation": "(...) un film hollywoodien qui, pendant près d'une heure, a réussi à intriguer le spectateur, contraint sans cesse de se demander où le metteur en scène veut l'emmener, on peut sans hésiter appeler ça un demi-succès."
+        },
+        {
+          "titre_presse": "Urbuz",
+          "note": 4.0,
+          "auteur": "Jean-Sébastien  Chauvin",
+          "citation": "Il y a un désir manifeste de creuser la complexité psychologique de son héros, chose assez rare dans un cinéma américain davantage porté sur les grandes figures mythologiques de son histoire."
+        },
+        {
+          "titre_presse": "Zurban",
+          "note": 4.0,
+          "auteur": "Véronique Le Bris",
+          "citation": "(...) le jeune réalisateur Richard Kelly, en compétition au Festival de Gérardmer avec ce premier film, révèle une réelle maîtrise de la mise en scène, et se risque à une approche gentiment critique de la famille américaine plutôt réussie."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 3.0,
+          "auteur": "Olivier Père",
+          "citation": "Donnie Darko est un cocktail new-age qui cherche l'originalité dans la compilation, un film bancal, inabouti, mais plutôt intrigant."
+        },
+        {
+          "titre_presse": "TéléCinéObs",
+          "note": 3.0,
+          "auteur": "Olivier Bonnard",
+          "citation": "(...) le film jouit d'un regard singulier, douloureusement mélancolique, sur l'adolescence, vue comme l'âge de la clairvoyance, mais souffre d'un scénario bancal."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-34193/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 4.0,
+      "nb_notes_spectateurs": 23818
+    }
+  },
+  {
+    "titre": "Ducobu et le fantôme de Saint-Potache",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/10 16:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "19/10 14:00",
+        "cinema": "Le Stockel"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "1000019249",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/presse/",
+      "note_moyenne_presse": 2.5,
+      "nb_critiques_presse": 10,
+      "critiques_presse": [
+        {
+          "titre_presse": "Femme Actuelle",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Le côté fantastique du récit devient un nouveau vecteur de gags, et les parents apprécieront le clin d'œil à un film de leur jeunesse."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Catherine Balle",
+          "citation": "Une comédie efficace et truffée d'effets spéciaux."
+        },
+        {
+          "titre_presse": "Télé 2 semaines",
+          "note": 4.0,
+          "auteur": "E.F.",
+          "citation": "Élie Semoun - qui réalise aussi le film - porte à nouveau ce sixième volet avec talent et espièglerie (...)."
+        },
+        {
+          "titre_presse": "Télé Loisirs",
+          "note": 4.0,
+          "auteur": "E.F.",
+          "citation": "L'ambiance Halloween, parfaite pour la saison, ravira petits et grands."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 2.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Bref, si le nouveau jeune homme incarnant Ducobu, Charlie Garnier Naslin, s'en sort cette fois plutôt bien, si le générique de début façon livre pop-up avec allusion à \"Ghost Busters\" est très réussi, si Jugnot s'amuse et amuse, et si le personnage d'Emilie Caen s'épaissit un peu, ce nouvel opus peine encore à trouver son rythme."
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 2.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Un (léger) vent féministe décoiffe l’intrigue, qui démolit surtout le conservatisme rigide et étriqué de l’instituteur Latouche, ramené à de meilleurs (bons) sentiments et de compréhension. L‘école et la pédagogie par l’humiliation, c’est mal, et ça, c’est toujours bien de le redire."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 2.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Quelle autre malédiction, que de retourner son antipathie tête à claques pour en faire (enfin, ouf) un gentil qui cesse de hurler comme un aliéné ? Voilà l’idée gentillette mais sympathique de cette nouvelle aventure cinématographique au temps d’Halloween, de ses fantômes et de ses bonbons dont l’histoire a la douceur sucrée."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 1.0,
+          "auteur": "Hervé Aubron",
+          "citation": "Le film parie à cet égard sur la fête d’Halloween et atteindra vraisemblablement son petit million d’entrées. Pendant ce temps, il aura bizarrement sollicité chez le spectateur le fantôme d’un enfant ou d’une enfance qui ne le concernent absolument pas, qui ne lui posent absolument pas de question. Ni un adulte ni un enfant (l’un n’empêchant pas l’autre) ne peuvent sortir heureux de ce genre de pochade."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 1.0,
+          "auteur": "Nicolas Didier",
+          "citation": "Une comédie poussiéreuse pas loin du zéro pointé."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 1.0,
+          "auteur": "Laurent Cambon",
+          "citation": "La comédie de trop, hélas, qui prend véritablement ses jeunes spectateurs pour des imbéciles."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 2.7,
+      "nb_notes_spectateurs": 100
     }
   },
   {
@@ -460,7 +781,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-15333/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 7169
+      "nb_notes_spectateurs": 7170
     }
   },
   {
@@ -655,23 +976,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-114976/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 7765
+      "nb_notes_spectateurs": 7768
     }
-  },
-  {
-    "titre": "Festival Financité : Ciné-Bingo",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "12/10 19:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Flanderns Germanisches Gesicht + Die Grosse Liebe",
@@ -692,6 +998,340 @@
     "allocine": null
   },
   {
+    "titre": "Forgotten Island",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "14/10 15:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 10:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 15:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 10:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 13:50",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "296642",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-296642/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-296642/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
+    }
+  },
+  {
+    "titre": "Francesco, giullare di Dio (The Flowers of St. Francis)",
+    "annee": 1950,
+    "duree_minutes": 87,
+    "realisateurs": [
+      "Roberto Rossellini"
+    ],
+    "synopsis": "Ce film fragmenté retrace la vie des Franciscains et dresse le portrait de François d'Assise. En neuf chapitres, il raconte l'histoire depuis les débuts de l'ordre franciscain jusqu'aux sermons des disciples.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9756b9a4-3854-410f-ad94-c045b0498e44.jpg",
+    "seances": [
+      {
+        "heure": "19/10 18:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": null
+  },
+  {
+    "titre": "Franz",
+    "annee": 2026,
+    "duree_minutes": 127,
+    "realisateurs": [
+      "Agnieszka Holland"
+    ],
+    "synopsis": "De son enfance à Prague jusqu’à sa disparition à Vienne, le film retrace le parcours de Franz Kafka, un homme déchiré entre son aspiration à une existence banale et son besoin irrépressible d’écrire, marqué par des relations amoureuses tourmentées.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
+    "seances": [
+      {
+        "heure": "14/10 20:25",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "19/10 18:00",
+        "cinema": "Le Stockel"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "248380",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-248380/critiques/presse/",
+      "note_moyenne_presse": 3.8,
+      "nb_critiques_presse": 41,
+      "critiques_presse": [
+        {
+          "titre_presse": "CNews",
+          "note": 5.0,
+          "auteur": "La rédaction",
+          "citation": "Servi par des acteurs talentueux et un jeu de lumières parfaitement maîtrisé, ce film suit le chemin de croix d’un résistant qui n’a jamais tourné le dos à ses convictions."
+        },
+        {
+          "titre_presse": "CinemaTeaser",
+          "note": 5.0,
+          "auteur": "Renan Cros",
+          "citation": "La fusion parfaite entre le Malick pré et post The Tree of Life."
+        },
+        {
+          "titre_presse": "Culturopoing.com",
+          "note": 5.0,
+          "auteur": "Miriem Méghaïzerou et Olivier Rossignot",
+          "citation": "Dépassant le concept de martyre chrétien, Malick donne une voix aux humbles, aux inconnus, aux vrais héros dont les tombes n’ont plus d’inscription. (...) Lumière et ténèbres s’enchevêtrent en un somptueux méandre, quelque part entre le psaume et le sépulcre."
+        },
+        {
+          "titre_presse": "Ecran Large",
+          "note": 5.0,
+          "auteur": "Simon Riaux",
+          "citation": "Ainsi, le dernier film de Terrence Malick s'impose comme un des plus denses de son auteur, un de ses plus accessibles et puissants."
+        },
+        {
+          "titre_presse": "Elle",
+          "note": 5.0,
+          "auteur": "Françoise Delbecq",
+          "citation": "Un film intense et envoûtant."
+        },
+        {
+          "titre_presse": "Femme Actuelle",
+          "note": 5.0,
+          "auteur": "Amélie Cordonnier",
+          "citation": "Un film dont la force et la beauté crèvent l'écran."
+        },
+        {
+          "titre_presse": "L'Express",
+          "note": 5.0,
+          "auteur": "Christophe Carrière",
+          "citation": "C'est un très grand film qui fait plus que s'apprécier : il se médite."
+        },
+        {
+          "titre_presse": "L'Obs",
+          "note": 5.0,
+          "auteur": "Nicolas Schaller",
+          "citation": "Immense film."
+        },
+        {
+          "titre_presse": "La Croix",
+          "note": 5.0,
+          "auteur": "Jean-Claude Raspiengeas",
+          "citation": "Le chef-d’œuvre de Terrence Malick apporte une réponse saisissante au tragique destin de Franz Jägerstätter, lumière fragile qui brille au cœur des ténèbres."
+        },
+        {
+          "titre_presse": "La Voix du Nord",
+          "note": 5.0,
+          "auteur": "Christophe Caron",
+          "citation": "Un cheminement spirituel aussi long que beau et profond."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 5.0,
+          "auteur": "Jean Serroy",
+          "citation": "D'une beauté formelle inouïe, ce film ample, tourné pour l'essentiel en lumière naturelle, dans le village de Franz Jägerstätter et même la maison où il habitait avec sa femme et ses enfants, est une fresque à la fois épique et intimiste."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 5.0,
+          "auteur": "Eric Neuhoff",
+          "citation": "Le réalisateur américain revient en grâce avec cette fresque épique qui met en scène un paysan autrichien farouchement opposé au régime nazi."
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 5.0,
+          "auteur": "Stéphanie Belpêche",
+          "citation": "Terrence Malick touche au sublime avec ce chef-d’œuvre instantané, qui terrasse par sa puissance évocatrice et l’ampleur de sa mise en scène."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 5.0,
+          "auteur": "La Rédaction",
+          "citation": "Un hymne au courage et à la foi en l'homme filmé dans une nature sublime. Magnifique."
+        },
+        {
+          "titre_presse": "Marianne",
+          "note": 5.0,
+          "auteur": "Olivier de Bruyn",
+          "citation": "Avec une inspiration stylistique qui rappelle ses meilleurs films (Les moissons du ciel, La ligne rouge), Terrence Malick filme l’attente, l’absence, l’espoir et entraîne le spectateur dans un long et sublime poème visuel."
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 5.0,
+          "auteur": "Philippe Fraisse",
+          "citation": "Une vie cachée fait partie de ces œuvres majeures qui ont le pouvoir de hanter longtemps le spectateur tant son héros, Franz Jägerstätter, par la radicalité scandaleuse de son engagement, remet en question notre rapport à l’existence dans ce qu’il a de plus essentiel."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 5.0,
+          "auteur": "Gaël Golhen",
+          "citation": "Terrence Malick revient à son lyrisme panthéiste et signe un film d’une beauté terrassante sur la foi et le doute."
+        },
+        {
+          "titre_presse": "Transfuge",
+          "note": 5.0,
+          "auteur": "Jean-Christophe Ferrari",
+          "citation": "Son cinéma donne à voir, dans sa totalité et à même l’écran, ce que la langue allemande nomme Sehnsucht, terme qui désigne à la fois un sentiment - nostalgie ou mélancolie - et un trait fondamental de l’être : la tendance, contradictoire mais contemporaine, à sortir de soi et à rentrer en soi-même."
+        },
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "Le cinéaste livre ici son film le plus accessible depuis longtemps."
+        },
+        {
+          "titre_presse": "Bande à part",
+          "note": 4.0,
+          "auteur": "Olivier Pélisson",
+          "citation": "L’ultra-formalisme embrasse certes le maniérisme, mais colle comme une seconde peau à cette épopée acharnée, à la lumière des saisons."
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Le récit d’un idéal pacifiste touchant au sublime."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Catherine Balle",
+          "citation": "Une œuvre bouleversante."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 4.0,
+          "auteur": "Ludovic Béot",
+          "citation": "En filmant un martyr du nazisme, Malick trouve l’image dont son cinéma semblait être en quête depuis toujours : le Christ. Le film restitue cette expérience merveilleuse où le sujet ultime d'un artiste, celui qui cristallise près de cinquante ans de filmographie, apparaît enfin devant ses yeux. Si, depuis quelques films, Malick ne manquait définitivement pas de style, un sujet lui échappait. Il l’a désormais trouvé."
+        },
+        {
+          "titre_presse": "Rolling Stone",
+          "note": 4.0,
+          "auteur": "Xavier Bonnet",
+          "citation": "Puissant."
+        },
+        {
+          "titre_presse": "Télé Loisirs",
+          "note": 4.0,
+          "auteur": "H.S.P.",
+          "citation": "Toujours aussi lyrique et aérien, Terrence Malick explore avec virtuosité cet épisode méconnu de l'histoire."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 4.0,
+          "auteur": "Jacques Morice",
+          "citation": "POUR : Car c’est bien vers la lumière et une forme d’élévation spirituelle, non de désespoir, que tend le film pourtant funeste, éloge d’un engagement extrême."
+        },
+        {
+          "titre_presse": "Voici",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Une aventure spirituelle pour le spectateur."
+        },
+        {
+          "titre_presse": "Franceinfo Culture",
+          "note": 3.0,
+          "auteur": "Jacky Bornet",
+          "citation": "La dramaturgie s’efface au profit du contemplatif, coutumier du cinéaste, mais inadapté au regard du sujet."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Murielle Joudet",
+          "citation": "Une vie cachée, qui est de loin le meilleur film du cinéaste depuis une décennie, demande un effort d’indulgence, une absence d’ironie, sans quoi les fulgurances qui sont toujours là, au détour d’un plan sur un enfant, un animal, la chambre d’un couple baignée de lumière, refusent d’apparaître."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 3.0,
+          "auteur": "La rédaction",
+          "citation": "Malick part de ce drame pour livrer une réflexion humaniste sur la foi, mais cède parfois à un maniérisme pompier."
+        },
+        {
+          "titre_presse": "Paris Match",
+          "note": 3.0,
+          "auteur": "Yannick Vely",
+          "citation": "Si Malick offre comme à l’accoutumée un film visuellement ébouriffant, quelques plans d’inspiration quasi divine, il utilise aussi jusqu’au trop plein ses longs travellings et contre plongées à la steadycam, dont la fluidité finit parfois par devenir un gimmick."
+        },
+        {
+          "titre_presse": "Télé 7 Jours",
+          "note": 3.0,
+          "auteur": "Laurent Djian",
+          "citation": "Terrence Malick peaufine chaque plan, magnifie la nature. Obsédé par la poésie de ses images, il créé toutefois une distance avec le spectateur, plus ébloui que réellement ému."
+        },
+        {
+          "titre_presse": "Critikat.com",
+          "note": 2.0,
+          "auteur": "Josué Morel",
+          "citation": "Malick retombe peu à peu dans ses travers, en procédant à un aplatissement par l’entremise d’un montage rouleau compresseur où tout se voit lyricisé jusqu’à l’épuisement."
+        },
+        {
+          "titre_presse": "La Septième Obsession",
+          "note": 2.0,
+          "auteur": "Thomas Aïdan",
+          "citation": "Le film n’est pas sans virtuosité, l’ouverture tissée d’images d’archives est vertigineuse, et certaines séquences font mouche, mais dans l’ensemble, il manque un souffle, une authenticité."
+        },
+        {
+          "titre_presse": "Marie Claire",
+          "note": 2.0,
+          "auteur": "La rédaction",
+          "citation": "Un grand délire fervent et mégalomane qui laissera plus d'un spectateur sur le carreau… hormis sans doute ses nombreux fans extatiques."
+        },
+        {
+          "titre_presse": "Ouest France",
+          "note": 2.0,
+          "auteur": "Gilles Kerdreux",
+          "citation": "Malick reste un virtuose de la caméra. Mais la durée gâche beaucoup le plaisir pour finalement ne pas nous dire grand chose des motivations profondes de cet objecteur de conscience anonyme guidé par la foi."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 2.0,
+          "auteur": "Sophie Avon",
+          "citation": "L’emphase et la longueur viennent à bout, hélas, de la puissance de la méditation."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 1.0,
+          "auteur": "Cyril Béghin",
+          "citation": "La mollesse des débats moraux d’Une vie cachée laisse vite, comme Malick en a pris l’habitude, le sentiment religieux flotter dans les facilités d’un panthéisme de carte postale qui sert de fond au mutisme des personnages."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 1.0,
+          "auteur": "Camille Nevers",
+          "citation": "[...] c’est un film assez grossier, taillé dans le lard, montage saucissonné et cinéma charcutier mais bien résolu à remporter les prix œcuméniques de tous les festivals [...]."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 1.0,
+          "auteur": "Guillemette Odicino",
+          "citation": "CONTRE : Une vie cachée n’est pas, comme son titre l’indique, la chronique d’une résistance à bas bruit, mais une lourde symphonie publicitaire pour le martyre et le paradis perdu."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 1.0,
+          "auteur": "Julien Dugois",
+          "citation": "Quoiqu’il n’évoque plus directement sa foi en Dieu, Terrence Malick ne trompe personne : c’est bien de cela qu’il est question à travers le récit de ce résistant autrichien. Sa morale bondieusarde perd toutefois beaucoup de son souffle dans cette allégorie peu subtile."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-248380/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 2255
+    }
+  },
+  {
     "titre": "Garance",
     "annee": 2026,
     "duree_minutes": 106,
@@ -701,38 +1341,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "12/10 16:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 18:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "12/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 14:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/10 16:20",
         "cinema": "Vendôme"
@@ -993,7 +1601,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2371
+      "nb_notes_spectateurs": 2427
     }
   },
   {
@@ -1007,7 +1615,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
     "seances": [
       {
-        "heure": "12/10 18:00",
+        "heure": "16/10 20:30",
         "cinema": "Le Stockel"
       }
     ],
@@ -1206,7 +1814,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2271
+      "nb_notes_spectateurs": 2294
     }
   },
   {
@@ -1232,31 +1840,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-11541/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 5214
-    }
-  },
-  {
-    "titre": "Inochi",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "13/10 12:40",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "196516",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-196516/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-196516/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "nb_notes_spectateurs": 5218
     }
   },
   {
@@ -1299,158 +1883,59 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-222/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 5758
+      "nb_notes_spectateurs": 5759
     }
   },
   {
-    "titre": "Knit Night #15 : Wool Man Sheep",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "titre": "L'Année de l'éveil",
+    "annee": 1991,
+    "duree_minutes": 103,
+    "realisateurs": [
+      "Gérard Corbiau"
+    ],
+    "synopsis": "Un collège d'enfants de troupe, dans la France de l'après-guerre - et un portrait d'orphelin-soldat tenaillé par les angoisses, le sexe et les brimades. Le deuxième film de Corbiau, après le succès de Le Maître de musique. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0322e43d-ed52-440c-ae0b-9cf296ce6c7f.jpg",
     "seances": [
       {
-        "heure": "12/10 20:40",
-        "cinema": "Aventure"
+        "heure": "19/10 21:15",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": {
-      "allocine_id": "115362",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-115362/critiques/presse/",
-      "note_moyenne_presse": 4.0,
-      "nb_critiques_presse": 21,
-      "critiques_presse": [
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 5.0,
-          "auteur": "Vincent Malausa",
-          "citation": "Il n'est pas interdit de voir dans ce second Batman version Nolan le sommet de toute la saga, tant le cinéaste s'approprie la matière mythologique de l'homme-chauve-souris sans une once de second degré, avec une naïveté, un sens du devoir un peu transi qui, loin de contribuer à livrer un monde clé en main (à la manière un peu autiste et cannibale de Burton), semble en permanence ouvert à tous les re-départs, tendu à l'extrême, sur le fil."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 5.0,
-          "auteur": "Chistophe Chadefaud",
-          "citation": "Voir sur le site www.cinelive.com"
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 5.0,
-          "auteur": "Barbara Théate",
-          "citation": "Christopher Nolan nous bluffe tout simplement, en réalisant une oeuvre quasi parfaite et totalement originale."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Jean-Marc Lalanne",
-          "citation": "On est ici, maintenant, et l'actualité hurle entre chaque image. (...) The Dark Knight [fait] le choix assumé du sérieux et du premier degré (...) désormais Batman avance dans une nuit épaisse, celle d'un concentré de fiction lourd du poids de l'époque."
-        },
-        {
-          "titre_presse": "MCinéma.com",
-          "note": 5.0,
-          "auteur": "Aurélien Allin",
-          "citation": "Du vrai grand cinéma de divertissement, et de très loin la meilleure aventure de Batman sur grand écran."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 5.0,
-          "auteur": "Philippe Ross",
-          "citation": "Sombre, intense et palpitant, voilà l'un des meilleurs films de superhéros."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 5.0,
-          "auteur": "Romain Le Vern",
-          "citation": "A la fois hommage aux grands thrillers paranoïaques des années 70, parabole contemporaine sur l'obsession sécuritaire US, réflexion sur le pouvoir et immense film de super-héros (peut-être le meilleur ?), The Dark Knight n'est rien de moins qu'un authentique chef-d'oeuvre dans un genre habitué à un standard très élevé."
-        },
-        {
-          "titre_presse": "Brazil",
-          "note": 4.0,
-          "auteur": "Véronique Kientzy",
-          "citation": "Un peu longuet (2h27), The Dark Knight reste une superproduction très honorable avec du fond et de la forme. Il fera un bon divertissement pour la fin de l'été."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 4.0,
-          "auteur": "Héléna Villovitch",
-          "citation": "Machiavélique, émouvant, désespéré. Dans le nouveau \"Batman\", c'est le Joker qu'on adore."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Thomas Sotinel",
-          "citation": "C'est sans doute là qu'il faut chercher la vraie singularité du film : dans l'intensité et la qualité uniforme de son interprétation."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Hubert Lizé",
-          "citation": "La fascination qu'exerce le film repose en partie sur la performance hallucianante du jeune acteur [Ledger] (...) [le] récit (...) emprunte plus aux codes du thriller qu'à l'univers fantastique (...) Un concentré d'adrénaline."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Un épatant duel aux frontières du bien et du mal."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Christian Viviani",
-          "citation": "Captivant et culotté."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 4.0,
-          "auteur": "Juliette Michaud",
-          "citation": "Voir le site www.studiomag.com"
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 4.0,
-          "auteur": "Olivier Bonnard",
-          "citation": "Ce nouveau Batman est passionnant, ambigu, voire dérangeant. Pas du tout pour les enfants. Un peu indigeste, également (...) Un grand film de superhéros malade, quoi !"
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Jérémie Couston",
-          "citation": "Avec The Dark Knight, Christopher Nolan et son frère Jonathan ont écrit l'épisode le plus sombre et le plus pessimiste de la saga (...). Heath Ledger crève littéralement l'écran."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Emmanuel Burdeau",
-          "citation": "The Dark Knight est un film grave. (...) Un héroïsme vraisemblable, réel (...) Christopher Nolan s'est résolu à élire la tyrannie du vrai pour un nouveau gouvernement."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "François Forestier",
-          "citation": "Les incohérences s'accumulent (...), les intrigues se télescopent (...), et pourtant il reste un réel talent : celui de faire de The Dark Knight une bizarrerie à résonances politiques (...) un film à la fois fascinant et frustrant."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Jean-François Morisse",
-          "citation": "Avouons d'emblée que ce nouvel opus est inégal. Malgré quelques scènes monumentales, l'ensemble s'avère long et la multiplicité des personnages ne simplifie pas la lecture et la compréhension de l'ensemble"
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 2.0,
-          "auteur": "Arnaud Schwartz",
-          "citation": "Ce nouvel épisode retient l'attention dans la manière dont il aborde la lutte contre le bien et le mal."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 2.0,
-          "auteur": "Didier Péron",
-          "citation": "Sa prestation [Ledger] limite, qui remplit d'une énergie incontrôlable chaque séquence où il apparaît, vide d'autant les scènes où il s'absente (...) Le film prête voix à une sourde demande fascistoïde, l'obsession générale du \"nettoyage\" de la ville confinant ici au grotesque."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-115362/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 114050
+      "allocine_id": "6658",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-6658/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6658/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 2.7,
+      "nb_notes_spectateurs": 39
+    }
+  },
+  {
+    "titre": "L'île des souvenirs",
+    "annee": 2026,
+    "duree_minutes": 98,
+    "realisateurs": [
+      "Joel Crawford Januel Mercado"
+    ],
+    "synopsis": "Jo et Raissa sont meilleures amies depuis la primaire. Aaprès avoir obtenu le baccalauréat, elles sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elles fêtent leur dernière soirée ensemble, les deux jeunes filles tombent sur un portail mystérieux qui les transporte sur l’île fantastique de Nakali, peuplée de créatures magiques tout droit sorties des contes mythologiques philippins de leur enfance…",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0c62a2d-3178-4a6f-816e-8b04aa7eaedf.jpg",
+    "seances": [
+      {
+        "heure": "17/10 14:00",
+        "cinema": "Le Stockel"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "296642",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-296642/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-296642/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -1487,18 +1972,6 @@
     "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
-      {
-        "heure": "12/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/10 16:10",
         "cinema": "Vendôme"
@@ -1745,7 +2218,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327941/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1738
+      "nb_notes_spectateurs": 1757
     }
   },
   {
@@ -1770,6 +2243,102 @@
       "nb_critiques_presse": 0,
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-187774/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
+    }
+  },
+  {
+    "titre": "Le Corset",
+    "annee": 2026,
+    "duree_minutes": 89,
+    "realisateurs": [
+      "Louis Clichy"
+    ],
+    "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
+    "seances": [
+      {
+        "heure": "14/10 15:50",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "16/10 18:25",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "18/10 15:25",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "20/10 14:00",
+        "cinema": "Le Stockel"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "321790",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-321790/critiques/presse/",
+      "note_moyenne_presse": 4.3,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-321790/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
+    }
+  },
+  {
+    "titre": "Le Crime de Monsieur Lange",
+    "annee": 1935,
+    "duree_minutes": 79,
+    "realisateurs": [
+      "Jean Renoir"
+    ],
+    "synopsis": "Un éditeur véreux pousse son entreprise à la faillite et disparaît. En son absence, l’affaire est renflouée par les employés. Une collaboration Prévert/Renoir exaltant les idéaux du Front Populaire et la solidarité de la classe ouvrière, par la mise en échec d’un patron-voyou et de la justice bourgeoise. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4688d9c9-9563-41a4-9f94-33cbb8393db0.jpg",
+    "seances": [
+      {
+        "heure": "19/10 20:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "3306",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-3306/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3306/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.6,
+      "nb_notes_spectateurs": 251
+    }
+  },
+  {
+    "titre": "Les Misérables",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 20:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "17/10 20:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "18/10 17:20",
+        "cinema": "Le Stockel"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "326160",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-326160/critiques/presse/",
+      "note_moyenne_presse": 3.3,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-326160/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
     }
@@ -1956,15 +2525,19 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
       {
-        "heure": "12/10 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 14:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 17:20",
         "cinema": "Aventure"
       }
     ],
@@ -2109,26 +2682,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037443/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 171
+      "nb_notes_spectateurs": 190
     }
-  },
-  {
-    "titre": "L’Atelier à 15 ans + À la recherche de S",
-    "annee": 0,
-    "duree_minutes": 85,
-    "realisateurs": [
-      "André Dartevelle",
-      "Gérard Corbiau"
-    ],
-    "synopsis": "Au sein de la RTBF Gérard Corbiau a travaillé comme réalisateur pour les émissions phares dont Neuf millions neuf notamment avec André Dartevelle. L’Atelier à 15 ans s’arrête sur les conditions de travail de jeunes travailleuses de la « Gaufrerie Champagne » à Moustier-sur-Sambre et la faillite de l’entreprise. Suivi de À la recherche de S, second conte musical, à partir des musiques du compositeur russe Igor Stravinsky. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "12/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Messer im Kopf",
@@ -2140,10 +2695,6 @@
     "synopsis": "Hoffmann, un scientifique innocent, se retrouve pris par hasard dans un affrontement entre des jeunes de gauche et les forces anti-émeute ; une balle tirée par la police le blesse alors grièvement à la tête. Il perd la mémoire, et les autorités créent un écran de fumée en prétendant qu'il est un terroriste ayant menacé un policier avec un couteau.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/892765b6-ab49-4e13-8fc3-b3ca4a6794cf.jpg",
     "seances": [
-      {
-        "heure": "12/10 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "14/10 20:00",
         "cinema": "Cinematek"
@@ -2158,6 +2709,36 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-26413/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
       "nb_notes_spectateurs": 3
+    }
+  },
+  {
+    "titre": "Mochy",
+    "annee": 2026,
+    "duree_minutes": 86,
+    "realisateurs": [
+      "Jérémie Degruson & Yanis Belaid"
+    ],
+    "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
+    "seances": [
+      {
+        "heure": "14/10 14:00",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "18/10 13:35",
+        "cinema": "Le Stockel"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "1000013643",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/presse/",
+      "note_moyenne_presse": 2.8,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -2249,7 +2830,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1832/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 34955
+      "nb_notes_spectateurs": 34956
     }
   },
   {
@@ -2436,7 +3017,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026296/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 313
+      "nb_notes_spectateurs": 319
     }
   },
   {
@@ -2450,42 +3031,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "12/10 15:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 17:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 18:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/10 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 14:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/10 15:20",
         "cinema": "Aventure"
@@ -2521,6 +3066,82 @@
       {
         "heure": "13/10 20:50",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 17:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 16:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 17:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 17:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 18:10",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "17/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 16:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 20:35",
+        "cinema": "Le Stockel"
       }
     ],
     "allocine": {
@@ -2591,8 +3212,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000051082/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 17
+      "note_moyenne_spectateurs": 3.2,
+      "nb_notes_spectateurs": 66
     }
   },
   {
@@ -2608,6 +3229,14 @@
       {
         "heure": "13/10 16:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 17:45",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "18/10 20:45",
+        "cinema": "Le Stockel"
       }
     ],
     "allocine": {
@@ -2853,7 +3482,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000023992/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 588
+      "nb_notes_spectateurs": 672
     }
   },
   {
@@ -2866,38 +3495,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "12/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 18:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 20:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/10 15:00",
         "cinema": "Galeries"
@@ -3190,7 +3787,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1758
+      "nb_notes_spectateurs": 1843
     }
   },
   {
@@ -3256,22 +3853,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "12/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 16:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 12:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "13/10 15:45",
         "cinema": "Palace"
@@ -3480,7 +4061,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 855
+      "nb_notes_spectateurs": 881
     }
   },
   {
@@ -3535,23 +4116,6 @@
     }
   },
   {
-    "titre": "Res Nullius",
-    "annee": 2026,
-    "duree_minutes": 67,
-    "realisateurs": [
-      "Thomas Jean"
-    ],
-    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
-    "seances": [
-      {
-        "heure": "13/10 12:50",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Resident Evil",
     "annee": 0,
     "duree_minutes": 89,
@@ -3562,11 +4126,31 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "12/10 21:30",
+        "heure": "13/10 21:40",
         "cinema": "Aventure"
       },
       {
-        "heure": "13/10 21:40",
+        "heure": "14/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 17:20",
         "cinema": "Aventure"
       }
     ],
@@ -3675,176 +4259,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2552
-    }
-  },
-  {
-    "titre": "Rose",
-    "annee": 2026,
-    "duree_minutes": 94,
-    "realisateurs": [
-      "Markus Schleinzer"
-    ],
-    "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
-    "seances": [
-      {
-        "heure": "13/10 13:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 13:30",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "319893",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-319893/critiques/presse/",
-      "note_moyenne_presse": 3.5,
-      "nb_critiques_presse": 23,
-      "critiques_presse": [
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 5.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Récompensée par un prix d’interprétation à la Berlinale, l’Allemande Sandra Hüller (Anatomie d’une chute, La Zone d’intérêt) porte haut ce film queer aux airs de western rural, au noir et blanc somptueux."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 5.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Drame âpre, Rose chevauche les codes du western rural, sur le thème de l’installation des fermiers et des pionniers de l’Ouest américain. Rose, c’est Sandra Hüller, admirable dans ce rôle tragique, une performance magnifique."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Laurence Houot",
-          "citation": "Avec des décors et des costumes réalistes contrastant avec un magnifique noir et blanc installant une atmosphère picturale hors du temps, et la puissance de jeu de Sandra Hüller, le film nous emporte loin dans le spectacle saisissant d'une aventure humaine qui en dit long sur le statut de la femme."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Sophie Joubert",
-          "citation": "Avec son noir et blanc soigné, ses lumières contrastées et ses cadres impeccables, le film regarde du côté de la peinture flamande sans pour autant être figé dans un passé révolu. Il y a quelque chose de très moderne dans le jeu de Sandra Hüller qui relie cette histoire au présent et à la condition des personnes queer."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Florent Boutet",
-          "citation": "Un récit magnifique sur un combat pour la liberté et l’ascension sociale au cœur de la bigoterie de l’Europe moderne."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Bruno Deruisseau",
-          "citation": "Dans son troisième long métrage, l’Autrichien Markus Schleinzer […] poursuit avec ce film son exploration glaciale des systèmes qui broient l’individu – religieux, domestique, patriarcal. Sandra Hüller y est sidérante."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Laura Tuillier",
-          "citation": "\"Rose\" (...) se tient en équilibre entre le fait divers extraordinaire et la fable quotidienne, la reconstitution historique toute en rudesse et le portrait énigmatique, et refuse presque systématiquement les effets de manche."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 4.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Récompensée cette fois par le prix d’interprétation à la Berlinale, l’actrice d’Anatomie d’une chute, Toni Erdmann, La Zone d'intérêt ou Projet Dernière Chance, pour ne citer qu’eux, impose à nouveau le trouble. Elle ne cherche pas la douceur, mais vise surtout à faire sortir les épines de cette Rose sur laquelle l’étau n’a de cesse de se refermer au fil des minutes, d’une manière implacable. À la Haneke."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Yannick Vely",
-          "citation": "Rose est un homme car elle joue le rôle d’un homme, c’est aussi simple que cela, et c’est toute la profondeur du jeu de Sandra Hüller que de nous convaincre de l’impossible."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Pour sa part, la comédienne allemande insuffle le trouble nécessaire à ce personnage marqué par l’horreur. Elle ne cherche ni la douceur, ni la compassion, mais à faire sortir les épines de cette Rose sur laquelle l’étau n’a de cesse de se refermer au fil des minutes."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Samuel Douhaire",
-          "citation": "Sandra Hüller époustouflante dans ce drame historique au noir et blanc superbe."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Un propos féministe juste et puissant."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Laurent Cambon",
-          "citation": "POUR. En échappant résolument à la facilité du manichéisme, Markus Schleinzer offre une œuvre complexe et puissante où Sandra Hüller démontre toute l’étendue de son talent d’actrice."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Nicolas Schaller",
-          "citation": "Sandra Hüller est bluffante en anti-héroïne queer dans ce manifeste féministe version XVIIᵉ siècle."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 3.0,
-          "auteur": "É. S.",
-          "citation": "L’homme en pantalon est en réalité une femme, Rose (Sandra Hüller). Dans ce Retour de Martin Guerre queer, l’« Isabelle Huppert » allemande joue un revenant mystérieux. Lauréate du prix d’interprétation à la Berlinale, elle parvient à rendre moins prévisible le scénario de Markus Schleinzer."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 3.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "Un réquisitoire contre le patriarcat de l’époque hypnotisant, même si statique et un peu austère."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Boris Bastide",
-          "citation": "Le réalisateur autrichien Markus Schleinzer met en scène l’histoire d’une héroïne qui, au XVIIᵉ siècle, usurpe l’identité d’un fermier. Un secret qui la sert, puis la menace. A voir."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 3.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "Porté par une magistrale Sandra Hüller, un film solide mais austère sur l'émancipation."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "homas Baurez",
-          "citation": "Ici le réalisme le plus cru se frotte à l’apparente artificialité de la mise en scène (on frôle la pose auteuriste) Au centre de toutes les attentions le visage de Sandra Hüller devient le territoire sensible du film. Son regard à la fois triste et bravache, insondable et pénétrant, renvoie un épais mystère."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 2.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Un récit féministe un peu laborieux, porté par Sandra Hüller."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 2.0,
-          "auteur": "Mathilde Grasset",
-          "citation": "Le dernier plan révèle en négatif ce que manque Schleinzer. Pendant de longues secondes, Hüller, nouvelle Jeanne d’Arc avec sa couronne sur la tête, reste immobile et absorbée. Brusquement, elle tourne son visage par réflexe, comme si quelqu’un l’appelait depuis le hors-champ : elle retrouve enfin une vie propre, de personnage et d’actrice."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 2.0,
-          "auteur": "Florence Colombani",
-          "citation": "On sent l’influence de Michael Haneke dans le plaisir à faire souffrir le spectateur, le message surligné et l’impression de pesanteur qui se dégage de l’ensemble."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 2.0,
-          "auteur": "Victoire Marin",
-          "citation": "CONTRE : Contemplatif et féministe mais pas assez innovant, le film convainc mais ne passionne pas."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 604
+      "nb_notes_spectateurs": 2593
     }
   },
   {
@@ -3884,15 +4299,31 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "12/10 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 16:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 17:45",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "15/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 19:10",
         "cinema": "Aventure"
       }
     ],
@@ -3900,7 +4331,7 @@
       "allocine_id": "1000026622",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/presse/",
       "note_moyenne_presse": 3.4,
-      "nb_critiques_presse": 14,
+      "nb_critiques_presse": 15,
       "critiques_presse": [
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -3937,6 +4368,12 @@
           "note": 4.0,
           "auteur": "Michael Ghennam",
           "citation": "Georgia Oakley adapte le classique de Jane Austen à sa manière - plus viscérale, moins satirique - sans en dénaturer le propos toujours contemporain."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 4.0,
+          "auteur": "Laurent Cambon",
+          "citation": "Cette magnifique adaptation du célèbre roman de Jane Austen offre, en plus d’une photographie impeccable, une allégorie romantique de l’amour et de ses renoncements."
         },
         {
           "titre_presse": "Cahiers du Cinéma",
@@ -3989,7 +4426,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 454
+      "nb_notes_spectateurs": 472
     }
   },
   {
@@ -4002,26 +4439,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "12/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 21:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 11:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 14:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/10 16:40",
         "cinema": "Palace"
@@ -4222,7 +4639,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000043221/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1504
+      "nb_notes_spectateurs": 1527
     }
   },
   {
@@ -4235,10 +4652,6 @@
     "synopsis": "Par une journée étouffante d’été à Tokyo, le jeune détective Murakami se fait voler son pistolet dans un bus bondé. Désespéré, il part à la recherche de l’arme, aidé par le détective expérimenté Sato. Leur enquête les mène dans les bas-fonds de la ville, où Murakami découvre que le voleur est un ancien soldat désœuvré, poussé au crime par la misère. Le film mêle suspense, critique sociale et une réflexion sur la culpabilité et la rédemption dans le Japon d’après-guerre.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a9b78108-4b9c-4085-893a-d858019178f1.jpg",
     "seances": [
-      {
-        "heure": "12/10 20:15",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "15/10 15:00",
         "cinema": "Cinematek"
@@ -4417,7 +4830,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-181541/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 28659
+      "nb_notes_spectateurs": 28665
     }
   },
   {
@@ -4483,14 +4896,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "12/10 21:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "13/10 19:15",
         "cinema": "Palace"
       }
@@ -4524,6 +4929,32 @@
     }
   },
   {
+    "titre": "The Devils",
+    "annee": 1971,
+    "duree_minutes": 111,
+    "realisateurs": [
+      "Ken Russell"
+    ],
+    "synopsis": "Dans la France de 1634, le charismatique père Urbain Grandier devient la cible d'accusations de sorcellerie lancées par une religieuse obsédée par le sexe — des accusations que des représentants corrompus de l'Église et de l'État s'empressent d'exploiter.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
+    "seances": [
+      {
+        "heure": "19/10 21:20",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "1841",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1841/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1841/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 4.1,
+      "nb_notes_spectateurs": 280
+    }
+  },
+  {
     "titre": "The Invite",
     "annee": 2026,
     "duree_minutes": 107,
@@ -4533,22 +4964,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "12/10 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/10 14:50",
         "cinema": "Galeries"
@@ -4568,6 +4983,18 @@
       {
         "heure": "13/10 21:35",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 18:00",
+        "cinema": "Aventure"
       }
     ],
     "allocine": {
@@ -4783,64 +5210,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 1522
-    }
-  },
-  {
-    "titre": "The Seventh Seal",
-    "annee": 1957,
-    "duree_minutes": 97,
-    "realisateurs": [
-      "Ingmar Bergman"
-    ],
-    "synopsis": "Au XIVe siècle, la grande peste ravage la Suède. De retour des croisades, le chevalier Antonius Blok rencontre la Mort sur son chemin. Espérant retarder l'échéance fatidique, le temps de trouver des réponses à ses questionnements métaphysiques, il lui propose une partie d'échecs. Sur la route, tandis que l'écuyer qui l'accompagne professe sa philosophie nihiliste, les deux hommes rencontrent le bateleur Jof qui chemine avec sa jeune famille au cœur du pays tourmenté et dit avoir vu la vierge Marie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/04662a2e-5b6f-4909-ae30-ba95bf7f588e.jpg",
-    "seances": [
-      {
-        "heure": "12/10 19:00",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "548",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-548/critiques/presse/",
-      "note_moyenne_presse": 4.6,
-      "nb_critiques_presse": 5,
-      "critiques_presse": [
-        {
-          "titre_presse": "France Soir",
-          "note": 5.0,
-          "auteur": "France Roche",
-          "citation": "[\"Le septième sceau\" est] un de ces films que l'on conservera dans les cinémathèques et que l'on projettera encore dans vingt ans au ciné-club. France-Soir, 20 avril 58"
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "La rédaction",
-          "citation": "\"Le septième sceau\" ! Un film si important dans une époque qui a perdu le sens du sacré, qu'il faut, l'ayant vu, le revoir au moins une fois pour en découvrir toutes les beautés, toutes les promesses, toutes les racines. Libération, 23 avril 58"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "La rédaction",
-          "citation": "Bergman atteint ici à cette plénitude de l'expression à partir de laquelle rien n'est impossible, celle de Murnau au moment de son Faust, celle d'Eisenstein au stade de son Nevsky. Positif 25-26, septembre 57"
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 4.0,
-          "auteur": "Jean Beranger",
-          "citation": "Ici, le dépuillement plastique provoque une impression un peu semblable à celle de la \"Jeanne d'Arc\" de Dreyer avec, en plus, des dialogues d'une grande beauté, et une partition musicale envoûtante. Cahiers du cinéma 70,a vril 57"
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Jean De Baroncelli",
-          "citation": "(…) sous rude écorce, \"Le septième sceau dissimule des trésors. Le Monde, 26 avril 58"
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-548/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 3646
+      "nb_notes_spectateurs": 1537
     }
   },
   {
@@ -4854,23 +5224,55 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
       {
-        "heure": "12/10 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 13:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 16:50",
         "cinema": "Aventure"
       },
       {
         "heure": "13/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 14:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 14:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 13:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 14:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 16:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 21:30",
         "cinema": "Aventure"
       }
     ],
@@ -5051,7 +5453,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026649/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 470
+      "nb_notes_spectateurs": 530
     }
   },
   {
@@ -5089,36 +5491,52 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "12/10 18:50",
+        "heure": "14/10 12:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 12:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 14:00",
         "cinema": "Aventure"
       }
     ],
     "allocine": null
   },
   {
-    "titre": "Village of the Damned",
-    "annee": 1995,
-    "duree_minutes": 97,
+    "titre": "Trotacalles",
+    "annee": 1951,
+    "duree_minutes": 101,
     "realisateurs": [
-      "John Carpenter"
+      "Matilde Landeta"
     ],
-    "synopsis": "Un jour d'automne, une force invisible et mystérieuse endort les habitants du modeste village de Midwich. Quelques semaines plus tard, le docteur Alan Chaffee découvre qu'une dizaine de ses patientes attendent un heureux événement.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/50dc0834-f580-4c50-8e78-e8469b47bfee.jpg",
+    "synopsis": "À Mexico, deux sœurs mènent des vies radicalement différentes : Maria, qui — épaulée par un groupe de collègues travailleuses du sexe solidaires — doit affronter des clients peu scrupuleux et violents ainsi que Rudy, son proxénète qui l'exploite ; et Elena, une femme de la haute société prisonnière d'un mariage de convenance, qui tombe sous le charme de Rudy, un séducteur intéressé par sa fortune.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/457591cc-adca-418c-8069-95418f7a2662.jpg",
     "seances": [
       {
-        "heure": "12/10 21:00",
+        "heure": "19/10 19:00",
         "cinema": "Cinematek"
       }
     ],
     "allocine": {
-      "allocine_id": "36795",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-36795/critiques/presse/",
+      "allocine_id": "203852",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-203852/critiques/presse/",
       "note_moyenne_presse": null,
       "nb_critiques_presse": 0,
       "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-36795/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 807
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-203852/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -5133,20 +5551,28 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
       {
-        "heure": "12/10 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 13:45",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 18:20",
         "cinema": "Le Stockel"
       },
       {
         "heure": "13/10 18:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 13:45",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 13:45",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 13:45",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 15:55",
+        "cinema": "Le Stockel"
       }
     ],
     "allocine": {

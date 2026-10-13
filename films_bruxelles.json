@@ -95,6 +95,20 @@
     ]
   },
   {
+    "titre": "Born in the Jungle",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/10 10:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Ceci n'est pas un film français",
     "annee": 2025,
     "duree_minutes": 80,
@@ -147,6 +161,70 @@
       {
         "heure": "13/10 21:10",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 15:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 13:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Donnie Darko",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "19/10 21:20",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Ducobu et le fantôme de Saint-Potache",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/10 16:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "19/10 14:00",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -200,20 +278,6 @@
     ]
   },
   {
-    "titre": "Festival Financité : Ciné-Bingo",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "12/10 19:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Flanderns Germanisches Gesicht + Die Grosse Liebe",
     "annee": 0,
     "duree_minutes": 116,
@@ -231,6 +295,72 @@
     ]
   },
   {
+    "titre": "Forgotten Island",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "14/10 15:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 10:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 15:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 10:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 13:50",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Francesco, giullare di Dio (The Flowers of St. Francis)",
+    "annee": 1950,
+    "duree_minutes": 87,
+    "realisateurs": [
+      "Roberto Rossellini"
+    ],
+    "synopsis": "Ce film fragmenté retrace la vie des Franciscains et dresse le portrait de François d'Assise. En neuf chapitres, il raconte l'histoire depuis les débuts de l'ordre franciscain jusqu'aux sermons des disciples.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9756b9a4-3854-410f-ad94-c045b0498e44.jpg",
+    "seances": [
+      {
+        "heure": "19/10 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Franz",
+    "annee": 2026,
+    "duree_minutes": 127,
+    "realisateurs": [
+      "Agnieszka Holland"
+    ],
+    "synopsis": "De son enfance à Prague jusqu’à sa disparition à Vienne, le film retrace le parcours de Franz Kafka, un homme déchiré entre son aspiration à une existence banale et son besoin irrépressible d’écrire, marqué par des relations amoureuses tourmentées.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
+    "seances": [
+      {
+        "heure": "14/10 20:25",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "19/10 18:00",
+        "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
     "titre": "Garance",
     "annee": 2026,
     "duree_minutes": 106,
@@ -240,38 +370,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "12/10 16:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 18:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "12/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 14:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/10 16:20",
         "cinema": "Vendôme"
@@ -301,7 +399,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
     "seances": [
       {
-        "heure": "12/10 18:00",
+        "heure": "16/10 20:30",
         "cinema": "Le Stockel"
       }
     ]
@@ -319,20 +417,6 @@
       {
         "heure": "13/10 21:15",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Inochi",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "13/10 12:40",
-        "cinema": "Aventure"
       }
     ]
   },
@@ -357,16 +441,34 @@
     ]
   },
   {
-    "titre": "Knit Night #15 : Wool Man Sheep",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "titre": "L'Année de l'éveil",
+    "annee": 1991,
+    "duree_minutes": 103,
+    "realisateurs": [
+      "Gérard Corbiau"
+    ],
+    "synopsis": "Un collège d'enfants de troupe, dans la France de l'après-guerre - et un portrait d'orphelin-soldat tenaillé par les angoisses, le sexe et les brimades. Le deuxième film de Corbiau, après le succès de Le Maître de musique. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0322e43d-ed52-440c-ae0b-9cf296ce6c7f.jpg",
     "seances": [
       {
-        "heure": "12/10 20:40",
-        "cinema": "Aventure"
+        "heure": "19/10 21:15",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "L'île des souvenirs",
+    "annee": 2026,
+    "duree_minutes": 98,
+    "realisateurs": [
+      "Joel Crawford Januel Mercado"
+    ],
+    "synopsis": "Jo et Raissa sont meilleures amies depuis la primaire. Aaprès avoir obtenu le baccalauréat, elles sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elles fêtent leur dernière soirée ensemble, les deux jeunes filles tombent sur un portail mystérieux qui les transporte sur l’île fantastique de Nakali, peuplée de créatures magiques tout droit sorties des contes mythologiques philippins de leur enfance…",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0c62a2d-3178-4a6f-816e-8b04aa7eaedf.jpg",
+    "seances": [
+      {
+        "heure": "17/10 14:00",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -395,18 +497,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
     "seances": [
       {
-        "heure": "12/10 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 21:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "13/10 16:10",
         "cinema": "Vendôme"
       },
@@ -429,6 +519,72 @@
       {
         "heure": "16/10 20:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Le Corset",
+    "annee": 2026,
+    "duree_minutes": 89,
+    "realisateurs": [
+      "Louis Clichy"
+    ],
+    "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
+    "seances": [
+      {
+        "heure": "14/10 15:50",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "16/10 18:25",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "18/10 15:25",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "20/10 14:00",
+        "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
+    "titre": "Le Crime de Monsieur Lange",
+    "annee": 1935,
+    "duree_minutes": 79,
+    "realisateurs": [
+      "Jean Renoir"
+    ],
+    "synopsis": "Un éditeur véreux pousse son entreprise à la faillite et disparaît. En son absence, l’affaire est renflouée par les employés. Une collaboration Prévert/Renoir exaltant les idéaux du Front Populaire et la solidarité de la classe ouvrière, par la mise en échec d’un patron-voyou et de la justice bourgeoise. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4688d9c9-9563-41a4-9f94-33cbb8393db0.jpg",
+    "seances": [
+      {
+        "heure": "19/10 20:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Les Misérables",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 20:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "17/10 20:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "18/10 17:20",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -482,33 +638,20 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
       {
-        "heure": "12/10 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 14:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 20:00",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "L’Atelier à 15 ans + À la recherche de S",
-    "annee": 0,
-    "duree_minutes": 85,
-    "realisateurs": [
-      "André Dartevelle",
-      "Gérard Corbiau"
-    ],
-    "synopsis": "Au sein de la RTBF Gérard Corbiau a travaillé comme réalisateur pour les émissions phares dont Neuf millions neuf notamment avec André Dartevelle. L’Atelier à 15 ans s’arrête sur les conditions de travail de jeunes travailleuses de la « Gaufrerie Champagne » à Moustier-sur-Sambre et la faillite de l’entreprise. Suivi de À la recherche de S, second conte musical, à partir des musiques du compositeur russe Igor Stravinsky. ",
-    "affiche_url": null,
-    "seances": [
+      },
       {
-        "heure": "12/10 19:00",
-        "cinema": "Cinematek"
+        "heure": "14/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 17:20",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -523,12 +666,28 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/892765b6-ab49-4e13-8fc3-b3ca4a6794cf.jpg",
     "seances": [
       {
-        "heure": "12/10 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "14/10 20:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Mochy",
+    "annee": 2026,
+    "duree_minutes": 86,
+    "realisateurs": [
+      "Jérémie Degruson & Yanis Belaid"
+    ],
+    "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
+    "seances": [
+      {
+        "heure": "14/10 14:00",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "18/10 13:35",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -590,42 +749,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
       {
-        "heure": "12/10 15:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 17:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 18:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/10 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 14:30",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "13/10 15:20",
         "cinema": "Aventure"
       },
@@ -660,6 +783,82 @@
       {
         "heure": "13/10 20:50",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 17:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 16:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 17:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 17:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 18:10",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "17/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 16:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 20:35",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -676,6 +875,14 @@
       {
         "heure": "13/10 16:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 17:45",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "18/10 20:45",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -689,38 +896,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "12/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 18:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 20:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/10 15:00",
         "cinema": "Galeries"
@@ -791,22 +966,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
       {
-        "heure": "12/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 16:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 12:45",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "13/10 15:45",
         "cinema": "Palace"
       },
@@ -837,22 +996,6 @@
     ]
   },
   {
-    "titre": "Res Nullius",
-    "annee": 2026,
-    "duree_minutes": 67,
-    "realisateurs": [
-      "Thomas Jean"
-    ],
-    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
-    "seances": [
-      {
-        "heure": "13/10 12:50",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Resident Evil",
     "annee": 0,
     "duree_minutes": 89,
@@ -863,32 +1006,32 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "12/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 21:40",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Rose",
-    "annee": 2026,
-    "duree_minutes": 94,
-    "realisateurs": [
-      "Markus Schleinzer"
-    ],
-    "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
-    "seances": [
-      {
-        "heure": "13/10 13:20",
-        "cinema": "Vendôme"
       },
       {
-        "heure": "13/10 13:30",
-        "cinema": "Palace"
+        "heure": "14/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 17:20",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -919,15 +1062,31 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "12/10 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 16:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 17:45",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "15/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 19:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 19:10",
         "cinema": "Aventure"
       }
     ]
@@ -942,26 +1101,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "12/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 21:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 11:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 14:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/10 16:40",
         "cinema": "Palace"
@@ -990,10 +1129,6 @@
     "synopsis": "Par une journée étouffante d’été à Tokyo, le jeune détective Murakami se fait voler son pistolet dans un bus bondé. Désespéré, il part à la recherche de l’arme, aidé par le détective expérimenté Sato. Leur enquête les mène dans les bas-fonds de la ville, où Murakami découvre que le voleur est un ancien soldat désœuvré, poussé au crime par la misère. Le film mêle suspense, critique sociale et une réflexion sur la culpabilité et la rédemption dans le Japon d’après-guerre.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a9b78108-4b9c-4085-893a-d858019178f1.jpg",
     "seances": [
-      {
-        "heure": "12/10 20:15",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "15/10 15:00",
         "cinema": "Cinematek"
@@ -1059,14 +1194,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "12/10 21:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "13/10 19:15",
         "cinema": "Palace"
       }
@@ -1089,6 +1216,22 @@
     ]
   },
   {
+    "titre": "The Devils",
+    "annee": 1971,
+    "duree_minutes": 111,
+    "realisateurs": [
+      "Ken Russell"
+    ],
+    "synopsis": "Dans la France de 1634, le charismatique père Urbain Grandier devient la cible d'accusations de sorcellerie lancées par une religieuse obsédée par le sexe — des accusations que des représentants corrompus de l'Église et de l'État s'empressent d'exploiter.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
+    "seances": [
+      {
+        "heure": "19/10 21:20",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "The Invite",
     "annee": 2026,
     "duree_minutes": 107,
@@ -1098,22 +1241,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "12/10 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/10 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/10 14:50",
         "cinema": "Galeries"
@@ -1133,22 +1260,18 @@
       {
         "heure": "13/10 21:35",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "The Seventh Seal",
-    "annee": 1957,
-    "duree_minutes": 97,
-    "realisateurs": [
-      "Ingmar Bergman"
-    ],
-    "synopsis": "Au XIVe siècle, la grande peste ravage la Suède. De retour des croisades, le chevalier Antonius Blok rencontre la Mort sur son chemin. Espérant retarder l'échéance fatidique, le temps de trouver des réponses à ses questionnements métaphysiques, il lui propose une partie d'échecs. Sur la route, tandis que l'écuyer qui l'accompagne professe sa philosophie nihiliste, les deux hommes rencontrent le bateleur Jof qui chemine avec sa jeune famille au cœur du pays tourmenté et dit avoir vu la vierge Marie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/04662a2e-5b6f-4909-ae30-ba95bf7f588e.jpg",
-    "seances": [
+      },
       {
-        "heure": "12/10 19:00",
-        "cinema": "Cinema RITCS"
+        "heure": "16/10 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 18:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -1163,23 +1286,55 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
       {
-        "heure": "12/10 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 13:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 16:50",
         "cinema": "Aventure"
       },
       {
         "heure": "13/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 14:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 14:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 13:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 14:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 16:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 21:30",
         "cinema": "Aventure"
       }
     ]
@@ -1209,23 +1364,39 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "12/10 18:50",
+        "heure": "14/10 12:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 12:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 14:00",
         "cinema": "Aventure"
       }
     ]
   },
   {
-    "titre": "Village of the Damned",
-    "annee": 1995,
-    "duree_minutes": 97,
+    "titre": "Trotacalles",
+    "annee": 1951,
+    "duree_minutes": 101,
     "realisateurs": [
-      "John Carpenter"
+      "Matilde Landeta"
     ],
-    "synopsis": "Un jour d'automne, une force invisible et mystérieuse endort les habitants du modeste village de Midwich. Quelques semaines plus tard, le docteur Alan Chaffee découvre qu'une dizaine de ses patientes attendent un heureux événement.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/50dc0834-f580-4c50-8e78-e8469b47bfee.jpg",
+    "synopsis": "À Mexico, deux sœurs mènent des vies radicalement différentes : Maria, qui — épaulée par un groupe de collègues travailleuses du sexe solidaires — doit affronter des clients peu scrupuleux et violents ainsi que Rudy, son proxénète qui l'exploite ; et Elena, une femme de la haute société prisonnière d'un mariage de convenance, qui tombe sous le charme de Rudy, un séducteur intéressé par sa fortune.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/457591cc-adca-418c-8069-95418f7a2662.jpg",
     "seances": [
       {
-        "heure": "12/10 21:00",
+        "heure": "19/10 19:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1242,20 +1413,28 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
       {
-        "heure": "12/10 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 13:45",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/10 18:20",
         "cinema": "Le Stockel"
       },
       {
         "heure": "13/10 18:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 13:45",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 13:45",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 13:45",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 15:55",
+        "cinema": "Le Stockel"
       }
     ]
   },

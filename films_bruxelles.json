@@ -1,5 +1,19 @@
 [
   {
+    "titre": " Karakuş'lar",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/10 16:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "10 ans de Tënk",
     "annee": 0,
     "duree_minutes": 0,
@@ -10,6 +24,38 @@
       {
         "heure": "16/10 21:00",
         "cinema": "Nova"
+      }
+    ]
+  },
+  {
+    "titre": "21 Grams",
+    "annee": 2003,
+    "duree_minutes": 124,
+    "realisateurs": [
+      "Alejandro González Iñárritu"
+    ],
+    "synopsis": "Autour d'un accident tragique, et d'un cœur attendu pour une transplantation, un film d'une émotion à la fois pure et infinie, où Sean Penn - magnifique - trouve un de ses tout meilleurs rôle.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/31a22936-d3a1-45ec-8340-bce1d2f5966d.jfif",
+    "seances": [
+      {
+        "heure": "17/10 20:50",
+        "cinema": "Cineflagey"
+      }
+    ]
+  },
+  {
+    "titre": "A Hora da Estrela (Hour of the Star)",
+    "annee": 1985,
+    "duree_minutes": 95,
+    "realisateurs": [
+      "Suzana Amaral"
+    ],
+    "synopsis": "Macabéa vient de s'installer dans la grande ville après le décès de la tante qui l'avait élevée. Elle trouve un emploi de dactylo et emménage dans une pension avec trois autres femmes. Pendant son temps libre, elle écoute une station de radio appelée Time ; le dimanche, elle aime prendre le métro. Elle rencontre alors Olímpico, originaire du Nord-Est comme elle, qui rêve de devenir député.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8de65d56-9d41-4c7d-8199-e2fcdb70feda.jpg",
+    "seances": [
+      {
+        "heure": "20/10 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -46,18 +92,104 @@
     ]
   },
   {
-    "titre": "Apple Cider Vinegar",
-    "annee": 2024,
-    "duree_minutes": 80,
+    "titre": "Akira",
+    "annee": 1988,
+    "duree_minutes": 124,
     "realisateurs": [
-      "Sofie Benoot "
+      "Katsuhiro Otomo"
     ],
-    "synopsis": "Les pierres sont à la fois l'un des éléments de construction les plus fondamentaux et les plus négligés de notre monde. Lorsqu’une narratrice de documentaires sur la nature à la retraite se penche sur son calcul rénal elle décide de raconter une dernière histoire : celle des pierres oubliées de notre monde. Apple Cider Vinegar est un essai cinématographique hypnotique qui pose des questions écologiques urgentes et nous emmène dans un voyage à la rencontre de tailleurs de pierre palestiniens de géologues britanniques passionnés et des habitants des champs de lave de Fogo.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2adc9280-672b-4bc6-8593-7dd1893019d5.jpeg",
+    "synopsis": "Ce classique du cyberpunk suit un jeune motard dont les pouvoirs psychiques deviennent incontrôlables et le menacent, lui et le monde.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/bf96c741-55f5-443d-8b4f-5e022ef6eec3.jpg",
     "seances": [
       {
-        "heure": "13/10 19:00",
-        "cinema": "Cinema RITCS"
+        "heure": "18/10 20:50",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Alice au pays des colons",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 14:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "18/10 12:00",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Andiamo a bere l'ultima",
+    "annee": 2026,
+    "duree_minutes": 100,
+    "realisateurs": [
+      "Francesco Sossai"
+    ],
+    "synopsis": "Carlobianchi et Doriano, deux quinquagénaires fauchés, sillonnent les rues la nuit, de bar en bar, obsédés par l'idée de trouver un dernier verre. Sur leur chemin, ils croisent celui de Giulio, un étudiant en architecture aussi timide que naïf. Cette rencontre inattendue avec ces deux mentors improbables va bouleverser sa vision du monde et de l'amour, et changer radicalement son avenir.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
+    "seances": [
+      {
+        "heure": "14/10 13:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 15:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 15:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 21:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 15:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 21:00",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -74,6 +206,52 @@
       {
         "heure": "16/10 19:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "BIWFF : Courts métrages internationaux - séance 1",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "14/10 20:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "BIWFF : Courts métrages internationaux - séance 2",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/10 20:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "BIWFF: Graines de cineastes",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 20:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 20:30",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -109,6 +287,50 @@
     ]
   },
   {
+    "titre": "CONTRECHAMPS #3 : Going to Mars, The Nikki Giovanni Project",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "Nikki Giovanni est l’une des voix les plus influentes de la communauté afro-américaine depuis les années 60, de par sa contribution indélébile à la lutte pour la justice et l’équité sociale, empreinte d'une oeuvre poétique et militante d'une grande inspiration pour les femmes noires d’hier et d’aujourd’hui. Ce documentaire revient habilement sur les moments les plus marquants de sa vie, des fragments aussi de son quotidien, entre archives du passé et incursions dans le présent. Un hommage touchant à cette personnalité qui continue d’émouvoir et de surprendre avec une franchise déconcertante.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/aebf0b43-37ba-4442-855f-75257643a719.jpg",
+    "seances": [
+      {
+        "heure": "15/10 18:30",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Carcosian Film Night Part 1",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "La Carcosian vous présente une soirée très spéciale autour de la restauration d'un film culte devenu invisible : The Devils, de Ken Russel. La première partie sera consacrée à une table ronde, présentation du film (en français) et concours, suivi de 3 court-métrages typiquement Carcosian.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/be399694-8e75-46a9-8bb4-cec8fa22f550.jpeg",
+    "seances": [
+      {
+        "heure": "16/10 19:00",
+        "cinema": "Cineflagey"
+      }
+    ]
+  },
+  {
+    "titre": "Carcosian Film Night Part 2",
+    "annee": 0,
+    "duree_minutes": 114,
+    "realisateurs": [
+      "Ken Russell"
+    ],
+    "synopsis": "Un récit historique dramatisé sur l’ascension et la chute d’Urbain Grandier, un prêtre catholique romain du XVIIe siècle accusé de sorcellerie à la suite des prétendues possessions de Loudun, en France ; il met également en lumière sœur Jeanne des Anges, une religieuse sexuellement réprimée qui, sans le vouloir, déclenche les accusations.",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "16/10 21:00",
+        "cinema": "Cineflagey"
+      }
+    ]
+  },
+  {
     "titre": "Ceci n'est pas un film français",
     "annee": 2025,
     "duree_minutes": 80,
@@ -119,8 +341,46 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "13/10 21:30",
+        "heure": "15/10 11:45",
         "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 11:55",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Coward",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
+    "seances": [
+      {
+        "heure": "18/10 16:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 19:00",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "De l'autre côté du soleil (The Other Side of the Sun)",
+    "annee": 2026,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Tawfik Sabouni"
+    ],
+    "synopsis": "Après la chute du régime de Bachar al-Assad, Tawfik Sabouni réunit des survivants de la prison de Saidnaya. Ensemble, entre les murs de la prison libérée, ils recomposent la mémoire de leurs années volées. En reprenant la parole, ils témoignent pour celles et ceux qui ne peuvent plus parler.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/473b4fdb-163c-4a26-99b0-1724ebffa42f.jpg",
+    "seances": [
+      {
+        "heure": "14/10 19:00",
+        "cinema": "Cineflagey"
       }
     ]
   },
@@ -155,20 +415,16 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "13/10 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "14/10 19:10",
         "cinema": "Aventure"
       },
       {
         "heure": "15/10 15:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 21:00",
+        "cinema": "Cineflagey"
       },
       {
         "heure": "15/10 21:30",
@@ -187,11 +443,19 @@
         "cinema": "Aventure"
       },
       {
+        "heure": "18/10 16:00",
+        "cinema": "Cineflagey"
+      },
+      {
         "heure": "18/10 19:10",
         "cinema": "Aventure"
       },
       {
         "heure": "19/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 19:10",
         "cinema": "Aventure"
       }
     ]
@@ -246,6 +510,22 @@
     ]
   },
   {
+    "titre": "Ellas en la cuidad",
+    "annee": 2025,
+    "duree_minutes": 72,
+    "realisateurs": [
+      "Reyes Gallegos Rodríguez"
+    ],
+    "synopsis": "Dans les années 70, une génération de femmes a changé le destin de leurs quartiers de banlieue à Séville. Ces femmes racontent leur histoire à travers trois quartiers de la ville, dévoilant comment elles soutiennent une ville qui leur tourne le dos, et en partageant leurs luttes liées au genre, aux soins, à l’urbanisme, à l’éducation et à la politique.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/56af4827-aad4-469d-accb-bb71e533fae2.jpg",
+    "seances": [
+      {
+        "heure": "16/10 18:00",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
     "titre": "Escape from L.A.",
     "annee": 1996,
     "duree_minutes": 101,
@@ -278,6 +558,20 @@
     ]
   },
   {
+    "titre": "Fini de rire ! L'humour politique au garde-à-vous ?",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "20/10 19:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Flanderns Germanisches Gesicht + Die Grosse Liebe",
     "annee": 0,
     "duree_minutes": 116,
@@ -289,7 +583,7 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "13/10 18:00",
+        "heure": "20/10 20:00",
         "cinema": "Cinematek"
       }
     ]
@@ -320,6 +614,10 @@
       },
       {
         "heure": "19/10 13:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 14:40",
         "cinema": "Aventure"
       }
     ]
@@ -355,8 +653,36 @@
         "cinema": "Le Stockel"
       },
       {
+        "heure": "14/10 21:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 18:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 16:25",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 21:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 12:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 13:45",
+        "cinema": "Palace"
+      },
+      {
         "heure": "19/10 18:00",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "20/10 21:05",
+        "cinema": "Palace"
       }
     ]
   },
@@ -371,20 +697,255 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
       {
-        "heure": "13/10 16:20",
+        "heure": "14/10 16:10",
         "cinema": "Vendôme"
       },
       {
-        "heure": "13/10 18:45",
+        "heure": "14/10 16:15",
         "cinema": "Palace"
       },
       {
-        "heure": "13/10 19:10",
+        "heure": "14/10 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 18:45",
         "cinema": "Vendôme"
       },
       {
-        "heure": "13/10 21:10",
+        "heure": "14/10 21:25",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 15:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 21:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 21:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 11:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 19:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 21:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 11:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 18:55",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 21:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 11:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 21:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 15:35",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 21:15",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Gruffalo, de père en fils",
+    "annee": 2026,
+    "duree_minutes": 53,
+    "realisateurs": [
+      "Jakob Schuh",
+      "Max Lang",
+      "Johannes Weiland",
+      "Uwe Heidschötter"
+    ],
+    "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
+    "seances": [
+      {
+        "heure": "14/10 13:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "14/10 13:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 14:35",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 15:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 15:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 10:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/10 10:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 10:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 15:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 15:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 10:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 10:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "18/10 15:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 10:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 12:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "19/10 15:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 16:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 10:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 13:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "20/10 15:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 16:50",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Happy Birthday",
+    "annee": 2025,
+    "duree_minutes": 95,
+    "realisateurs": [
+      "Sarah Goher"
+    ],
+    "synopsis": "À travers le portrait de Toha, 8 ans, employée comme domestique, le film révèle les contrastes sociaux et les réalités brutales du travail des enfants au sein d’une famille aisée du Caire.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7ef8dbe1-a5f9-49a6-a7fd-9ff81f178d15.jpg",
+    "seances": [
+      {
+        "heure": "18/10 16:45",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -401,22 +962,60 @@
       {
         "heure": "16/10 20:30",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "20/10 18:00",
+        "cinema": "Le Stockel"
       }
     ]
   },
   {
-    "titre": "In The Mouth of Madness",
-    "annee": 1994,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "John Carpenter"
-    ],
-    "synopsis": "Un enquêteur d’assurance découvre que les livres d’un auteur d’horreur ont le pouvoir de rendre leurs lecteurs fous et de libérer des créatures monstrueuses.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4f777016-37cc-4589-934f-9c036b1ad788.jpg",
+    "titre": "Joyeuse Jungle",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "13/10 21:15",
-        "cinema": "Cinematek"
+        "heure": "14/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 14:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/10 11:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 11:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "18/10 13:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 13:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "19/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 15:00",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -431,12 +1030,40 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4f12bd22-89a7-492f-8ae4-d6d44dd5584d.jpeg",
     "seances": [
       {
-        "heure": "13/10 19:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "18/10 21:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Ken Russell’s The Devils",
+    "annee": 1971,
+    "duree_minutes": 111,
+    "realisateurs": [
+      "Ken Russell"
+    ],
+    "synopsis": "Dans la France de 1634, le charismatique père Urbain Grandier devient la cible d'accusations de sorcellerie lancées par une religieuse obsédée par le sexe — des accusations que des représentants corrompus de l'Église et de l'État s'empressent d'exploiter.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
+    "seances": [
+      {
+        "heure": "15/10 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 21:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 21:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 21:20",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "19/10 21:20",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -457,6 +1084,166 @@
     ]
   },
   {
+    "titre": "L'Espèce explosive",
+    "annee": 2026,
+    "duree_minutes": 95,
+    "realisateurs": [
+      "Sarah Arnold"
+    ],
+    "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
+    "seances": [
+      {
+        "heure": "14/10 12:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 17:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 18:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 19:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 21:05",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "15/10 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 16:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 18:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 21:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 17:00",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "16/10 17:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 18:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 19:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 12:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 17:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 18:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 19:00",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "17/10 19:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 19:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 20:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 12:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 17:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 18:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 21:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 12:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 15:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 17:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 19:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "L'île des souvenirs",
     "annee": 2026,
     "duree_minutes": 98,
@@ -473,6 +1260,23 @@
     ]
   },
   {
+    "titre": "La Bambine",
+    "annee": 2026,
+    "duree_minutes": 105,
+    "realisateurs": [
+      "Valentina Bertani",
+      "Nicole Bertani"
+    ],
+    "synopsis": "Ode à l’enfance dans l’Italie des années 90, ce récit initiatique suit trois fillettes rebelles qui créent leur propre univers pour échapper à la négligence des adultes.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0ef93dcf-68e6-40cd-8b7d-243f2f013842.jpg",
+    "seances": [
+      {
+        "heure": "17/10 20:30",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
     "titre": "La Gradiva",
     "annee": 2026,
     "duree_minutes": 145,
@@ -481,28 +1285,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
       {
-        "heure": "13/10 20:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "La Vie d'une femme",
-    "annee": 2026,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Charline Bourgeois-Tacquet"
-    ],
-    "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
-    "seances": [
-      {
-        "heure": "13/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 21:10",
-        "cinema": "Vendôme"
+        "heure": "20/10 20:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -533,20 +1317,148 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
       {
+        "heure": "14/10 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 15:25",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "14/10 15:50",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "14/10 16:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "15/10 16:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "15/10 16:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 12:10",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "16/10 14:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 17:00",
+        "cinema": "Galeries"
       },
       {
         "heure": "16/10 18:25",
         "cinema": "Le Stockel"
       },
       {
+        "heure": "17/10 13:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 13:10",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/10 14:45",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "17/10 15:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 16:10",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/10 16:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 12:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "18/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 14:15",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "18/10 15:00",
+        "cinema": "Palace"
+      },
+      {
         "heure": "18/10 15:25",
         "cinema": "Le Stockel"
       },
       {
+        "heure": "18/10 16:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "18/10 17:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 10:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "19/10 13:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 15:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "19/10 16:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "19/10 16:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 17:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 11:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 13:00",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "20/10 14:00",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "20/10 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 16:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "20/10 17:30",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -563,6 +1475,22 @@
       {
         "heure": "19/10 20:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Le sommet des Dieux",
+    "annee": 2022,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Patrick Imbert"
+    ],
+    "synopsis": "A Katmandou, le reporter japonais Fukamachi croit reconnaître Habu Jôji, cet alpiniste que l’on pensait disparu depuis des années. Il semble tenir entre ses mains un appareil photo qui pourrait changer l’histoire de l’alpinisme. Et si George Mallory et Andrew Irvine étaient les premiers hommes à avoir atteint le sommet de l’Everest, le 8 juin 1924 ? Seul le petit Kodak Vest Pocket avec lequel ils devaient se photographier sur le toit du monde pourrait livrer la vérité. 70 ans plus tard, pour tenter de résoudre ce mystère, Fukamachi se lance sur les traces de Habu. Il découvre un monde de passionnés assoiffés de conquêtes impossibles et décide de l’accompagner jusqu’au voyage ultime vers le sommet des dieux.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b5f155e-e322-4fac-b6b5-78032c5264b8.jpeg",
+    "seances": [
+      {
+        "heure": "17/10 17:00",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -638,10 +1566,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
       {
-        "heure": "13/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "14/10 17:20",
         "cinema": "Aventure"
       },
@@ -651,6 +1575,40 @@
       },
       {
         "heure": "18/10 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 17:20",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Mad Max 2",
+    "annee": 1981,
+    "duree_minutes": 96,
+    "realisateurs": [
+      "George Miller"
+    ],
+    "synopsis": "Dans un futur non défini, la guerre fait rage autour du pétrole dont les réserves sont pratiquement épuisées. Mad Max, un ancien agent de la sécurité routière vient au secours d’une petite communauté aux prises avec des pirates de la route qui cherchent à mettre la main sur une usine de raffinerie. Une poursuite haletante comme unique trame d’un scénario aussi simple que diablement efficace, pour le deuxième volet d’une célèbre saga australienne devenue culte. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0160bace-affb-4e39-8e7e-8729c73e7909.jpg",
+    "seances": [
+      {
+        "heure": "15/10 18:50",
+        "cinema": "Cineflagey"
+      }
+    ]
+  },
+  {
+    "titre": "Mes Chers Neurones",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "15/10 18:00",
         "cinema": "Aventure"
       }
     ]
@@ -682,11 +1640,75 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
     "seances": [
       {
+        "heure": "14/10 13:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 13:40",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "14/10 14:00",
         "cinema": "Le Stockel"
       },
       {
+        "heure": "14/10 16:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 12:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 13:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 10:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 13:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 13:30",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "18/10 13:35",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "19/10 12:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 13:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 13:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 13:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 13:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 16:00",
         "cinema": "Le Stockel"
       }
     ]
@@ -724,15 +1746,67 @@
     ]
   },
   {
-    "titre": "Mémoire de fille",
-    "annee": 2026,
-    "duree_minutes": 117,
+    "titre": "Nagi Notes",
+    "annee": 0,
+    "duree_minutes": 0,
     "realisateurs": [],
-    "synopsis": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu’elle s’y rend, elle est prise d’un vertige et replonge dans le souvenir de l’été 1958, celui de sa première nuit avec un homme. Nuit dont l’onde de choc s’est propagée violemment dans son corps et sur le reste de son existence.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/312e304e-951b-49df-b14b-5639b88b3b86.jpg",
+    "synopsis": "",
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "13/10 16:15",
+        "heure": "14/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 14:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 14:55",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 16:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 18:40",
         "cinema": "Vendôme"
       }
     ]
@@ -749,39 +1823,11 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
       {
-        "heure": "13/10 15:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 17:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/10 18:00",
+        "heure": "14/10 14:00",
         "cinema": "Palace"
       },
       {
-        "heure": "13/10 18:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 18:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "13/10 20:50",
+        "heure": "14/10 15:35",
         "cinema": "Vendôme"
       },
       {
@@ -789,36 +1835,120 @@
         "cinema": "Aventure"
       },
       {
+        "heure": "14/10 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 18:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 19:15",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "14/10 20:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 21:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 13:15",
+        "cinema": "Palace"
       },
       {
         "heure": "15/10 14:00",
         "cinema": "Aventure"
       },
       {
+        "heure": "15/10 14:15",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "15/10 16:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "15/10 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 18:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 18:50",
+        "cinema": "Galeries"
       },
       {
         "heure": "15/10 20:00",
         "cinema": "Aventure"
       },
       {
+        "heure": "15/10 21:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 13:35",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "16/10 14:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "16/10 14:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 14:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "16/10 15:35",
+        "cinema": "Vendôme"
       },
       {
         "heure": "16/10 17:10",
         "cinema": "Aventure"
       },
       {
+        "heure": "16/10 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 18:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 18:50",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "16/10 20:00",
         "cinema": "Aventure"
       },
       {
+        "heure": "16/10 21:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 13:30",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "17/10 14:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 14:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 15:15",
+        "cinema": "Galeries"
       },
       {
         "heure": "17/10 17:10",
@@ -829,28 +1959,92 @@
         "cinema": "Le Stockel"
       },
       {
+        "heure": "17/10 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 18:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 19:15",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "17/10 20:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 21:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 14:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 14:20",
+        "cinema": "Galeries"
       },
       {
         "heure": "18/10 16:20",
         "cinema": "Aventure"
       },
       {
+        "heure": "18/10 16:25",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "18/10 18:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 18:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 19:00",
+        "cinema": "Galeries"
       },
       {
         "heure": "18/10 20:00",
         "cinema": "Aventure"
       },
       {
+        "heure": "18/10 21:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 11:00",
+        "cinema": "Palace"
+      },
+      {
         "heure": "19/10 14:00",
         "cinema": "Aventure"
       },
       {
+        "heure": "19/10 15:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 16:50",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "19/10 17:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 18:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 18:40",
+        "cinema": "Palace"
       },
       {
         "heure": "19/10 20:00",
@@ -859,6 +2053,46 @@
       {
         "heure": "19/10 20:35",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "19/10 21:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "19/10 21:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 14:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "20/10 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 18:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 19:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "20/10 21:25",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -873,7 +2107,11 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
       {
-        "heure": "13/10 16:30",
+        "heure": "14/10 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 14:15",
         "cinema": "Palace"
       },
       {
@@ -881,8 +2119,28 @@
         "cinema": "Le Stockel"
       },
       {
+        "heure": "16/10 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 14:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 14:10",
+        "cinema": "Palace"
+      },
+      {
         "heure": "18/10 20:45",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "19/10 13:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 14:15",
+        "cinema": "Palace"
       }
     ]
   },
@@ -897,27 +2155,187 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
       {
-        "heure": "13/10 15:00",
+        "heure": "14/10 15:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 16:00",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "14/10 16:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 20:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "14/10 20:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 20:45",
         "cinema": "Galeries"
       },
       {
-        "heure": "13/10 15:20",
+        "heure": "15/10 13:45",
         "cinema": "Vendôme"
       },
       {
-        "heure": "13/10 15:30",
+        "heure": "15/10 15:15",
         "cinema": "Palace"
       },
       {
-        "heure": "13/10 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 20:15",
+        "heure": "15/10 15:20",
         "cinema": "Vendôme"
       },
       {
-        "heure": "13/10 20:30",
+        "heure": "15/10 20:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 20:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 20:40",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "16/10 13:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 15:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 16:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 20:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 20:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 20:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/10 10:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 13:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/10 15:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 16:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 20:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 20:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 13:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 15:25",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 15:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 18:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 18:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "18/10 18:30",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "18/10 20:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 13:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "19/10 15:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 16:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 20:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 20:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 15:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 15:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 20:15",
+        "cinema": "Le Stockel"
+      },
+      {
+        "heure": "20/10 20:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 20:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 20:30",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Orca",
+    "annee": 2023,
+    "duree_minutes": 107,
+    "realisateurs": [
+      "Sahar Mosayebi"
+    ],
+    "synopsis": "Après avoir survécu à une violente agression conjugale, une Iranienne défie les interdictions politiques et religieuses de son pays pour reconstruire sa vie en tentant de battre un record du monde de natation d’endurance.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fb5da505-ab2c-405e-940c-0ffd451533c1.jpeg",
+    "seances": [
+      {
+        "heure": "17/10 18:00",
         "cinema": "Galeries"
       }
     ]
@@ -966,16 +2384,112 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
       {
-        "heure": "13/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 21:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/10 21:10",
+        "heure": "14/10 14:30",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "14/10 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 21:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "14/10 21:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 16:10",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "15/10 16:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 21:15",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "15/10 21:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 19:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 20:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/10 14:20",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 19:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 21:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "18/10 16:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 21:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 21:20",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "19/10 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 19:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 21:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "20/10 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 20:50",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "20/10 21:15",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Præsidenten (The President)",
+    "annee": 1919,
+    "duree_minutes": 81,
+    "realisateurs": [
+      "Carl Theodor Dreyer"
+    ],
+    "synopsis": "Un juge voit sa fille illégitime comparaître pour infanticide. Il est certain qu'elle sera condamnée à mort.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/69ea94b9-fc08-4dcd-ab8a-f1189ca05e13.jpg",
+    "seances": [
+      {
+        "heure": "20/10 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -996,6 +2510,30 @@
     ]
   },
   {
+    "titre": "Res Nullius",
+    "annee": 2026,
+    "duree_minutes": 67,
+    "realisateurs": [
+      "Thomas Jean"
+    ],
+    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
+    "seances": [
+      {
+        "heure": "17/10 12:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 10:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "19/10 18:50",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Resident Evil",
     "annee": 0,
     "duree_minutes": 89,
@@ -1005,10 +2543,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "13/10 21:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/10 21:30",
         "cinema": "Aventure"
@@ -1032,6 +2566,42 @@
       {
         "heure": "19/10 17:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Rose",
+    "annee": 2026,
+    "duree_minutes": 94,
+    "realisateurs": [
+      "Markus Schleinzer"
+    ],
+    "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
+    "seances": [
+      {
+        "heure": "16/10 11:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 21:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 11:15",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1062,10 +2632,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "13/10 16:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "14/10 17:45",
         "cinema": "Le Stockel"
       },
@@ -1076,6 +2642,10 @@
       {
         "heure": "16/10 15:30",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 16:30",
+        "cinema": "Cineflagey"
       },
       {
         "heure": "17/10 19:10",
@@ -1102,19 +2672,91 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
       {
-        "heure": "13/10 16:40",
+        "heure": "14/10 19:00",
         "cinema": "Palace"
       },
       {
-        "heure": "13/10 17:00",
+        "heure": "14/10 19:25",
         "cinema": "Vendôme"
       },
       {
-        "heure": "13/10 19:00",
+        "heure": "15/10 11:30",
         "cinema": "Palace"
       },
       {
-        "heure": "13/10 19:00",
+        "heure": "15/10 13:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 16:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 20:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 20:50",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 16:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 19:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 11:55",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 16:55",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 17:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 19:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 16:35",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 19:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 13:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 19:25",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 13:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 19:25",
         "cinema": "Vendôme"
       }
     ]
@@ -1152,22 +2794,6 @@
     ]
   },
   {
-    "titre": "Sången om den eldröda blomman",
-    "annee": 1918,
-    "duree_minutes": 88,
-    "realisateurs": [
-      "Mauritz Stiller"
-    ],
-    "synopsis": "Olof est chassé de chez lui lorsqu'il veut épouser la mauvaise fille. Il trouve un emploi de flotteur de bois et sa réputation de coureur de jupons se répand au loin.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4ac50763-4f33-44b3-bd62-8fee7202a2a8.jpg",
-    "seances": [
-      {
-        "heure": "13/10 20:30",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Tales of the Wounded Land",
     "annee": 2025,
     "duree_minutes": 119,
@@ -1194,7 +2820,119 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "13/10 19:15",
+        "heure": "14/10 19:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 12:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 11:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 16:35",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 21:35",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 16:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 21:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 16:45",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Teenage Sex and Death at Camp Miasma",
+    "annee": 2026,
+    "duree_minutes": 0,
+    "realisateurs": [
+      "Jane Schoenbrun"
+    ],
+    "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
+    "seances": [
+      {
+        "heure": "16/10 21:05",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Tegenwoordig heet iedereen sorry ",
+    "annee": 2026,
+    "duree_minutes": 87,
+    "realisateurs": [
+      "Frederike Migom"
+    ],
+    "synopsis": "",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/60cd988e-b639-4a61-a728-d2dfde5dffcc.jpg",
+    "seances": [
+      {
+        "heure": "14/10 17:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "14/10 17:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 13:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 17:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 11:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 17:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/10 11:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 17:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 17:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "18/10 21:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 16:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 17:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 16:40",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "20/10 17:00",
         "cinema": "Palace"
       }
     ]
@@ -1216,22 +2954,6 @@
     ]
   },
   {
-    "titre": "The Devils",
-    "annee": 1971,
-    "duree_minutes": 111,
-    "realisateurs": [
-      "Ken Russell"
-    ],
-    "synopsis": "Dans la France de 1634, le charismatique père Urbain Grandier devient la cible d'accusations de sorcellerie lancées par une religieuse obsédée par le sexe — des accusations que des représentants corrompus de l'Église et de l'État s'empressent d'exploiter.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
-    "seances": [
-      {
-        "heure": "19/10 21:20",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "The Invite",
     "annee": 2026,
     "duree_minutes": 107,
@@ -1242,36 +2964,110 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
       {
-        "heure": "13/10 14:50",
+        "heure": "14/10 17:00",
         "cinema": "Galeries"
       },
       {
-        "heure": "13/10 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/10 21:15",
+        "heure": "14/10 21:15",
         "cinema": "Palace"
       },
       {
-        "heure": "13/10 21:35",
+        "heure": "14/10 21:20",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "15/10 12:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "15/10 16:45",
+        "cinema": "Cineflagey"
+      },
+      {
+        "heure": "15/10 19:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "15/10 19:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 15:45",
+        "cinema": "Galeries"
       },
       {
         "heure": "16/10 18:00",
         "cinema": "Aventure"
       },
       {
+        "heure": "16/10 21:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "16/10 21:20",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "17/10 18:00",
         "cinema": "Aventure"
       },
       {
+        "heure": "17/10 21:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/10 21:35",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 14:30",
+        "cinema": "Galeries"
+      },
+      {
         "heure": "18/10 18:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "18/10 19:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "18/10 21:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "19/10 19:15",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "19/10 21:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 16:45",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "20/10 18:05",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "20/10 21:20",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "The Silence Treatment",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "19/10 18:30",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -1285,14 +3081,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "13/10 16:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/10 21:30",
         "cinema": "Aventure"
@@ -1335,6 +3123,14 @@
       },
       {
         "heure": "19/10 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 16:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "20/10 21:30",
         "cinema": "Aventure"
       }
     ]
@@ -1402,6 +3198,22 @@
     ]
   },
   {
+    "titre": "Vampires",
+    "annee": 1998,
+    "duree_minutes": 107,
+    "realisateurs": [
+      "John Carpenter"
+    ],
+    "synopsis": "L'Église mandate une équipe de chasseurs de vampires pour traquer et détruire un groupe de vampires à la recherche d'une relique ancienne qui leur permettrait d'exister à la lumière du soleil.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b53f4d7e-329b-4eb5-8ac1-3d3a9d94a44c.jpg",
+    "seances": [
+      {
+        "heure": "20/10 21:15",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Vivre encore",
     "annee": 2026,
     "duree_minutes": 95,
@@ -1413,11 +3225,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
       {
-        "heure": "13/10 18:20",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "13/10 18:45",
+        "heure": "14/10 13:30",
         "cinema": "Vendôme"
       },
       {
@@ -1425,8 +3233,20 @@
         "cinema": "Aventure"
       },
       {
+        "heure": "15/10 14:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "16/10 13:35",
+        "cinema": "Vendôme"
+      },
+      {
         "heure": "16/10 13:45",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "17/10 13:40",
+        "cinema": "Vendôme"
       },
       {
         "heure": "18/10 13:45",
@@ -1435,6 +3255,10 @@
       {
         "heure": "19/10 15:55",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "20/10 13:10",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1467,6 +3291,40 @@
       {
         "heure": "18/10 16:00",
         "cinema": "Nova"
+      }
+    ]
+  },
+  {
+    "titre": "Women of Sin (Femmes du Péché)",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "14/10 14:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "14/10 18:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Yugly",
+    "annee": 2026,
+    "duree_minutes": 86,
+    "realisateurs": [
+      "Jérémie Degruson & Yanis Belaid"
+    ],
+    "synopsis": "",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/adbd23cb-6f1e-491b-b500-c9459f882889.jpg",
+    "seances": [
+      {
+        "heure": "18/10 11:00",
+        "cinema": "Palace"
       }
     ]
   }

@@ -241,7 +241,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12297
+      "nb_notes_spectateurs": 12298
     }
   },
   {
@@ -252,10 +252,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "15/10 14:15",
-        "cinema": "Galeries"
-      },
       {
         "heure": "18/10 12:00",
         "cinema": "Galeries"
@@ -332,14 +328,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "15/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "16/10 16:10",
         "cinema": "Vendôme"
       },
@@ -394,6 +382,10 @@
     "seances": [
       {
         "heure": "16/10 19:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "22/10 15:00",
         "cinema": "Cinematek"
       }
     ],
@@ -450,10 +442,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "15/10 20:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/10 20:30",
         "cinema": "Aventure"
@@ -541,30 +529,6 @@
     }
   },
   {
-    "titre": "CONTRECHAMPS #3 : Going to Mars, The Nikki Giovanni Project",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Nikki Giovanni est l’une des voix les plus influentes de la communauté afro-américaine depuis les années 60, de par sa contribution indélébile à la lutte pour la justice et l’équité sociale, empreinte d'une oeuvre poétique et militante d'une grande inspiration pour les femmes noires d’hier et d’aujourd’hui. Ce documentaire revient habilement sur les moments les plus marquants de sa vie, des fragments aussi de son quotidien, entre archives du passé et incursions dans le présent. Un hommage touchant à cette personnalité qui continue d’émouvoir et de surprendre avec une franchise déconcertante.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/aebf0b43-37ba-4442-855f-75257643a719.jpg",
-    "seances": [
-      {
-        "heure": "15/10 18:30",
-        "cinema": "Vendôme"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "249091",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-249091/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-249091/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Carcosian Film Night Part 1",
     "annee": 0,
     "duree_minutes": 0,
@@ -606,10 +570,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "15/10 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "20/10 11:55",
         "cinema": "Palace"
@@ -685,18 +645,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "15/10 15:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 21:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "15/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/10 19:10",
         "cinema": "Aventure"
@@ -945,7 +893,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2119
+      "nb_notes_spectateurs": 2196
     }
   },
   {
@@ -1066,7 +1014,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-34193/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 23821
+      "nb_notes_spectateurs": 23822
     }
   },
   {
@@ -1170,7 +1118,7 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/10 20:00",
+        "heure": "22/10 18:00",
         "cinema": "Cinematek"
       }
     ],
@@ -1333,7 +1281,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-15333/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 7170
+      "nb_notes_spectateurs": 7171
     }
   },
   {
@@ -1594,8 +1542,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000048319/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 339
+      "note_moyenne_spectateurs": 4.2,
+      "nb_notes_spectateurs": 346
     }
   },
   {
@@ -1687,10 +1635,6 @@
     "synopsis": "De son enfance à Prague jusqu’à sa disparition à Vienne, le film retrace le parcours de Franz Kafka, un homme déchiré entre son aspiration à une existence banale et son besoin irrépressible d’écrire, marqué par des relations amoureuses tourmentées.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
-      {
-        "heure": "15/10 18:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 16:25",
         "cinema": "Palace"
@@ -1984,22 +1928,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "15/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 14:00",
         "cinema": "Vendôme"
@@ -2344,7 +2272,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2586
+      "nb_notes_spectateurs": 2634
     }
   },
   {
@@ -2676,7 +2604,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2397
+      "nb_notes_spectateurs": 2435
     }
   },
   {
@@ -2822,7 +2750,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-222/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 5760
+      "nb_notes_spectateurs": 5761
     }
   },
   {
@@ -2835,10 +2763,6 @@
     "synopsis": "Dans la France de 1634, le charismatique père Urbain Grandier devient la cible d'accusations de sorcellerie lancées par une religieuse obsédée par le sexe — des accusations que des représentants corrompus de l'Église et de l'État s'empressent d'exploiter.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
-      {
-        "heure": "15/10 18:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 21:30",
         "cinema": "Palace"
@@ -2894,26 +2818,6 @@
     "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
     "seances": [
-      {
-        "heure": "15/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 12:20",
         "cinema": "Aventure"
@@ -3220,7 +3124,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-285141/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 342
+      "nb_notes_spectateurs": 354
     }
   },
   {
@@ -3327,14 +3231,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "15/10 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 16:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 12:10",
         "cinema": "Galeries"
@@ -3550,7 +3446,7 @@
           "titre_presse": "Dernières Nouvelles d'Alsace",
           "note": 4.0,
           "auteur": "Nathalie Chifflet",
-          "citation": "Allénienne, la comédie de Fitoussi l’est dans sa dynamique narrative, son écriture vive, son ton piquant comme vernis appliqué sur une réalité cruelle."
+          "citation": "Comme Frida Kahlo a transformé ses corsets médicaux en pièces d’art, Louis Clichy en fait la colonne vertébrale d’un film inspiré, au maintien joyeux."
         },
         {
           "titre_presse": "Ecran Large",
@@ -3692,8 +3588,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-321790/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 209
+      "note_moyenne_spectateurs": 4.4,
+      "nb_notes_spectateurs": 258
     }
   },
   {
@@ -3950,10 +3846,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/10 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "17/10 20:15",
         "cinema": "Le Stockel"
       },
@@ -3966,7 +3858,7 @@
       "allocine_id": "326160",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-326160/critiques/presse/",
       "note_moyenne_presse": 3.1,
-      "nb_critiques_presse": 34,
+      "nb_critiques_presse": 35,
       "critiques_presse": [
         {
           "titre_presse": "Ouest France",
@@ -4057,6 +3949,12 @@
           "note": 4.0,
           "auteur": "La Rédaction",
           "citation": "Une machine visuelle et narrative, excessivement rythmée à la Netflix, quelque part entre le western moderne, le film d'action et le drame sentimental young adult."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 4.0,
+          "auteur": "Nicolas Colle",
+          "citation": "Une œuvre épique et flamboyante abordée sous l’angle du thriller, qui capte parfaitement le sel du roman de Victor Hugo."
         },
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -4174,8 +4072,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-326160/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 341
+      "note_moyenne_spectateurs": 4.0,
+      "nb_notes_spectateurs": 498
     }
   },
   {
@@ -4515,200 +4413,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037443/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 227
+      "nb_notes_spectateurs": 236
     }
-  },
-  {
-    "titre": "Mad Max 2",
-    "annee": 1981,
-    "duree_minutes": 96,
-    "realisateurs": [
-      "George Miller"
-    ],
-    "synopsis": "Dans un futur non défini, la guerre fait rage autour du pétrole dont les réserves sont pratiquement épuisées. Mad Max, un ancien agent de la sécurité routière vient au secours d’une petite communauté aux prises avec des pirates de la route qui cherchent à mettre la main sur une usine de raffinerie. Une poursuite haletante comme unique trame d’un scénario aussi simple que diablement efficace, pour le deuxième volet d’une célèbre saga australienne devenue culte. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0160bace-affb-4e39-8e7e-8729c73e7909.jpg",
-    "seances": [
-      {
-        "heure": "15/10 18:50",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "125054",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-125054/critiques/presse/",
-      "note_moyenne_presse": 4.4,
-      "nb_critiques_presse": 25,
-      "critiques_presse": [
-        {
-          "titre_presse": "20 Minutes",
-          "note": 5.0,
-          "auteur": "Caroline Vié",
-          "citation": "George Miller a gagné en virtuosité. Trente ans après le dernier \"Mad Max\", il revisite le mythe, le renouvelle et le métamorphose pour le rendre à la fois familier et totalement neuf. Ni tout à fait le même, ni tout à fait un autre, Mad Max est toujours le roi de la route!"
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 5.0,
-          "auteur": "Jean-Sébastien Chauvin",
-          "citation": "Il y avait longtemps qu’on n’avait senti une telle nécessité à faire exister un blockbuster en dehors des chemins balisés, un désir aussi ardent d’effacer un mythe pour qu’en naisse un nouveau."
-        },
-        {
-          "titre_presse": "L'Ecran Fantastique",
-          "note": 5.0,
-          "auteur": "Gilles Penso",
-          "citation": "Avec \"Mad Max: Fury Road\", George Miller aura une fois de plus redéfini de manière irréversible les codes du cinéma d'action. Pour y parvenir, il fallait beaucoup d'audace, une bonne dose de génie et un sacré gain de folie. C'est la marque des plus grands cinéastes."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Eric Libiot",
-          "citation": "Film excitant, surprenant, hors norme. (...) Retour d'un cinéaste en pleine forme et la volonté de faire du spectacle intello. (...) Un bras d'honneur aux supermen, un pied de nez aux spidermen, une claque aux batmen. Qu'ils mordent la poussière et que Mad Max leur enfonce la tête jusqu'au trognon. Non mais."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Plus de 35 ans après le premier opus, Mad Max reprend du service, sous la caméra visionnaire et déchaînée de George Miller : attachez vos ceintures !"
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Résolument contemporain (et diablement féministe !), ce quatrième épisode pourrait en réalité se suffire à lui seul. Et c'est là tout le génie du maître australien : au lieu de réinventer son oeuvre, inventer du nouveau cinéma."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Jean-Marc Lalanne",
-          "citation": "Le film impressionne par son hyper contemporanéité. Il recycle tous les fétiches de la première trilogie puis les refond dans une forme totalement synchrone avec les codes visuels contemporains."
-        },
-        {
-          "titre_presse": "Mad Movies",
-          "note": 5.0,
-          "auteur": "Fausto Fasulo",
-          "citation": "Politique, mystique, tellurique, pyrotechnique, chaotique, lyrique, fantasmatique, etc, etc."
-        },
-        {
-          "titre_presse": "Marianne",
-          "note": 5.0,
-          "auteur": "Pierre-Edouard Peillon",
-          "citation": "Toute l'incroyable réussite du film - car il est magnifique, justement, dans sa fureur - tient dans sa manière d'utiliser ses moyens colossaux pour s'aménager une bauge plutôt qu'une alcôve confortable qui se tiendrait à une distance hygiénique avec le monde."
-        },
-        {
-          "titre_presse": "Metro",
-          "note": 5.0,
-          "auteur": "Jérôme Vermelin",
-          "citation": "Hyper nerveux, visuellement stupéfiant, sans temps mort mais pas dénué d’émotion – et d’humour noir - ce 4e volet est une agréable surprise pour les fans de la première heure. Et devrait sans mal convertir la nouvelle génération."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Pierre Berthomieu",
-          "citation": "\"Mad Max Fury Road\" accomplit donc une révolution copernicienne du modèle en abolissant le règne épique du mâle, tyran vaincu ou éphémère sauveteur. Et aux interrogations du western ou de la contre-culture apocalyptique peut-être devenue mode anesthésiée, ce nouvel épisode offre une expérience ravivée par une oeuvre sensation."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Gaël Golhen",
-          "citation": "C’est bien simple : on n’a rien vu d’aussi bandant au cinéma que l’ouverture de \"Fury Road\" depuis très très longtemps. (...) Miller écrase tout ce que Hollywood a fait depuis des lustres. Et les 6 premières minutes (oui, encore) sont là pour rappeler qui est le king de l’entertainment."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Frédéric Strauss",
-          "citation": "POUR : Inventif et ludique, le spectacle est un cocktail : du western à \"Lawrence d’Arabie\", du \"Duel\" de Spielberg aux héroïnes d’Enki Bilal, dont Charlize Theron a l’apparence. Ce cinéma amoureux de tous les imaginaires a plus de charme et de caractère que bien des blockbusters. C’est un vrai trip halluciné, qui tient la route."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 5.0,
-          "auteur": "Alexandre Jourdain",
-          "citation": "\"Mad Max : Fury Road\" est bien la claque annoncée. Cette déflagration est telle qu’il pourrait bien s’agir du blockbuster cérébral le plus brillant de la décennie. Un trip postmoderne sous acide."
-        },
-        {
-          "titre_presse": "Charlie Hebdo",
-          "note": 4.0,
-          "auteur": "Jean-Baptiste Thoret",
-          "citation": "Certes, l'intrigue de \"Mad Max\" tient sur un demi-ticket de métro (...), mais éblouit par sa mise en scène, sa gestion de l'espace (...) et son retour à des effets old school qui redonnent à cette course-poursuite, ultra inventive, corps et densité."
-        },
-        {
-          "titre_presse": "Closer",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Dans un monde dévasté, Max (Tom Hardy) survit en solitaire. Mais il croise la route d'une bande de déjantés qui parcourent le désert a bord d'un tank A sa tête, l'impératrice Furiosa (Charlize Theron) qui a fui la Citadelle où règne un dangereux seigneur de guerre. S'ensuit une course poursuite spectaculaire et jubilatoire !"
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 4.0,
-          "auteur": "Adrien Mitterrand",
-          "citation": "La noirceur fiévreuse des premiers Mad Max s’est effacée au profit d’une grande chevauchée de reconquête, qui est aussi celle du réalisateur septuagénaire réinvestissant son oeuvre culte avec fracas. Ce grand spectacle rageur et outrancier trace alors de nouvelles voies sur les célèbres étendues désertiques de son univers."
-        },
-        {
-          "titre_presse": "Gala",
-          "note": 4.0,
-          "auteur": "Jean-Christian Hay",
-          "citation": "L’at­tente valait la peine: ce Fury Road est étour­dis­sant."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Nicolas Schaller",
-          "citation": "Quel plaisir de retrouver la sensation que procurent de vraies cascades qui résultent de prises de vues réelles et non d’images dématérialisées, générées par ordinateur. Seul bémol : la surenchère d’action tourne parfois à vide dans la première moitié. \"Mad Max: Fury Road\", c’est de la BD customisée pour le grand écran."
-        },
-        {
-          "titre_presse": "La Septième Obsession",
-          "note": 4.0,
-          "auteur": "Ghislain Benhessa",
-          "citation": "Par la force de son univers visuel, par la fusion qu’il opère entre le son et l’image, Fury Road est l’incarnation du film total, au sens quasi wagnérien du terme."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "\"Mad Max: Fury Road\" est fidèle à son titre, un film de pure adrénaline, enragé, furieux, extravagant, frénétique, hyper spectaculaire."
-        },
-        {
-          "titre_presse": "Studio Ciné Live",
-          "note": 4.0,
-          "auteur": "Fabrice Leclerc",
-          "citation": "Le duo Hardy-Theron (deux acteurs qui en ont sous la pédale) constitue la trouvaille et le ressort idéal d'un film profondément humain, lancé à toute berzingue vers le néant. Spectaculaire, évidemment. Hallucinant, définitivement."
-        },
-        {
-          "titre_presse": "TF1 News",
-          "note": 4.0,
-          "auteur": "Jonathan Murciano",
-          "citation": "George Miller n'a pas déçu pour ce retour survitaminé de la saga post-apocalyptique 30 ans après le dernier opus. Le réalisateur australien a surtout offert à Charlize Theron le rôle le plus marquant de sa carrière."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Clément Ghys",
-          "citation": "\"Mad Max : Fury Road\" est fait d’allers-retours. Peu importe la direction où le film va, seul compte le vrombissement qu’il fait. Sur ce point, ce quatrième volet est très réussi, proposant sur la route droite et mince de son scénario quelques montées de vitesse assez spectaculaires. Le principal défaut du film tient dans ce manque d’émotion (...)."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 1.0,
-          "auteur": "Louis Guichard",
-          "citation": "CONTRE : Un film écologiste qui a tout d’un Paris-Dakar en costumes."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-125054/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 43992
-    }
-  },
-  {
-    "titre": "Mes Chers Neurones",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "15/10 18:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Mochy",
@@ -4880,7 +4586,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 19
+      "nb_notes_spectateurs": 25
     }
   },
   {
@@ -4894,7 +4600,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f3408dcb-f022-4ad8-a7ae-406210895d0f.jpg",
     "seances": [
       {
-        "heure": "15/10 18:00",
+        "heure": "22/10 20:15",
         "cinema": "Cinematek"
       }
     ],
@@ -4988,14 +4694,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "16/10 13:45",
         "cinema": "Vendôme"
       },
@@ -5077,42 +4775,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "15/10 13:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 14:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 16:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 18:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 13:35",
         "cinema": "Vendôme"
@@ -5441,7 +5103,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000051082/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 225
+      "nb_notes_spectateurs": 239
     }
   },
   {
@@ -5454,14 +5116,6 @@
     "synopsis": "Corinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l’espoir d’être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu’une relation commence à se nouer entre les deux, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l’aider à se faire une place au sein de la grande famille du cinéma ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
-      {
-        "heure": "15/10 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 17:45",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "16/10 13:45",
         "cinema": "Palace"
@@ -5730,7 +5384,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000023992/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 771
+      "nb_notes_spectateurs": 803
     }
   },
   {
@@ -5743,30 +5397,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "15/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 20:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 20:40",
-        "cinema": "Galeries"
-      },
       {
         "heure": "16/10 13:45",
         "cinema": "Vendôme"
@@ -6155,7 +5785,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 1960
+      "nb_notes_spectateurs": 2005
     }
   },
   {
@@ -6275,22 +5905,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "15/10 16:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 16:15",
         "cinema": "Palace"
@@ -6547,7 +6161,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 922
+      "nb_notes_spectateurs": 932
     }
   },
   {
@@ -6615,10 +6229,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "15/10 17:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/10 21:30",
         "cinema": "Aventure"
@@ -6751,7 +6361,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2633
+      "nb_notes_spectateurs": 2652
     }
   },
   {
@@ -6932,33 +6542,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 618
-    }
-  },
-  {
-    "titre": "Sax",
-    "annee": 1981,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "Gérard Corbiau"
-    ],
-    "synopsis": "Dès 1980, Gérard Corbiau se tourne vers la réalisation de fictions télévisées sur la musique au sein de la RTBF. Il réalise deux contes musicaux : le premier Sax, en trois parties qui revient sur la vie et la carrière d’Adolphe Sax (1814-1894), facteur d’instruments de musique belge, qui améliora les instruments à vent et créa une nouvelle famille, les saxophones. Ce conte remporta l’Antenne de Cristal en 1981. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "15/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "218845",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-218845/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-218845/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "nb_notes_spectateurs": 623
     }
   },
   {
@@ -6971,10 +6555,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "15/10 19:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/10 15:30",
         "cinema": "Aventure"
@@ -7095,7 +6675,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 492
+      "nb_notes_spectateurs": 493
     }
   },
   {
@@ -7108,22 +6688,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "15/10 13:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 20:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 16:30",
         "cinema": "Vendôme"
@@ -7368,33 +6932,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000043221/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1551
-    }
-  },
-  {
-    "titre": "Stray Dog",
-    "annee": 1949,
-    "duree_minutes": 122,
-    "realisateurs": [
-      "Akira Kurosawa"
-    ],
-    "synopsis": "Par une journée étouffante d’été à Tokyo, le jeune détective Murakami se fait voler son pistolet dans un bus bondé. Désespéré, il part à la recherche de l’arme, aidé par le détective expérimenté Sato. Leur enquête les mène dans les bas-fonds de la ville, où Murakami découvre que le voleur est un ancien soldat désœuvré, poussé au crime par la misère. Le film mêle suspense, critique sociale et une réflexion sur la culpabilité et la rédemption dans le Japon d’après-guerre.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a9b78108-4b9c-4085-893a-d858019178f1.jpg",
-    "seances": [
-      {
-        "heure": "15/10 15:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "233596",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-233596/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-233596/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "nb_notes_spectateurs": 1556
     }
   },
   {
@@ -7559,7 +7097,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-181541/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 28667
+      "nb_notes_spectateurs": 28670
     }
   },
   {
@@ -7598,10 +7136,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "15/10 12:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 11:45",
         "cinema": "Palace"
@@ -7707,7 +7241,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024260/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 97
+      "nb_notes_spectateurs": 98
     }
   },
   {
@@ -7720,18 +7254,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/60cd988e-b639-4a61-a728-d2dfde5dffcc.jpg",
     "seances": [
-      {
-        "heure": "15/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 17:00",
         "cinema": "Vendôme"
@@ -7781,32 +7303,6 @@
     }
   },
   {
-    "titre": "The 7th Voyage of Sinbad",
-    "annee": 1958,
-    "duree_minutes": 79,
-    "realisateurs": [
-      "Nathan Juran"
-    ],
-    "synopsis": "L'incroyable épopée du légendaire Sinbad le Marin. Pour délivrer une princesse du maléfice que lui a jeté un diabolique magicien (la malheureuse est devenue liliputienne), Sinbad devra affronter mille périls, combattre le terrible cyclope, terrasser un dragon, une armée de squelettes et bien d'autres créatures infernales...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cad12099-8d2c-4c41-b939-f36fe2c20316.jpg",
-    "seances": [
-      {
-        "heure": "15/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "8193",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-8193/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-8193/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 336
-    }
-  },
-  {
     "titre": "The Invite",
     "annee": 2026,
     "duree_minutes": 107,
@@ -7816,22 +7312,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "15/10 12:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 16:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "15/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 19:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 15:45",
         "cinema": "Galeries"
@@ -8110,7 +7590,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 1562
+      "nb_notes_spectateurs": 1573
     }
   },
   {
@@ -8138,14 +7618,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "15/10 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/10 14:10",
         "cinema": "Aventure"
@@ -8376,7 +7848,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026649/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 660
+      "nb_notes_spectateurs": 701
     }
   },
   {
@@ -8470,10 +7942,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "15/10 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/10 12:20",
         "cinema": "Aventure"
@@ -8583,10 +8051,6 @@
     "synopsis": "Au moment crucial de la perte d’autonomie, des personnes âgées, leurs familles, soignants et aidants proches, entament un voyage initiatique en terre vieille, là où se jouent des affrontements, des pertes, des solidarités, des tendresses et des joies qui disent l’épaisseur du temps long de la vie… Une immersion au cœur d’histoires individuelles mettant en scène des volontés farouches qui se heurtent à des logiques institutionnelles dont elles sortent parfois gagnantes… ou perdantes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
-      {
-        "heure": "15/10 14:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 13:35",
         "cinema": "Vendôme"
@@ -8895,7 +8359,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 19
+      "nb_notes_spectateurs": 25
     }
   }
 ]

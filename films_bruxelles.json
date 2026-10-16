@@ -116,10 +116,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/10 14:15",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "18/10 12:00",
         "cinema": "Galeries"
       }
@@ -135,14 +131,6 @@
     "synopsis": "Carlobianchi et Doriano, deux quinquagénaires fauchés, sillonnent les rues la nuit, de bar en bar, obsédés par l'idée de trouver un dernier verre. Sur leur chemin, ils croisent celui de Giulio, un étudiant en architecture aussi timide que naïf. Cette rencontre inattendue avec ces deux mentors improbables va bouleverser sa vision du monde et de l'amour, et changer radicalement son avenir.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
-      {
-        "heure": "15/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 16:10",
         "cinema": "Vendôme"
@@ -198,6 +186,10 @@
       {
         "heure": "16/10 19:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "22/10 15:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -224,10 +216,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/10 20:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "16/10 20:30",
         "cinema": "Aventure"
       }
@@ -244,20 +232,6 @@
       {
         "heure": "17/10 10:30",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "CONTRECHAMPS #3 : Going to Mars, The Nikki Giovanni Project",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Nikki Giovanni est l’une des voix les plus influentes de la communauté afro-américaine depuis les années 60, de par sa contribution indélébile à la lutte pour la justice et l’équité sociale, empreinte d'une oeuvre poétique et militante d'une grande inspiration pour les femmes noires d’hier et d’aujourd’hui. Ce documentaire revient habilement sur les moments les plus marquants de sa vie, des fragments aussi de son quotidien, entre archives du passé et incursions dans le présent. Un hommage touchant à cette personnalité qui continue d’émouvoir et de surprendre avec une franchise déconcertante.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/aebf0b43-37ba-4442-855f-75257643a719.jpg",
-    "seances": [
-      {
-        "heure": "15/10 18:30",
-        "cinema": "Vendôme"
       }
     ]
   },
@@ -301,10 +275,6 @@
     "synopsis": "Blasé de se voir toujours proposer des rôles clichés au cinéma, Tom décide de réaliser un journal filmé pour interroger la place des acteur·rices racisé·es à l’écran. Mais son film lui échappe quand les comédien·nes qu’il rassemble le confrontent à ses propres maladresses…",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "15/10 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "20/10 11:55",
         "cinema": "Palace"
@@ -359,18 +329,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "15/10 15:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 21:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "15/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/10 19:10",
         "cinema": "Aventure"
@@ -445,7 +403,7 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/10 20:00",
+        "heure": "22/10 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -606,10 +564,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
       {
-        "heure": "15/10 18:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "16/10 16:25",
         "cinema": "Palace"
       },
@@ -645,22 +599,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "15/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 14:00",
         "cinema": "Vendôme"
@@ -947,10 +885,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
       {
-        "heure": "15/10 18:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "16/10 21:30",
         "cinema": "Palace"
       },
@@ -994,26 +928,6 @@
     "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
     "seances": [
-      {
-        "heure": "15/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 12:20",
         "cinema": "Aventure"
@@ -1194,14 +1108,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
       {
-        "heure": "15/10 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 16:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "16/10 12:10",
         "cinema": "Galeries"
       },
@@ -1364,10 +1270,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/10 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "17/10 20:15",
         "cinema": "Le Stockel"
       },
@@ -1432,36 +1334,6 @@
       },
       {
         "heure": "20/10 17:20",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Mad Max 2",
-    "annee": 1981,
-    "duree_minutes": 96,
-    "realisateurs": [
-      "George Miller"
-    ],
-    "synopsis": "Dans un futur non défini, la guerre fait rage autour du pétrole dont les réserves sont pratiquement épuisées. Mad Max, un ancien agent de la sécurité routière vient au secours d’une petite communauté aux prises avec des pirates de la route qui cherchent à mettre la main sur une usine de raffinerie. Une poursuite haletante comme unique trame d’un scénario aussi simple que diablement efficace, pour le deuxième volet d’une célèbre saga australienne devenue culte. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0160bace-affb-4e39-8e7e-8729c73e7909.jpg",
-    "seances": [
-      {
-        "heure": "15/10 18:50",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "Mes Chers Neurones",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "15/10 18:00",
         "cinema": "Aventure"
       }
     ]
@@ -1549,7 +1421,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f3408dcb-f022-4ad8-a7ae-406210895d0f.jpg",
     "seances": [
       {
-        "heure": "15/10 18:00",
+        "heure": "22/10 20:15",
         "cinema": "Cinematek"
       }
     ]
@@ -1582,14 +1454,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "15/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 18:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 13:45",
         "cinema": "Vendôme"
@@ -1643,42 +1507,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "15/10 13:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 14:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 16:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 18:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 13:35",
         "cinema": "Vendôme"
@@ -1896,14 +1724,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
       {
-        "heure": "15/10 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 17:45",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "16/10 13:45",
         "cinema": "Palace"
       },
@@ -1939,30 +1759,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "15/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 20:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 20:40",
-        "cinema": "Galeries"
-      },
       {
         "heure": "16/10 13:45",
         "cinema": "Vendôme"
@@ -2163,22 +1959,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
       {
-        "heure": "15/10 16:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 21:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "16/10 16:15",
         "cinema": "Palace"
       },
@@ -2295,10 +2075,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "15/10 17:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "16/10 21:30",
         "cinema": "Aventure"
       },
@@ -2353,22 +2129,6 @@
     ]
   },
   {
-    "titre": "Sax",
-    "annee": 1981,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "Gérard Corbiau"
-    ],
-    "synopsis": "Dès 1980, Gérard Corbiau se tourne vers la réalisation de fictions télévisées sur la musique au sein de la RTBF. Il réalise deux contes musicaux : le premier Sax, en trois parties qui revient sur la vie et la carrière d’Adolphe Sax (1814-1894), facteur d’instruments de musique belge, qui améliora les instruments à vent et créa une nouvelle famille, les saxophones. Ce conte remporta l’Antenne de Cristal en 1981. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "15/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Sense and Sensibility (2026)",
     "annee": 2026,
     "duree_minutes": 131,
@@ -2378,10 +2138,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "15/10 19:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/10 15:30",
         "cinema": "Aventure"
@@ -2414,22 +2170,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "15/10 13:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/10 20:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 16:30",
         "cinema": "Vendôme"
@@ -2493,22 +2233,6 @@
     ]
   },
   {
-    "titre": "Stray Dog",
-    "annee": 1949,
-    "duree_minutes": 122,
-    "realisateurs": [
-      "Akira Kurosawa"
-    ],
-    "synopsis": "Par une journée étouffante d’été à Tokyo, le jeune détective Murakami se fait voler son pistolet dans un bus bondé. Désespéré, il part à la recherche de l’arme, aidé par le détective expérimenté Sato. Leur enquête les mène dans les bas-fonds de la ville, où Murakami découvre que le voleur est un ancien soldat désœuvré, poussé au crime par la misère. Le film mêle suspense, critique sociale et une réflexion sur la culpabilité et la rédemption dans le Japon d’après-guerre.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a9b78108-4b9c-4085-893a-d858019178f1.jpg",
-    "seances": [
-      {
-        "heure": "15/10 15:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Super 8",
     "annee": 2011,
     "duree_minutes": 111,
@@ -2550,10 +2274,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "15/10 12:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/10 11:45",
         "cinema": "Palace"
@@ -2607,18 +2327,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/60cd988e-b639-4a61-a728-d2dfde5dffcc.jpg",
     "seances": [
       {
-        "heure": "15/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "16/10 17:00",
         "cinema": "Vendôme"
       },
@@ -2657,22 +2365,6 @@
     ]
   },
   {
-    "titre": "The 7th Voyage of Sinbad",
-    "annee": 1958,
-    "duree_minutes": 79,
-    "realisateurs": [
-      "Nathan Juran"
-    ],
-    "synopsis": "L'incroyable épopée du légendaire Sinbad le Marin. Pour délivrer une princesse du maléfice que lui a jeté un diabolique magicien (la malheureuse est devenue liliputienne), Sinbad devra affronter mille périls, combattre le terrible cyclope, terrasser un dragon, une armée de squelettes et bien d'autres créatures infernales...",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cad12099-8d2c-4c41-b939-f36fe2c20316.jpg",
-    "seances": [
-      {
-        "heure": "15/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "The Invite",
     "annee": 2026,
     "duree_minutes": 107,
@@ -2682,22 +2374,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "15/10 12:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/10 16:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "15/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/10 19:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 15:45",
         "cinema": "Galeries"
@@ -2789,14 +2465,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
       {
-        "heure": "15/10 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "16/10 14:10",
         "cinema": "Aventure"
       },
@@ -2879,10 +2547,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/10 12:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "16/10 12:20",
         "cinema": "Aventure"
       },
@@ -2939,10 +2603,6 @@
     "synopsis": "Au moment crucial de la perte d’autonomie, des personnes âgées, leurs familles, soignants et aidants proches, entament un voyage initiatique en terre vieille, là où se jouent des affrontements, des pertes, des solidarités, des tendresses et des joies qui disent l’épaisseur du temps long de la vie… Une immersion au cœur d’histoires individuelles mettant en scène des volontés farouches qui se heurtent à des logiques institutionnelles dont elles sortent parfois gagnantes… ou perdantes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
-      {
-        "heure": "15/10 14:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/10 13:35",
         "cinema": "Vendôme"

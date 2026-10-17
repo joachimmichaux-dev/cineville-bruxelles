@@ -15,21 +15,6 @@
     "allocine": null
   },
   {
-    "titre": "10 ans de Tënk",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d161b08e-d9cc-44a1-8492-7e966bf85fa7.jpg",
-    "seances": [
-      {
-        "heure": "16/10 21:00",
-        "cinema": "Nova"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "21 Grams",
     "annee": 2003,
     "duree_minutes": 124,
@@ -241,7 +226,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12298
+      "nb_notes_spectateurs": 12301
     }
   },
   {
@@ -328,14 +313,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "16/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "17/10 15:15",
         "cinema": "Vendôme"
       },
@@ -381,10 +358,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbbf48fd-c01e-45d7-bfbe-03d732c0ffeb.jpg",
     "seances": [
       {
-        "heure": "16/10 19:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "22/10 15:00",
         "cinema": "Cinematek"
       }
@@ -416,7 +389,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-27559/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 4791
+      "nb_notes_spectateurs": 4793
     }
   },
   {
@@ -430,132 +403,6 @@
       {
         "heure": "17/10 20:30",
         "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "BIWFF: Graines de cineastes",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "16/10 20:30",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Born in the Jungle",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/10 10:30",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "302738",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-302738/critiques/presse/",
-      "note_moyenne_presse": 3.4,
-      "nb_critiques_presse": 9,
-      "critiques_presse": [
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Thibault Liessi",
-          "citation": "Dessin animé d’aventure à destination des plus jeunes, Joyeuse Jungle ! se révèle être une expédition des plus gaies en pleine nature tropicale. Cela tient à l’équilibre de l’histoire, avec juste ce qu’il faut d’agacement de l’héroïne, d’effronterie de son petit frère et de stupidité des méchants, des braconniers, pour que tout s’emboîte avec aisance."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Un film enchanteur aux couleurs chaudes."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Thibault Liessi",
-          "citation": "Mais la force majeure de Joyeuse Jungle ! saute aux yeux, ce sont ses dessins vivaces, aux couleurs chatoyantes, basés sur les travaux de l’artiste lettone Elīna Brasliņa. Ses illustrations retranscrivent l’opulence de cette nature moins sauvage qu’elle en a l’air, sans pour autant en occulter les dangers."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Au menu, des rencontres avec plein d’animaux sympathiques, dont une bestiole magique, une lutte contre des méchants trafiquants d’espèces rares, la découverte d’une tribu ancienne secrète... Ce très joli film d’animation letton, au graphisme coloré et très épuré, fera la joie des plus jeunes... Les adultes qui les accompagneront ne s’ennuieront pas."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Gilles Tourman",
-          "citation": "Un message vivant et drôle sur la nécessité de respecter la nature."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 3.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Une échappée colorée, à hauteur d’enfants, où les animaux ont un rôle important."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Anne Lenoir",
-          "citation": "Après Jacob, Mimi et les chiens qui parlent, Edmunds Jansons poursuit son cinéma d'animation à hauteur d’enfant, entre aventure, humour et respect de la nature."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Cécile Mury",
-          "citation": "Un savoureux goûter animé pour petits cinéphiles."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 2.0,
-          "auteur": "P. Cr.",
-          "citation": "Malgré ses tableaux plaisants à admirer et une attrayante atmosphère, ce long-métrage d’animation aux couleurs vives destiné à un jeune public se délite un peu au fil de l’empilement des péripéties. Le sujet des choix de vie faits par les parents et subis par les enfants aurait quant à lui gagné en étoffe si le ressenti d’Elizabeth n’était rapidement balayé."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-302738/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 4
-    }
-  },
-  {
-    "titre": "Carcosian Film Night Part 1",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "La Carcosian vous présente une soirée très spéciale autour de la restauration d'un film culte devenu invisible : The Devils, de Ken Russel. La première partie sera consacrée à une table ronde, présentation du film (en français) et concours, suivi de 3 court-métrages typiquement Carcosian.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/be399694-8e75-46a9-8bb4-cec8fa22f550.jpeg",
-    "seances": [
-      {
-        "heure": "16/10 19:00",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Carcosian Film Night Part 2",
-    "annee": 0,
-    "duree_minutes": 114,
-    "realisateurs": [
-      "Ken Russell"
-    ],
-    "synopsis": "Un récit historique dramatisé sur l’ascension et la chute d’Urbain Grandier, un prêtre catholique romain du XVIIe siècle accusé de sorcellerie à la suite des prétendues possessions de Loudun, en France ; il met également en lumière sœur Jeanne des Anges, une religieuse sexuellement réprimée qui, sans le vouloir, déclenche les accusations.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "16/10 21:00",
-        "cinema": "Cineflagey"
       }
     ],
     "allocine": null
@@ -625,10 +472,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9ecc6d5b-eaeb-4e7e-99d9-0610af00b9d9.jpg",
     "seances": [
       {
-        "heure": "16/10 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "18/10 20:00",
         "cinema": "Cinematek"
       }
@@ -645,10 +488,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "16/10 19:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 21:30",
         "cinema": "Aventure"
@@ -893,7 +732,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2196
+      "nb_notes_spectateurs": 2294
     }
   },
   {
@@ -1014,7 +853,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-34193/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 23822
+      "nb_notes_spectateurs": 23823
     }
   },
   {
@@ -1103,7 +942,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 115
+      "nb_notes_spectateurs": 122
     }
   },
   {
@@ -1120,23 +959,6 @@
       {
         "heure": "22/10 18:00",
         "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Ellas en la cuidad",
-    "annee": 2025,
-    "duree_minutes": 72,
-    "realisateurs": [
-      "Reyes Gallegos Rodríguez"
-    ],
-    "synopsis": "Dans les années 70, une génération de femmes a changé le destin de leurs quartiers de banlieue à Séville. Ces femmes racontent leur histoire à travers trois quartiers de la ville, dévoilant comment elles soutiennent une ville qui leur tourne le dos, et en partageant leurs luttes liées au genre, aux soins, à l’urbanisme, à l’éducation et à la politique.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/56af4827-aad4-469d-accb-bb71e533fae2.jpg",
-    "seances": [
-      {
-        "heure": "16/10 18:00",
-        "cinema": "Galeries"
       }
     ],
     "allocine": null
@@ -1256,32 +1078,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-303229/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
       "nb_notes_spectateurs": 67
-    }
-  },
-  {
-    "titre": "Escape from L.A.",
-    "annee": 1996,
-    "duree_minutes": 101,
-    "realisateurs": [
-      "John Carpenter"
-    ],
-    "synopsis": "Le fameux « Big One » tant redouté a eu lieu en 1998 et a isolé Los Angeles du reste des États-Unis. Quinze ans plus tard, les États-Unis se sont dotés d'un président particulièrement puritain et politiquement correct qui envoie tous les délinquants à Los Angeles, devenue l'île la plus dangereuse du monde. Cuervo Jones, anarchiste latino-américain, règne sur ce bout de terre et s'est mis dans la tête, avec l'aide de la fille du président qui s'est ralliée à sa cause, de neutraliser toutes les sources d'énergie artificielles de la planète.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7e72e161-af17-4afa-af98-9011b3cba6c5.jpg",
-    "seances": [
-      {
-        "heure": "16/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "15333",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-15333/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-15333/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 7171
     }
   },
   {
@@ -1543,7 +1339,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000048319/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 346
+      "nb_notes_spectateurs": 355
     }
   },
   {
@@ -1572,10 +1368,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "17/10 10:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 15:10",
         "cinema": "Aventure"
@@ -1635,10 +1427,6 @@
     "synopsis": "De son enfance à Prague jusqu’à sa disparition à Vienne, le film retrace le parcours de Franz Kafka, un homme déchiré entre son aspiration à une existence banale et son besoin irrépressible d’écrire, marqué par des relations amoureuses tourmentées.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
-      {
-        "heure": "16/10 16:25",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 21:00",
         "cinema": "Palace"
@@ -1928,26 +1716,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "16/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 11:15",
         "cinema": "Palace"
@@ -2272,7 +2040,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2634
+      "nb_notes_spectateurs": 2684
     }
   },
   {
@@ -2288,18 +2056,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "17/10 10:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 10:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 15:30",
         "cinema": "Vendôme"
@@ -2400,10 +2156,6 @@
     "synopsis": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi magnifique qu’impitoyable, ils devront puiser dans leurs dernières forces pour survivre ensemble.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
     "seances": [
-      {
-        "heure": "16/10 20:30",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "20/10 18:00",
         "cinema": "Le Stockel"
@@ -2604,7 +2356,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2435
+      "nb_notes_spectateurs": 2499
     }
   },
   {
@@ -2750,7 +2502,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-222/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 5761
+      "nb_notes_spectateurs": 5763
     }
   },
   {
@@ -2763,10 +2515,6 @@
     "synopsis": "Dans la France de 1634, le charismatique père Urbain Grandier devient la cible d'accusations de sorcellerie lancées par une religieuse obsédée par le sexe — des accusations que des représentants corrompus de l'Église et de l'État s'empressent d'exploiter.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
-      {
-        "heure": "16/10 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 21:30",
         "cinema": "Palace"
@@ -2818,30 +2566,6 @@
     "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
     "seances": [
-      {
-        "heure": "16/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 17:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "16/10 17:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 19:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 12:00",
         "cinema": "Aventure"
@@ -3124,7 +2848,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-285141/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 354
+      "nb_notes_spectateurs": 359
     }
   },
   {
@@ -3196,32 +2920,6 @@
     }
   },
   {
-    "titre": "Lazybones",
-    "annee": 1925,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Frank Borzage"
-    ],
-    "synopsis": "Dans un village américain, au début du vingtième siècle, un jeune homme est la risée de tous à cause de son penchant appuyé pour la fainéantise. Il est sous le charme d'une jeune femme, mais dont la mère tyrannique et inflexible refuse catégoriquement qu'on puisse envisager un mariage entre elle et lui.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/70c022f9-d3cc-477b-bbe3-8b0898c8ad04.jpg",
-    "seances": [
-      {
-        "heure": "16/10 20:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "174266",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-174266/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-174266/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 12
-    }
-  },
-  {
     "titre": "Le Corset",
     "annee": 2026,
     "duree_minutes": 89,
@@ -3231,22 +2929,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "16/10 12:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 17:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 18:25",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "17/10 13:00",
         "cinema": "Palace"
@@ -3589,7 +3271,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-321790/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 258
+      "nb_notes_spectateurs": 343
     }
   },
   {
@@ -3604,6 +3286,10 @@
     "seances": [
       {
         "heure": "19/10 20:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "23/10 18:00",
         "cinema": "Cinematek"
       }
     ],
@@ -3858,7 +3544,7 @@
       "allocine_id": "326160",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-326160/critiques/presse/",
       "note_moyenne_presse": 3.1,
-      "nb_critiques_presse": 35,
+      "nb_critiques_presse": 36,
       "critiques_presse": [
         {
           "titre_presse": "Ouest France",
@@ -3955,6 +3641,12 @@
           "note": 4.0,
           "auteur": "Nicolas Colle",
           "citation": "Une œuvre épique et flamboyante abordée sous l’angle du thriller, qui capte parfaitement le sel du roman de Victor Hugo."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 3.0,
+          "auteur": "Christophe Brangé",
+          "citation": "Si ce jeu du chat et la souris entre les deux protagonistes tiendra en haleine les spectateurs, le souffle romanesque est lui quelque peu délaissé, annihilant l’impact de plusieurs séquences, comme cette épopée révolutionnaire."
         },
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -4073,7 +3765,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-326160/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 498
+      "nb_notes_spectateurs": 587
     }
   },
   {
@@ -4254,10 +3946,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
       {
-        "heure": "16/10 17:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "18/10 17:20",
         "cinema": "Aventure"
       },
@@ -4412,8 +4100,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037443/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 236
+      "note_moyenne_spectateurs": 3.1,
+      "nb_notes_spectateurs": 250
     }
   },
   {
@@ -4491,7 +4179,7 @@
       "allocine_id": "1000013643",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/presse/",
       "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 15,
+      "nb_critiques_presse": 16,
       "critiques_presse": [
         {
           "titre_presse": "Closer",
@@ -4528,6 +4216,12 @@
           "note": 4.0,
           "auteur": "Renaud Baronian et Catherine Balle",
           "citation": "« Mochy » est un film drôle et enlevé, ponctué de courses poursuites et de rebondissements."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 3.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Un sympathique personnage de naïf au grand cœur."
         },
         {
           "titre_presse": "Les Fiches du Cinéma",
@@ -4585,8 +4279,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 25
+      "note_moyenne_spectateurs": 3.1,
+      "nb_notes_spectateurs": 30
     }
   },
   {
@@ -4682,7 +4376,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1832/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 34958
+      "nb_notes_spectateurs": 34959
     }
   },
   {
@@ -4693,14 +4387,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "16/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 18:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 13:45",
         "cinema": "Vendôme"
@@ -4775,50 +4461,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "16/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 14:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 15:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 18:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 13:30",
         "cinema": "Vendôme"
@@ -4984,7 +4626,7 @@
       "allocine_id": "1000051082",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000051082/critiques/presse/",
       "note_moyenne_presse": 4.0,
-      "nb_critiques_presse": 19,
+      "nb_critiques_presse": 20,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -5009,6 +4651,12 @@
           "note": 5.0,
           "auteur": "Luc Chessel",
           "citation": "De l’obscurité choisie pour interroger 24 militaires responsables de meurtres de masse de civils Palestiniens, pilotés à distance, jaillit un grand film de vérité."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 4.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Un documentaire glaçant sur l'usage de la technologie au service d’une destruction systématique de Gaza."
         },
         {
           "titre_presse": "Cahiers du Cinéma",
@@ -5103,7 +4751,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000051082/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 239
+      "nb_notes_spectateurs": 248
     }
   },
   {
@@ -5116,10 +4764,6 @@
     "synopsis": "Corinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l’espoir d’être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu’une relation commence à se nouer entre les deux, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l’aider à se faire une place au sein de la grande famille du cinéma ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
-      {
-        "heure": "16/10 13:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 14:15",
         "cinema": "Palace"
@@ -5384,7 +5028,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000023992/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 803
+      "nb_notes_spectateurs": 854
     }
   },
   {
@@ -5397,34 +5041,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "16/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 20:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 20:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 10:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 13:00",
         "cinema": "Galeries"
@@ -5785,7 +5401,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 2005
+      "nb_notes_spectateurs": 2088
     }
   },
   {
@@ -5905,18 +5521,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "16/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 20:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "17/10 14:20",
         "cinema": "Palace"
@@ -6161,7 +5765,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 932
+      "nb_notes_spectateurs": 940
     }
   },
   {
@@ -6188,6 +5792,57 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6175/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
       "nb_notes_spectateurs": 4
+    }
+  },
+  {
+    "titre": "Punishment Park",
+    "annee": 1971,
+    "duree_minutes": 92,
+    "realisateurs": [
+      "Peter Watkins"
+    ],
+    "synopsis": "A la façon d'un reportage télévisé, un script de politique-fiction - avec son président des USA arrêtant tous les \"séditieux \"et les poussant vers une traque filmée, dans un désert impitoyable.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1d088304-44d7-4b52-9d82-4e5ad2e5eb34.jpg",
+    "seances": [
+      {
+        "heure": "23/10 21:15",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "4113",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-4113/critiques/presse/",
+      "note_moyenne_presse": 4.8,
+      "nb_critiques_presse": 4,
+      "critiques_presse": [
+        {
+          "titre_presse": "L'Humanité",
+          "note": 5.0,
+          "auteur": "Marie-José Sirach",
+          "citation": "(...) un film à charge mais qui déjoue tous les pièges tendus du manichéisme absolu."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 5.0,
+          "auteur": "Florence Colombani",
+          "citation": "Voir la critique sur www.lepoint.fr"
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 5.0,
+          "auteur": "Philippe Azoury",
+          "citation": "La force de la manière Watkins, c'est d'instaurer le trouble en montrant l'affaire comme s'il s'agissait d'une émission de télé-réalité. (...) il se présente comme une anticipation du stade critique de l'omniprésence paranoïaque des médias et du souci du contrôle politique dans lequel nous baignons quotidiennement."
+        },
+        {
+          "titre_presse": "Africultures.com",
+          "note": 4.0,
+          "auteur": "Anne Crémieux",
+          "citation": "Ce film étonnant, dont l'économie de moyens renforce l'efficacité, parvient à imbriquer tant de questions toujours d'actualité, depuis l'inégalité de la répartition des richesses à la manipulation des soldats (...) c'est un film inclassable, qui laisse perplexe."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4113/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 693
     }
   },
   {
@@ -6229,10 +5884,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "16/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 17:20",
         "cinema": "Aventure"
@@ -6361,7 +6012,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2652
+      "nb_notes_spectateurs": 2678
     }
   },
   {
@@ -6374,10 +6025,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "16/10 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 19:00",
         "cinema": "Palace"
@@ -6542,7 +6189,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 623
+      "nb_notes_spectateurs": 625
     }
   },
   {
@@ -6555,10 +6202,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "16/10 15:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 16:30",
         "cinema": "Cineflagey"
@@ -6675,7 +6318,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 493
+      "nb_notes_spectateurs": 515
     }
   },
   {
@@ -6688,18 +6331,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "16/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 19:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 11:55",
         "cinema": "Palace"
@@ -6932,7 +6563,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000043221/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1556
+      "nb_notes_spectateurs": 1578
     }
   },
   {
@@ -7097,7 +6728,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-181541/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 28670
+      "nb_notes_spectateurs": 28671
     }
   },
   {
@@ -7137,10 +6768,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "16/10 11:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "17/10 16:35",
         "cinema": "Palace"
       },
@@ -7164,87 +6791,6 @@
     "allocine": null
   },
   {
-    "titre": "Teenage Sex and Death at Camp Miasma",
-    "annee": 2026,
-    "duree_minutes": 0,
-    "realisateurs": [
-      "Jane Schoenbrun"
-    ],
-    "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
-    "seances": [
-      {
-        "heure": "16/10 21:05",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000024260",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000024260/critiques/presse/",
-      "note_moyenne_presse": 3.8,
-      "nb_critiques_presse": 9,
-      "critiques_presse": [
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Marius Chapuis",
-          "citation": "Fantasmatique, merveilleusement léché, le film comico-romantico-horrifique de la New-Yorkaise est une ode au cinéma gore et au cinéma tout court."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 4.0,
-          "auteur": "Élodie Tamayo",
-          "citation": "L’esthétique do it yourself glisse vers le « dyke it yourself ». Car Schoenbrun – qui sait d’expérience ce que l’horreur a fait des figures au genre trouble – décide d’inverser le stigmate et de filmer depuis le versant heureux de sa transition, quand ces œuvres précédentes restituaient les affres de sa dysphorie."
-        },
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 4.0,
-          "auteur": "Anna Fournier",
-          "citation": "Là où l’on attend un érotisme primaire entremêlé de frissons se trouve finalement un élan de tendresse et de créativité aussi bien plastique que narrative. Jane Schoenbrun réussit à rendre hommage au cinéma de son adolescence tout en le remodelant, précisément dans ses points aveugles."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Judith Beauvallet",
-          "citation": "Une étude complètement barrée mais aussi magnifique et profonde du genre du slasher et de sa dimension éminemment sexuelle et émancipatrice."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Nicolas Schaller",
-          "citation": "Drôle et sexy, sans cesse sur le fil, au bord de la pose et du ridicule, du fétichisme camp de Yann Gonzalez (« Un couteau dans le cœur ») et d’un Gregg Araki pour plateforme de streaming, « Teenage Sex and Death at Camp Miasma », avec son tueur en série au masque en bouche d’aération, déconstruit malicieusement le genre et, de ruptures lynchiennes en orgasmes capturés en gros plan, examine avec une émouvante acuité l’impact du cinoche sur nos libidos de spectateurs."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Frédéric Foubert",
-          "citation": "Jane Schoenbrun réfléchit à la puissance traumatique des images dans un geste joyeux, jouisseur et déconnant."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Caroline Besse",
-          "citation": "Le film, plein d’humour (voir, notamment, une hilarante scène de visioconférence), explore la frontière mouvante entre réalité et fiction, sensualité et stupeur, consentement et dissociation, jusqu’à un parallèle bien trop démonstratif, entre jouissance et mort. Mais, ne serait-ce que pour la scène sanglante sur le sublime morceau d’Andy Shauf \"Satan\", alternant plans en caméra subjective et contrechamps sur le massacre, on pardonne volontiers ces quelques élans de facilité."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 3.0,
-          "auteur": "Pascale Vergereau",
-          "citation": "Stylé et farfelu."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 2.0,
-          "auteur": "Marin Gérard",
-          "citation": "Ce jeu de poupées russes, qui rappelle moins Lynch (convoqué par la présence de Patrick Fischler) que Charlie Kaufman, ne produit pourtant pas vraiment le trouble recherché, tant Schoenbrun fait du film un cocon confortable."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024260/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 98
-    }
-  },
-  {
     "titre": "Tegenwoordig heet iedereen sorry ",
     "annee": 2026,
     "duree_minutes": 87,
@@ -7254,14 +6800,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/60cd988e-b639-4a61-a728-d2dfde5dffcc.jpg",
     "seances": [
-      {
-        "heure": "16/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 17:15",
         "cinema": "Vendôme"
@@ -7312,22 +6850,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "16/10 15:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 21:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 18:00",
         "cinema": "Aventure"
@@ -7590,7 +7112,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 1573
+      "nb_notes_spectateurs": 1584
     }
   },
   {
@@ -7618,14 +7140,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "16/10 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 13:50",
         "cinema": "Aventure"
@@ -7848,7 +7362,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026649/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 701
+      "nb_notes_spectateurs": 759
     }
   },
   {
@@ -7905,7 +7419,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-8474/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1036
+      "nb_notes_spectateurs": 1037
     }
   },
   {
@@ -7942,10 +7456,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "16/10 12:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 12:20",
         "cinema": "Aventure"
@@ -8051,14 +7561,6 @@
     "synopsis": "Au moment crucial de la perte d’autonomie, des personnes âgées, leurs familles, soignants et aidants proches, entament un voyage initiatique en terre vieille, là où se jouent des affrontements, des pertes, des solidarités, des tendresses et des joies qui disent l’épaisseur du temps long de la vie… Une immersion au cœur d’histoires individuelles mettant en scène des volontés farouches qui se heurtent à des logiques institutionnelles dont elles sortent parfois gagnantes… ou perdantes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
-      {
-        "heure": "16/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 13:45",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 13:40",
         "cinema": "Vendôme"
@@ -8264,7 +7766,7 @@
       "allocine_id": "1000013643",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/presse/",
       "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 15,
+      "nb_critiques_presse": 16,
       "critiques_presse": [
         {
           "titre_presse": "Closer",
@@ -8301,6 +7803,12 @@
           "note": 4.0,
           "auteur": "Renaud Baronian et Catherine Balle",
           "citation": "« Mochy » est un film drôle et enlevé, ponctué de courses poursuites et de rebondissements."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 3.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Un sympathique personnage de naïf au grand cœur."
         },
         {
           "titre_presse": "Les Fiches du Cinéma",
@@ -8358,8 +7866,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 25
+      "note_moyenne_spectateurs": 3.1,
+      "nb_notes_spectateurs": 30
     }
   }
 ]

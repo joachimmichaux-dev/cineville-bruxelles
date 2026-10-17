@@ -14,20 +14,6 @@
     ]
   },
   {
-    "titre": "10 ans de Tënk",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d161b08e-d9cc-44a1-8492-7e966bf85fa7.jpg",
-    "seances": [
-      {
-        "heure": "16/10 21:00",
-        "cinema": "Nova"
-      }
-    ]
-  },
-  {
     "titre": "21 Grams",
     "annee": 2003,
     "duree_minutes": 124,
@@ -132,14 +118,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "16/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "17/10 15:15",
         "cinema": "Vendôme"
       },
@@ -184,10 +162,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbbf48fd-c01e-45d7-bfbe-03d732c0ffeb.jpg",
     "seances": [
       {
-        "heure": "16/10 19:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "22/10 15:00",
         "cinema": "Cinematek"
       }
@@ -204,64 +178,6 @@
       {
         "heure": "17/10 20:30",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "BIWFF: Graines de cineastes",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "16/10 20:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Born in the Jungle",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/10 10:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Carcosian Film Night Part 1",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "La Carcosian vous présente une soirée très spéciale autour de la restauration d'un film culte devenu invisible : The Devils, de Ken Russel. La première partie sera consacrée à une table ronde, présentation du film (en français) et concours, suivi de 3 court-métrages typiquement Carcosian.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/be399694-8e75-46a9-8bb4-cec8fa22f550.jpeg",
-    "seances": [
-      {
-        "heure": "16/10 19:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "Carcosian Film Night Part 2",
-    "annee": 0,
-    "duree_minutes": 114,
-    "realisateurs": [
-      "Ken Russell"
-    ],
-    "synopsis": "Un récit historique dramatisé sur l’ascension et la chute d’Urbain Grandier, un prêtre catholique romain du XVIIe siècle accusé de sorcellerie à la suite des prétendues possessions de Loudun, en France ; il met également en lumière sœur Jeanne des Anges, une religieuse sexuellement réprimée qui, sans le vouloir, déclenche les accusations.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "16/10 21:00",
-        "cinema": "Cineflagey"
       }
     ]
   },
@@ -310,10 +226,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9ecc6d5b-eaeb-4e7e-99d9-0610af00b9d9.jpg",
     "seances": [
       {
-        "heure": "16/10 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "18/10 20:00",
         "cinema": "Cinematek"
       }
@@ -329,10 +241,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "16/10 19:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 21:30",
         "cinema": "Aventure"
@@ -409,22 +317,6 @@
     ]
   },
   {
-    "titre": "Ellas en la cuidad",
-    "annee": 2025,
-    "duree_minutes": 72,
-    "realisateurs": [
-      "Reyes Gallegos Rodríguez"
-    ],
-    "synopsis": "Dans les années 70, une génération de femmes a changé le destin de leurs quartiers de banlieue à Séville. Ces femmes racontent leur histoire à travers trois quartiers de la ville, dévoilant comment elles soutiennent une ville qui leur tourne le dos, et en partageant leurs luttes liées au genre, aux soins, à l’urbanisme, à l’éducation et à la politique.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/56af4827-aad4-469d-accb-bb71e533fae2.jpg",
-    "seances": [
-      {
-        "heure": "16/10 18:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Enys Men",
     "annee": 2022,
     "duree_minutes": 91,
@@ -437,22 +329,6 @@
       {
         "heure": "20/10 19:00",
         "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
-    "titre": "Escape from L.A.",
-    "annee": 1996,
-    "duree_minutes": 101,
-    "realisateurs": [
-      "John Carpenter"
-    ],
-    "synopsis": "Le fameux « Big One » tant redouté a eu lieu en 1998 et a isolé Los Angeles du reste des États-Unis. Quinze ans plus tard, les États-Unis se sont dotés d'un président particulièrement puritain et politiquement correct qui envoie tous les délinquants à Los Angeles, devenue l'île la plus dangereuse du monde. Cuervo Jones, anarchiste latino-américain, règne sur ce bout de terre et s'est mis dans la tête, avec l'aide de la fille du président qui s'est ralliée à sa cause, de neutraliser toutes les sources d'énergie artificielles de la planète.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7e72e161-af17-4afa-af98-9011b3cba6c5.jpg",
-    "seances": [
-      {
-        "heure": "16/10 21:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -512,10 +388,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/10 10:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "17/10 15:10",
         "cinema": "Aventure"
       },
@@ -564,10 +436,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
       {
-        "heure": "16/10 16:25",
-        "cinema": "Palace"
-      },
-      {
         "heure": "17/10 21:00",
         "cinema": "Palace"
       },
@@ -599,26 +467,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "16/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 11:15",
         "cinema": "Palace"
@@ -715,18 +563,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
       {
-        "heure": "17/10 10:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 10:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "17/10 15:30",
         "cinema": "Vendôme"
       },
@@ -807,10 +643,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d66edf51-5e43-4bbf-bdf2-096abc74f509.jpg",
     "seances": [
       {
-        "heure": "16/10 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "20/10 18:00",
         "cinema": "Le Stockel"
       }
@@ -885,10 +717,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
       {
-        "heure": "16/10 21:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "17/10 21:30",
         "cinema": "Palace"
       },
@@ -928,30 +756,6 @@
     "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
     "seances": [
-      {
-        "heure": "16/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 17:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "16/10 17:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 19:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 12:00",
         "cinema": "Aventure"
@@ -1082,22 +886,6 @@
     ]
   },
   {
-    "titre": "Lazybones",
-    "annee": 1925,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Frank Borzage"
-    ],
-    "synopsis": "Dans un village américain, au début du vingtième siècle, un jeune homme est la risée de tous à cause de son penchant appuyé pour la fainéantise. Il est sous le charme d'une jeune femme, mais dont la mère tyrannique et inflexible refuse catégoriquement qu'on puisse envisager un mariage entre elle et lui.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/70c022f9-d3cc-477b-bbe3-8b0898c8ad04.jpg",
-    "seances": [
-      {
-        "heure": "16/10 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Le Corset",
     "annee": 2026,
     "duree_minutes": 89,
@@ -1107,22 +895,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "16/10 12:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 17:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 18:25",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "17/10 13:00",
         "cinema": "Palace"
@@ -1242,6 +1014,10 @@
       {
         "heure": "19/10 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "23/10 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1324,10 +1100,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
-      {
-        "heure": "16/10 17:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 17:20",
         "cinema": "Aventure"
@@ -1455,14 +1227,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "16/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "17/10 13:45",
         "cinema": "Vendôme"
       },
@@ -1507,50 +1271,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "16/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 14:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 15:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 18:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 13:30",
         "cinema": "Vendôme"
@@ -1724,10 +1444,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
       {
-        "heure": "16/10 13:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "17/10 14:15",
         "cinema": "Palace"
       },
@@ -1759,34 +1475,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "16/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 20:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 20:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 10:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 13:00",
         "cinema": "Galeries"
@@ -1959,18 +1647,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
       {
-        "heure": "16/10 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 20:45",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "17/10 14:20",
         "cinema": "Palace"
       },
@@ -2037,6 +1713,22 @@
     ]
   },
   {
+    "titre": "Punishment Park",
+    "annee": 1971,
+    "duree_minutes": 92,
+    "realisateurs": [
+      "Peter Watkins"
+    ],
+    "synopsis": "A la façon d'un reportage télévisé, un script de politique-fiction - avec son président des USA arrêtant tous les \"séditieux \"et les poussant vers une traque filmée, dans un désert impitoyable.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1d088304-44d7-4b52-9d82-4e5ad2e5eb34.jpg",
+    "seances": [
+      {
+        "heure": "23/10 21:15",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Res Nullius",
     "annee": 2026,
     "duree_minutes": 67,
@@ -2075,10 +1767,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "16/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "17/10 17:20",
         "cinema": "Aventure"
       },
@@ -2106,10 +1794,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "16/10 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 19:00",
         "cinema": "Palace"
@@ -2139,10 +1823,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "16/10 15:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "17/10 16:30",
         "cinema": "Cineflagey"
       },
@@ -2170,18 +1850,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "16/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 19:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 11:55",
         "cinema": "Palace"
@@ -2275,10 +1943,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "16/10 11:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "17/10 16:35",
         "cinema": "Palace"
       },
@@ -2301,22 +1965,6 @@
     ]
   },
   {
-    "titre": "Teenage Sex and Death at Camp Miasma",
-    "annee": 2026,
-    "duree_minutes": 0,
-    "realisateurs": [
-      "Jane Schoenbrun"
-    ],
-    "synopsis": "Jane Schoenbrun, cinéaste queer propulsée icône de la communauté LGBTQIA+, passe la vitesse supérieure avec ce film meta et déjanté. Une jeune cinéaste est embauchée pour réaliser la suite d’une franchise de slasher et tente de retrouver sa star originelle. S'ensuit un glissement dans un univers fantasmagorique sanglant dans lequel peur et sexualité marchent main dans la main, pour notre plus grand plaisir.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/15d8780f-379e-4bda-97b4-d8340e078a86.jpg",
-    "seances": [
-      {
-        "heure": "16/10 21:05",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Tegenwoordig heet iedereen sorry ",
     "annee": 2026,
     "duree_minutes": 87,
@@ -2326,14 +1974,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/60cd988e-b639-4a61-a728-d2dfde5dffcc.jpg",
     "seances": [
-      {
-        "heure": "16/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "17/10 17:15",
         "cinema": "Vendôme"
@@ -2374,22 +2014,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "16/10 15:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/10 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/10 21:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "17/10 18:00",
         "cinema": "Aventure"
@@ -2465,14 +2089,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
       {
-        "heure": "16/10 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "17/10 13:50",
         "cinema": "Aventure"
       },
@@ -2547,10 +2163,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "16/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "18/10 12:20",
         "cinema": "Aventure"
       },
@@ -2603,14 +2215,6 @@
     "synopsis": "Au moment crucial de la perte d’autonomie, des personnes âgées, leurs familles, soignants et aidants proches, entament un voyage initiatique en terre vieille, là où se jouent des affrontements, des pertes, des solidarités, des tendresses et des joies qui disent l’épaisseur du temps long de la vie… Une immersion au cœur d’histoires individuelles mettant en scène des volontés farouches qui se heurtent à des logiques institutionnelles dont elles sortent parfois gagnantes… ou perdantes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
-      {
-        "heure": "16/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/10 13:45",
-        "cinema": "Aventure"
-      },
       {
         "heure": "17/10 13:40",
         "cinema": "Vendôme"

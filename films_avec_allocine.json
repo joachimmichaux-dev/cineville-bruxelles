@@ -1,149 +1,5 @@
 [
   {
-    "titre": " Karakuş'lar",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/10 16:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "21 Grams",
-    "annee": 2003,
-    "duree_minutes": 124,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Autour d'un accident tragique, et d'un cœur attendu pour une transplantation, un film d'une émotion à la fois pure et infinie, où Sean Penn - magnifique - trouve un de ses tout meilleurs rôle.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/31a22936-d3a1-45ec-8340-bce1d2f5966d.jfif",
-    "seances": [
-      {
-        "heure": "17/10 20:50",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "47795",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-47795/critiques/presse/",
-      "note_moyenne_presse": 4.1,
-      "nb_critiques_presse": 17,
-      "critiques_presse": [
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Jean-Pierre Dufreigne",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "(...) puzzle virtuose qui place le spectateur en état de choc."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 5.0,
-          "auteur": "Dominique Borde",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Jean-Luc Wachtausen",
-          "citation": "(...) Iñarritu signe une brillante méditation sur le hasard, les remords et sur ce drôle de jeu qu'est la vie. Le tout est magistralement joué par des acteurs poussés dans leurs retranchements, Charlotte Gainsbourg en tête."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Jean-Luc Douin",
-          "citation": "Pourquoi ces trois personnages à cent lieues les uns des autres vont-il se croiser, comment vont-ils être amenés à se haïr, se tuer et s'aimer ? C'est évidemment le sujet de 21 grammes, mais cerner ainsi le film du surdoué Alejandro Gonzales Inarritu serait le réduire, sinon le trahir (...) ce qui l'obsède est plus complexe, tant dans le fond que dans la forme."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 5.0,
-          "auteur": "Olivier De Bruyn",
-          "citation": "Voir la critique sur www.lepoint.fr"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Frank Garbarz",
-          "citation": "(...) Inarritu s'impose (...) comme un des talents les plus vigoureux et les plus originaux de sa génération (...) Son style fiévreux, survolté, sa direction d'acteurs impérieuse (...) son jeu baroque avec les spirales du temps, allant de pair avec une fulgurante intensité émotionnelle, font de 21 grammes une expérience rare."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 5.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "Brillantisime d'invention et d'énergie concentrée, la mise en scène serre au plus près les fluctuations nerveuses des personnages (...) Le résultat mêle intelligence et puissance. Pour son second film, Alejandro Gonzalez Inarritu frappe un second grand coup. Donc un sans-faute."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 5.0,
-          "auteur": "Jean-Pierre Lavoignat",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 5.0,
-          "auteur": "Bernard Achour",
-          "citation": "Rien qu'un accident de voiture central, un implacable puzzle de destins fracassés et des acteurs au-delà d'eux-mêmes, héros d'une tragédie dont on ressort accablé mais enthousiaste, hanté par l'émotion que véhicule ce film rare tant par le fond que par la forme."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Gérard Lefort",
-          "citation": "La question des 21 Grammes (...) ne prend tout son poids, lourd de réponse et de sens, qu'à l'extrême fin. Toutefois, ce remue-méninges théorique ne fait de l'effet que parce qu'il est à l'image, donc physiquement, un fameux chahut."
-        },
-        {
-          "titre_presse": "Aden",
-          "note": 3.0,
-          "auteur": "Philippe Piazzo",
-          "citation": "(...) l'histoire n'est ici qu'un support pour épater le spectateur. Voyez comme la mise en scène est habile. Et comme les acteurs sont prodigieux (...) Désagréable sensation, finalement, une fois la performance générale achevée, que derrière ces jeux sophistiqués de la caméra et des acteurs se cache une certaine indécence."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 3.0,
-          "auteur": "Sandra Benedetti",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Alex Masson",
-          "citation": "Malgré les affèteries stylistiques et structurelles, l'émotion pointe dans ce film à l'interprétation hors pair."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Louis Guichard",
-          "citation": "Exercice de style, oui, mais immédiatement relevé par la puissance des comédiens, qui en sont la vraie pièce maîtresse (...) Ce sombre déterminisme (...) s'illustre ici avec trop d'insistance pour ne pas apparenter les personnages à des marionnettes, sans prise sur leur destin."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 2.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "21 grammes, c'est peu pour un film qui solde tout au poids : l'âme, les sentiments et la pellicule qui les porte."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 2.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "Marre (...) de ce cinéma péteux, de ces petits champions de l'esbroufe assez racoleurs en vérité dans leur manière de dispenser des cours de philo pour les nuls du haut de leur piédestal auteuriste, drapé dans un pseudo formalisme bourrichon, épaté par leurs coups de force autoproclamés."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-47795/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 21608
-    }
-  },
-  {
     "titre": "A Hora da Estrela (Hour of the Star)",
     "annee": 1985,
     "duree_minutes": 95,
@@ -197,7 +53,7 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/10 18:00",
+        "heure": "24/10 20:00",
         "cinema": "Cinematek"
       }
     ],
@@ -226,7 +82,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6429/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 12301
+      "nb_notes_spectateurs": 12303
     }
   },
   {
@@ -313,14 +169,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "17/10 15:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/10 14:00",
         "cinema": "Vendôme"
       },
@@ -391,21 +239,6 @@
       "note_moyenne_spectateurs": 3.9,
       "nb_notes_spectateurs": 4793
     }
-  },
-  {
-    "titre": "BIWFF : Courts métrages internationaux - séance 2",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/10 20:30",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Ceci n'est pas un film français",
@@ -488,10 +321,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "17/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 13:00",
         "cinema": "Aventure"
@@ -732,7 +561,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2294
+      "nb_notes_spectateurs": 2363
     }
   },
   {
@@ -853,7 +682,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-34193/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 23823
+      "nb_notes_spectateurs": 23824
     }
   },
   {
@@ -864,10 +693,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "17/10 16:15",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "19/10 14:00",
         "cinema": "Le Stockel"
@@ -942,7 +767,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 122
+      "nb_notes_spectateurs": 132
     }
   },
   {
@@ -1272,7 +1097,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-114976/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 7770
+      "nb_notes_spectateurs": 7771
     }
   },
   {
@@ -1339,7 +1164,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000048319/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 355
+      "nb_notes_spectateurs": 360
     }
   },
   {
@@ -1368,14 +1193,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "17/10 15:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/10 10:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "19/10 13:50",
         "cinema": "Aventure"
@@ -1427,10 +1244,6 @@
     "synopsis": "De son enfance à Prague jusqu’à sa disparition à Vienne, le film retrace le parcours de Franz Kafka, un homme déchiré entre son aspiration à une existence banale et son besoin irrépressible d’écrire, marqué par des relations amoureuses tourmentées.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
-      {
-        "heure": "17/10 21:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 12:45",
         "cinema": "Palace"
@@ -1716,30 +1529,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "17/10 11:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 21:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/10 11:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 16:10",
         "cinema": "Vendôme"
@@ -2040,7 +1829,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2684
+      "nb_notes_spectateurs": 2729
     }
   },
   {
@@ -2056,22 +1845,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "17/10 15:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 15:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/10 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/10 10:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "18/10 15:15",
         "cinema": "Vendôme"
@@ -2356,7 +2129,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000000085/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2499
+      "nb_notes_spectateurs": 2558
     }
   },
   {
@@ -2367,18 +2140,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "17/10 11:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/10 11:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "18/10 13:15",
         "cinema": "Vendôme"
@@ -2516,10 +2277,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
       {
-        "heure": "17/10 21:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/10 21:20",
         "cinema": "Cineflagey"
       },
@@ -2566,30 +2323,6 @@
     "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
     "seances": [
-      {
-        "heure": "17/10 12:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 17:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "17/10 19:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 12:20",
         "cinema": "Aventure"
@@ -2848,52 +2581,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-285141/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 359
+      "nb_notes_spectateurs": 365
     }
-  },
-  {
-    "titre": "L'île des souvenirs",
-    "annee": 2026,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Joel Crawford Januel Mercado"
-    ],
-    "synopsis": "Jo et Raissa sont meilleures amies depuis la primaire. Aaprès avoir obtenu le baccalauréat, elles sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elles fêtent leur dernière soirée ensemble, les deux jeunes filles tombent sur un portail mystérieux qui les transporte sur l’île fantastique de Nakali, peuplée de créatures magiques tout droit sorties des contes mythologiques philippins de leur enfance…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0c62a2d-3178-4a6f-816e-8b04aa7eaedf.jpg",
-    "seances": [
-      {
-        "heure": "17/10 14:00",
-        "cinema": "Le Stockel"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "296642",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-296642/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-296642/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
-    "titre": "La Bambine",
-    "annee": 2026,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "Valentina Bertani",
-      "Nicole Bertani"
-    ],
-    "synopsis": "Ode à l’enfance dans l’Italie des années 90, ce récit initiatique suit trois fillettes rebelles qui créent leur propre univers pour échapper à la négligence des adultes.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0ef93dcf-68e6-40cd-8b7d-243f2f013842.jpg",
-    "seances": [
-      {
-        "heure": "17/10 20:30",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "La Gradiva",
@@ -2929,30 +2618,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "17/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 13:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 14:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "17/10 15:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 16:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 16:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 12:40",
         "cinema": "Galeries"
@@ -3271,7 +2936,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-321790/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 343
+      "nb_notes_spectateurs": 412
     }
   },
   {
@@ -3305,225 +2970,6 @@
     }
   },
   {
-    "titre": "Le sommet des Dieux",
-    "annee": 2022,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Patrick Imbert"
-    ],
-    "synopsis": "A Katmandou, le reporter japonais Fukamachi croit reconnaître Habu Jôji, cet alpiniste que l’on pensait disparu depuis des années. Il semble tenir entre ses mains un appareil photo qui pourrait changer l’histoire de l’alpinisme. Et si George Mallory et Andrew Irvine étaient les premiers hommes à avoir atteint le sommet de l’Everest, le 8 juin 1924 ? Seul le petit Kodak Vest Pocket avec lequel ils devaient se photographier sur le toit du monde pourrait livrer la vérité. 70 ans plus tard, pour tenter de résoudre ce mystère, Fukamachi se lance sur les traces de Habu. Il découvre un monde de passionnés assoiffés de conquêtes impossibles et décide de l’accompagner jusqu’au voyage ultime vers le sommet des dieux.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b5f155e-e322-4fac-b6b5-78032c5264b8.jpeg",
-    "seances": [
-      {
-        "heure": "17/10 17:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "269946",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-269946/critiques/presse/",
-      "note_moyenne_presse": 4.2,
-      "nb_critiques_presse": 32,
-      "critiques_presse": [
-        {
-          "titre_presse": "Bande à part",
-          "note": 5.0,
-          "auteur": "Olivier Bombarda",
-          "citation": "Film d’animation, Le Sommet des dieux tient un discours éminent et profond sur le désir des hommes de surpasser la nature. Un conte philosophique esthétique, réaliste, plein de suspense, qui intéressera par-delà les aficionados des sports alpins."
-        },
-        {
-          "titre_presse": "CNews",
-          "note": 5.0,
-          "auteur": "La rédaction",
-          "citation": "Au-delà d'une histoire passionnante, Patrick Imbert, aidé par Jean-Charles Ostorero et Magali Pouzol au scénario, parviennent à saisir l'incroyable impact visuel du manga d'origine."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 5.0,
-          "auteur": "Flavien Appavou",
-          "citation": "Le Sommet des Dieux est un film d'animation totalement renversant. Avec sa réalisation millimétrée, ses plans incroyables, son design et ses dessins hivernaux et sa musique qui nous transporte, comment ne pas être touché par ce film aux valeurs profondes. À couper le souffle."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 5.0,
-          "auteur": "Leela Badrinath",
-          "citation": "L'immensité des paysages, la profondeur des crevasses, l'adrénaline du vide, tout y est. On se surprend à s'accrocher à son siège comme à une façade rocailleuse. Le dessin est fin, largement inspiré du style de Jirô Taniguchi, pour un rendu visuel sublime."
-        },
-        {
-          "titre_presse": "IGN France",
-          "note": 5.0,
-          "auteur": "Benjamin Benoit",
-          "citation": "Récit d'une grande richesse qui confronte luttes intérieures à une verticalité toujours plus angoissante, Le Sommet des Dieux est une réussite narrative, graphique et sensorielle. Plus très loin du vertigineux."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Marius Chapuis",
-          "citation": "Comme Taniguchi, mais de façon différente, Imbert voit au-delà des corps pour saisir des élans vitaux."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 5.0,
-          "auteur": "Michel Troadec",
-          "citation": "Un film épatant, d'aventure et de réflexion, à découvrir en famille. Le dessin animé du moment."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Bernard Génin",
-          "citation": "Un film exceptionnel, remarquablement mis en scène qui, en effet, atteint des sommets."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Stéphane Jarno",
-          "citation": "Ce film d’animation adapté avec brio d’un manga célèbre atteint des sommets de grâce."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Si la morale sur le dépassement de soi est attendue, son illustration à travers l'ascension de montagnes gigantesques aux parois verticales, sur lesquelles le vent siffle telle une lame, nous procure une formidable sensation de vertige."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Le spectateur oublie qu’il s’agit d’animation pour se retrouver pris de vertige face à un gouffre glacé."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 4.0,
-          "auteur": "Thierry Méranger",
-          "citation": "Le pari formel, remarquable réussite, est celui d'une animation hybride, simplifiant et occidentalisant le trait de Jirô Taniguchi pour cheminer en sa compagnie vers la ligne claire et assurer la fluidité du film."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "L’aventure de l’extrême, dans le froid, la glace, la solitude, est haletante, palpitante, et de toute beauté."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "A la fois belle et profonde, cette adaptation d'un célèbre manga pose des questions qui dépassent largement le cadre de l'alpinisme."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Kareen Janselme",
-          "citation": "Mais cette bouffée d’oxygène après le confinement, cette quête de l’Everest et d’identité, nous emporte sans effort vers le Toit du monde au rythme du vent, de la montagne, des éléments."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "Chaque perspective ainsi qu’un remarquable travail sonore sur l’écho et le souffle du vent font éprouver physiquement la beauté et le danger de la montagne. Impressionnant."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Stéphane Dreyfus",
-          "citation": "Adaptation brillante du manga de Jiro Taniguchi, ce film d’animation parfaitement maîtrisé raconte à la fois la quête d’un alpiniste obstiné et l’enquête d’un journaliste sur l’un des plus grands mystères de l’histoire de l’Everest."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Les personnages parfaitement dessinés, tant par les traits de l’animation que par les traits de leurs caractères, deviennent les compagnons d’un grand et beau voyage."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Olivier Delcroix",
-          "citation": "Entre poésie, action et suspense, Le Sommet des dieux se fraye une voie entre deux abysses métaphysiques."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "Doté d’un suspense digne des thrillers en montagne, ce film d’animation graphiquement somptueux parle de dépassement de soi et de courage en retraçant une ascension périlleuse dans l’enfer blanc."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Mathieu Macheret",
-          "citation": "Ce film d'animation traduit magnifiquement l'univers de Jiro Taniguchi."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Romain Brethes",
-          "citation": "Une exploration fascinante et initiatique du monde de l'alpinisme."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "Une nouvelle réussite du cinéma d'animation français."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Gilles Tourman",
-          "citation": "Un sublime film initiatique."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Ludovic Béot",
-          "citation": "Situé au point de rencontre de la ligne claire belge et de la stylisation du manga, Le Sommet des Dieux est une réussite visuelle qui rend compte de l’ambivalence du monde alpin."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Yannick Vely",
-          "citation": "Le film insuffle la même mélancolie que l'oeuvre de Jirō Taniguchi. Une authentique réussite."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Sylvestre Picard",
-          "citation": "Une sorte de version ligne claire de la BD d'origine, qui recherche moins la sensation du vertige que celle de la tension pure. Et en fin de compte, c'est très impressionnant."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 4.0,
-          "auteur": "Isabelle Magnier",
-          "citation": "Un joli coup de maître."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Thomas Bonicel",
-          "citation": "En adaptant Jiro Taniguchi, Patrick Imbert nous invite à l’introspection avec un film visuellement irréprochable et méditatif."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 3.0,
-          "auteur": "Bastien Gens",
-          "citation": "La mise en scène, gouvernée par le désir de ramener l’œuvre à son essence contemplative et méditative, reprend le trait réaliste et épuré de Taniguchi, presque une ligne claire à laquelle des effets de parallaxe insufflent une légère profondeur."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 3.0,
-          "auteur": "Christophe Caron",
-          "citation": "Au-delà d’une photo qui pourrait changer l’histoire, Le Sommet des dieux interroge l’obsession quasi sacrificielle de ceux qui gravissent les plus hauts sommets. Visuellement impressionnant."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 3.0,
-          "auteur": "La Rédaction",
-          "citation": "Adapté d’un manga renommé dans le monde entier, « le Sommet des Dieux » décline, dans son aspect graphique, des images réalistes de montagne et de tempêtes aussi somptueuses que grisantes. Sur le fond, cette belle épopée humaine passionnera surtout les mordus d’alpinisme."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-269946/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 3643
-    }
-  },
-  {
     "titre": "Les Misérables",
     "annee": null,
     "duree_minutes": null,
@@ -3531,10 +2977,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "17/10 20:15",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "18/10 17:20",
         "cinema": "Le Stockel"
@@ -3765,154 +3207,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-326160/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 587
-    }
-  },
-  {
-    "titre": "Les Petites Victoires",
-    "annee": 2022,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Mélanie Auffret"
-    ],
-    "synopsis": "En deux films seulement, la cinéaste aura réussi à imposer sa patte singulière. Une manière de raconter le quotidien de ce qu’on appelle aujourd’hui « les territoires » avec une tendresse et une empathie jamais mièvres pour créer des fables feel good, que ne renieraient pas les Britanniques, grands spécialistes du genre. Son territoire à elle, c’est sa Bretagne natale. Et après Roxane et son producteur d’œufs qui rendait ses poules heureuses en leur clamant du Cyrano, elle nous entraîne dans le petit village de Kerguen, symbole de la désertification rurale qui gangrène nos campagnes, à travers le combat d’Alice, sa maire-institutrice (Julia Piaton, lumineuse), pour éviter la fermeture de son école où vient de s’inscrire… Emile, un sexagénaire (Michel Blanc, savoureux) bougon soudain désireux d'apprendre à lire et à écrire. Mélanie Auffret développe ici une galerie de personnages plongés dans des situations que la réalité rude entraîne sur le terrain de l’absurde, mais sans jamais verser dans le pittoresque. Car ce personnage et ces situations, elle les connaît par cœur et, si elle avance avec l’optimisme chevillé au cœur, elle ne se fait donc aucune illusion sur l’issue du duel entre pot de terre et ce pot de fer. Mais son geste militant passe donc par l’humour, par un vrai sens de l’émotion qui touchent directement au cœur car rien n’y est fabriqué ou forcé. Parce que Mélanie Auffret sait qu’avec l’épatante bande de comédiens qu’elle a réunis, un regard vaut plus que mille mots. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4c24e2fc-3c13-43de-ac48-5812646fdf52.jpeg",
-    "seances": [
-      {
-        "heure": "17/10 13:30",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "295765",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-295765/critiques/presse/",
-      "note_moyenne_presse": 3.6,
-      "nb_critiques_presse": 20,
-      "critiques_presse": [
-        {
-          "titre_presse": "Elle",
-          "note": 5.0,
-          "auteur": "Nathalie Dupuis",
-          "citation": "Rien n'est convenu, ni bien-pensant, juste tendre et émouvant."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Julia Piaton interprète avec beaucoup de cœur cette élue moderne et héroïque. Son duo avec un Michel Blanc ronchon se révèle drôle et savoureux. Et les scènes avec les enfants sont d’une tendresse rare."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 5.0,
-          "auteur": "Yoann Jenan",
-          "citation": "Julia Piaton et Michel Blanc forment le tandem parfait de cette comédie aux dialogues ciselés, pleine de sensibilité, d'humour, et évoquant habilement la désertification des campagnes."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Cette comédie dopée à la bienveillance est très réussie."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Une comédie tendre et optimiste."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Une comédie tendre et optimiste."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Jean-Luc Wachthausen",
-          "citation": "À l'absurde répondent le système D et la solidarité de femmes et d'hommes soudés par la même volonté de ne pas disparaître. Mélanie Auffret leur donne la parole à travers une belle troupe de comédiens. Ce sont leurs petites victoires."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "Gilles Kerdreux",
-          "citation": "La facture du film est classique mais la réalisatrice décrit très bien le quotidien e son village."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 4.0,
-          "auteur": "Julien Barcilon",
-          "citation": "Impossible de ne pas être charmé et conquis par la prestation à fleur d’émotions de Julia Piaton, qui forme, avec Michel Blanc, l’attachant tandem de cette comédie coup de cœur, engagée et généreuse."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 4.0,
-          "auteur": "Yoann Jenan",
-          "citation": "Julia Piaton et Michel Blanc forment le duo parfait de cette comédie aux dialogues ciselés, pleine de sensibilité, d'humour, et évoquant habilement la désertification des campagnes."
-        },
-        {
-          "titre_presse": "Bande à part",
-          "note": 3.0,
-          "auteur": "Anne-Claire Cieutat",
-          "citation": "Si la première partie du film peine à trouver son rythme, la deuxième, en revanche, donne à sentir une liesse, une circulation de l’énergie dans les scènes, fait ainsi naître une chaleur et restitue la puissance d’engagement de la maire de ce village, qui fait écho à celles et ceux qui se démènent pour que vivent ces communes en souffrance."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 3.0,
-          "auteur": "L. V.",
-          "citation": "Ce sujet qui aurait pu être un film des frères Dardenne, comme le dit Michel Blanc, se révèle une comédie sociale de bonne tenue, avec son lot de révélations touchantes."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 3.0,
-          "auteur": "Etienne Sorin",
-          "citation": "À cette trame s'ajoute l'histoire d'Émile Menoux, sexagénaire irascible et inconsolable depuis la mort de son frère. Illettré, il s'incruste dans la classe d'Alice pour apprendre à lire et à écrire. Émile est joué par Michel Blanc, dont le talent donne à ce personnage improbable une belle humanité."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 3.0,
-          "auteur": "E.M.",
-          "citation": "Parfaitement équilibrée entre franche rigolade et émotion délestée de tout pathos boursouflé, ce cette comédie rurale séduit par sa qualité d’écriture, son humanité et l’épaisseur psychologique de ses personnages."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Antoine Corte",
-          "citation": "Derrière cette comédie légère, il y a la triste réalité de la désertification des petits villages français. Les Petites victoires manque certes d’originalité, mais compense largement par sa sensibilité et ses deux acteurs attendrissants."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 3.0,
-          "auteur": "Fabrice Leclerc",
-          "citation": "Un feel good movie doux-amer, bien écrit, volontiers touchant quand il s'agit de célébrer le \"vivre ensemble\"."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Une comédie populaire et attachante."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Frédéric Strauss",
-          "citation": "La bonne ambiance n’est pourtant pas gâchée, Michel Blanc s’amuse et amuse, les enfants sont mignons, et la manière qu’a l’actrice Julia Piaton d’emmener cette petite bande rend son sourire communicatif."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 3.0,
-          "auteur": "Gérard Crespo",
-          "citation": "Un feel good movie agréable, qui déjoue les clichés inhérents à sa thématique, avec un subtil dosage d’émotion contenue et d’humour fin. Une bonne surprise."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 1.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "Le charme fragile de l’ensemble tient surtout à celui de ses interprètes, la solaire Julia Piaton et la toujours parfaite India Hair en tête. Mais on reste sur sa faim."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-295765/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 4181
+      "nb_notes_spectateurs": 864
     }
   },
   {
@@ -4101,7 +3396,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000037443/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 250
+      "nb_notes_spectateurs": 255
     }
   },
   {
@@ -4114,22 +3409,6 @@
     "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
     "seances": [
-      {
-        "heure": "17/10 12:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/10 10:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 13:00",
         "cinema": "Palace"
@@ -4279,8 +3558,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 30
+      "note_moyenne_spectateurs": 2.9,
+      "nb_notes_spectateurs": 35
     }
   },
   {
@@ -4388,14 +3667,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/10 14:55",
         "cinema": "Vendôme"
       },
@@ -4461,50 +3732,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "17/10 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 15:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 18:10",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "17/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 19:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 14:00",
         "cinema": "Palace"
@@ -4751,7 +3978,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000051082/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 248
+      "nb_notes_spectateurs": 255
     }
   },
   {
@@ -4764,10 +3991,6 @@
     "synopsis": "Corinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l’espoir d’être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu’une relation commence à se nouer entre les deux, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l’aider à se faire une place au sein de la grande famille du cinéma ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
-      {
-        "heure": "17/10 14:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 14:10",
         "cinema": "Palace"
@@ -5028,7 +4251,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000023992/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 854
+      "nb_notes_spectateurs": 905
     }
   },
   {
@@ -5041,26 +4264,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "17/10 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 20:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 13:10",
         "cinema": "Vendôme"
@@ -5401,7 +4604,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 2088
+      "nb_notes_spectateurs": 2154
     }
   },
   {
@@ -5433,85 +4636,6 @@
     }
   },
   {
-    "titre": "Orca",
-    "annee": 2023,
-    "duree_minutes": 107,
-    "realisateurs": [
-      "Sahar Mosayebi"
-    ],
-    "synopsis": "Après avoir survécu à une violente agression conjugale, une Iranienne défie les interdictions politiques et religieuses de son pays pour reconstruire sa vie en tentant de battre un record du monde de natation d’endurance.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fb5da505-ab2c-405e-940c-0ffd451533c1.jpeg",
-    "seances": [
-      {
-        "heure": "17/10 18:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "32536",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-32536/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-32536/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 980
-    }
-  },
-  {
-    "titre": "Out Laws",
-    "annee": 2026,
-    "duree_minutes": 79,
-    "realisateurs": [
-      "Lexi Powner",
-      "James Lewis"
-    ],
-    "synopsis": "Ce documentaire percutant suit Friedel Dausab, militant namibien ouvertement gay, dans son combat contre la criminalisation des relations entre personnes de même sexe dans son pays. En juin 2022, Friedel intente un procès historique contre le gouvernement, devenant ainsi un symbole d'espoir pour les personnes LGBTQIA+ de Namibie en quête de sécurité et d'égalité. Confronté à des menaces de mort, à l'hostilité du public et à des risques personnels considérables, il porte son combat devant les tribunaux tout en attendant le verdict. Le film retrace également les racines coloniales de la criminalisation des personnes queer — de l'Angleterre des Tudor à son exportation dans les pays du Sud par le biais de l'empire, puis son renforcement par l'évangélisme chrétien. Aux côtés d'autres militants venus du Sri Lanka et de la Barbade, Friedel se rend à Londres, lieu de convergence entre histoire, contestation et Marche des fiertés. Mêlant bataille juridique et éclairage historique, ce documentaire est à la fois une dénonciation urgente de l'injustice et une célébration émouvante de la résilience, du courage et de la résistance queer.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0bee5a3c-b922-4a90-932e-8a20a3e641ca.jpg",
-    "seances": [
-      {
-        "heure": "17/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "294477",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-294477/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-294477/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 1.9,
-      "nb_notes_spectateurs": 497
-    }
-  },
-  {
-    "titre": "Paris is Burning",
-    "annee": 1990,
-    "duree_minutes": 78,
-    "realisateurs": [
-      "Jennie Livingston"
-    ],
-    "synopsis": "Regorgeant de citations emblématiques qui façonnèrent le lexique queer, l’incontournable documentaire de Jennie Livingston capture la joie vivace comme la précarité déchirante de la ball culture new-yorkaise des années 1980, où les fantasmes devenaient réalité.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4d00d805-040f-46d5-94dd-08f5bf235f91.jpeg",
-    "seances": [
-      {
-        "heure": "17/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "14457",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-14457/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-14457/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 141
-    }
-  },
-  {
     "titre": "Primetime",
     "annee": 2026,
     "duree_minutes": 110,
@@ -5521,18 +4645,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "17/10 14:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 21:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "18/10 16:30",
         "cinema": "Palace"
@@ -5765,7 +4877,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 940
+      "nb_notes_spectateurs": 977
     }
   },
   {
@@ -5856,14 +4968,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "17/10 12:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/10 10:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "19/10 18:50",
         "cinema": "Aventure"
       },
@@ -5884,10 +4988,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "17/10 17:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 21:30",
         "cinema": "Aventure"
@@ -6012,7 +5112,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000018854/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 2678
+      "nb_notes_spectateurs": 2722
     }
   },
   {
@@ -6025,10 +5125,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "17/10 19:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 11:30",
         "cinema": "Palace"
@@ -6189,7 +5285,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 625
+      "nb_notes_spectateurs": 630
     }
   },
   {
@@ -6202,14 +5298,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "17/10 16:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "17/10 19:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 15:30",
         "cinema": "Aventure"
@@ -6318,7 +5406,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026622/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 515
+      "nb_notes_spectateurs": 529
     }
   },
   {
@@ -6331,22 +5419,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "17/10 11:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 16:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 19:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 16:35",
         "cinema": "Vendôme"
@@ -6563,7 +5635,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000043221/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 1578
+      "nb_notes_spectateurs": 1589
     }
   },
   {
@@ -6728,7 +5800,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-181541/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 28671
+      "nb_notes_spectateurs": 28674
     }
   },
   {
@@ -6768,10 +5840,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "17/10 16:35",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/10 21:35",
         "cinema": "Palace"
       },
@@ -6800,10 +5868,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/60cd988e-b639-4a61-a728-d2dfde5dffcc.jpg",
     "seances": [
-      {
-        "heure": "17/10 17:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 17:00",
         "cinema": "Palace"
@@ -6850,18 +5914,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "17/10 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 14:30",
         "cinema": "Galeries"
@@ -7112,7 +6164,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-317219/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 1584
+      "nb_notes_spectateurs": 1588
     }
   },
   {
@@ -7140,14 +6192,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "17/10 13:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 14:10",
         "cinema": "Aventure"
@@ -7362,7 +6406,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026649/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 759
+      "nb_notes_spectateurs": 817
     }
   },
   {
@@ -7433,7 +6477,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/561e1daa-b5f2-4a40-8748-d6c55b885dc1.png",
     "seances": [
       {
-        "heure": "17/10 20:30",
+        "heure": "24/10 18:00",
         "cinema": "Cinematek"
       }
     ],
@@ -7562,10 +6606,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
       {
-        "heure": "17/10 13:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/10 13:45",
         "cinema": "Aventure"
       },
@@ -7588,23 +6628,6 @@
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
     }
-  },
-  {
-    "titre": "Walter Leblanc: Gedreven door licht (Driven by Light)",
-    "annee": 2023,
-    "duree_minutes": 39,
-    "realisateurs": [
-      "Bertrand Lafontaine"
-    ],
-    "synopsis": "Réalisé à l’occasion du 40e anniversaire de la mort de l’artiste belge Walter Leblanc (1930–1986) et produit par la Fondation Walter & Nicole Leblanc, ce documentaire retrace le parcours de l’artiste, de ses débuts en tant que jeune avant-gardiste à Anvers jusqu’à son émergence en tant que figure clé de l’avant-garde belge d’après-guerre et figure marquante des nouvelles tendances artistiques internationales. Le film brosse son portrait à travers les regards et les témoignages de ceux qui l’ont connu et de ceux qui se sont intéressés à son héritage artistique. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/10 17:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Wardi",
@@ -7745,129 +6768,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-263794/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
       "nb_notes_spectateurs": 102
-    }
-  },
-  {
-    "titre": "Yugly",
-    "annee": 2026,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/adbd23cb-6f1e-491b-b500-c9459f882889.jpg",
-    "seances": [
-      {
-        "heure": "18/10 11:00",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000013643",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/presse/",
-      "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 16,
-      "critiques_presse": [
-        {
-          "titre_presse": "Closer",
-          "note": 4.0,
-          "auteur": "V.C.",
-          "citation": "Touchant et optimiste."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Thibault Liessi",
-          "citation": "Se rapprochant davantage de certains films de Don Bluth (le méconnu Charlie en premier lieu), Mochy rappelle que l’animation pour les plus jeunes peut aussi être sérieuse et qu’elle n’est pas obligée de singer Disney, Pixar ou Dreamworks pour trouver sa place. Dans tous les cas, les épreuves vécues par Mochy prouvent que son film est bien loin d’être un sac à puces."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Thibault Liessi",
-          "citation": "Autour de son chien moche, Mochy (de Jérémie Degruson et Yanis Belaid) propose non pas une comédie, mais une aventure dramatique à hauteur d’enfant. Un pari bien tenu."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Olivier Delcroix",
-          "citation": "Bien écrite, drôle, émouvant, cette comédie d’animation tendre et généreuse réussit à toucher juste, sans prétendre réinventer le genre."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "Cette comédie très réussie met en scène ce cabot si attachant qui chérit un espoir : avoir une famille et un foyer."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Renaud Baronian et Catherine Balle",
-          "citation": "« Mochy » est un film drôle et enlevé, ponctué de courses poursuites et de rebondissements."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 3.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Un sympathique personnage de naïf au grand cœur."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Nicolas Schiavi",
-          "citation": "Un film d’animation sympathique, mais répétitif, sur le poids de l’abandon et des apparences."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 3.0,
-          "auteur": "cé",
-          "citation": "L’humour et les bons sentiments sont bien présents et l’animation, sans atteindre des sommets, est plutôt réussie. De quoi faire passer un moment sympathique aux plus jeunes lors de ces vacances de la Toussaint, même si, lors de cette période Le Corset et prochainement Le Mystère Lucie Lost, se situent nettement au-dessus en termes d’esthétique et de profondeur."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 3.0,
-          "auteur": "Anaïs Berno",
-          "citation": "À trop vouloir émouvoir, divertir et alerter en même temps, le spectateur perd un peu le fil d’un film qui aurait gagné en simplicité. Reste qu’il est bien difficile de ne pas s’attendrir devant ce toutou au physique ingrat, cabossé par la vie, et qui ne rêve que de la douceur d’un foyer chaleureux."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 3.0,
-          "auteur": "Cédric Coppola",
-          "citation": "À défaut de se montrer original dans ses situations ou dans son rendu visuel, toutefois correct, Mochy vaut par son rythme, qui trouve un bon équilibre entre action et humour. De quoi donc divertir les enfants, même si en face, avec la sortie du Corset et la semaine prochaine de Lucy Lost, qui se situent nettement au-dessus en termes d’esthétique et de profondeur, la concurrence est rude."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 3.0,
-          "auteur": "C.C.",
-          "citation": "Un film à voir en famille, qui met en avant des valeurs comme l'amitié et l'acceptation des différences."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 3.0,
-          "auteur": "C.C.",
-          "citation": "Un film à voir en famille qui met en avant de belles valeurs comme l’amitié, l’acceptation des différences ou le fait que rien n’est impossible quand on croit en ses rêves."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 2.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Jeune chien au grand cœur mais au physique difficile, Mochy a cependant un rêve dont il ne démord pas : participer au concours du plus beau chien. Jérémie Degruson (Les Inséparables) et Yanis Belaïd mettent en en scène ces aventures rocambolesques à destination des plus jeunes de façon plutôt bien rythmé."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 2.0,
-          "auteur": "Augustin Pietron-Locatelli",
-          "citation": "Le film, terne et lisse, courant clairement après Pixar, mais sans la qualité de production du studio, multiplie les poncifs narratifs. Et échoue à dépasser sa plus grande contradiction : pour une œuvre dont le message se résume à un éloge de la beauté intérieure, il a bien peu de caractère."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 2.0,
-          "auteur": "Arthur Champilou",
-          "citation": "Un film pétri de bonnes intentions mais trop convenu pour être vraiment convaincant."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013643/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 30
     }
   }
 ]

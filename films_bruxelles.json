@@ -1,35 +1,5 @@
 [
   {
-    "titre": " Karakuş'lar",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/10 16:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "21 Grams",
-    "annee": 2003,
-    "duree_minutes": 124,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Autour d'un accident tragique, et d'un cœur attendu pour une transplantation, un film d'une émotion à la fois pure et infinie, où Sean Penn - magnifique - trouve un de ses tout meilleurs rôle.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/31a22936-d3a1-45ec-8340-bce1d2f5966d.jfif",
-    "seances": [
-      {
-        "heure": "17/10 20:50",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "A Hora da Estrela (Hour of the Star)",
     "annee": 1985,
     "duree_minutes": 95,
@@ -72,7 +42,7 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/10 18:00",
+        "heure": "24/10 20:00",
         "cinema": "Cinematek"
       }
     ]
@@ -118,14 +88,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "17/10 15:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/10 14:00",
         "cinema": "Vendôme"
       },
@@ -164,20 +126,6 @@
       {
         "heure": "22/10 15:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "BIWFF : Courts métrages internationaux - séance 2",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/10 20:30",
-        "cinema": "Aventure"
       }
     ]
   },
@@ -242,10 +190,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "17/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "18/10 13:00",
         "cinema": "Aventure"
       },
@@ -289,10 +233,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "17/10 16:15",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "19/10 14:00",
         "cinema": "Le Stockel"
@@ -388,14 +328,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/10 15:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/10 10:50",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "19/10 13:50",
         "cinema": "Aventure"
       },
@@ -436,10 +368,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
       {
-        "heure": "17/10 21:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/10 12:45",
         "cinema": "Palace"
       },
@@ -467,30 +395,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "17/10 11:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 21:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/10 11:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 16:10",
         "cinema": "Vendôme"
@@ -562,22 +466,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "17/10 15:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 15:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/10 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/10 10:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "18/10 15:15",
         "cinema": "Vendôme"
@@ -657,18 +545,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/10 11:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/10 11:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "18/10 13:15",
         "cinema": "Vendôme"
       },
@@ -717,10 +593,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
       {
-        "heure": "17/10 21:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/10 21:20",
         "cinema": "Cineflagey"
       },
@@ -756,30 +628,6 @@
     "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
     "seances": [
-      {
-        "heure": "17/10 12:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 17:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "17/10 19:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 12:20",
         "cinema": "Aventure"
@@ -839,39 +687,6 @@
     ]
   },
   {
-    "titre": "L'île des souvenirs",
-    "annee": 2026,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Joel Crawford Januel Mercado"
-    ],
-    "synopsis": "Jo et Raissa sont meilleures amies depuis la primaire. Aaprès avoir obtenu le baccalauréat, elles sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elles fêtent leur dernière soirée ensemble, les deux jeunes filles tombent sur un portail mystérieux qui les transporte sur l’île fantastique de Nakali, peuplée de créatures magiques tout droit sorties des contes mythologiques philippins de leur enfance…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0c62a2d-3178-4a6f-816e-8b04aa7eaedf.jpg",
-    "seances": [
-      {
-        "heure": "17/10 14:00",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "La Bambine",
-    "annee": 2026,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "Valentina Bertani",
-      "Nicole Bertani"
-    ],
-    "synopsis": "Ode à l’enfance dans l’Italie des années 90, ce récit initiatique suit trois fillettes rebelles qui créent leur propre univers pour échapper à la négligence des adultes.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0ef93dcf-68e6-40cd-8b7d-243f2f013842.jpg",
-    "seances": [
-      {
-        "heure": "17/10 20:30",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "La Gradiva",
     "annee": 2026,
     "duree_minutes": 145,
@@ -895,30 +710,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "17/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 13:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 14:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "17/10 15:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 16:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 16:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 12:40",
         "cinema": "Galeries"
@@ -1022,22 +813,6 @@
     ]
   },
   {
-    "titre": "Le sommet des Dieux",
-    "annee": 2022,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Patrick Imbert"
-    ],
-    "synopsis": "A Katmandou, le reporter japonais Fukamachi croit reconnaître Habu Jôji, cet alpiniste que l’on pensait disparu depuis des années. Il semble tenir entre ses mains un appareil photo qui pourrait changer l’histoire de l’alpinisme. Et si George Mallory et Andrew Irvine étaient les premiers hommes à avoir atteint le sommet de l’Everest, le 8 juin 1924 ? Seul le petit Kodak Vest Pocket avec lequel ils devaient se photographier sur le toit du monde pourrait livrer la vérité. 70 ans plus tard, pour tenter de résoudre ce mystère, Fukamachi se lance sur les traces de Habu. Il découvre un monde de passionnés assoiffés de conquêtes impossibles et décide de l’accompagner jusqu’au voyage ultime vers le sommet des dieux.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1b5f155e-e322-4fac-b6b5-78032c5264b8.jpeg",
-    "seances": [
-      {
-        "heure": "17/10 17:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Les Misérables",
     "annee": null,
     "duree_minutes": null,
@@ -1046,28 +821,8 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/10 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "18/10 17:20",
         "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "Les Petites Victoires",
-    "annee": 2022,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Mélanie Auffret"
-    ],
-    "synopsis": "En deux films seulement, la cinéaste aura réussi à imposer sa patte singulière. Une manière de raconter le quotidien de ce qu’on appelle aujourd’hui « les territoires » avec une tendresse et une empathie jamais mièvres pour créer des fables feel good, que ne renieraient pas les Britanniques, grands spécialistes du genre. Son territoire à elle, c’est sa Bretagne natale. Et après Roxane et son producteur d’œufs qui rendait ses poules heureuses en leur clamant du Cyrano, elle nous entraîne dans le petit village de Kerguen, symbole de la désertification rurale qui gangrène nos campagnes, à travers le combat d’Alice, sa maire-institutrice (Julia Piaton, lumineuse), pour éviter la fermeture de son école où vient de s’inscrire… Emile, un sexagénaire (Michel Blanc, savoureux) bougon soudain désireux d'apprendre à lire et à écrire. Mélanie Auffret développe ici une galerie de personnages plongés dans des situations que la réalité rude entraîne sur le terrain de l’absurde, mais sans jamais verser dans le pittoresque. Car ce personnage et ces situations, elle les connaît par cœur et, si elle avance avec l’optimisme chevillé au cœur, elle ne se fait donc aucune illusion sur l’issue du duel entre pot de terre et ce pot de fer. Mais son geste militant passe donc par l’humour, par un vrai sens de l’émotion qui touchent directement au cœur car rien n’y est fabriqué ou forcé. Parce que Mélanie Auffret sait qu’avec l’épatante bande de comédiens qu’elle a réunis, un regard vaut plus que mille mots. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4c24e2fc-3c13-43de-ac48-5812646fdf52.jpeg",
-    "seances": [
-      {
-        "heure": "17/10 13:30",
-        "cinema": "Aventure"
       }
     ]
   },
@@ -1120,22 +875,6 @@
     "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
     "seances": [
-      {
-        "heure": "17/10 12:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/10 10:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 13:00",
         "cinema": "Palace"
@@ -1227,14 +966,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/10 14:55",
         "cinema": "Vendôme"
       },
@@ -1271,50 +1002,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "17/10 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 15:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 18:10",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "17/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 19:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 14:00",
         "cinema": "Palace"
@@ -1444,10 +1131,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
     "seances": [
       {
-        "heure": "17/10 14:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/10 14:10",
         "cinema": "Palace"
       },
@@ -1475,26 +1158,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "17/10 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 20:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/10 13:10",
         "cinema": "Vendôme"
@@ -1588,55 +1251,6 @@
     ]
   },
   {
-    "titre": "Orca",
-    "annee": 2023,
-    "duree_minutes": 107,
-    "realisateurs": [
-      "Sahar Mosayebi"
-    ],
-    "synopsis": "Après avoir survécu à une violente agression conjugale, une Iranienne défie les interdictions politiques et religieuses de son pays pour reconstruire sa vie en tentant de battre un record du monde de natation d’endurance.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fb5da505-ab2c-405e-940c-0ffd451533c1.jpeg",
-    "seances": [
-      {
-        "heure": "17/10 18:00",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "Out Laws",
-    "annee": 2026,
-    "duree_minutes": 79,
-    "realisateurs": [
-      "Lexi Powner",
-      "James Lewis"
-    ],
-    "synopsis": "Ce documentaire percutant suit Friedel Dausab, militant namibien ouvertement gay, dans son combat contre la criminalisation des relations entre personnes de même sexe dans son pays. En juin 2022, Friedel intente un procès historique contre le gouvernement, devenant ainsi un symbole d'espoir pour les personnes LGBTQIA+ de Namibie en quête de sécurité et d'égalité. Confronté à des menaces de mort, à l'hostilité du public et à des risques personnels considérables, il porte son combat devant les tribunaux tout en attendant le verdict. Le film retrace également les racines coloniales de la criminalisation des personnes queer — de l'Angleterre des Tudor à son exportation dans les pays du Sud par le biais de l'empire, puis son renforcement par l'évangélisme chrétien. Aux côtés d'autres militants venus du Sri Lanka et de la Barbade, Friedel se rend à Londres, lieu de convergence entre histoire, contestation et Marche des fiertés. Mêlant bataille juridique et éclairage historique, ce documentaire est à la fois une dénonciation urgente de l'injustice et une célébration émouvante de la résilience, du courage et de la résistance queer.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0bee5a3c-b922-4a90-932e-8a20a3e641ca.jpg",
-    "seances": [
-      {
-        "heure": "17/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Paris is Burning",
-    "annee": 1990,
-    "duree_minutes": 78,
-    "realisateurs": [
-      "Jennie Livingston"
-    ],
-    "synopsis": "Regorgeant de citations emblématiques qui façonnèrent le lexique queer, l’incontournable documentaire de Jennie Livingston capture la joie vivace comme la précarité déchirante de la ball culture new-yorkaise des années 1980, où les fantasmes devenaient réalité.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4d00d805-040f-46d5-94dd-08f5bf235f91.jpeg",
-    "seances": [
-      {
-        "heure": "17/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Primetime",
     "annee": 2026,
     "duree_minutes": 110,
@@ -1646,18 +1260,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "17/10 14:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 19:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 21:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "18/10 16:30",
         "cinema": "Palace"
@@ -1739,14 +1341,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "17/10 12:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/10 10:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "19/10 18:50",
         "cinema": "Aventure"
       },
@@ -1766,10 +1360,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
-      {
-        "heure": "17/10 17:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/10 21:30",
         "cinema": "Aventure"
@@ -1795,10 +1385,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
       {
-        "heure": "17/10 19:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/10 11:30",
         "cinema": "Palace"
       },
@@ -1823,14 +1409,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "17/10 16:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "17/10 19:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "18/10 15:30",
         "cinema": "Aventure"
       },
@@ -1850,22 +1428,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "17/10 11:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 16:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/10 19:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 16:35",
         "cinema": "Vendôme"
@@ -1943,10 +1505,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "17/10 16:35",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/10 21:35",
         "cinema": "Palace"
       },
@@ -1974,10 +1532,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/60cd988e-b639-4a61-a728-d2dfde5dffcc.jpg",
     "seances": [
-      {
-        "heure": "17/10 17:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 17:00",
         "cinema": "Palace"
@@ -2014,18 +1568,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "17/10 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/10 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/10 14:30",
         "cinema": "Galeries"
@@ -2089,14 +1631,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
       {
-        "heure": "17/10 13:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "18/10 14:10",
         "cinema": "Aventure"
       },
@@ -2149,7 +1683,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/561e1daa-b5f2-4a40-8748-d6c55b885dc1.png",
     "seances": [
       {
-        "heure": "17/10 20:30",
+        "heure": "24/10 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -2216,10 +1750,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5e57315-d7b2-4bb9-8a29-904cafac8ecf.jpg",
     "seances": [
       {
-        "heure": "17/10 13:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/10 13:45",
         "cinema": "Aventure"
       },
@@ -2230,22 +1760,6 @@
       {
         "heure": "20/10 13:10",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Walter Leblanc: Gedreven door licht (Driven by Light)",
-    "annee": 2023,
-    "duree_minutes": 39,
-    "realisateurs": [
-      "Bertrand Lafontaine"
-    ],
-    "synopsis": "Réalisé à l’occasion du 40e anniversaire de la mort de l’artiste belge Walter Leblanc (1930–1986) et produit par la Fondation Walter & Nicole Leblanc, ce documentaire retrace le parcours de l’artiste, de ses débuts en tant que jeune avant-gardiste à Anvers jusqu’à son émergence en tant que figure clé de l’avant-garde belge d’après-guerre et figure marquante des nouvelles tendances artistiques internationales. Le film brosse son portrait à travers les regards et les témoignages de ceux qui l’ont connu et de ceux qui se sont intéressés à son héritage artistique. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/10 17:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -2262,22 +1776,6 @@
       {
         "heure": "18/10 16:00",
         "cinema": "Nova"
-      }
-    ]
-  },
-  {
-    "titre": "Yugly",
-    "annee": 2026,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/adbd23cb-6f1e-491b-b500-c9459f882889.jpg",
-    "seances": [
-      {
-        "heure": "18/10 11:00",
-        "cinema": "Palace"
       }
     ]
   }

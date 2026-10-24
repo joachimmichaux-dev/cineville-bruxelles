@@ -78,14 +78,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "23/10 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "24/10 14:20",
         "cinema": "Vendôme"
       },
@@ -120,6 +112,36 @@
     ]
   },
   {
+    "titre": "Bikechess",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "30/10 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Brendan et le secret de Kells / Brendan en het geheim van Kells",
+    "annee": 2007,
+    "duree_minutes": 79,
+    "realisateurs": [
+      "Tom Moore"
+    ],
+    "synopsis": "Brendan, garçon orphelin de douze ans, grandit dans une abbaye à Kells, en Irlande, au 9e siècle. Après avoir découvert un manuscrit caché dans l’abbaye, il rêve de terminer lui-même le livre inachevé. Un film où les personnages marchent pieds nus à travers la forêt pour symboliser leur connexion profonde avec la nature.\n\n",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d8b6561e-bdfd-4795-bd58-d5b3f4a98b6e.jpg",
+    "seances": [
+      {
+        "heure": "30/10 13:30",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
     "titre": "Chanel No. 5 : L’Orchestre + Le Roi danse",
     "annee": 0,
     "duree_minutes": 116,
@@ -136,22 +158,6 @@
     ]
   },
   {
-    "titre": "Comète",
-    "annee": 2026,
-    "duree_minutes": 97,
-    "realisateurs": [
-      "Elie Wajeman"
-    ],
-    "synopsis": "Comète est le quatrième film d’Elie Wajcman. Son précédent film Médecin de nuit, thriller sombre, suivait une nuit un médecin, soignant des patients de quartiers difficiles, notamment ceux que personne ne veut voir – les toxicomanes. Avec Comète, il nous emmène, le temps du passage d’une comète dans le ciel de Paris, à suivre une troupe de jeunes acteurs réunis pour des répétitions des Trois sœurs de Tchekhov. Autour d’eux, gravite une galerie de personnages dont les histoires s’entrecroisent. Le théâtre de la vie se tisse à la vie du théâtre. A la fragilité des existences des comédiens, fait écho la précarité des conditions de la troupe. Dans un Paris aux allures new-yorkaises, un subtil et poétique chassé-croisé s’installe, qui mêle des destins improbables, hasardeux et touchants.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/aa6970e5-83ce-4757-a7e0-a6620f0be0b3.jpeg",
-    "seances": [
-      {
-        "heure": "24/10 10:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Coward",
     "annee": 2026,
     "duree_minutes": 125,
@@ -161,38 +167,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "23/10 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 14:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/10 16:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 20:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 11:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/10 13:30",
         "cinema": "Galeries"
@@ -362,14 +336,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "23/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/10 21:15",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "24/10 21:10",
         "cinema": "Aventure"
       },
@@ -442,22 +408,6 @@
     ]
   },
   {
-    "titre": "Farinelli",
-    "annee": 1994,
-    "duree_minutes": 110,
-    "realisateurs": [
-      "Gérard Corbiau"
-    ],
-    "synopsis": "La vie et la carrière du chanteur d'opéra italien Farinelli, considéré comme l'un des plus grands castrats de tous les temps.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/906a3be0-e608-447f-9989-0fd1737f186a.jpg",
-    "seances": [
-      {
-        "heure": "23/10 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Fatna, une femme nommée Rachid",
     "annee": 2025,
     "duree_minutes": 80,
@@ -481,10 +431,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "23/10 16:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/10 16:00",
         "cinema": "Aventure"
@@ -518,10 +464,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
       {
-        "heure": "23/10 13:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "24/10 18:30",
         "cinema": "Palace"
       },
@@ -549,18 +491,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "23/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 19:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/10 18:00",
         "cinema": "Palace"
@@ -636,22 +566,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "23/10 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/10 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 10:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 10:45",
-        "cinema": "Aventure"
-      },
       {
         "heure": "24/10 15:05",
         "cinema": "Palace"
@@ -745,10 +659,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "24/10 11:15",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "25/10 10:50",
         "cinema": "Galeries"
       },
@@ -780,18 +690,6 @@
     "synopsis": "Dans un village au nord de l’Espagne, Jeanne essaie de construire une nouvelle vie avec Daniel, qui ne sait rien de son passé mouvementé. Mais Mateo, le filleul de Jeanne, va disparaître mystérieusement sans crier gare. Poursuivie par la police et considérée suspecte, Jeanne fuit en France et retourne dans la communauté où elle était née et qu’elle avait fuie quelques années auparavant. Daniel ne croit pas en la culpabilité de la femme qu’il aime et fera tout pour la retrouver avant la police.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/73d3bb85-492d-4246-8423-28e5a27a67e3.jpg",
     "seances": [
-      {
-        "heure": "23/10 15:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/10 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 10:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "24/10 16:00",
         "cinema": "Aventure"
@@ -851,22 +749,6 @@
     ]
   },
   {
-    "titre": "L'île des souvenirs",
-    "annee": 2026,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Joel Crawford Januel Mercado"
-    ],
-    "synopsis": "Jo et Raissa sont meilleures amies depuis la primaire. Aaprès avoir obtenu le baccalauréat, elles sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elles fêtent leur dernière soirée ensemble, les deux jeunes filles tombent sur un portail mystérieux qui les transporte sur l’île fantastique de Nakali, peuplée de créatures magiques tout droit sorties des contes mythologiques philippins de leur enfance…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0c62a2d-3178-4a6f-816e-8b04aa7eaedf.jpg",
-    "seances": [
-      {
-        "heure": "23/10 15:50",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "La Planète Sauvage",
     "annee": 1973,
     "duree_minutes": 71,
@@ -883,22 +765,6 @@
     ]
   },
   {
-    "titre": "La Vie d'une femme",
-    "annee": 2026,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Charline Bourgeois-Tacquet"
-    ],
-    "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2f83b31c-e744-4367-a7d8-ee985ef84d13.jpg",
-    "seances": [
-      {
-        "heure": "23/10 17:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Le Corset",
     "annee": 2026,
     "duree_minutes": 89,
@@ -908,30 +774,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "23/10 13:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/10 14:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 16:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/10 16:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/10 13:00",
         "cinema": "Galeries"
@@ -1047,22 +889,6 @@
     ]
   },
   {
-    "titre": "Le Crime de Monsieur Lange",
-    "annee": 1935,
-    "duree_minutes": 79,
-    "realisateurs": [
-      "Jean Renoir"
-    ],
-    "synopsis": "Un éditeur véreux pousse son entreprise à la faillite et disparaît. En son absence, l’affaire est renflouée par les employés. Une collaboration Prévert/Renoir exaltant les idéaux du Front Populaire et la solidarité de la classe ouvrière, par la mise en échec d’un patron-voyou et de la justice bourgeoise. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4688d9c9-9563-41a4-9f94-33cbb8393db0.jpg",
-    "seances": [
-      {
-        "heure": "23/10 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Le Huitième Jour",
     "annee": 1996,
     "duree_minutes": 117,
@@ -1115,6 +941,10 @@
       {
         "heure": "27/10 14:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "30/10 13:00",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -1132,20 +962,6 @@
       {
         "heure": "29/10 13:30",
         "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "Le ciné club des Sous-Entendu·e·s: séance de court-métrages",
-    "annee": 0,
-    "duree_minutes": 120,
-    "realisateurs": [],
-    "synopsis": "En collaboration avec le Kinograph, la collective féministe Les Sous-Entendu.e.s vous proposera des documentaires ou des films qui seront suivis d'un débat avec des intervenant·e·s autour de thèmes en lien avec les violences sexistes et sexuelles mais aussi de la représentation des personnes FINTA (Femmes, personnes Intersexes, personnes Non binaires, personnes Trans et personnes agenres) sur les petits et grands écrans. Qu'il s'agisse de films à grand succès ou de documentaires, nous vous proposerons de les aborder avec un angle féministe et intersectionnel.",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "23/10 19:00",
-        "cinema": "Cineflagey"
       }
     ]
   },
@@ -1188,10 +1004,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "23/10 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "25/10 17:20",
         "cinema": "Le Stockel"
       },
@@ -1214,10 +1026,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/283f334c-998a-4077-91b4-967816925ee3.jpg",
     "seances": [
-      {
-        "heure": "23/10 17:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "25/10 17:20",
         "cinema": "Aventure"
@@ -1269,15 +1077,15 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "23/10 20:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "25/10 18:00",
         "cinema": "Cinematek"
       },
       {
         "heure": "28/10 20:15",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "30/10 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1292,18 +1100,6 @@
     "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
     "seances": [
-      {
-        "heure": "23/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 13:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 14:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "24/10 12:10",
         "cinema": "Aventure"
@@ -1349,14 +1145,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dc551704-62e9-4af5-b2a0-03c144d72053.jpg",
     "seances": [
       {
-        "heure": "23/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "25/10 12:10",
         "cinema": "Aventure"
       },
@@ -1374,14 +1162,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "23/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 18:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/10 16:15",
         "cinema": "Vendôme"
@@ -1423,50 +1203,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "23/10 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 15:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/10 16:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/10 18:10",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "23/10 18:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 18:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/10 21:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 10:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "24/10 13:20",
         "cinema": "Aventure"
@@ -1652,26 +1388,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
       {
-        "heure": "23/10 13:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 15:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 20:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 20:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 20:30",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "24/10 14:55",
         "cinema": "Palace"
       },
@@ -1804,18 +1520,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
       {
-        "heure": "23/10 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 20:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 21:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "24/10 16:45",
         "cinema": "Palace"
       },
@@ -1882,22 +1586,6 @@
     ]
   },
   {
-    "titre": "Punishment Park",
-    "annee": 1971,
-    "duree_minutes": 92,
-    "realisateurs": [
-      "Peter Watkins"
-    ],
-    "synopsis": "A la façon d'un reportage télévisé, un script de politique-fiction - avec son président des USA arrêtant tous les \"séditieux \"et les poussant vers une traque filmée, dans un désert impitoyable.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1d088304-44d7-4b52-9d82-4e5ad2e5eb34.jpg",
-    "seances": [
-      {
-        "heure": "23/10 21:15",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Res Nullius",
     "annee": 2026,
     "duree_minutes": 67,
@@ -1907,10 +1595,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "23/10 12:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "25/10 12:20",
         "cinema": "Aventure"
@@ -1951,10 +1635,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "23/10 17:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/10 12:45",
         "cinema": "Palace"
@@ -2009,10 +1689,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "23/10 14:30",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "24/10 18:45",
         "cinema": "Aventure"
       },
@@ -2041,18 +1717,6 @@
     "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
-      {
-        "heure": "23/10 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 15:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 10:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/10 11:45",
         "cinema": "Galeries"
@@ -2109,14 +1773,6 @@
     "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repères. Jacques la rassure : si elle pense bien, il ne lui arrivera que du bien. Peu à peu, Gil comprend le contrôle qu’il exerce sur sa vie…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
-      {
-        "heure": "23/10 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 19:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/10 13:00",
         "cinema": "Palace"
@@ -2192,10 +1848,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "23/10 18:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "24/10 13:00",
         "cinema": "Palace"
       },
@@ -2263,18 +1915,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "23/10 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/10 21:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/10 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/10 12:00",
         "cinema": "Palace"
@@ -2375,10 +2015,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "23/10 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "24/10 13:50",
         "cinema": "Aventure"
@@ -2489,22 +2125,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "23/10 13:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/10 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/10 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "24/10 14:30",
         "cinema": "Aventure"

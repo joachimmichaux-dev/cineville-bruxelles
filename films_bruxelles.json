@@ -1,21 +1,5 @@
 [
   {
-    "titre": "Actualités Mondiales n° 520 + Die Geierwally",
-    "annee": 0,
-    "duree_minutes": 120,
-    "realisateurs": [
-      "Hans Steinhoff"
-    ],
-    "synopsis": "Un film d’aventure se déroulant dans les Alpes, où une jeune femme refuse un mariage arrangé, préférant se retirer dans les montagnes où vivent les vautours. Le film est inspiré d’un roman à succès, Die Geierwally de Wilhelmine von Hillern, qui a été adapté au cinéma à plusieurs reprises, ici par Hans Steinhoff, également réalisateur du film de propagande Hitlerjunge Quex en 1933. Les actualités qui suivent, datées d’août 1941, témoignent de l’optimisme allemand, au moment où les combats sur le front de l’Est se déroulaient encore à leur avantage. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "24/10 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Actualités Mondiales n° 557 + Münchhausen",
     "annee": 0,
     "duree_minutes": 131,
@@ -78,14 +62,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "24/10 14:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 21:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "25/10 13:45",
         "cinema": "Vendôme"
       },
@@ -108,6 +84,20 @@
       {
         "heure": "27/10 20:35",
         "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Between Dreams and Hope",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "31/10 21:30",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -138,6 +128,26 @@
       {
         "heure": "30/10 13:30",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "31/10 13:30",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "Casper",
+    "annee": 1995,
+    "duree_minutes": 101,
+    "realisateurs": [
+      "Brad Silberling"
+    ],
+    "synopsis": "Un tout jeune fantôme, Casper, ronge son frein et s'ennuie à mourir en compagnie de ses oncles dans le manoir de Whipstaff. Quand une petite fille et son père viennent s'installer dans la maison hantée, il pense pouvoir enfin s'amuser...",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a1dcae07-7a86-4cd9-b605-2a2d073f0516.jpg",
+    "seances": [
+      {
+        "heure": "31/10 17:00",
+        "cinema": "Cineflagey"
       }
     ]
   },
@@ -167,38 +177,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "24/10 13:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 16:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 18:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "24/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 20:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 20:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "25/10 14:20",
         "cinema": "Palace"
@@ -300,14 +278,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6e7eff07-2e5c-474a-b0bc-e11caa793dd9.jpg",
     "seances": [
       {
-        "heure": "24/10 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 16:45",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "25/10 14:55",
         "cinema": "Le Stockel"
       },
@@ -336,10 +306,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "24/10 21:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "25/10 13:50",
         "cinema": "Aventure"
       },
@@ -354,22 +320,6 @@
       {
         "heure": "27/10 18:40",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Don Giovanni",
-    "annee": 1979,
-    "duree_minutes": 175,
-    "realisateurs": [
-      "Joseph Losey"
-    ],
-    "synopsis": "Le célèbre noble Don Giovanni parcourt les villes en conquérant le cœur des femmes, jusqu’à ce que les ennuis qu’il a suscités finissent par le rattraper.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/451095df-df8f-4e0b-827c-9f75c5f56cc6.jpg",
-    "seances": [
-      {
-        "heure": "24/10 17:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -464,10 +414,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
       {
-        "heure": "24/10 18:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "25/10 18:30",
         "cinema": "Palace"
       },
@@ -491,14 +437,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "24/10 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 19:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "25/10 11:15",
         "cinema": "Palace"
@@ -566,22 +504,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "24/10 15:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 15:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/10 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "25/10 10:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "25/10 10:45",
         "cinema": "Aventure"
@@ -651,6 +573,36 @@
     ]
   },
   {
+    "titre": "Humanoids from the Deep",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/85459fd1-2378-40f5-8473-2651870cd26a.jpg",
+    "seances": [
+      {
+        "heure": "31/10 22:15",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Jennifer’s Body",
+    "annee": 2009,
+    "duree_minutes": 102,
+    "realisateurs": [
+      "Karyn Kusama"
+    ],
+    "synopsis": "La bombe Jennifer et la normale Needy sont les meilleures amies du monde. Un soir, après un concert de rock, Jennifer s’enfuit avec le groupe, pour réapparaître au petit matin affamée et couverte de sang. Possédée par un démon, la belle devient la bête, assoiffée de sang masculin…",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a6c032fc-3c34-406b-b0a4-d8ee3279ec83.jpg",
+    "seances": [
+      {
+        "heure": "31/10 21:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Joyeuse Jungle",
     "annee": null,
     "duree_minutes": null,
@@ -691,18 +643,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/73d3bb85-492d-4246-8423-28e5a27a67e3.jpg",
     "seances": [
       {
-        "heure": "24/10 16:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "25/10 15:50",
         "cinema": "Aventure"
       },
@@ -739,10 +679,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
     "seances": [
       {
-        "heure": "24/10 15:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "26/10 15:00",
         "cinema": "Aventure"
       }
@@ -774,38 +710,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "24/10 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 14:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "24/10 16:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "24/10 16:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 16:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/10 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/10 12:40",
         "cinema": "Galeries"
@@ -1101,18 +1005,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
     "seances": [
       {
-        "heure": "24/10 12:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 13:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 14:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "25/10 12:10",
         "cinema": "Aventure"
       },
@@ -1151,6 +1043,10 @@
       {
         "heure": "27/10 12:00",
         "cinema": "Le Stockel"
+      },
+      {
+        "heure": "31/10 15:00",
+        "cinema": "Cineflagey"
       }
     ]
   },
@@ -1162,14 +1058,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "24/10 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 18:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "25/10 14:45",
         "cinema": "Vendôme"
@@ -1203,50 +1091,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "24/10 13:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 17:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 18:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 20:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 21:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 21:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/10 10:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "25/10 12:30",
         "cinema": "Palace"
@@ -1362,22 +1206,6 @@
     ]
   },
   {
-    "titre": "Ni vue, ni connue",
-    "annee": 2026,
-    "duree_minutes": 113,
-    "realisateurs": [
-      "Marc Fitoussi"
-    ],
-    "synopsis": "Corinne Maclou (Isabelle Huppert) est figurante. Elle enchaîne les tournages avec l’espoir d’être remarquée et de décrocher enfin un vrai rôle. Lorsque son chemin croise celui de Sandrine Kiberlain et qu’une relation commence à se nouer entre les deux, Corinne espère concrétiser son rêve. Mais la célèbre actrice va-t-elle vraiment l’aider à se faire une place au sein de la grande famille du cinéma ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46622d58-670e-4ad5-b5a7-6a9b4fd3a7ac.jpg",
-    "seances": [
-      {
-        "heure": "24/10 17:55",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Notre Salut",
     "annee": 2026,
     "duree_minutes": 155,
@@ -1387,30 +1215,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "24/10 14:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 15:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 15:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "24/10 20:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 20:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 20:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/10 15:35",
         "cinema": "Vendôme"
@@ -1510,6 +1314,20 @@
     ]
   },
   {
+    "titre": "Piranhas",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a1cd8dc-be57-483e-a3f4-8b2d0768e28f.jpg",
+    "seances": [
+      {
+        "heure": "31/10 20:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Primetime",
     "annee": 2026,
     "duree_minutes": 110,
@@ -1519,18 +1337,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "24/10 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 18:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 20:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/10 15:45",
         "cinema": "Palace"
@@ -1552,7 +1358,7 @@
         "cinema": "Galeries"
       },
       {
-        "heure": "26/10 21:15",
+        "heure": "26/10 21:25",
         "cinema": "Palace"
       },
       {
@@ -1616,10 +1422,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "24/10 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "27/10 21:30",
         "cinema": "Aventure"
       }
@@ -1635,18 +1437,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "24/10 12:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "25/10 10:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/10 21:20",
         "cinema": "Palace"
@@ -1689,10 +1479,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "24/10 18:45",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "25/10 16:10",
         "cinema": "Aventure"
       },
@@ -1717,18 +1503,6 @@
     "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
-      {
-        "heure": "24/10 11:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/10 14:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "24/10 14:50",
-        "cinema": "Galeries"
-      },
       {
         "heure": "25/10 12:10",
         "cinema": "Galeries"
@@ -1774,14 +1548,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b2c85b2f-e977-4e5d-b8fb-3834b7cb3a5c.jpg",
     "seances": [
       {
-        "heure": "24/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 14:10",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "25/10 21:25",
         "cinema": "Vendôme"
       },
@@ -1814,6 +1580,10 @@
       {
         "heure": "28/10 13:30",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "31/10 11:00",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -1827,10 +1597,6 @@
     "synopsis": "Poème de sable et de chair, une version japonaise du mythe de Sisyphe, toute gonflée de symboles et d’érotisme, aux lisières du fantastique - sur une envôutante partition de Takemitsu.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c4810f58-6588-46fc-8219-8ddee362823f.jpg",
     "seances": [
-      {
-        "heure": "24/10 20:30",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "28/10 21:00",
         "cinema": "Cinematek"
@@ -1847,10 +1613,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "24/10 13:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/10 11:55",
         "cinema": "Palace"
@@ -1890,6 +1652,22 @@
     ]
   },
   {
+    "titre": "The Addams Family ",
+    "annee": 1991,
+    "duree_minutes": 99,
+    "realisateurs": [
+      "Barry Sonnenfeld"
+    ],
+    "synopsis": "Rififi chez les Addams, célèbre famille macabre qui vit dans un manoir hanté, lorsque débarque l'oncle Fétide, sosie d'un des membres de la famille disparu vingt-cinq ans plus tôt… Ne serait-il pas un usurpateur qui cherche à les doubler pour faire main basse sur leur trésor caché ?",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b9e8dba9-6bd3-4890-a422-4540c1ab287f.jpg",
+    "seances": [
+      {
+        "heure": "31/10 17:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "The Battle of Algiers",
     "annee": 1966,
     "duree_minutes": 121,
@@ -1915,18 +1693,6 @@
     "synopsis": "L’excellent Booksmart nous avait conquis en 2019, aujourd’hui, Olivia Wilde revient à l’exploration des rapports amoureux, du désir et de la sexualité avec The Invite. Soit la réunion de deux couples, l’un en berne, l’autre en pleine santé sexuelle, qui vont, le temps d’une soirée, faire tomber les masques et remettre leurs libidos en question.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
-      {
-        "heure": "24/10 12:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/10 19:05",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 21:05",
-        "cinema": "Palace"
-      },
       {
         "heure": "25/10 14:00",
         "cinema": "Galeries"
@@ -1974,18 +1740,22 @@
     ]
   },
   {
-    "titre": "The Revenant",
-    "annee": 2015,
-    "duree_minutes": 156,
+    "titre": "The Rocky Horror Picture Show",
+    "annee": 1975,
+    "duree_minutes": 100,
     "realisateurs": [
-      "Alejandro González Iñárritu"
+      "Jim Sharman"
     ],
-    "synopsis": "Durant une expédition dans une Amérique profondément sauvage, le légendaire trappeur Hugh Glass (Di Caprio) est brutalement attaqué par un ours et laissé pour mort par les membres de sa propre équipe.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b24e3c42-d0b9-4727-a2c1-443395406279.jpg",
+    "synopsis": "Un couple récemment fiancé tombe en panne dans une zone isolée et se rend à la résidence étrange du Dr. Frank-N-Furter.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ffce16d3-fe84-4769-84e7-560af341dce6.jpg",
     "seances": [
       {
-        "heure": "24/10 21:00",
+        "heure": "31/10 19:00",
         "cinema": "Cineflagey"
+      },
+      {
+        "heure": "31/10 21:15",
+        "cinema": "Palace"
       }
     ]
   },
@@ -2015,10 +1785,6 @@
     "synopsis": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
-      {
-        "heure": "24/10 13:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "25/10 21:00",
         "cinema": "Aventure"
@@ -2062,22 +1828,6 @@
     ]
   },
   {
-    "titre": "Thomas Graals bästa film",
-    "annee": 1918,
-    "duree_minutes": 58,
-    "realisateurs": [
-      "Mauritz Stiller"
-    ],
-    "synopsis": "Thomas Graal, scénariste, est très épris de sa secrétaire Bessie. Surprise par un baiser de Thomas, elle s'enfuit. Dans sa déconvenue, Thomas écrit un scénario inspiré par Bessie. Mais celle-ci n'a pas été tout à fait honnête avec lui. Il manque 31 minutes de métrage, considérées comme perdues.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/561e1daa-b5f2-4a40-8748-d6c55b885dc1.png",
-    "seances": [
-      {
-        "heure": "24/10 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Vertigo",
     "annee": 1958,
     "duree_minutes": 129,
@@ -2115,6 +1865,23 @@
     ]
   },
   {
+    "titre": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "annee": 2004,
+    "duree_minutes": 85,
+    "realisateurs": [
+      "Nick Park",
+      "Steve Box"
+    ],
+    "synopsis": "Une \"fièvre végétarienne\" intense règne dans la petite ville de Wallace et Gromit, et l'ingénieux duo a mis à profit cet engouement en inventant un produit anti-nuisibles humain et écolo, qui épargne la vie des lapins. L'astuce consiste simplement à capturer, à la main, un maximum de ces rongeurs et à les mettre en cage. A quelques jours du Grand Concours Annuel de Légumes, les affaires de Wallace et Gromit n'ont jamais été aussi florissantes, et tout irait pour le mieux dans le meilleur des mondes, si un lapin-garou géant ne venait soudain s'attaquer aux sacro-saints potagers de la ville. Pour faire face à ce péril inédit, l'organisatrice du concours, Lady Tottington, se tourne vers nos deux \"spécialistes\" et leur demande d'appréhender le monstre.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbc9a5aa-707f-4886-bfe5-54e481a6a7d8.jpg",
+    "seances": [
+      {
+        "heure": "31/10 15:30",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
     "titre": "Wicker",
     "annee": 2026,
     "duree_minutes": 105,
@@ -2125,26 +1892,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "24/10 14:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/10 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/10 21:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "25/10 10:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "25/10 13:50",
         "cinema": "Aventure"

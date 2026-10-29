@@ -1,5 +1,37 @@
 [
   {
+    "titre": " The Iron Giant",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/11 13:30",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "04/11 14:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "A Family",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/11 19:30",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
     "titre": "A SECOND LIFE + MIGUÉ",
     "annee": null,
     "duree_minutes": null,
@@ -9,6 +41,34 @@
     "seances": [
       {
         "heure": "03/11 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "ANOCHE CONQUISTÉ TEBAS",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "02/11 19:15",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "APOLO + GREENHORN",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/11 19:15",
         "cinema": "Aventure"
       }
     ]
@@ -60,7 +120,7 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "28/10 18:00",
+        "heure": "04/11 20:00",
         "cinema": "Cinematek"
       }
     ]
@@ -141,14 +201,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "28/10 16:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 20:50",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "29/10 16:55",
         "cinema": "Vendôme"
       },
@@ -171,6 +223,20 @@
       {
         "heure": "03/11 16:35",
         "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Atlas of the Universe",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/11 16:00",
+        "cinema": "Nova"
       }
     ]
   },
@@ -323,26 +389,14 @@
     ]
   },
   {
-    "titre": "Clayface",
-    "annee": 2026,
-    "duree_minutes": 110,
-    "realisateurs": [],
-    "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre, Matt se tourne vers un traitement expérimental qui lui rend miraculeusement son apparence… mais altère profondément sa perception de la réalité.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3cc487bb-fdec-4b49-abe2-74c0bca4f9f4.jpg",
-    "seances": [
-      {
-        "heure": "28/10 17:50",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Club Kid",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
+    "annee": 2026,
+    "duree_minutes": 122,
+    "realisateurs": [
+      "Jordan Firstman"
+    ],
+    "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
       {
         "heure": "29/10 18:45",
@@ -378,30 +432,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "28/10 16:05",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 20:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/10 21:15",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/10 14:00",
         "cinema": "Palace"
@@ -617,22 +647,6 @@
     ]
   },
   {
-    "titre": "De l'autre côté du soleil (The Other Side of the Sun)",
-    "annee": 2026,
-    "duree_minutes": 80,
-    "realisateurs": [
-      "Tawfik Sabouni"
-    ],
-    "synopsis": "Après la chute du régime de Bachar al-Assad, Tawfik Sabouni réunit des survivants de la prison de Saidnaya. Ensemble, entre les murs de la prison libérée, ils recomposent la mémoire de leurs années volées. En reprenant la parole, ils témoignent pour celles et ceux qui ne peuvent plus parler.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/473b4fdb-163c-4a26-99b0-1724ebffa42f.jpg",
-    "seances": [
-      {
-        "heure": "28/10 16:40",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Digger",
     "annee": 2026,
     "duree_minutes": 129,
@@ -642,10 +656,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "28/10 19:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/10 16:40",
         "cinema": "Aventure"
@@ -757,6 +767,36 @@
     ]
   },
   {
+    "titre": "En el camino",
+    "annee": 2039,
+    "duree_minutes": 93,
+    "realisateurs": [
+      "David Pablos"
+    ],
+    "synopsis": "Veneno, un jeune vagabond rebelle, fréquente les restaurants de bord de route où il couche avec des chauffeurs routiers. Ayant un besoin urgent d’un chauffeur, il rencontre Muñeco, un chauffeur très viril au caractère dur et réservé. Il convainc Muñeco de l’emmener dans le nord du Mexique, et pénètre alors au cœur de l’univers hyper-masculin du transport routier longue distance. Alors que leur intimité s’approfondit sur la route, les fantômes du passé les rattrapent à chaque relais routier, et le danger se rapproche.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4483c1bb-6b40-43fc-8388-b28c5d8fc016.jpeg",
+    "seances": [
+      {
+        "heure": "04/11 21:15",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "FRAGMENTS D’UN PARCOURS AMOUREUX",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "02/11 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Feito Pipa",
     "annee": null,
     "duree_minutes": null,
@@ -780,10 +820,6 @@
     "synopsis": "De son enfance à Prague jusqu’à sa disparition à Vienne, le film retrace le parcours de Franz Kafka, un homme déchiré entre son aspiration à une existence banale et son besoin irrépressible d’écrire, marqué par des relations amoureuses tourmentées.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
-      {
-        "heure": "28/10 15:55",
-        "cinema": "Palace"
-      },
       {
         "heure": "30/10 13:15",
         "cinema": "Palace"
@@ -816,14 +852,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "28/10 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 19:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/10 16:00",
         "cinema": "Palace"
@@ -921,6 +949,20 @@
     ]
   },
   {
+    "titre": "Girls, So Confusing",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/11 21:30",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
     "titre": "Gruffalo, de père en fils",
     "annee": 2026,
     "duree_minutes": 53,
@@ -933,22 +975,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "28/10 12:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "29/10 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/10 11:50",
-        "cinema": "Galeries"
-      },
       {
         "heure": "29/10 13:35",
         "cinema": "Vendôme"
@@ -992,6 +1018,20 @@
       {
         "heure": "02/11 13:35",
         "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "HABIBI, CHANSON POUR MES AMI·E·S + GOLDEN MIRROR",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "29/10 19:15",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -1054,14 +1094,6 @@
     "synopsis": "Dans le village isolé de Hope Harbor, en Corée du Sud, le chef de la police Bum-seok et l'agente Sung-ae sont appelés à enquêter sur une créature mystérieuse qui sème la terreur parmi les habitants. Mais les apparences sont trompeuses, et les perceptions peuvent être erronées. Ce qui commence par l'ignorance sème les graines du désastre, et les conflits humains dégénèrent en une tragédie aux proportions cosmiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
-      {
-        "heure": "28/10 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/10 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/10 16:20",
         "cinema": "Aventure"
@@ -1129,19 +1161,9 @@
       {
         "heure": "30/10 20:15",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Hugo",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
+      },
       {
-        "heure": "28/10 14:00",
+        "heure": "04/11 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1191,6 +1213,20 @@
     ]
   },
   {
+    "titre": "JOHAN, JOURNAL INTIME HOMOSEXUEL D’UN ÉTÉ 75",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "30/10 19:15",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Jennifer’s Body",
     "annee": 2009,
     "duree_minutes": 102,
@@ -1202,22 +1238,6 @@
     "seances": [
       {
         "heure": "31/10 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "José van Dam, 25 ans après",
-    "annee": 2007,
-    "duree_minutes": 52,
-    "realisateurs": [
-      "Gérard Corbiau"
-    ],
-    "synopsis": "Le film retrace la carrière exceptionnelle du grand interprète belge et à travers des images d’archives et des rencontres, capture son parcours unique. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8682fad3-a1eb-497f-9837-7c91aaa9be57.png",
-    "seances": [
-      {
-        "heure": "28/10 19:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1311,14 +1331,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
       {
-        "heure": "28/10 15:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/10 21:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "30/10 15:40",
         "cinema": "Aventure"
       },
@@ -1341,18 +1353,16 @@
     ]
   },
   {
-    "titre": "L'Espèce explosive",
-    "annee": 2026,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Sarah Arnold"
-    ],
-    "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
+    "titre": "Knuffels en Kameraden",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "28/10 18:15",
-        "cinema": "Cineflagey"
+        "heure": "04/11 14:00",
+        "cinema": "Nova"
       }
     ]
   },
@@ -1396,22 +1406,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "28/10 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 20:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "28/10 20:35",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/10 15:05",
         "cinema": "Palace"
@@ -1564,10 +1558,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/aae79c1b-414b-4838-a332-2d50908de252.jpg",
     "seances": [
       {
-        "heure": "28/10 13:30",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "31/10 11:00",
         "cinema": "Galeries"
       }
@@ -1583,18 +1573,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "28/10 13:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 13:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/10 16:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/10 14:00",
         "cinema": "Cineflagey"
@@ -1728,10 +1706,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e32db6af-6b71-4c6b-98db-607629cf4932.jpg",
     "seances": [
       {
-        "heure": "28/10 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "31/10 20:50",
         "cinema": "Le Stockel"
       }
@@ -1747,30 +1721,6 @@
     "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
-      {
-        "heure": "28/10 14:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "28/10 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 14:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "28/10 14:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 16:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/10 16:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/10 13:00",
         "cinema": "Aventure"
@@ -1863,22 +1813,10 @@
       {
         "heure": "29/10 13:30",
         "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "Leila and the Wolves",
-    "annee": 1984,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Heiny Srour"
-    ],
-    "synopsis": "Un film qui remet en question le culte des armes ; ses images glissent à la recherche de l’identité politique et historique de la femme au Moyen-Orient… Tout au long du récit, une femme arabe erre à travers les paysages réels et imaginaires du Liban et de la Palestine, croisant des voix issues des périphéries de la politique moyen-orientale : mettant à jour des désirs enfouis et des témoignages de la résilience des femmes arabes. Dans ses pérégrinations, elle revient sans cesse au Liban, le “fleuron” de la présence coloniale française, un pays où les crimes d’honneur coûtaient la vie à deux femmes par semaine dans les années 70. Pourtant, Leila and the Wolves n’est pas un voyage anthropologique mais une traversée de la protestation mythique et symbolique. À travers son « regard » se dessine une quête d’identité politique dans un Liban désormais entaché par les massacres de Sabra et Chatila, aux prises avec une guerre civile dévastatrice. Leila explore ces moments de perte et découvre les ombres d’une vie bien différente avant la venue des loups. (John Akomfrah)",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8dc637a2-c8c8-457d-9fbe-389c03c47209.jpg",
-    "seances": [
+      },
       {
-        "heure": "28/10 19:00",
-        "cinema": "Cinema RITCS"
+        "heure": "04/11 13:30",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -1941,6 +1879,20 @@
       {
         "heure": "30/10 21:30",
         "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "L’ENQUÊTE DE MON CŒUR",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "31/10 16:30",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2017,10 +1969,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "28/10 20:15",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "30/10 18:00",
         "cinema": "Cinematek"
       }
@@ -2069,14 +2017,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
     "seances": [
       {
-        "heure": "28/10 13:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 16:00",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "29/10 13:00",
         "cinema": "Vendôme"
       },
@@ -2112,7 +2052,7 @@
     "duree_minutes": 101,
     "realisateurs": [],
     "synopsis": "KILÓMETRO 9 O DESDE CUÁNDO TE PARÁS A VER LA CIUDAD\nMika Nivola, 2024, 17′, CO, VO ES ST FR/EN\nSillonnant les rues endormies de Medellín, deux garçons philosophent sur leurs mondes et le désir qui les unit.\n\nÀ QUOI RÊVENT LES MAKNINES\nSarra Ryma, 2026, 23′, DZ/FR, VO DZ/FR ST FR/EN\nDeux jeunes Algériens s’apprêtent à tout quitter pour traverser la Méditerranée. Le temps d’une journée, on accompagne ce couple atypique dans ses déambulations, en partageant ses passions et ses peurs.\n\nFALE A ELA O QUE ME ACONTECEU\nPethrus Tibúrcio, 2025, 25′, BR, VO PT/BR ST FR/EN\nGiu n’est pas tout à fait sûr de ce qu’il vit avec Danilo, mais il décide de raconter sa version de l’histoire.\n\nTHE NEW GARDENER\nRyan Parma, 2025, 16′, US, VO EN ST FR\nL’arrivée d’un jeune homme très séduisant, se faisant passer pour leur nouveau jardinier, met à rude épreuve la relation entre Larry et Leo. Sexy, déjanté et délicieusement kitsch.\n\nINTERVALO\nRoberto Fiesco, 2025, 20′, MX, VO ES ST FR/EN\nCarlos est désespéré : son copain ne lui répond pas. Mais Aurelio, chauffeur de taxi plutôt sexy, veille sur lui tout au long de la nuit…",
-    "affiche_url": null,
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a8e704d6-b608-4357-8544-86aa4bc5a452.jpeg",
     "seances": [
       {
         "heure": "02/11 18:45",
@@ -2179,14 +2119,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/eab2cd68-11bf-4e45-9a99-a2439d55ddc9.jpg",
     "seances": [
       {
-        "heure": "28/10 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/10 11:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "29/10 18:30",
         "cinema": "Palace"
       },
@@ -2246,14 +2178,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "28/10 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "29/10 13:45",
         "cinema": "Vendôme"
       },
@@ -2310,30 +2234,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "28/10 14:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/10 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 18:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/10 19:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/10 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/10 14:50",
         "cinema": "Aventure"
@@ -2515,22 +2415,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
       {
-        "heure": "28/10 15:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/10 15:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 20:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "28/10 20:20",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "29/10 15:20",
         "cinema": "Vendôme"
       },
@@ -2629,6 +2513,20 @@
     ]
   },
   {
+    "titre": "Nuovo Cinema Paradiso",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/11 16:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "On the Road Again : le cinéma de Bouli Lanners",
     "annee": 2011,
     "duree_minutes": 59,
@@ -2655,6 +2553,22 @@
       {
         "heure": "03/11 21:30",
         "cinema": "Nova"
+      }
+    ]
+  },
+  {
+    "titre": "Perro Perro",
+    "annee": 2025,
+    "duree_minutes": 101,
+    "realisateurs": [
+      "Marco Berger"
+    ],
+    "synopsis": "Le provocateur argentin Marco Berger est de retour avec un conte absurde et érotique sur le désir d'amour inconditionnel. À travers un objectif en noir et blanc, nous découvrons la nature sauvage et la poésie du meilleur ami de l'homme.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/55315dd9-b567-414c-a5de-155a5a5d0de3.jpg",
+    "seances": [
+      {
+        "heure": "31/10 19:15",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2710,14 +2624,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "28/10 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "28/10 21:35",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/10 16:30",
         "cinema": "Galeries"
@@ -2833,16 +2739,26 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
       {
-        "heure": "28/10 13:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "31/10 19:00",
         "cinema": "Palace"
       },
       {
         "heure": "01/11 11:55",
         "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "STAND UP FOR YOUR RIGHTS",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "29/10 21:30",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2885,10 +2801,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/700304c6-e2f4-4bb3-840d-d67bb93410fa.jpg",
     "seances": [
       {
-        "heure": "28/10 18:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "29/10 21:10",
         "cinema": "Aventure"
       },
@@ -2927,6 +2839,20 @@
     ]
   },
   {
+    "titre": "Sebastiane",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/11 19:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Sense and Sensibility (2026)",
     "annee": 2026,
     "duree_minutes": 131,
@@ -2936,10 +2862,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "28/10 16:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/10 18:40",
         "cinema": "Aventure"
@@ -2973,10 +2895,6 @@
     "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
-      {
-        "heure": "29/10 11:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/10 12:30",
         "cinema": "Le Stockel"
@@ -3054,28 +2972,8 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "28/10 13:30",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "31/10 11:00",
         "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "Suna no onna",
-    "annee": 1964,
-    "duree_minutes": 123,
-    "realisateurs": [
-      "Hiroshi Teshigahara"
-    ],
-    "synopsis": "Poème de sable et de chair, une version japonaise du mythe de Sisyphe, toute gonflée de symboles et d’érotisme, aux lisières du fantastique - sur une envôutante partition de Takemitsu.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c4810f58-6588-46fc-8219-8ddee362823f.jpg",
-    "seances": [
-      {
-        "heure": "28/10 21:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -3096,6 +2994,38 @@
     ]
   },
   {
+    "titre": "THE GOLDEN YEARS",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "04/11 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "TWINLESS + TOUT VA BIEN",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "01/11 19:15",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "03/11 19:15",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Talking to Men Who Have Sex",
     "annee": 2026,
     "duree_minutes": 87,
@@ -3105,14 +3035,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "28/10 18:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "29/10 12:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "29/10 16:40",
         "cinema": "Palace"
@@ -3222,18 +3144,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5a9a64eb-7ab3-42c1-97aa-eab909da37d9.jpg",
     "seances": [
       {
-        "heure": "28/10 12:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/10 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 21:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "29/10 13:45",
         "cinema": "Palace"
       },
@@ -3317,18 +3227,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "28/10 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 17:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "28/10 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/10 16:45",
         "cinema": "Vendôme"
@@ -3456,28 +3354,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/62b9b2bc-0429-4987-b77d-a5f879d40ba0.jpg",
     "seances": [
       {
-        "heure": "28/10 14:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "03/11 21:20",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "The Witches",
-    "annee": 1990,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Nicolas Roeg"
-    ],
-    "synopsis": "Luke, un jeune orphelin, part en Angleterre avec sa grand-mère. Dans l'hôtel où ils se sont installés, Luke découvre les intentions maléfiques d'un groupe de sorcières dirigé par la Haute-Sorcière qui ont pour projet de transformer tout les enfants en souris. Luke sera-t-il victime de leur complot avant qu'il ne puisse les arrêter?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a9185e18-ede9-48fb-b68c-d7f7d41a6b08.jpg",
-    "seances": [
-      {
-        "heure": "28/10 16:30",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -3537,14 +3415,6 @@
     "synopsis": "Juliette, 30 ans, semble avoir tout pour elle : un poste prestigieux dans la finance, une belle maison, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue, son monde s’effondre. Juliette s’engage alors sur un nouveau chemin pour redonner un sens à sa vie.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a2fe7a1a-2101-4eaa-b00f-5381d65e3a06.jpg",
     "seances": [
-      {
-        "heure": "28/10 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "28/10 18:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/10 13:35",
         "cinema": "Vendôme"
@@ -3646,6 +3516,20 @@
     ]
   },
   {
+    "titre": "WHY DO I SEE YOU IN EVERYTHING?",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "01/11 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Wallace & Gromit: The Curse of the Were-Rabbit",
     "annee": 2004,
     "duree_minutes": 85,
@@ -3677,10 +3561,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "28/10 14:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "29/10 14:40",
         "cinema": "Aventure"

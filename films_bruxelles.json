@@ -84,14 +84,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "05/11 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 13:15",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "07/11 21:25",
         "cinema": "Vendôme"
       },
@@ -106,20 +98,6 @@
     ]
   },
   {
-    "titre": "BULLETPROOF: A LESBIAN’S GUIDE TO SURVIVING THE PLOT",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "05/11 21:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Barbara Forever",
     "annee": null,
     "duree_minutes": null,
@@ -130,6 +108,22 @@
       {
         "heure": "11/11 18:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Best Of 2025: Sorry, Baby",
+    "annee": 2023,
+    "duree_minutes": 104,
+    "realisateurs": [
+      "Eva Victor"
+    ],
+    "synopsis": "Quelque chose est arrivé à Agnès. Tandis que le monde avance sans elle, son amitié avec Lydie demeure un refuge précieux. Entre rires et silences, leur lien indéfectible lui permet d'entrevoir ce qui vient après.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7ac417b9-65c3-4008-a562-62533bb64435.jpg",
+    "seances": [
+      {
+        "heure": "12/11 19:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -181,6 +175,26 @@
     ]
   },
   {
+    "titre": "Cilama",
+    "annee": 2024,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Hady Zaccak"
+    ],
+    "synopsis": "Entre les années 1930 et la fin du XXe siècle, plus d’une trentaine de salles de cinéma voient le jour dans la ville de Tripoli, au Liban. Empire, Roxy, Opéra, Al-Hamra, Palace, … tout le monde va au « cilama », déformation populaire du mot « cinéma ». Ces salles sont bien plus que des lieux de projection : elles deviennent des repères, des endroits où se retrouver en cachette bien sûr, mais aussi apprendre, discuter, s’émanciper puis se battre ou se cacher.\nDes décennies plus tard, le cinéaste Hady Zaccak part à la recherche de ce qu’il en reste.\nÀ partir de centaines d’images et d’une quarantaine de témoignages, il compose un immense collage où se mêlent souvenirs cinéphiles, archives, histoires intimes et récits de guerre en forme de lettre d’amour à Tripoli et au cinéma.",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "12/11 18:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "12/11 20:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Cléo de 5 à 7",
     "annee": 1962,
     "duree_minutes": 90,
@@ -206,30 +220,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "05/11 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "05/11 16:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "05/11 18:50",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "05/11 20:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "05/11 21:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 13:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "06/11 15:40",
         "cinema": "Palace"
@@ -427,10 +417,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "05/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "06/11 19:00",
         "cinema": "Aventure"
       },
@@ -525,10 +511,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/77e92db8-d71c-4777-bb12-8dd7b721f58e.jpg",
     "seances": [
       {
-        "heure": "05/11 15:35",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "06/11 15:30",
         "cinema": "Aventure"
       },
@@ -617,10 +599,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
       {
-        "heure": "05/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "06/11 19:00",
         "cinema": "Vendôme"
       },
@@ -672,6 +650,22 @@
       {
         "heure": "06/11 20:30",
         "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
+    "titre": "Germaine Acogny, l'essence de la danse",
+    "annee": 2025,
+    "duree_minutes": 88,
+    "realisateurs": [
+      "Greta-Marie Becker"
+    ],
+    "synopsis": "Née au Bénin en 1944 et élevée au Sénégal, Germaine Acogny construit depuis cinquante ans une danse contemporaine africaine qui a profondément changé les représentations du corps noir sur les scènes internationales. Sa technique puise dans les danses ouest-africaines et dans les mouvements inspirés des animaux et des plantes.\nLe film fait des allers-retours entre le passé — sa rencontre avec Léopold Sédar Senghor, Maurice Béjart, ses créations — et le présent, celui de l’École des Sables qu’elle a fondée à Toubab Dialaw, où elle continue de transmettre son art aux danseur·euses venu·es du monde entier. Mais un avenir hostile se profile : face à l’école, les pelleteuses éventrent aujourd’hui la lagune pour construire un immense port à conteneurs. À plus de 80 ans, Germaine Acogny est encore prête à se battre.",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "12/11 21:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -792,22 +786,6 @@
     ]
   },
   {
-    "titre": "Herr Arnes pengar",
-    "annee": 1919,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Mauritz Stiller"
-    ],
-    "synopsis": "Au XVIe siècle, trois mercenaires écossais massacrent les habitants d'une ferme et s'emparent du trésor de Messire Arne. Seule rescapée, la nièce d'Arne, Elsalill, croise par hasard la route des assassins et s'éprend de l'un d'entre eux.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8a20aaf5-8d11-495b-8919-4213f3150bdf.jpg",
-    "seances": [
-      {
-        "heure": "05/11 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Herr Roosevelt plaudert + La corona di ferro",
     "annee": 0,
     "duree_minutes": 110,
@@ -849,10 +827,6 @@
     "synopsis": "Dans le village isolé de Hope Harbor, en Corée du Sud, le chef de la police Bum-seok et l'agente Sung-ae sont appelés à enquêter sur une créature mystérieuse qui sème la terreur parmi les habitants. Mais les apparences sont trompeuses, et les perceptions peuvent être erronées. Ce qui commence par l'ignorance sème les graines du désastre, et les conflits humains dégénèrent en une tragédie aux proportions cosmiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
-      {
-        "heure": "05/11 18:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "06/11 16:20",
         "cinema": "Aventure"
@@ -900,26 +874,6 @@
     ]
   },
   {
-    "titre": "Hélène trésore transationale",
-    "annee": 2025,
-    "duree_minutes": 94,
-    "realisateurs": [
-      "Judith Abitbol"
-    ],
-    "synopsis": "Dans ce portrait intime adressé directement à Hélène Hazera, la cinéaste Judith Abitbol revient sur une figure marquante des contre-cultures françaises, de la fin des années 1960 aux années 1990. Membre des Gazolines et du FHAR (Front homosexuel d’action révolutionnaire), Hélène Hazera fut une militante LGBTQ infatigable, à l’origine des commissions « Trans » et « Sida » au sein d’Act Up — une réalisation dont elle était particulièrement fière. Sa véritable victoire, toutefois, fut de devenir la première journaliste transgenre dans un grand quotidien national (Libération), avant de poursuivre un parcours de productrice à Radio France et France TV. À travers son histoire, Judith Abitbol renoue avec l’esprit insurrectionnel et le chaos créatif de ces décennies — une époque où la culture française était bousculée par une imagination radicale, de l’humour et un goût affirmé pour la transgression. Le film célèbre ces « Antigones » des temps modernes qui ont osé vivre leurs désirs, par-delà les contraintes de la loi.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/87344eb3-2cb5-47cb-a446-fff84ab3bd68.jpg",
-    "seances": [
-      {
-        "heure": "05/11 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "05/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "I Know Where I’m Going!",
     "annee": 1945,
     "duree_minutes": 91,
@@ -944,10 +898,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "05/11 19:15",
-        "cinema": "Aventure"
-      },
       {
         "heure": "07/11 21:30",
         "cinema": "Aventure"
@@ -1013,10 +963,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
       {
-        "heure": "05/11 17:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "06/11 14:10",
         "cinema": "Aventure"
       },
@@ -1055,22 +1001,6 @@
     ]
   },
   {
-    "titre": "L'Espèce explosive",
-    "annee": 2026,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Sarah Arnold"
-    ],
-    "synopsis": "Dans le Nord-Est de la France, agriculteurs et chasseurs se font la guerre. Les sangliers, trop gros et trop nombreux, dévastent les cultures. Brun, céréalier au bord du gouffre, craque et disparaît. Un an plus tard, Fulda, un gendarme explosif et Stéphane, une psy en crise, enquêtent. Ce qu’ils découvrent les dépasse. Ce qui naît entre eux aussi.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ba77ad3-c04d-4d0f-b0e0-005ff1202343.jpg",
-    "seances": [
-      {
-        "heure": "05/11 17:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "L'affaire Marie Claire",
     "annee": 0,
     "duree_minutes": 0,
@@ -1078,18 +1008,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "05/11 14:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "05/11 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "06/11 13:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "06/11 17:00",
         "cinema": "Aventure"
@@ -1128,22 +1046,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "05/11 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "05/11 20:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "05/11 21:05",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "06/11 13:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "06/11 15:00",
         "cinema": "Palace"
@@ -1216,52 +1118,6 @@
     ]
   },
   {
-    "titre": "La bête humaine",
-    "annee": 1938,
-    "duree_minutes": 102,
-    "realisateurs": [
-      "Jean Renoir"
-    ],
-    "synopsis": "De retour en train au port français du Havre, Jacques Lantier, un cheminot tourmenté, rencontre par hasard le chef de gare impulsif, Roubard, ainsi que Séverine, son épouse.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/df69dd82-686d-4bc8-9e43-4655fb66ab88.jpg",
-    "seances": [
-      {
-        "heure": "05/11 15:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "La conscience politique",
-    "annee": 2026,
-    "duree_minutes": 72,
-    "realisateurs": [
-      "Léolo Victor-Pujebet"
-    ],
-    "synopsis": "La Conscience politique propose un diagnostic de notre présent à travers un portrait du philosophe Geoffroy de Lagasnerie. Combinant fragments de vie, lectures et archives des luttes queer, le film nous fait voir le moment où la réflexion politique s’éprouve dans les expériences vécues. Y sont interrogés sans concession le système judiciaire et punitif, les normes familiales et sexuelles, les violences institutionnelles et policières. Mais ce film est surtout un portrait de l’amitié comme mode de vie et de résistance, et une invitation à la lutte collective.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/388d86db-ebbd-4521-8f41-e270e498ecae.jpeg",
-    "seances": [
-      {
-        "heure": "05/11 21:15",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "La mécanique du désir",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a6544cca-3ce4-491d-a0d2-da1ffb409a00.png",
-    "seances": [
-      {
-        "heure": "05/11 21:30",
-        "cinema": "Nova"
-      }
-    ]
-  },
-  {
     "titre": "La vie à l'oeuvre (Talk)",
     "annee": 0,
     "duree_minutes": 0,
@@ -1285,14 +1141,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "05/11 14:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "05/11 15:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "06/11 14:00",
         "cinema": "Galeries"
@@ -1389,10 +1237,6 @@
     "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
-      {
-        "heure": "05/11 14:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "07/11 13:00",
         "cinema": "Galeries"
@@ -1540,6 +1384,22 @@
     ]
   },
   {
+    "titre": "Magnificent Obsession",
+    "annee": 1935,
+    "duree_minutes": 110,
+    "realisateurs": [
+      "John M. Stahl"
+    ],
+    "synopsis": "Après le décès accidentel d’un chirurgien de renommée, sa veuve, atteinte d’une cécité foudroyante, accepte l’aide d’un jeune homme qui, par amour, se sacrifie pour la sauver. Porté par un duo d’acteurs qui propulsent ce petit bijou au sommet du mélodrame hollywoodien, un film lacrymal dont Douglas Sirk, totalement charmé par cette première version, réalisera un remake qui propulsera ce script simple et généreux au sommet du 7ème Art.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2123c29d-e6eb-4ff4-8b1d-0c116a0044d2.jpeg",
+    "seances": [
+      {
+        "heure": "12/11 15:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Mineshaft: The Cruising Murders",
     "annee": null,
     "duree_minutes": null,
@@ -1656,10 +1516,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/eab2cd68-11bf-4e45-9a99-a2439d55ddc9.jpg",
     "seances": [
       {
-        "heure": "05/11 18:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "06/11 21:00",
         "cinema": "Palace"
       },
@@ -1736,22 +1592,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "05/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "05/11 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "05/11 19:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/11 13:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "06/11 15:30",
         "cinema": "Vendôme"
@@ -1857,18 +1697,18 @@
     ]
   },
   {
-    "titre": "No rest for the wicked",
-    "annee": 2025,
-    "duree_minutes": 103,
+    "titre": "Nostalgia for the Future",
+    "annee": 2026,
+    "duree_minutes": 75,
     "realisateurs": [
-      "Kasper Kalle"
+      "Brecht Debackere"
     ],
-    "synopsis": "1862, îles Féroé. Baldur vit dans une communauté de pêcheurs isolée du monde. Son quotidien bascule quand arrive un robuste chasseur de baleines qui éveille en lui un désir assoiffé. Lorsque la tragédie frappe ces rivages désolés, leur passion interdite libère des forces inquiétantes. Car ils refusent de laisser leur amour être enterré ; ils se battront jusqu’à la mort — et même au-delà. No rest for the wicked est délicieusement gothique, il croise avec brio la romance gay, le film d'époque et l'histoire de vampires pour proposer un film de genre qui réinvente les codes.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b5449f1f-d11d-44fd-b5e9-10af3b89acdc.jpg",
+    "synopsis": "La narration évocatrice de Charlotte Rampling nous guide dans une plongée au cœur du monde labyrinthique de Chris Marker — cet auteur célèbre de films méconnus qui, sa vie durant, s’est dissimulé derrière un voile de pseudonymes et d’images de chats. À travers une constellation de documents personnels et de fragments de films, un archiviste tente de décrypter l’homme à partir des traces matérielles qu’il a laissées derrière lui.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5812c78c-121d-4019-805b-d8bdfa7f7583.jpg",
     "seances": [
       {
-        "heure": "05/11 21:30",
-        "cinema": "Galeries"
+        "heure": "12/11 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1882,18 +1722,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "05/11 18:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "05/11 20:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "05/11 20:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "06/11 14:50",
         "cinema": "Galeries"
@@ -1987,14 +1815,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
       {
-        "heure": "05/11 16:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/11 13:25",
-        "cinema": "Palace"
-      },
-      {
         "heure": "08/11 21:30",
         "cinema": "Galeries"
       },
@@ -2029,20 +1849,6 @@
     ]
   },
   {
-    "titre": "Pépites de la cinémathèque FWB (5 shorts)",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "La Cinémathèque de la FWB fête ses 80 ans ! Depuis sa création en 1946 comme service cinématographique de l’Instruction publique, elle n’a cessé d’évoluer et œuvre, aujourd’hui, à préserver, numériser, archiver, soutenir et promouvoir le cinéma belge. Pour célébrer huit décennies d’histoire, elle vous propose une programmation d’événements organisée à travers la Fédération Wallonie-Bruxelles. Elle vous donne rendez-vous le 5 novembre au Palace afin d’y découvrir ses pépites : cinq films qui ont accompagné la Cinémathèque au fil des années.\n\nEn présence du réalisateur de Le réveil, Marc-Henri Wajnberg.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/67f3d057-f4aa-4238-a9bc-cb8c86fb9acd.jpeg",
-    "seances": [
-      {
-        "heure": "05/11 19:00",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Quelques mots d'amour",
     "annee": 2026,
     "duree_minutes": 95,
@@ -2052,18 +1858,6 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
-      {
-        "heure": "05/11 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "05/11 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "05/11 18:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "06/11 14:15",
         "cinema": "Vendôme"
@@ -2143,22 +1937,6 @@
     ]
   },
   {
-    "titre": "Res Nullius",
-    "annee": 2026,
-    "duree_minutes": 67,
-    "realisateurs": [
-      "Thomas Jean"
-    ],
-    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
-    "seances": [
-      {
-        "heure": "06/11 12:10",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Resident Evil",
     "annee": 0,
     "duree_minutes": 89,
@@ -2225,10 +2003,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/700304c6-e2f4-4bb3-840d-d67bb93410fa.jpg",
     "seances": [
       {
-        "heure": "06/11 13:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "08/11 21:30",
         "cinema": "Aventure"
       }
@@ -2261,10 +2035,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "05/11 18:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "07/11 19:00",
         "cinema": "Aventure"
       },
@@ -2289,18 +2059,6 @@
     "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
-      {
-        "heure": "05/11 16:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "06/11 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 13:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "06/11 14:25",
         "cinema": "Palace"
@@ -2367,10 +2125,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "06/11 11:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "07/11 16:55",
         "cinema": "Palace"
       },
@@ -2397,26 +2151,6 @@
     ]
   },
   {
-    "titre": "Tegenwoordig heet iedereen sorry ",
-    "annee": 2026,
-    "duree_minutes": 87,
-    "realisateurs": [
-      "Frederike Migom"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/60cd988e-b639-4a61-a728-d2dfde5dffcc.jpg",
-    "seances": [
-      {
-        "heure": "05/11 17:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 11:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Tender Fictions",
     "annee": 1996,
     "duree_minutes": 58,
@@ -2428,22 +2162,6 @@
     "seances": [
       {
         "heure": "11/11 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "The Addams Family ",
-    "annee": 1991,
-    "duree_minutes": 99,
-    "realisateurs": [
-      "Barry Sonnenfeld"
-    ],
-    "synopsis": "Rififi chez les Addams, célèbre famille macabre qui vit dans un manoir hanté, lorsque débarque l'oncle Fétide, sosie d'un des membres de la famille disparu vingt-cinq ans plus tôt… Ne serait-il pas un usurpateur qui cherche à les doubler pour faire main basse sur leur trésor caché ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b9e8dba9-6bd3-4890-a422-4540c1ab287f.jpg",
-    "seances": [
-      {
-        "heure": "05/11 21:15",
         "cinema": "Cinematek"
       }
     ]
@@ -2532,14 +2250,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "05/11 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "05/11 20:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "06/11 17:10",
         "cinema": "Aventure"
@@ -2653,22 +2363,6 @@
     ]
   },
   {
-    "titre": "The Reece + Black Zombie",
-    "annee": 2026,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Maya Annik Bedward"
-    ],
-    "synopsis": "Lents, avides de chair humaine, puis hyperrapides et tout aussi affamés, d'une pâleur livide ou en état de semi-décomposition, les morts-vivants hantent le cinéma depuis des décennies déjà. Dans son brillant documentaire Black Zombie, Maya Annik Bedward remonte aux origines de la figure du zombie, en montrant comment les croyances et religions haïtiennes et caribéennes furent détournées par Hollywood sur fond de colonialisme.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ecd24eb1-d256-4702-9149-3b70bba633b7.jpg",
-    "seances": [
-      {
-        "heure": "05/11 18:30",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
     "titre": "The Rift Between Us",
     "annee": 2026,
     "duree_minutes": 90,
@@ -2749,26 +2443,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76f6209c-ebd1-4858-999e-d99425ec30f8.jpg",
     "seances": [
       {
-        "heure": "05/11 18:00",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "08/11 18:45",
         "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "Un peu schieve",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c77e1695-78ed-4482-a188-4a0d54f7b264.png",
-    "seances": [
-      {
-        "heure": "05/11 19:00",
-        "cinema": "Nova"
       }
     ]
   },
@@ -2782,14 +2458,6 @@
     "synopsis": "Juliette, 30 ans, semble avoir tout pour elle : un poste prestigieux dans la finance, une belle maison, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue, son monde s’effondre. Juliette s’engage alors sur un nouveau chemin pour redonner un sens à sa vie.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a2fe7a1a-2101-4eaa-b00f-5381d65e3a06.jpg",
     "seances": [
-      {
-        "heure": "05/11 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 13:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "07/11 13:50",
         "cinema": "Vendôme"
@@ -2832,14 +2500,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
       {
-        "heure": "05/11 16:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "05/11 21:25",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "06/11 21:25",
         "cinema": "Vendôme"
       },
@@ -2877,46 +2537,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "05/11 14:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "05/11 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "05/11 16:05",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "05/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "05/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "05/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "05/11 21:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "05/11 21:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "05/11 21:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "06/11 15:00",
         "cinema": "Aventure"
@@ -3163,22 +2783,6 @@
     "seances": [
       {
         "heure": "07/11 17:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Yadon ilaheyya (Divine Intervention)",
-    "annee": 2002,
-    "duree_minutes": 92,
-    "realisateurs": [
-      "Elia Suleiman"
-    ],
-    "synopsis": "Es, un Palestinien vivant à Jérusalem, est amoureux d'une Palestinienne de Ramallah. L'homme est partagé entre son amour et la nécessité de s'occuper de son père, très fragile. En raison de la situation politique, la femme ne peut aller plus loin que le checkpoint situé entre les deux villes. Les rendez-vous du couple ont donc lieu dans un parking désert près du checkpoint.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0d96be65-f182-44b9-aff5-0af0ab8b2bec.jpg",
-    "seances": [
-      {
-        "heure": "05/11 18:00",
         "cinema": "Cinematek"
       }
     ]

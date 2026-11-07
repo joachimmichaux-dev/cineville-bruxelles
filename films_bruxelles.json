@@ -28,20 +28,6 @@
     ]
   },
   {
-    "titre": "APOLO + GREENHORN",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/11 21:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Actualités Mondiales n° 628 + Quax, der Bruchpilot",
     "annee": 0,
     "duree_minutes": 95,
@@ -221,34 +207,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
       {
-        "heure": "06/11 15:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 15:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/11 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 18:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 21:05",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "07/11 11:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "07/11 16:15",
         "cinema": "Vendôme"
       },
@@ -355,20 +313,6 @@
     ]
   },
   {
-    "titre": "Cruising",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Céline et Julie vont en bateau",
     "annee": null,
     "duree_minutes": null,
@@ -417,10 +361,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "06/11 19:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "07/11 16:30",
         "cinema": "Aventure"
       },
@@ -451,6 +391,23 @@
     ]
   },
   {
+    "titre": "Donn, le danseur de XXème siècle",
+    "annee": 2026,
+    "duree_minutes": 58,
+    "realisateurs": [
+      "Mariano Baez",
+      "Florencia Davila"
+    ],
+    "synopsis": "À seize ans, Jorge Donn quitte l’Argentine pour rejoindre Maurice Béjart à Bruxelles. Il devient son danseur fétiche, son amant et l’interprète inoubliable du Boléro de Ravel.\nÀ travers des archives inédites, Jorge Donn ressurgit dans toute sa singularité : flamboyant, fragile, entièrement habité par son art. Le film suit son parcours jusqu’à ses dernières années, alors que, atteint du sida, il continue à danser malgré un corps qui lui échappe peu à peu. Derrière l’icône apparaît un jeune homme sous emprise, dans une relation où l’apprentissage, la fascination et le pouvoir se mêlent étroitement et que le temps nous permet aujourd’hui de voir autrement.",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "13/11 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Du Fioul dans les artères",
     "annee": 2026,
     "duree_minutes": 90,
@@ -474,10 +431,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "06/11 14:00",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "08/11 15:15",
         "cinema": "Le Stockel"
@@ -511,10 +464,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/77e92db8-d71c-4777-bb12-8dd7b721f58e.jpg",
     "seances": [
       {
-        "heure": "06/11 15:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "08/11 18:30",
         "cinema": "Cineflagey"
       }
@@ -533,20 +482,6 @@
       {
         "heure": "11/11 19:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Feito Pipa",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/11 19:00",
-        "cinema": "Nova"
       }
     ]
   },
@@ -575,10 +510,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
       {
-        "heure": "07/11 11:55",
-        "cinema": "Palace"
-      },
-      {
         "heure": "08/11 11:55",
         "cinema": "Palace"
       },
@@ -598,10 +529,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "06/11 19:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "07/11 19:00",
         "cinema": "Vendôme"
@@ -637,23 +564,6 @@
     ]
   },
   {
-    "titre": "George Michael: The Faith Tour",
-    "annee": 2026,
-    "duree_minutes": 113,
-    "realisateurs": [
-      "David Austin",
-      "Andrew Morahan"
-    ],
-    "synopsis": "George Michael comptait parmi les stars les plus influentes de sa génération ; sa voix et ses compositions ont marqué toute une époque. Réalisé à partir d’images 35 mm redécouvertes, inédites et jamais diffusées auparavant, tournées lors de son concert de 1988 au Palais Omnisports de Paris-Bercy, ce nouveau film de concert montre George au sommet de son art, lors de la tournée « Faith Tour » qui a battu tous les records. Restauré et remastérisé avec soin, le film transforme un moment culturel marquant en une expérience cinématographique spectaculaire. Un court-métrage original de Mary McCartney ouvre le long-métrage, utilisant des enregistrements audio et des images récemment découverts datant de 1986 à 1988 – l’époque de « Faith » – pour créer une « capsule temporelle » rare et intime, offrant un aperçu saisissant de l’état d’esprit de George à ce moment charnière de sa vie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3f87edb9-31b6-4812-bc15-bfaad477c162.jpg",
-    "seances": [
-      {
-        "heure": "06/11 20:30",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Germaine Acogny, l'essence de la danse",
     "annee": 2025,
     "duree_minutes": 88,
@@ -679,10 +589,6 @@
     "synopsis": "La guerre a réduit le Japon à zéro, et Godzilla l’a fait basculer dans le négatif. Deux années se sont écoulées depuis ; le pays a dû mener un combat acharné pour se relever et retrouver, enfin, son quotidien. Alors même que l’humanité parvenait à préserver une paix durement acquise, une nouvelle menace surgit, anéantissant tout espoir en un instant. Il n’y aura pas de troisième fois. Tout s’arrête ici.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d2333e90-8dbf-49b8-80bd-3d2e20235119.jpg",
     "seances": [
-      {
-        "heure": "06/11 21:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "08/11 10:00",
         "cinema": "Aventure"
@@ -726,14 +632,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "07/11 10:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "07/11 10:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/11 13:10",
         "cinema": "Vendôme"
@@ -786,22 +684,6 @@
     ]
   },
   {
-    "titre": "Herr Roosevelt plaudert + La corona di ferro",
-    "annee": 0,
-    "duree_minutes": 110,
-    "realisateurs": [
-      "Alessandro Blasetti"
-    ],
-    "synopsis": "Film historique italien à grand spectacle, sorte de fantaisie médiévale, qui remportera la Coppa Mussolini – la plus importante récompense cinématographique sous la dictature fasciste – à Venise. On y retrouve Massimo Girotti dans le rôle phare, qui, deux ans plus tard, interprétera le rôle principal dans Les Amants diaboliques de Visconti. En prélude, le « Kulturfilm » ou documentaire de propagande Herr Roosevelt plaudert, un montage d’images d’actualités américaines où les États-Unis sont ridiculisés. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/11 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Higan-bana",
     "annee": 1958,
     "duree_minutes": 117,
@@ -827,10 +709,6 @@
     "synopsis": "Dans le village isolé de Hope Harbor, en Corée du Sud, le chef de la police Bum-seok et l'agente Sung-ae sont appelés à enquêter sur une créature mystérieuse qui sème la terreur parmi les habitants. Mais les apparences sont trompeuses, et les perceptions peuvent être erronées. Ce qui commence par l'ignorance sème les graines du désastre, et les conflits humains dégénèrent en une tragédie aux proportions cosmiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
-      {
-        "heure": "06/11 16:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "07/11 18:15",
         "cinema": "Galeries"
@@ -919,20 +797,6 @@
     ]
   },
   {
-    "titre": "Joyeuse Jungle",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "07/11 10:30",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Karma",
     "annee": 2026,
     "duree_minutes": 140,
@@ -962,18 +826,6 @@
     "synopsis": "Dans la France de 1634, le charismatique père Urbain Grandier devient la cible d'accusations de sorcellerie lancées par une religieuse obsédée par le sexe — des accusations que des représentants corrompus de l'Église et de l'État s'empressent d'exploiter.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
     "seances": [
-      {
-        "heure": "06/11 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "06/11 21:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "07/11 11:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "07/11 17:00",
         "cinema": "Aventure"
@@ -1009,10 +861,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "06/11 17:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "07/11 13:10",
         "cinema": "Aventure"
       },
@@ -1046,14 +894,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "06/11 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 20:35",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/11 14:00",
         "cinema": "Palace"
@@ -1097,41 +937,6 @@
     ]
   },
   {
-    "titre": "La bola negra",
-    "annee": 2026,
-    "duree_minutes": 155,
-    "realisateurs": [
-      "Javier Ambrossi",
-      "Javier Calvo"
-    ],
-    "synopsis": "Espagne, 1932, 1937, 2017. À trois époques différentes, trois hommes vivent leur homosexualité dans une société qui ne leur laisse pas toujours la même liberté. Leurs histoires se répondent à travers le temps, liées par la douleur, le désir et la mémoire. Inspiré d’une œuvre inachevée de Federico García Lorca, le film en prolonge l’univers dans une fresque queer, romanesque et poétique où les époques se confondent et les amours que l’Histoire a voulu effacer continuent de résonner. Un film incontournable de Los Javis, figures majeures du cinéma queer espagnol contemporain.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/11b4ebb7-fa7a-4938-864c-bb0a4e7d2244.jpeg",
-    "seances": [
-      {
-        "heure": "06/11 18:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/11 18:30",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
-    "titre": "La vie à l'oeuvre (Talk)",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "À l’occasion de la projection du film La conscience politique, portrait de Geoffroy de Lagasnerie réalisé par Léolo Victor-Pujebet, et de la réédition de la biographie du célèbre philosophe Michel Foucault écrite par Didier Eribon, le festival Pink Screens réunit ces deux figures majeures de la pensée contemporaine pour un grand entretien au cinéma Palace. Le dialogue part de la question fondamentale de la rencontre de la pensée et des vies, en particulier lorsque ces vies sont celles de personnes queer. Comment une œuvre théorique s’élabore-t-elle au croisement d’une trajectoire personnelle, d’une expérience sociale et d’une existence gay ? Comment la vie doit-elle nourrir, ou incarner, la pensée ? Et comment, en retour, une pensée d’ordre politique, sociologique ou philosophique, peut-elle transformer radicalement une manière de vivre, voire en proposer de nouvelles ?\n\nCette rencontre prolonge la réflexion ouverte par le cinéma, lorsqu’il ne se contente pas de représenter des vies ou des idées, mais rend visible la façon dont une pensée se manifeste dans des corps, des gestes et des récits, faisant de l’écran un lieu privilégié de dialogue entre l’œuvre et l’existence… Rencontre de l’art et de la vie qui fait écho aux dernières fulgurances de Foucault, avant qu’il ne meure du SIDA, sur la possibilité d’une « esthétique de l’existence » : peut-on faire de la vie de tout individu une œuvre d’art ?",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/11 18:45",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Le Corset (Iron Boy)",
     "annee": 2026,
     "duree_minutes": 89,
@@ -1141,18 +946,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "06/11 14:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/11 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/11 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/11 14:50",
         "cinema": "Galeries"
@@ -1331,22 +1124,6 @@
     ]
   },
   {
-    "titre": "Lucky, Apartement",
-    "annee": 2024,
-    "duree_minutes": 96,
-    "realisateurs": [
-      "Kangyu Garam"
-    ],
-    "synopsis": "Seon-woo et Hee-seo, en couple depuis dix ans, ont acheté un appartement en banlieue de Séoul. À la suite d’un accident, Seon-woo perd son emploi, laissant Hee-seo, toujours dans le placard vis-à-vis de son entourage, seule face au remboursement du prêt. Intriguée par une odeur fétide, Seon-woo découvre le cadavre de sa voisine et développe une véritable obsession pour la personnalité de la défunte. Un portrait intime et envoûtant de deux femmes au bord de la rupture : l’une confrontée à sa peur de vivre seule et abandonnée, l’autre aux attentes de la société.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ac3dcc5d-6dc7-44dc-83eb-fca9641acd72.jpg",
-    "seances": [
-      {
-        "heure": "06/11 21:30",
-        "cinema": "Nova"
-      }
-    ]
-  },
-  {
     "titre": "L’Homme de sable : le cinéma de Thierry Michel",
     "annee": 2013,
     "duree_minutes": 71,
@@ -1373,10 +1150,6 @@
     "synopsis": "Alain Marcoen et Luc Jabon font le pari d’une lecture personnelle du cinéma des frères Dardenne de La Promesse jusqu’à Le Gamin au vélo, et nous livrent une véritable leçon de cinéma en s’appuyant sur la « famille » des comédiens et techniciens ainsi que sur d’autres intervenants plus inattendus. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c856d40a-ca9e-4bbb-b8ff-cc989e53792f.png",
     "seances": [
-      {
-        "heure": "06/11 20:30",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "10/11 18:00",
         "cinema": "Cinematek"
@@ -1458,30 +1231,12 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
     "seances": [
       {
-        "heure": "06/11 16:00",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "07/11 13:30",
         "cinema": "Palace"
       },
       {
         "heure": "08/11 13:30",
         "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "Modern love (5 shorts)",
-    "annee": 0,
-    "duree_minutes": 101,
-    "realisateurs": [],
-    "synopsis": "KILÓMETRO 9 O DESDE CUÁNDO TE PARÁS A VER LA CIUDAD\nMika Nivola, 2024, 17′, CO, VO ES ST FR/EN\nSillonnant les rues endormies de Medellín, deux garçons philosophent sur leurs mondes et le désir qui les unit.\n\nÀ QUOI RÊVENT LES MAKNINES\nSarra Ryma, 2026, 23′, DZ/FR, VO DZ/FR ST FR/EN\nDeux jeunes Algériens s’apprêtent à tout quitter pour traverser la Méditerranée. Le temps d’une journée, on accompagne ce couple atypique dans ses déambulations, en partageant ses passions et ses peurs.\n\nFALE A ELA O QUE ME ACONTECEU\nPethrus Tibúrcio, 2025, 25′, BR, VO PT/BR ST FR/EN\nGiu n’est pas tout à fait sûr de ce qu’il vit avec Danilo, mais il décide de raconter sa version de l’histoire.\n\nTHE NEW GARDENER\nRyan Parma, 2025, 16′, US, VO EN ST FR\nL’arrivée d’un jeune homme très séduisant, se faisant passer pour leur nouveau jardinier, met à rude épreuve la relation entre Larry et Leo. Sexy, déjanté et délicieusement kitsch.\n\nINTERVALO\nRoberto Fiesco, 2025, 20′, MX, VO ES ST FR/EN\nCarlos est désespéré : son copain ne lui répond pas. Mais Aurelio, chauffeur de taxi plutôt sexy, veille sur lui tout au long de la nuit…",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a8e704d6-b608-4357-8544-86aa4bc5a452.jpeg",
-    "seances": [
-      {
-        "heure": "06/11 21:15",
-        "cinema": "Palace"
       }
     ]
   },
@@ -1495,10 +1250,6 @@
     "synopsis": "Après avoir été renvoyée de l’école, Mia est envoyée à la mystérieuse Rotwood Academy — un endroit qui la met immédiatement mal à l’aise, car elle est la seule humaine au milieu d’une classe remplie de monstres. Avec le directeur Van Vlad, qui nourrit une profonde aversion pour les humains, Mia doit unir ses forces à celles de ses camarades monstrueux pour contrecarrer ses plans — avant qu’il ne soit trop tard.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dc551704-62e9-4af5-b2a0-03c144d72053.jpg",
     "seances": [
-      {
-        "heure": "07/11 12:30",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "08/11 12:20",
         "cinema": "Aventure"
@@ -1515,10 +1266,6 @@
     "synopsis": "En juin 1943, Jean Moulin, chef de la Résistance française, est arrêté alors qu’il tente de réunir les forces de l’« Armée secrète ». Interrogé par Klaus Barbie, chef de la Gestapo à Lyon, Moulin se retrouve engagé dans une confrontation implacable.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/eab2cd68-11bf-4e45-9a99-a2439d55ddc9.jpg",
     "seances": [
-      {
-        "heure": "06/11 21:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/11 15:30",
         "cinema": "Palace"
@@ -1548,6 +1295,10 @@
       {
         "heure": "11/11 17:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "13/11 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1559,10 +1310,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "06/11 16:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "07/11 16:30",
         "cinema": "Vendôme"
@@ -1592,14 +1339,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "06/11 15:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 21:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "07/11 18:45",
         "cinema": "Vendôme"
@@ -1679,6 +1418,10 @@
       {
         "heure": "11/11 15:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "13/11 20:30",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1722,18 +1465,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "06/11 14:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/11 20:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 20:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "07/11 12:45",
         "cinema": "Galeries"
@@ -1859,22 +1590,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
       {
-        "heure": "06/11 14:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 18:35",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "07/11 13:20",
         "cinema": "Vendôme"
       },
@@ -1947,10 +1662,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
     "seances": [
       {
-        "heure": "07/11 10:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "10/11 16:10",
         "cinema": "Aventure"
       }
@@ -2009,22 +1720,6 @@
     ]
   },
   {
-    "titre": "Sans toit ni loi",
-    "annee": 1985,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "Agnes Varda"
-    ],
-    "synopsis": "L'errance hivernale d'une jeune marginale, au fil des rencontres, des révoltes et des campagnes. Une lente dégradation, prise en charge par Sandrine Bonnaire.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c5fb7942-e360-4e8a-a93a-12adaaf54b58.jpg",
-    "seances": [
-      {
-        "heure": "06/11 16:45",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Sense and Sensibility (2026)",
     "annee": 2026,
     "duree_minutes": 131,
@@ -2059,14 +1754,6 @@
     "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
-      {
-        "heure": "06/11 14:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "07/11 11:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "08/11 11:15",
         "cinema": "Galeries"
@@ -2251,22 +1938,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
       {
-        "heure": "06/11 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "06/11 17:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 19:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 21:25",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "07/11 12:40",
         "cinema": "Aventure"
       },
@@ -2405,20 +2076,6 @@
     ]
   },
   {
-    "titre": "Transconnections",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/11 21:30",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Transpdgouines en short",
     "annee": 0,
     "duree_minutes": 87,
@@ -2473,17 +2130,17 @@
     ]
   },
   {
-    "titre": "Vertigo",
-    "annee": 1958,
-    "duree_minutes": 129,
+    "titre": "Unerasable!",
+    "annee": 2026,
+    "duree_minutes": 97,
     "realisateurs": [
-      "Alfred Hitchcock"
+      "Socrates Saint-Wulfstan Drakos"
     ],
-    "synopsis": "\"Dès qu’il y a des poursuites on parle de Vertigo. C’est vrai que je les ai regardées, mais les poursuites de La Captive sont beaucoup moins savamment faites que celles d’Hitchcock. (…) Moi, j’ai tourné dans la simplicité la plus totale, et je serais incapable de faire un film comme Vertigo. (…). Mais c’est vrai qu’il y a une tension dans Vertigo et qu’il y a aussi une tension dans La Captive. Même si Vertigo, tout en étant un film d’obsessionnel, est plus fétichiste que mon film.\" (Chantal Akerman)",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8cf228a2-281b-432b-9290-5e7bcd0c085e.jpg",
+    "synopsis": "En 2018, C.P., un cinéaste indépendant vietnamien qui s’est engagé en faveur de la démocratie, est contraint de fuir son pays après avoir subi des actes de torture. Commence alors pour lui un long exil : cinq années sans papiers en Thaïlande, puis l’Europe, où la liberté espérée se heurte à d’autres formes de contrôle et de précarité. Pour retracer ce parcours, son ami, un autre cinéaste travaillant sous le pseudonyme de Socrates Saint-Wulfstan Drakos afin de préserver son anonymat, compose un collage d’images, mêlant ses propres prises de vue à des fragments de films, d’archives coloniales, de propagande et de cinéma politique. Les images se brouillent, se dégradent, se superposent ; les souvenirs eux-mêmes semblent menacés d’effacement. Entre journal intime, film-essai et collage, Unerasable! transforme l’expérience de l’exil en une œuvre forte et radicale.",
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "06/11 21:00",
+        "heure": "13/11 19:30",
         "cinema": "Cinematek"
       }
     ]
@@ -2499,10 +2156,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "06/11 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "07/11 14:10",
         "cinema": "Vendôme"
@@ -2537,50 +2190,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "06/11 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "06/11 16:05",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 18:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "06/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "06/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "06/11 18:50",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "06/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "06/11 21:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "06/11 21:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "07/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "07/11 13:45",
         "cinema": "Vendôme"
@@ -2784,20 +2393,6 @@
       {
         "heure": "07/11 17:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "ÌFÉ: (THE SEQUEL)",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "06/11 19:15",
-        "cinema": "Aventure"
       }
     ]
   }

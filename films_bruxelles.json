@@ -1,19 +1,5 @@
 [
   {
-    "titre": "66 Days",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "10/11 19:00",
-        "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
     "titre": "A City of Sadness",
     "annee": 1989,
     "duree_minutes": 158,
@@ -74,6 +60,10 @@
       {
         "heure": "15/11 21:10",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 21:40",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -90,20 +80,6 @@
       {
         "heure": "16/11 18:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Bandes d’hystériques",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "14/11 18:00",
-        "cinema": "Vendôme"
       }
     ]
   },
@@ -154,39 +130,6 @@
     ]
   },
   {
-    "titre": "Black Box Diaries",
-    "annee": 2024,
-    "duree_minutes": 102,
-    "realisateurs": [
-      "Shiori Itō"
-    ],
-    "synopsis": "La journaliste Shiori Itō enquête sur sa propre agression sexuelle, cherchant à poursuivre l'agresseur très médiatisé. Sa quête devient un cas emblématique, exposant les systèmes judiciaires et sociétaux dépassés du Japon.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/67bcaa52-fd66-4cea-a97e-5deb15c60b09.jpg",
-    "seances": [
-      {
-        "heure": "13/11 18:00",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Black Roots + Bitter Sweet Stories",
-    "annee": 0,
-    "duree_minutes": 91,
-    "realisateurs": [
-      "Lionel Rogosin",
-      "Michael Ariel Rogosin"
-    ],
-    "synopsis": "Après avoir filmé à l’étranger dans les années 1960, Lionel Rogosin revient aux États-Unis afin d’y dénoncer les inégalités raciales. Ce film réussit à capter avec une grande proximité le témoignage de musicien·ne·s prominent·e·s et les difficultés rencontrés à cause de la couleur de leur peau. Précédé d’un making-off sur le film. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "10/11 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Blind Beast",
     "annee": null,
     "duree_minutes": null,
@@ -210,22 +153,6 @@
     "seances": [
       {
         "heure": "15/11 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Celovek s kino-apparatom (Man with a Movie Camera)",
-    "annee": 1929,
-    "duree_minutes": 99,
-    "realisateurs": [
-      "Dziga Vertov"
-    ],
-    "synopsis": "À travers trucages, associations visuelles et images-rimes, l’osmose du cinéma et de la vie brute d’une mégapole soviétique, obtenue et rythmée par le montage expérimental du réalisateur. Une vision démultipliée de la réalité et de son tourbillon intense, la caméra se glissant partout en un perpétuel mouvement qui veut tout capter « mieux que cet instrument imparfait qu’est l’œil humain » (Vertov).",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/27703eff-c52f-49f2-a836-6c2f7df67490.jpg",
-    "seances": [
-      {
-        "heure": "10/11 19:00",
         "cinema": "Cinematek"
       }
     ]
@@ -264,18 +191,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "11/11 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 10:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 12:50",
-        "cinema": "Galeries"
-      },
       {
         "heure": "11/11 15:30",
         "cinema": "Palace"
@@ -531,6 +446,38 @@
       {
         "heure": "17/11 14:00",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 16:35",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 16:35",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 18:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/11 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 21:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 21:20",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -560,22 +507,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "10/11 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 18:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/11 20:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 21:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "11/11 13:35",
         "cinema": "Vendôme"
@@ -683,6 +614,14 @@
       {
         "heure": "17/11 13:35",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 20:35",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -697,10 +636,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6e7eff07-2e5c-474a-b0bc-e11caa793dd9.jpg",
     "seances": [
       {
-        "heure": "11/11 10:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "12/11 12:50",
         "cinema": "Aventure"
       },
@@ -711,40 +646,6 @@
       {
         "heure": "14/11 12:25",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Céline et Julie vont en bateau",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "10/11 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Days of Wonder",
-    "annee": 2026,
-    "duree_minutes": 88,
-    "realisateurs": [
-      "Karin Pennanen"
-    ],
-    "synopsis": "Finlande, années 1970. Karin grandit entourée de sa famille : ses parents, ses frères et sœurs, ses grands-parents… et Markku, l’oncle dont tous les enfants rêvent, celui qui invente des mondes et enchante chaque seconde d’un quotidien déjà heureux, tissé de fêtes et de jeux.\nMais Markku déménage et disparaît soudainement. L’enfance est déjà loin et, lorsque Karin, devenue cinéaste, le retrouve, il est trop tard. De Markku ne reste alors qu’une maison isolée dans les bois, remplie d’une œuvre immense restée jusqu’alors invisible : dessins, collages, compositions, enregistrements sonores et vidéos.\nC’est grâce à cette matière foisonnante que Karin Pennanen ressuscite l’artiste disparu. Days of Wonder devient alors un chant à deux voix, un poème écrit à quatre mains, l’accès à la lumière régénérante de l’enfance et du bonheur.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2d0a424f-8c4c-4942-bf03-7d946cea7457.jpeg",
-    "seances": [
-      {
-        "heure": "10/11 19:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/11 19:00",
-        "cinema": "Palace"
       }
     ]
   },
@@ -774,14 +675,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "10/11 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/11 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "11/11 15:45",
         "cinema": "Aventure"
@@ -846,10 +739,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "11/11 12:00",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "14/11 15:50",
         "cinema": "Le Stockel"
       }
@@ -872,6 +761,22 @@
     ]
   },
   {
+    "titre": "Erotikon",
+    "annee": 1920,
+    "duree_minutes": 95,
+    "realisateurs": [
+      "Mauritz Stiller"
+    ],
+    "synopsis": "L’histoire tourne autour d’un professeur d’entomologie obsédé par la vie sexuelle des insectes, et de son épouse, d’un naturel décontracté, qui est courtisée par deux prétendants.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4add97b6-7e5d-42e8-adf5-b69f5ab42599.jpg",
+    "seances": [
+      {
+        "heure": "17/11 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Erupcja",
     "annee": 2025,
     "duree_minutes": 71,
@@ -882,8 +787,24 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/77e92db8-d71c-4777-bb12-8dd7b721f58e.jpg",
     "seances": [
       {
+        "heure": "13/11 16:45",
+        "cinema": "Aventure"
+      },
+      {
         "heure": "14/11 15:35",
         "cinema": "Cineflagey"
+      },
+      {
+        "heure": "15/11 13:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/11 20:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 13:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -924,6 +845,20 @@
     ]
   },
   {
+    "titre": "Forever a Woman",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/11 20:00",
+        "cinema": "Cinema RITCS"
+      }
+    ]
+  },
+  {
     "titre": "Franz",
     "annee": 2026,
     "duree_minutes": 127,
@@ -934,11 +869,11 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
       {
-        "heure": "10/11 21:00",
+        "heure": "13/11 21:15",
         "cinema": "Palace"
       },
       {
-        "heure": "13/11 21:15",
+        "heure": "17/11 21:15",
         "cinema": "Palace"
       }
     ]
@@ -953,14 +888,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "10/11 15:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/11 21:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "11/11 20:35",
         "cinema": "Vendôme"
@@ -988,6 +915,27 @@
       {
         "heure": "16/11 13:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 21:10",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "George Michael: The Faith Tour",
+    "annee": 2026,
+    "duree_minutes": 113,
+    "realisateurs": [
+      "David Austin",
+      "Andrew Morahan"
+    ],
+    "synopsis": "George Michael comptait parmi les stars les plus influentes de sa génération ; sa voix et ses compositions ont marqué toute une époque. Réalisé à partir d’images 35 mm redécouvertes, inédites et jamais diffusées auparavant, tournées lors de son concert de 1988 au Palais Omnisports de Paris-Bercy, ce nouveau film de concert montre George au sommet de son art, lors de la tournée « Faith Tour » qui a battu tous les records. Restauré et remastérisé avec soin, le film transforme un moment culturel marquant en une expérience cinématographique spectaculaire. Un court-métrage original de Mary McCartney ouvre le long-métrage, utilisant des enregistrements audio et des images récemment découverts datant de 1986 à 1988 – l’époque de « Faith » – pour créer une « capsule temporelle » rare et intime, offrant un aperçu saisissant de l’état d’esprit de George à ce moment charnière de sa vie.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3f87edb9-31b6-4812-bc15-bfaad477c162.jpg",
+    "seances": [
+      {
+        "heure": "17/11 16:00",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -1018,10 +966,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d2333e90-8dbf-49b8-80bd-3d2e20235119.jpg",
     "seances": [
       {
-        "heure": "10/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "12/11 21:20",
         "cinema": "Aventure"
       },
@@ -1049,18 +993,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
       {
-        "heure": "11/11 10:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 10:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 11:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "11/11 15:00",
         "cinema": "Vendôme"
       },
@@ -1087,6 +1019,20 @@
     ]
   },
   {
+    "titre": "Heat (1972)",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/11 21:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Hope",
     "annee": 2026,
     "duree_minutes": 160,
@@ -1097,10 +1043,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
       {
-        "heure": "10/11 17:00",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "11/11 21:00",
         "cinema": "Aventure"
       },
@@ -1110,6 +1052,10 @@
       },
       {
         "heure": "15/11 16:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 21:00",
         "cinema": "Aventure"
       }
     ]
@@ -1140,10 +1086,6 @@
     "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
-      {
-        "heure": "11/11 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "11/11 18:10",
         "cinema": "Aventure"
@@ -1183,22 +1125,31 @@
       {
         "heure": "16/11 21:30",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 14:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 18:10",
+        "cinema": "Aventure"
       }
     ]
   },
   {
-    "titre": "Ken Russell’s The Devils",
-    "annee": 1971,
-    "duree_minutes": 111,
+    "titre": "Im Wald von Katyn + Rembrandt",
+    "annee": 1943,
+    "duree_minutes": 114,
     "realisateurs": [
-      "Ken Russell"
+      "Fritz Hippler",
+      "Hans Steinhoff"
     ],
-    "synopsis": "Dans la France de 1634, le charismatique père Urbain Grandier devient la cible d'accusations de sorcellerie lancées par une religieuse obsédée par le sexe — des accusations que des représentants corrompus de l'Église et de l'État s'empressent d'exploiter.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ef30a14c-9ef0-4f77-bd5f-4daf14c005cc.jpg",
+    "synopsis": "Hans Steinhoff réalisa cette biographie de Rembrandt durant l’Occupation allemande aux Pays-Bas. Le peintre y est dépeint comme un génie germanique incompris, ayant notamment souffert des manœuvres de spéculateur·ice·s juif·ve·s. Le court métrage Dans la forêt de Katyn montre les charniers de Polonais·e·s assassiné·e·s par les Soviétiques en avril-mai 1940. Cette tragédie fut utilisée à la fois comme propagande antibolchévique et antijuive. ",
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "10/11 21:20",
-        "cinema": "Aventure"
+        "heure": "17/11 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1227,10 +1178,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "11/11 11:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/11 14:50",
         "cinema": "Aventure"
       },
@@ -1249,6 +1196,14 @@
       {
         "heure": "16/11 14:40",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 16:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 20:15",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -1306,18 +1261,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "10/11 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/11 20:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/11 15:15",
         "cinema": "Palace"
@@ -1389,38 +1332,14 @@
       {
         "heure": "17/11 11:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "La Maison des Femmes",
-    "annee": 2026,
-    "duree_minutes": 110,
-    "realisateurs": [
-      "Mélisa Godet"
-    ],
-    "synopsis": "À la Maison des femmes, on soigne les femmes victimes de violences. Ailleurs, elles sont menacées, brutalisées, violées, mutilées, leurs souffrances ignorées. Ici, elles sont écoutées, soutenues, aidées, crues. Diane, Manon, Inès, Awa et les autres leur donneront le bras jusqu’à ce qu’elles puissent se relever. En équipe. Quitte à risquer leur propre équilibre.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6d3be754-0b4e-49c5-af4d-6f25864fa5ae.jpg",
-    "seances": [
+      },
       {
-        "heure": "14/11 20:30",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "La Petite dernière",
-    "annee": 2025,
-    "duree_minutes": 107,
-    "realisateurs": [
-      "Hafsia Herzi"
-    ],
-    "synopsis": "Fatima, 17 ans, est la petite dernière. Elle vit en banlieue avec ses sœurs, dans une famille joyeuse et aimante. Bonne élève, elle intègre une fac de philosophie à Paris et découvre un tout nouveau monde. Alors que débute sa vie de jeune femme, elle s’émancipe de sa famille et ses traditions. Fatima se met alors à questionner son identité. Comment concilier sa foi avec ses désirs naissants ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0285437-474d-43f5-8e1d-e125774bf5f1.jpg",
-    "seances": [
+        "heure": "17/11 15:15",
+        "cinema": "Palace"
+      },
       {
-        "heure": "12/11 20:15",
-        "cinema": "Vendôme"
+        "heure": "17/11 20:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1450,14 +1369,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "10/11 14:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/11 13:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "11/11 16:45",
         "cinema": "Palace"
@@ -1502,14 +1413,6 @@
     "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
-      {
-        "heure": "11/11 12:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 13:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/11 14:20",
         "cinema": "Aventure"
@@ -1615,23 +1518,6 @@
     ]
   },
   {
-    "titre": "L’Âge de raison : le cinéma des frères Dardenne",
-    "annee": 2014,
-    "duree_minutes": 61,
-    "realisateurs": [
-      "Alain Marcoen",
-      "Luc Jabon"
-    ],
-    "synopsis": "Alain Marcoen et Luc Jabon font le pari d’une lecture personnelle du cinéma des frères Dardenne de La Promesse jusqu’à Le Gamin au vélo, et nous livrent une véritable leçon de cinéma en s’appuyant sur la « famille » des comédiens et techniciens ainsi que sur d’autres intervenants plus inattendus. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c856d40a-ca9e-4bbb-b8ff-cc989e53792f.png",
-    "seances": [
-      {
-        "heure": "10/11 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Magnificent Obsession",
     "annee": 1935,
     "duree_minutes": 110,
@@ -1673,10 +1559,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "11/11 09:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/11 13:40",
         "cinema": "Vendôme"
@@ -1836,6 +1718,26 @@
       {
         "heure": "17/11 13:40",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 15:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 15:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/11 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 18:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 18:45",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1886,22 +1788,6 @@
     ]
   },
   {
-    "titre": "Moulin",
-    "annee": 2026,
-    "duree_minutes": 130,
-    "realisateurs": [
-      "László Nemes"
-    ],
-    "synopsis": "En juin 1943, Jean Moulin, chef de la Résistance française, est arrêté alors qu’il tente de réunir les forces de l’« Armée secrète ». Interrogé par Klaus Barbie, chef de la Gestapo à Lyon, Moulin se retrouve engagé dans une confrontation implacable.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/eab2cd68-11bf-4e45-9a99-a2439d55ddc9.jpg",
-    "seances": [
-      {
-        "heure": "10/11 18:00",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Murmures",
     "annee": null,
     "duree_minutes": null,
@@ -1920,20 +1806,6 @@
     ]
   },
   {
-    "titre": "Nagi Notes",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "10/11 16:30",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
     "titre": "Naza",
     "annee": 2026,
     "duree_minutes": 80,
@@ -1944,26 +1816,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "10/11 14:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/11 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/11 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 19:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/11 21:40",
         "cinema": "Vendôme"
@@ -2047,6 +1899,14 @@
       {
         "heure": "17/11 11:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 16:25",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 18:30",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -2067,20 +1927,6 @@
       {
         "heure": "13/11 20:30",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "No Good Men",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "10/11 18:45",
-        "cinema": "Vendôme"
       }
     ]
   },
@@ -2110,18 +1956,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "10/11 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "10/11 20:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 20:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/11 15:20",
         "cinema": "Galeries"
@@ -2169,6 +2003,14 @@
       {
         "heure": "17/11 13:15",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 15:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/11 21:05",
+        "cinema": "Palace"
       }
     ]
   },
@@ -2186,6 +2028,20 @@
       {
         "heure": "15/11 14:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Premières Lumières × Mois du Doc 2026 — Pas à pas : du TFE au premier film",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "17/11 19:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2219,22 +2075,6 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
-      {
-        "heure": "10/11 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/11 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 18:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/11 14:40",
         "cinema": "Vendôme"
@@ -2290,21 +2130,33 @@
       {
         "heure": "17/11 14:15",
         "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 18:35",
+        "cinema": "Vendôme"
       }
     ]
   },
   {
-    "titre": "Resident Evil",
-    "annee": 0,
-    "duree_minutes": 89,
+    "titre": "Res Nullius",
+    "annee": 2026,
+    "duree_minutes": 67,
     "realisateurs": [
-      "Zach Cregger"
+      "Thomas Jean"
     ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/28e3d4f4-0a80-4b27-8547-80a1d7684b63.jpg",
+    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
       {
-        "heure": "10/11 16:10",
+        "heure": "11/11 17:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "13/11 17:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "16/11 13:00",
         "cinema": "Aventure"
       }
     ]
@@ -2321,10 +2173,6 @@
     "seances": [
       {
         "heure": "12/11 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 13:20",
         "cinema": "Palace"
       },
       {
@@ -2404,10 +2252,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "11/11 13:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "13/11 21:20",
         "cinema": "Aventure"
       },
@@ -2441,10 +2285,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
       {
-        "heure": "11/11 10:45",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "11/11 13:45",
         "cinema": "Palace"
       },
@@ -2467,6 +2307,22 @@
       {
         "heure": "15/11 13:45",
         "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Soundtrack to a Coup d’État",
+    "annee": 2024,
+    "duree_minutes": 150,
+    "realisateurs": [
+      "Johan Grimonprez"
+    ],
+    "synopsis": "‘Soundtrack to a Coup d’État’ met en lumière l'une des machinations politiques les plus insidieuses du XXe siècle : comment la monarchie belge, le gouvernement des États-Unis et les multinationales se sont entendus pour utiliser des institutions artistiques et des musiciens de jazz légendaires comme couverture pour des opérations secrètes visant à assassiner le premier ministre du Congo, Patrice Lumumba.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/18e5f355-1176-4964-b943-a1f951fe50bc.jpeg",
+    "seances": [
+      {
+        "heure": "17/11 19:00",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -2504,22 +2360,6 @@
     ]
   },
   {
-    "titre": "Spirited Away (Le voyage de Chihiro)",
-    "annee": 2001,
-    "duree_minutes": 124,
-    "realisateurs": [
-      "Hayao Miyazaki"
-    ],
-    "synopsis": "Chihiro, une fillette de 10 ans, est en route vers sa nouvelle demeure en compagnie de ses parents. Au cours du voyage, la famille fait une halte dans un parc à thème qui leur paraît délabré. Lors de la visite, les parents s’arrêtent dans un des bâtiments pour déguster quelques mets très appétissants, apparus comme par enchantement. Hélas cette nourriture les transforme en porcs. Prise de panique, Chihiro s’enfuit et se retrouve seule dans cet univers fantasmagorique ; elle rencontre alors l’énigmatique Haku, son seul allié dans cette terrible épreuve... ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9770b6e6-0089-4a2b-bc6e-efc92a6eebac.jpg",
-    "seances": [
-      {
-        "heure": "10/11 19:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Talking to Men Who Have Sex",
     "annee": 2026,
     "duree_minutes": 87,
@@ -2529,18 +2369,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "10/11 18:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/11 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 13:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "11/11 21:30",
         "cinema": "Palace"
@@ -2576,6 +2404,10 @@
       {
         "heure": "17/11 13:20",
         "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 21:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -2596,7 +2428,7 @@
     ]
   },
   {
-    "titre": "The Color of Pomegranates",
+    "titre": "The Bigamist",
     "annee": null,
     "duree_minutes": null,
     "realisateurs": null,
@@ -2604,7 +2436,7 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "10/11 19:30",
+        "heure": "17/11 18:30",
         "cinema": "Cinema RITCS"
       }
     ]
@@ -2639,26 +2471,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "10/11 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 19:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/11 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "11/11 16:00",
         "cinema": "Aventure"
@@ -2750,22 +2562,22 @@
       {
         "heure": "17/11 12:40",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "The Rift Between Us",
-    "annee": 2026,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Rita Afonso"
-    ],
-    "synopsis": "The Rift Between Us est un documentaire de type talking heads avec Nozizwe Dube, Marie-Fidèle Dusingize et Betel Mabille, qui explore l’impact de la misogynoir sur les relations amoureuses entre les femmes Noires et les hommes Noirs en Belgique. À l’intersection du sexisme et du racisme anti-Noir, le film s’interroge sur la manière dont les héritages coloniaux continuent de façonner notre perception de nous-mêmes, des autres et des relations que nous construisons. À la fois sensible, lucide et profondément humain, The Rift Between Us ouvre un espace de dialogue, de réflexion et de compréhension autour d'expériences trop souvent passées sous silence.",
-    "affiche_url": null,
-    "seances": [
+      },
       {
-        "heure": "10/11 18:45",
-        "cinema": "Galeries"
+        "heure": "17/11 16:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 19:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 19:45",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2784,6 +2596,36 @@
       {
         "heure": "15/11 11:00",
         "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Totems et Tabous",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "16/11 18:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Toute une nuit",
+    "annee": 1982,
+    "duree_minutes": 99,
+    "realisateurs": [
+      "Chantal Akerman"
+    ],
+    "synopsis": "Dans une ville, par une nuit d’été très chaude et orageuse, des hommes, des femmes, des enfants, pris de désir, prêts à tout, se laissent emporter, jusqu’au vertige parfois, dans l’excès de leurs sentiments. Jusqu’à l’aube. TOUTE UNE NUIT, des fragments comme des morceaux d’intensité, qui ont presque tous à voir avec le frémissement, la tension amoureuse ou sexuelle, et toujours avec les sentiments.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8d399454-068c-4b96-825f-72b3721617b6.jpeg",
+    "seances": [
+      {
+        "heure": "17/11 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -2838,6 +2680,10 @@
       {
         "heure": "17/11 12:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 16:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2887,6 +2733,10 @@
       {
         "heure": "16/11 21:20",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 16:25",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -2898,46 +2748,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "10/11 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/11 16:05",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "10/11 16:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "10/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "10/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "10/11 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "10/11 21:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "10/11 21:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 12:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "11/11 14:25",
         "cinema": "Aventure"
@@ -3165,6 +2975,30 @@
       {
         "heure": "17/11 13:45",
         "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 14:25",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "17/11 19:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 21:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "17/11 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "17/11 21:35",
+        "cinema": "Vendôme"
       }
     ]
   },

@@ -32,22 +32,6 @@
     ]
   },
   {
-    "titre": "Amours chiennes",
-    "annee": 2006,
-    "duree_minutes": 154,
-    "realisateurs": [
-      "Alejandro González Iñárritu"
-    ],
-    "synopsis": "Trois personnages aux destins croisés se retrouvent réunis par un accident de voiture. Un triptyque frénétique, gouverné par le hasard, dans un Mexico chaotique, véritable jungle urbaine. Premier long métrage de González Iñárritu, révélé comme cinéaste majeur.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cddd2f20-b2ce-4e99-ae2f-48451cb0073a.png",
-    "seances": [
-      {
-        "heure": "11/11 16:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Andiamo a bere l'ultima",
     "annee": 2026,
     "duree_minutes": 100,
@@ -79,20 +63,6 @@
     "seances": [
       {
         "heure": "16/11 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Barbara Forever",
-    "annee": 0,
-    "duree_minutes": 102,
-    "realisateurs": [],
-    "synopsis": "Avec Barbara Forever, la réalisatrice Brydie O’Connor se lance un défi de taille : raconter la vie et le parcours de l’iconique cinéaste lesbienne Barbara Hammer. Au début des années 1970, à l’âge de 27 ans, Barbara Hammer décide de filmer sa vie. Son corps, ses amantes, ses désirs, ses colères, ses joies : tout devient matière à cinéma. À une époque où les récits lesbiens restent largement invisibilisés, elle invente une œuvre solaire où l’intime devient un espace d’expérimentation et d’affirmation. Barbara Forever prolonge ce geste en puisant dans plusieurs décennies d’images et d’enregistrements. La voix de la cinéaste accompagne les images qu’elle a créées, tandis que Florrie Burke, sa compagne des dernières années, revient sur leur histoire.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6bb37ba2-43db-4f32-96ee-42d7d9e13422.jpg",
-    "seances": [
-      {
-        "heure": "11/11 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -182,6 +152,22 @@
     ]
   },
   {
+    "titre": "Close",
+    "annee": 2022,
+    "duree_minutes": 105,
+    "realisateurs": [
+      "Lukas Dhont"
+    ],
+    "synopsis": "Léo et Rémi, 13 ans, sont amis depuis toujours. Jusqu’à ce qu’un événement impensable les sépare. Plein d’incompréhension, Léo aborde Sophie, la mère de Rémi. CLOSE est un film sur l’amitié et la responsabilité.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f74741eb-9adc-4441-bd92-e3b0925ba365.png",
+    "seances": [
+      {
+        "heure": "18/11 20:15",
+        "cinema": "Cinema RITCS"
+      }
+    ]
+  },
+  {
     "titre": "Club Kid",
     "annee": 2026,
     "duree_minutes": 122,
@@ -191,54 +177,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "11/11 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 16:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 16:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 18:50",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "11/11 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 11:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 13:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "12/11 16:15",
         "cinema": "Palace"
@@ -508,26 +446,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
       {
-        "heure": "11/11 13:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 21:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/11 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "12/11 16:10",
         "cinema": "Cineflagey"
       },
@@ -636,10 +554,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6e7eff07-2e5c-474a-b0bc-e11caa793dd9.jpg",
     "seances": [
       {
-        "heure": "12/11 12:50",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "14/11 10:20",
         "cinema": "Aventure"
       },
@@ -675,14 +589,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "11/11 15:45",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/11 21:10",
         "cinema": "Aventure"
@@ -731,6 +637,20 @@
     ]
   },
   {
+    "titre": "Donnie Darko",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "18/11 21:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Ducobu et le fantôme de Saint-Potache",
     "annee": 0,
     "duree_minutes": 0,
@@ -745,17 +665,15 @@
     ]
   },
   {
-    "titre": "Elephants & Squirrels",
-    "annee": 0,
-    "duree_minutes": 111,
-    "realisateurs": [
-      "Gregor Brandli"
-    ],
-    "synopsis": "Derrière les vitrines et dans les réserves suisses reposent, depuis plus d’un siècle, des ossements humains et des objets rituels rapportés du Sri Lanka par les naturalistes Paul et Fritz Sarasin. C’est pour obtenir leur restitution que l’artiste sri-lankaise Deneth P. Veda Arachchige accompagne le combat du peuple Wanniyala-Aththo, tout en inscrivant cette histoire dans sa propre pratique artistique, nourrie par la mémoire des ancêtres et les traces laissées par le passé colonial.\nSans jamais céder aux simplifications, Gregor Brändli compose un film d’une grande finesse où dialoguent historien·nes, conservateur·rices de musée et représentant·es du peuple autochtone. Guidé par la présence lumineuse de Deneth, Elephants & Squirrels dépasse la seule question de la restitution pour interroger notre rapport à la mémoire, à la responsabilité historique et à ce que signifie, aujourd’hui, réparer une dépossession.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f63a9d50-4bce-4af8-84c4-9754a0698a11.jpg",
+    "titre": "Egymásra nézve",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
     "seances": [
       {
-        "heure": "11/11 14:00",
+        "heure": "18/11 18:00",
         "cinema": "Cinematek"
       }
     ]
@@ -835,10 +753,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/782eea3f-a4d9-4cb3-bd62-ef9e58da79f6.jpg",
     "seances": [
       {
-        "heure": "11/11 19:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "14/11 19:00",
         "cinema": "Cinematek"
       }
@@ -888,14 +802,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "11/11 20:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 13:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/11 13:20",
         "cinema": "Vendôme"
@@ -993,10 +899,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
       {
-        "heure": "11/11 15:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "14/11 10:30",
         "cinema": "Palace"
       },
@@ -1043,10 +945,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
       {
-        "heure": "11/11 21:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "14/11 21:00",
         "cinema": "Galeries"
       },
@@ -1086,18 +984,6 @@
     "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
-      {
-        "heure": "11/11 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 18:25",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "12/11 14:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "13/11 12:40",
         "cinema": "Aventure"
@@ -1262,18 +1148,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
       {
-        "heure": "11/11 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 20:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "12/11 15:15",
         "cinema": "Palace"
       },
@@ -1370,14 +1244,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
       {
-        "heure": "11/11 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 17:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "14/11 13:20",
         "cinema": "Vendôme"
       },
@@ -1413,14 +1279,6 @@
     "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
-      {
-        "heure": "11/11 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 15:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "14/11 12:50",
         "cinema": "Galeries"
@@ -1559,34 +1417,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "11/11 13:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 14:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 21:10",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "12/11 13:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "12/11 15:00",
         "cinema": "Palace"
@@ -1756,22 +1586,6 @@
     ]
   },
   {
-    "titre": "Mochy",
-    "annee": 2026,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
-    ],
-    "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
-    "seances": [
-      {
-        "heure": "11/11 14:00",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Moon Safari + Sujet Sensible + What We Said to Brussels Airlines",
     "annee": 0,
     "duree_minutes": 68,
@@ -1796,10 +1610,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/75416913-06b2-44db-b487-b037c1486d7b.jpg",
     "seances": [
       {
-        "heure": "11/11 17:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "13/11 19:00",
         "cinema": "Cinematek"
       }
@@ -1816,14 +1626,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "11/11 21:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 13:10",
-        "cinema": "Galeries"
-      },
       {
         "heure": "12/11 16:00",
         "cinema": "Le Stockel"
@@ -1921,10 +1723,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/20ad232f-09d8-4e37-9b39-4d750a21d1ed.jpg",
     "seances": [
       {
-        "heure": "11/11 15:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "13/11 20:30",
         "cinema": "Cinematek"
       }
@@ -1957,15 +1755,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
       {
-        "heure": "11/11 15:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/11 21:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 21:50",
+        "heure": "12/11 20:50",
         "cinema": "Palace"
       },
       {
@@ -1989,7 +1779,7 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "15/11 21:50",
+        "heure": "15/11 20:50",
         "cinema": "Palace"
       },
       {
@@ -2076,18 +1866,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
       {
-        "heure": "11/11 14:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 18:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 14:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "12/11 18:35",
         "cinema": "Vendôme"
       },
@@ -2147,10 +1925,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "11/11 17:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "13/11 17:40",
         "cinema": "Aventure"
@@ -2228,10 +2002,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76b0ec15-b017-4919-b578-85b773db3f14.jpg",
     "seances": [
       {
-        "heure": "11/11 15:55",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "13/11 17:45",
         "cinema": "Le Stockel"
       },
@@ -2284,10 +2054,6 @@
     "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
-      {
-        "heure": "11/11 13:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "14/11 11:00",
         "cinema": "Galeries"
@@ -2343,23 +2109,6 @@
     ]
   },
   {
-    "titre": "Sous les masques (talk)",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [
-      "Paul Haesaerts",
-      "Matthias De Groof"
-    ],
-    "synopsis": "En 1958, Paul Haesaerts filme les objets d’art du Congo belge dans Sous le masque noir. Peintre, critique et historien d’art devenu cinéaste, Haesaerts est alors l’une des grandes figures du film sur l’art en Belgique. S’il filme les oeuvres avec une attention remarquable aux formes, aux matières et aux gestes, son regard reste pourtant celui de son époque, traversé par les représentations coloniales. Les objets sont montrés, commentés, interprétés, sans jamais pouvoir prendre la parole.\n\nPlus de soixante ans plus tard, Matthias De Groof retourne ce dispositif avec Sous le masque blanc : le film qu’Haesaerts aurait pu faire. À partir des images originales, il imagine un contrechamp radical : les masques congolais deviennent des sujets et s’adressent directement au public en lingala, à travers les mots d’Aimé Césaire dans Discours sur le colonialisme, portés par la voix de la poétesse et slameuse Maravilha Munto.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5226a31c-4d51-4a6b-9d5d-63ae4b1dc759.jpg",
-    "seances": [
-      {
-        "heure": "11/11 16:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Talking to Men Who Have Sex",
     "annee": 2026,
     "duree_minutes": 87,
@@ -2369,14 +2118,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "11/11 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 13:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/11 13:20",
         "cinema": "Palace"
@@ -2408,22 +2149,6 @@
       {
         "heure": "17/11 21:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Tender Fictions",
-    "annee": 1996,
-    "duree_minutes": 58,
-    "realisateurs": [
-      "Barbara Hammer"
-    ],
-    "synopsis": "Avec Tender Fictions, Barbara Hammer compose une autobiographie à son image, à la fois libre et insaisissable. Textes, images Super 8, archives personnelles, témoignages, extraits détournés et fragments imaginaires se mêlent dans un grand collage où la cinéaste enquête sur sa propre vie autant qu’elle la réinvente.\nAvec un humour constant et une inventivité formelle jubilatoire, Barbara Hammer brouille les frontières et fabrique sous nos yeux un film où chaque image peut être tour à tour archive, souvenir ou fiction.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/856f9afa-e782-4a1e-95f8-569ff6e6d5e7.jpg",
-    "seances": [
-      {
-        "heure": "11/11 20:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -2471,26 +2196,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "11/11 16:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 19:45",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 21:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "12/11 14:50",
         "cinema": "Aventure"
@@ -2699,7 +2404,7 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
       {
-        "heure": "11/11 21:20",
+        "heure": "12/11 16:20",
         "cinema": "Vendôme"
       },
       {
@@ -2707,11 +2412,7 @@
         "cinema": "Aventure"
       },
       {
-        "heure": "12/11 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 21:20",
+        "heure": "13/11 16:20",
         "cinema": "Vendôme"
       },
       {
@@ -2727,12 +2428,12 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "16/11 16:40",
-        "cinema": "Aventure"
+        "heure": "16/11 16:20",
+        "cinema": "Vendôme"
       },
       {
-        "heure": "16/11 21:20",
-        "cinema": "Vendôme"
+        "heure": "16/11 16:40",
+        "cinema": "Aventure"
       },
       {
         "heure": "17/11 16:25",
@@ -2748,46 +2449,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "11/11 14:25",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "11/11 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "11/11 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "11/11 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "11/11 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 13:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "12/11 14:50",
         "cinema": "Aventure"

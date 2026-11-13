@@ -1,31 +1,5 @@
 [
   {
-    "titre": "A City of Sadness",
-    "annee": 1989,
-    "duree_minutes": 158,
-    "realisateurs": [
-      "Hou Hsiao-hsien"
-    ],
-    "synopsis": "",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ae716db8-3bcb-46da-a890-76b953c989b7.jfif",
-    "seances": [
-      {
-        "heure": "12/11 18:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "6198",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-6198/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-6198/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 34
-    }
-  },
-  {
     "titre": "Amadeus",
     "annee": 1884,
     "duree_minutes": 159,
@@ -139,80 +113,6 @@
     "allocine": null
   },
   {
-    "titre": "Basic Instinct",
-    "annee": 126,
-    "duree_minutes": 126,
-    "realisateurs": [
-      "Paul Verhoeven"
-    ],
-    "synopsis": "À San Francisco, un inspecteur de police enquête sur la mort d’une star du rock, assassinée à coups de pic à glace. Tous les éléments de l’enquête le dirigent vers une riche et célèbre romancière dont le passé n’est pas net. Un film noir érotique, film culte des années 1990, tenu par le duo Sharon Stone et Michael Douglas. \n\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dffed02d-7c3e-431d-97aa-fbe9598ace51.jpg",
-    "seances": [
-      {
-        "heure": "12/11 20:45",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "7342",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-7342/critiques/presse/",
-      "note_moyenne_presse": 2.0,
-      "nb_critiques_presse": 5,
-      "critiques_presse": [
-        {
-          "titre_presse": "Positif",
-          "note": 3.0,
-          "auteur": " Ph. R.",
-          "citation": "La qualité des comédiens, le cynisme de quelques répliques, (…) les scènes d'action nous aident à nous intéresser à ce film de genre, ni meillleur ni pire qu'un autre. N°378, juillet-août 1992"
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Pierre Murat",
-          "citation": "Un thriller ordinaire. Pas nul du tout. Mais loin d'être bon. 13/05/1992"
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 2.0,
-          "auteur": "Philippe Garnier",
-          "citation": "Annoncé sexe à toute bourre, Basic Instinct tient péniblement la route. 08/05/1992"
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 1.0,
-          "auteur": "Frédéric Strauss",
-          "citation": "Ce ramassis de fantasmes gras et poussiéreux donne le point de vue du film, celui du mâle moyen et de sa libido laborieuse et sans surprise. N°457 - juin 1952"
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 1.0,
-          "auteur": "D.H.",
-          "citation": "(…) Basic Instinct(…) malgré ses halètements bavards et ses étreintes mortelles, n'est qu'un film inutile, malin et frigide. 09/05/1992"
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-7342/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 25549
-    }
-  },
-  {
-    "titre": "Best Of 2025: Sorry, Baby",
-    "annee": 2023,
-    "duree_minutes": 104,
-    "realisateurs": [
-      "Eva Victor"
-    ],
-    "synopsis": "Quelque chose est arrivé à Agnès. Tandis que le monde avance sans elle, son amitié avec Lydie demeure un refuge précieux. Entre rires et silences, leur lien indéfectible lui permet d'entrevoir ce qui vient après.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7ac417b9-65c3-4008-a562-62533bb64435.jpg",
-    "seances": [
-      {
-        "heure": "12/11 19:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Blind Beast",
     "annee": null,
     "duree_minutes": null,
@@ -286,14 +186,6 @@
     "synopsis": "Entre les années 1930 et la fin du XXe siècle, plus d’une trentaine de salles de cinéma voient le jour dans la ville de Tripoli, au Liban. Empire, Roxy, Opéra, Al-Hamra, Palace, … tout le monde va au « cilama », déformation populaire du mot « cinéma ». Ces salles sont bien plus que des lieux de projection : elles deviennent des repères, des endroits où se retrouver en cachette bien sûr, mais aussi apprendre, discuter, s’émanciper puis se battre ou se cacher.\nDes décennies plus tard, le cinéaste Hady Zaccak part à la recherche de ce qu’il en reste.\nÀ partir de centaines d’images et d’une quarantaine de témoignages, il compose un immense collage où se mêlent souvenirs cinéphiles, archives, histoires intimes et récits de guerre en forme de lettre d’amour à Tripoli et au cinéma.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e4bf59c1-4308-4823-883d-274fc4d4979a.jpg",
     "seances": [
-      {
-        "heure": "12/11 18:00",
-        "cinema": "Cinematek"
-      },
-      {
-        "heure": "12/11 20:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "14/11 17:00",
         "cinema": "Cinematek"
@@ -557,50 +449,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "12/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 16:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "12/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/11 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/11 11:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/11 16:00",
         "cinema": "Galeries"
@@ -1029,7 +877,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036932/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 898
+      "nb_notes_spectateurs": 964
     }
   },
   {
@@ -1068,30 +916,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "12/11 16:10",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "12/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 19:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/11 20:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 13:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/11 18:30",
         "cinema": "Palace"
@@ -1203,7 +1027,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-267335/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 149
+      "nb_notes_spectateurs": 153
     }
   },
   {
@@ -1242,10 +1066,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "12/11 21:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "13/11 21:00",
         "cinema": "Aventure"
@@ -1490,7 +1310,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 3162
+      "nb_notes_spectateurs": 3169
     }
   },
   {
@@ -2096,10 +1916,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
       {
-        "heure": "13/11 13:20",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "14/11 11:55",
         "cinema": "Palace"
       },
@@ -2363,7 +2179,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 3427
+      "nb_notes_spectateurs": 3435
     }
   },
   {
@@ -2386,7 +2202,7 @@
       "allocine_id": "1000041856",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000041856/critiques/presse/",
       "note_moyenne_presse": 3.3,
-      "nb_critiques_presse": 3,
+      "nb_critiques_presse": 6,
       "critiques_presse": [
         {
           "titre_presse": "Franceinfo Culture",
@@ -2395,10 +2211,28 @@
           "citation": "Un hommage magistral à une bête de scène et une personnalité très attachante de l'histoire de la pop, à voir absolument sur grand écran."
         },
         {
+          "titre_presse": "La Tribune Dimanche",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Trente-huit ans plus tard et dix ans après la disparition de George Michael, la liberté totale, la modernité joyeuse et le génie musical de l’artiste n’ont pas pris une ride."
+        },
+        {
           "titre_presse": "Les Fiches du Cinéma",
           "note": 4.0,
           "auteur": "Carl Arnaud",
           "citation": "Allant au-delà de la simple captation, le documentaire d’Andy Morahan et David Austin constitue une odyssée musicale."
+        },
+        {
+          "titre_presse": "Rolling Stone",
+          "note": 3.0,
+          "auteur": "Xavier Bonnet",
+          "citation": "Un témoignage précieux d’un George Michael au talent jamais tout à fait reconnu à sa juste valeur."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Odile de Plas",
+          "citation": "Touchant, à défaut d’être surprenant dans sa forme, il rappellera à ceux qui découvrent George Michael avec quelle acuité il avait su ausculter les délices et dérives de cette célébrité qu’il avait tant recherchée et atteint ici de toutes les fibres de son débardeur."
         },
         {
           "titre_presse": "Première",
@@ -2408,71 +2242,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000041856/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 14
-    }
-  },
-  {
-    "titre": "Germaine Acogny, l'essence de la danse",
-    "annee": 2025,
-    "duree_minutes": 88,
-    "realisateurs": [
-      "Greta-Marie Becker"
-    ],
-    "synopsis": "Née au Bénin en 1944 et élevée au Sénégal, Germaine Acogny construit depuis cinquante ans une danse contemporaine africaine qui a profondément changé les représentations du corps noir sur les scènes internationales. Sa technique puise dans les danses ouest-africaines et dans les mouvements inspirés des animaux et des plantes.\nLe film fait des allers-retours entre le passé — sa rencontre avec Léopold Sédar Senghor, Maurice Béjart, ses créations — et le présent, celui de l’École des Sables qu’elle a fondée à Toubab Dialaw, où elle continue de transmettre son art aux danseur·euses venu·es du monde entier. Mais un avenir hostile se profile : face à l’école, les pelleteuses éventrent aujourd’hui la lagune pour construire un immense port à conteneurs. À plus de 80 ans, Germaine Acogny est encore prête à se battre.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ba1dd72a-c3da-4d72-b46c-557edf441e53.jpg",
-    "seances": [
-      {
-        "heure": "12/11 21:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "298670",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-298670/critiques/presse/",
-      "note_moyenne_presse": 3.7,
-      "nb_critiques_presse": 6,
-      "critiques_presse": [
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Paul Ripert",
-          "citation": "Une richesse et une beauté de l'âme sublimement racontées par des images époustouflantes, lumineuses et simples."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Ce film est un voyage de toute beauté entre extérieur et intérieur, à ne pas manquer…"
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Simon Hoareau",
-          "citation": "En signant le portrait composite de Germaine Acogny, “mère de la danse contemporaine africaine”, Greta-Marie Becker offre une précieuse réflexion sur l’africanité, la décolonisation des corps et le pouvoir - à la fois politique et spirituel - de l’art."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Emmanuelle Bouchez",
-          "citation": "Libre, courageuse, opiniâtre, elle rebondissait en ouvrant son havre au milieu des sables… dont la paix se trouve aujourd’hui menacée par la création d’un port industriel, souligne en pointillé cet hommage sensible."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 3.0,
-          "auteur": "Laudine Storelli",
-          "citation": "Un très bel hommage à une figure historique de la danse."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Lucie Chiquer",
-          "citation": "Car s’il débute comme un portrait de femme ambitieuse, ce film évolue naturellement en une célébration de la danse comme outil de décolonisation des corps."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-298670/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 29
+      "note_moyenne_spectateurs": 4.2,
+      "nb_notes_spectateurs": 26
     }
   },
   {
@@ -2485,10 +2256,6 @@
     "synopsis": "La guerre a réduit le Japon à zéro, et Godzilla l’a fait basculer dans le négatif. Deux années se sont écoulées depuis ; le pays a dû mener un combat acharné pour se relever et retrouver, enfin, son quotidien. Alors même que l’humanité parvenait à préserver une paix durement acquise, une nouvelle menace surgit, anéantissant tout espoir en un instant. Il n’y aura pas de troisième fois. Tout s’arrête ici.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d2333e90-8dbf-49b8-80bd-3d2e20235119.jpg",
     "seances": [
-      {
-        "heure": "12/11 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/11 09:50",
         "cinema": "Aventure"
@@ -2657,7 +2424,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000014492/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 750
+      "nb_notes_spectateurs": 788
     }
   },
   {
@@ -2968,7 +2735,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314882/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 1933
+      "nb_notes_spectateurs": 1971
     }
   },
   {
@@ -2984,6 +2751,10 @@
       {
         "heure": "15/11 20:15",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "19/11 18:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": null
@@ -2998,10 +2769,6 @@
     "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
-      {
-        "heure": "13/11 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "13/11 18:10",
         "cinema": "Aventure"
@@ -3211,8 +2978,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039483/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 426
+      "note_moyenne_spectateurs": 3.3,
+      "nb_notes_spectateurs": 585
     }
   },
   {
@@ -3500,7 +3267,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-323550/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 1089
+      "nb_notes_spectateurs": 1151
     }
   },
   {
@@ -3536,213 +3303,6 @@
     "allocine": null
   },
   {
-    "titre": "La Frappe",
-    "annee": 2026,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "Jean-Gaspar Olivieri"
-    ],
-    "synopsis": "Enzo, 19 ans et sa soeur Carla, 20 ans, sont livrés à eux-mêmes depuis plusieurs années. Quand leur père, Anthony est libéré de prison, Enzo voit la promesse fragile d’une famille à reconstruire contrairement à Carla pour qui l’idée reste inconcevable. Rattrapé par son passé, Enzo doit se confronter à une vérité qu’il a trop longtemps gardée pour lui.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/46d504fc-17b9-4b44-8b74-edf0a1277e4e.jpg",
-    "seances": [
-      {
-        "heure": "12/11 20:30",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "314290",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-314290/critiques/presse/",
-      "note_moyenne_presse": 3.9,
-      "nb_critiques_presse": 30,
-      "critiques_presse": [
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 5.0,
-          "auteur": "Renan Cros",
-          "citation": "Terrible, puissant, passionnant."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 5.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Solide et perturbant scénario décalé d’une autobiographie devenue fiction de cinéma, La Frappe a été tourné vite, en 22 jours, dans une forme d’urgence, et d’authenticité brute préservée par l’absence de toute répétition et portée par d’épatants jeunes comédiens, au jeu simple et vif : Diego Murgia et Romange Fringeli."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 5.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Une tragédie imprévisible, à la mécanique parfaite, servie par une forme précise de naturalisme documentaire, qui saisit la vérité des personnages."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Maud Tenda",
-          "citation": "Julien Gaspar-Oliveri rend brillamment compte de l’ampleur des dégâts psychologiques et sociétaux de l’inceste."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 4.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Un impactant récit, où les non-dits deviennent évidences, au sens de preuves comme d’éclairage d’un drame face auquel beaucoup sont aveugles ou témoins complices."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Laurence Houot",
-          "citation": "C'est dans ce présent, à distance des faits, que le film dessine les crimes passés. Une distance qui permet d'éviter l'écueil du voyeurisme, et qui montre la persistance des blessures, des années après les agressions."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Sophie Joubert",
-          "citation": "Doublement récompensé au dernier Festival du film francophone d’Angoulême par le Valois de la mise en scène pour Julien Gaspar-Oliveri et le Valois de l’acteur pour Diego Murgia, ce premier long métrage apporte, avec sa force brute et sa sensibilité à fleur de peau, une nouvelle pierre à l’édifice des œuvres qui osent aborder l’inceste et font avancer le débat public."
-        },
-        {
-          "titre_presse": "La Septième Obsession",
-          "note": 4.0,
-          "auteur": "Maryline Alligier",
-          "citation": "Loin de tout manichéisme et de toute psychologie, le film invite alors le spectateur à recomposer le récit de ces deux « enfants » dans des corps trop grands. À les regarder hurler, se retenir ou mentir. À sentir leur corps dire plus fort que les mots, plus fort que tout. À ressentir pourtant, au-delà de tout, leur amour. LA FRAPPE est un immense film."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 4.0,
-          "auteur": "Aurélien Cabrol",
-          "citation": "Pour son premier long métrage Julien Gaspar Oliveri fait preuve d'une grande maturité cinématographique. Autour de scènes bouleversantes ou glaçantes, il organise un récit implacable sans jamais céder à la facilité ou au voyeurisme."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 4.0,
-          "auteur": "Christophe Caron",
-          "citation": "Un film fort, à la fois pudique et dérangeant, porté par des comédiens d’une incroyable justesse."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Olivier Delcroix",
-          "citation": "Rude et émotionnellement exigeant, La Frappe s’affirme comme un film fort qui marque l’arrivée d’un cinéaste à suivre de près, capable de transformer la douleur en éclats de cinéma bruts, purs, essentiels. Une prouesse qui en laisse d’ores et déjà augurer d’autres."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Baptiste Thion",
-          "citation": "Un premier long-métrage fort, important même, tant par ses qualités intrinsèques que par son sujet (...)."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Un film bouleversant."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Florence Colombani",
-          "citation": "On sort sonné, bouleversé, et mieux armé pour réfléchir à l’un des grands problèmes de société de notre temps."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Pour son premier long-métrage, Julien Gaspar-Oliveri aborde le traumatisme de l'inceste de façon à la fois intime et formaliste, en révélant deux jeunes acteurs talentueux."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Michael Ghennam",
-          "citation": "Sur un sujet glaçant, Julien Gaspar-Oliveri opte pour un portrait intime tout en nuances, se focalisant sur les non-dits et leur coût psychologique et social."
-        },
-        {
-          "titre_presse": "Marie Claire",
-          "note": 4.0,
-          "auteur": "Emily Barnett",
-          "citation": "Ce film choc sur les retrouvailles d’un frère et d’une sœur victimes d’inceste avec leur père (Bastien Bouillon, impeccable animal à sang-froid) détonne par sa justesse et sa profondeur."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Yannick Vely",
-          "citation": "Un film dur et puissant."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Julien Rousset",
-          "citation": "Un premier film de Julien Gaspar-Oliveri, courageux et impressionnant, sur l’inceste et le mur du silence dans les familles."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 4.0,
-          "auteur": "C.M.",
-          "citation": "Un drame dérangeant, mais remarquablement interprété."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 4.0,
-          "auteur": "Julien Barcilon",
-          "citation": "Les performances fiévreuses de Diego Murgia et Romane Fringeli participent à la force de frappe de ce film d'utilité publique."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 4.0,
-          "auteur": "C.M.",
-          "citation": "Un drame profondément dérangeant, remarquablement interprété."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Marie Sauvion",
-          "citation": "Un film électrique qui claque."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Séraphin Degroote Ferreira",
-          "citation": "Un film d’une grande dignité dans sa forme comme son fond, appuyé par une direction d’acteurs époustouflante. Julien Gaspar-Oliveri est une révélation à suivre de très près."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Marcos Uzal",
-          "citation": "Si bien que l’on peut même accepter les défauts formels de ce film, qui du point de vue de ce qu’il raconte ne concède rien, comme un refus de toute joliesse, de tout soupçon d’esthétisation. Il en résulte une œuvre aussi âpre que droite dans ses bottes."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 3.0,
-          "auteur": "Corinne Renou-Nativel",
-          "citation": "Un film âpre sur l’enfermement des victimes de l’inceste."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Bo. B.",
-          "citation": "A l’heure où beaucoup de longs-métrages sont occupés à mettre en scène la libération de la parole, Julien Gaspar-Oliveri a fait le choix de raconter le silence."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Sandra Onana",
-          "citation": "C’est dans cette quête d’un réalisme «mal dégrossi» que se figent péniblement les intentions du film, comme si elles roulaient des mécaniques en prétendant ne pas faire de style. On se cogne contre les murs de son intimidant sujet, de sa représentation codifiée, sinistre de l’appartenance de classe, où semble résider la cause de la transmission de la violence et d’un destin de délinquant tout fléché."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 3.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Julien Gaspar-Oliveri épate par sa maîtrise dans la conduite d'un récit aussi complexe."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Le résultat est glaçant, indéniablement éprouvant mais remarquable par sa maîtrise du récit et de sa mise en scène qui révèle un auteur à suivre."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314290/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 901
-    }
-  },
-  {
     "titre": "La Gradiva",
     "annee": 2026,
     "duree_minutes": 145,
@@ -3750,18 +3310,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "12/11 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 21:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/11 15:15",
         "cinema": "Palace"
@@ -4056,7 +3604,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-318225/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1684
+      "nb_notes_spectateurs": 1732
     }
   },
   {
@@ -4330,7 +3878,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000012316/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 286
+      "nb_notes_spectateurs": 291
     }
   },
   {
@@ -4603,7 +4151,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-273579/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 20750
+      "nb_notes_spectateurs": 20752
     }
   },
   {
@@ -4704,33 +4252,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026766/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 56
-    }
-  },
-  {
-    "titre": "Magnificent Obsession",
-    "annee": 1935,
-    "duree_minutes": 110,
-    "realisateurs": [
-      "John M. Stahl"
-    ],
-    "synopsis": "Après le décès accidentel d’un chirurgien de renommée, sa veuve, atteinte d’une cécité foudroyante, accepte l’aide d’un jeune homme qui, par amour, se sacrifie pour la sauver. Porté par un duo d’acteurs qui propulsent ce petit bijou au sommet du mélodrame hollywoodien, un film lacrymal dont Douglas Sirk, totalement charmé par cette première version, réalisera un remake qui propulsera ce script simple et généreux au sommet du 7ème Art.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2123c29d-e6eb-4ff4-8b1d-0c116a0044d2.jpeg",
-    "seances": [
-      {
-        "heure": "12/11 15:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "10360",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-10360/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-10360/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 175
+      "nb_notes_spectateurs": 57
     }
   },
   {
@@ -4769,34 +4291,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "12/11 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 15:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/11 15:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 17:45",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "12/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 13:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/11 15:00",
         "cinema": "Palace"
@@ -5159,7 +4653,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000022205/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1461
+      "nb_notes_spectateurs": 1471
     }
   },
   {
@@ -5204,6 +4698,32 @@
     "allocine": null
   },
   {
+    "titre": "Mothership",
+    "annee": 2023,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Muriel Cravatte"
+    ],
+    "synopsis": "Au cœur de la Méditerranée, l'équipage de l'Ocean Viking sauve des réfugié.e.s en danger de mort fuyant l'enfer libyen dans eurs embarcations de fortune. Une fois secouru.e.s, souvent dans des conditions périlleuses, ils et elles sont accueilli.E.s sur le navire où ils et elles reçoivent les premiers soins et sont ensuite accompagné.e.s vers un port sûr.\n\nPour que les exilé.e.s en détresse soient secouru.e.s au nom des droits de l'homme et du droit de la mer, un bras de fer permanent se joue en Méditerranée entre les autorités et les organisations humanitaires.\n\nSur ce bateau, tel un refuge dans le refuge, se trouve un lieu d'écoute et de soins réservé exclusivement aux femmes et aux enfants : nous l'appelons Le Refuge.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/61f1070f-4d5d-472c-a500-4c2ca27d7c74.jpg",
+    "seances": [
+      {
+        "heure": "19/11 19:00",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "1000009401",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000009401/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000009401/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
+    }
+  },
+  {
     "titre": "Murmures",
     "annee": null,
     "duree_minutes": null,
@@ -5238,22 +4758,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "12/11 16:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "12/11 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/11 14:20",
         "cinema": "Aventure"
@@ -5452,7 +4956,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000051082/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 312
+      "nb_notes_spectateurs": 317
     }
   },
   {
@@ -5482,32 +4986,6 @@
     }
   },
   {
-    "titre": "Nostalgia for the Future",
-    "annee": 2026,
-    "duree_minutes": 75,
-    "realisateurs": [
-      "Brecht Debackere"
-    ],
-    "synopsis": "La narration évocatrice de Charlotte Rampling nous guide dans une plongée au cœur du monde labyrinthique de Chris Marker — cet auteur célèbre de films méconnus qui, sa vie durant, s’est dissimulé derrière un voile de pseudonymes et d’images de chats. À travers une constellation de documents personnels et de fragments de films, un archiviste tente de décrypter l’homme à partir des traces matérielles qu’il a laissées derrière lui.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5812c78c-121d-4019-805b-d8bdfa7f7583.jpg",
-    "seances": [
-      {
-        "heure": "12/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000045340",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000045340/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000045340/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Notre Salut",
     "annee": 2026,
     "duree_minutes": 155,
@@ -5517,10 +4995,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "12/11 20:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/11 21:05",
         "cinema": "Palace"
@@ -5833,7 +5307,33 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 3321
+      "nb_notes_spectateurs": 3345
+    }
+  },
+  {
+    "titre": "Pink Flamingos",
+    "annee": 1972,
+    "duree_minutes": 92,
+    "realisateurs": [
+      "John Waters"
+    ],
+    "synopsis": "À Baltimore, la criminelle Divine vit planquée de la police dans une caravane avec sa mère Edie, son fils Crackers et son amie Cotton. Nommée \"la personne la plus dégoûtante du monde\" par les tabloïdes, Divine se voit bientôt mise au défi par un couple de trafiquants d’enfants qui lui conteste son titre.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b51455c3-37cc-4aa0-b764-b82932ea168c.jpg",
+    "seances": [
+      {
+        "heure": "19/11 21:45",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "271",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-271/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-271/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.0,
+      "nb_notes_spectateurs": 296
     }
   },
   {
@@ -6083,7 +5583,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 1326
+      "nb_notes_spectateurs": 1330
     }
   },
   {
@@ -6096,10 +5596,6 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
-      {
-        "heure": "12/11 18:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/11 14:15",
         "cinema": "Palace"
@@ -6370,7 +5866,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036515/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 941
+      "nb_notes_spectateurs": 968
     }
   },
   {
@@ -6404,10 +5900,6 @@
     "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8163abc4-b1fd-4d31-9ba0-445afc2907d8.jpg",
     "seances": [
-      {
-        "heure": "12/11 21:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "14/11 21:15",
         "cinema": "Palace"
@@ -6564,7 +6056,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 673
+      "nb_notes_spectateurs": 674
     }
   },
   {
@@ -6583,32 +6075,6 @@
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Sans toit ni loi",
-    "annee": 1985,
-    "duree_minutes": 106,
-    "realisateurs": [
-      "Agnes Varda"
-    ],
-    "synopsis": "L'errance hivernale d'une jeune marginale, au fil des rencontres, des révoltes et des campagnes. Une lente dégradation, prise en charge par Sandrine Bonnaire.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c5fb7942-e360-4e8a-a93a-12adaaf54b58.jpg",
-    "seances": [
-      {
-        "heure": "12/11 18:25",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1052",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1052/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1052/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 986
-    }
   },
   {
     "titre": "Scrooge (Ebenezer)",
@@ -6633,7 +6099,7 @@
       "allocine_id": "1000034007",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000034007/critiques/presse/",
       "note_moyenne_presse": 2.4,
-      "nb_critiques_presse": 16,
+      "nb_critiques_presse": 18,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -6646,6 +6112,12 @@
           "note": 4.0,
           "auteur": "Renaud Baronian",
           "citation": "Dans les mains d’un besogneux de Hollywood, le film aurait pu constituer un banal spectacle familial un peu effrayant. Mais voilà, la réalisation a été confiée à Ti West (...) par ailleurs excellent directeur d’acteurs, [il] semble faire corps avec son principal comédien, Johnny Depp, qui campe un Scrooge exemplaire."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 3.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Un conte indémodable, resservi à la sauce légèrement horrifique [...] On saluera tout de même le retour de Johnny Depp. [...] Méconnaissable, celui-ci incarne de marnière remarquable la méchanceté, le mépris et la distance mise par ce personnage."
         },
         {
           "titre_presse": "Dernières Nouvelles d'Alsace",
@@ -6682,6 +6154,12 @@
           "note": 3.0,
           "auteur": "Philippe Lemoine",
           "citation": "Le réalisateur de films d’horreur Ti West signe une adaptation réussie du conte de Charles Dickens. Johnny Depp incarne avec talent ce vieux radin rongé par la méchanceté."
+        },
+        {
+          "titre_presse": "Rolling Stone",
+          "note": 3.0,
+          "auteur": "Xavier Bonnet",
+          "citation": "Le personnage du conte de Charles Dickens, A Christmas Carol dans sa version d’origine, était taillé pour Johnny Depp, et les producteurs du film ne se sont pas trompés en lui en confiant les rênes."
         },
         {
           "titre_presse": "Le Monde",
@@ -6734,7 +6212,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000034007/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 242
+      "nb_notes_spectateurs": 312
     }
   },
   {
@@ -6919,7 +6397,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024131/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 318
+      "nb_notes_spectateurs": 322
     }
   },
   {
@@ -7118,10 +6596,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "13/11 13:20",
-        "cinema": "Palace"
-      },
-      {
         "heure": "13/11 21:30",
         "cinema": "Palace"
       },
@@ -7214,18 +6688,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "12/11 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/11 17:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/11 21:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "13/11 16:00",
         "cinema": "Aventure"
@@ -7498,7 +6960,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000031925/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 255
+      "nb_notes_spectateurs": 262
     }
   },
   {
@@ -7527,10 +6989,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "12/11 16:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "15/11 21:20",
         "cinema": "Aventure"
       },
@@ -7556,14 +7014,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "12/11 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 17:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "13/11 16:20",
         "cinema": "Vendôme"
@@ -7716,7 +7166,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-322884/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 258
+      "nb_notes_spectateurs": 260
     }
   },
   {
@@ -7727,38 +7177,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "12/11 14:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/11 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "12/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "12/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "12/11 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "12/11 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 13:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "13/11 14:25",
         "cinema": "Aventure"
@@ -8147,7 +7565,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-298024/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1124
+      "nb_notes_spectateurs": 1206
     }
   },
   {

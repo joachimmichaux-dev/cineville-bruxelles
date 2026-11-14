@@ -71,7 +71,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-67/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 27447
+      "nb_notes_spectateurs": 27450
     }
   },
   {
@@ -450,42 +450,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
       {
-        "heure": "13/11 16:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 16:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/11 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/11 21:20",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "14/11 13:30",
         "cinema": "Palace"
       },
@@ -608,6 +572,10 @@
       {
         "heure": "16/11 21:20",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "17/11 13:00",
+        "cinema": "Galeries"
       },
       {
         "heure": "17/11 14:00",
@@ -877,7 +845,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036932/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 964
+      "nb_notes_spectateurs": 1016
     }
   },
   {
@@ -903,7 +871,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1191/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 1801
+      "nb_notes_spectateurs": 1802
     }
   },
   {
@@ -916,18 +884,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "13/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 20:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 21:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "14/11 16:30",
         "cinema": "Galeries"
@@ -1001,60 +957,19 @@
     }
   },
   {
-    "titre": "Coyote vs. Acme",
-    "annee": 2026,
-    "duree_minutes": 103,
-    "realisateurs": [
-      "Dave Green"
-    ],
-    "synopsis": "Après que les produits Acme l’ont laissé tomber une fois de trop dans sa poursuite acharnée du Bip Bip, Wile E. Coyote décide de faire appel à un avocat spécialisé — du genre qu’on voit sur les panneaux publicitaires — pour poursuivre en justice la société Acme.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6e7eff07-2e5c-474a-b0bc-e11caa793dd9.jpg",
+    "titre": "Daughters of Darkness (Les Lèvres Rouges)",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e9f23db7-cba7-4ac4-b514-0621a72cd4ff.jpg",
     "seances": [
       {
-        "heure": "14/11 10:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "14/11 12:25",
-        "cinema": "Aventure"
+        "heure": "20/11 21:00",
+        "cinema": "Cinematek"
       }
     ],
-    "allocine": {
-      "allocine_id": "267335",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-267335/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-267335/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 153
-    }
-  },
-  {
-    "titre": "Demain je tombe amoureux",
-    "annee": 2026,
-    "duree_minutes": 0,
-    "realisateurs": [
-      "Martin Provost"
-    ],
-    "synopsis": "Le jour de son départ à la retraite, Émile, professeur de lettres à Dieppe, donne à ses jeunes élèves un dernier cours sur la littérature et l’amour, les encourageant à devenir les poètes de leurs propres existences. Une élève l’interroge sur ses propres sentiments. Émile est-il toujours amoureux de sa femme ? Incapable de répondre, il découvre, une fois rentré chez lui, que sa femme l’a quitté. Se retrouvant seul tout l’été, le voilà contraint d’appliquer à lui-même ses propres préceptes. Deux rencontres et une retrouvaille vont alors bouleverser sa vie et l’aider à se réinventer.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/879cf8f6-fafe-40b8-a97b-888a8291732b.jpg",
-    "seances": [
-      {
-        "heure": "13/11 20:15",
-        "cinema": "Le Stockel"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000004190",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000004190/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004190/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
+    "allocine": null
   },
   {
     "titre": "Digger",
@@ -1066,10 +981,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "13/11 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/11 19:00",
         "cinema": "Aventure"
@@ -1310,26 +1221,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 3169
+      "nb_notes_spectateurs": 3178
     }
-  },
-  {
-    "titre": "Donn, le danseur de XXème siècle",
-    "annee": 2026,
-    "duree_minutes": 58,
-    "realisateurs": [
-      "Mariano Baez",
-      "Florencia Davila"
-    ],
-    "synopsis": "À seize ans, Jorge Donn quitte l’Argentine pour rejoindre Maurice Béjart à Bruxelles. Il devient son danseur fétiche, son amant et l’interprète inoubliable du Boléro de Ravel.\nÀ travers des archives inédites, Jorge Donn ressurgit dans toute sa singularité : flamboyant, fragile, entièrement habité par son art. Le film suit son parcours jusqu’à ses dernières années, alors que, atteint du sida, il continue à danser malgré un corps qui lui échappe peu à peu. Derrière l’icône apparaît un jeune homme sous emprise, dans une relation où l’apprentissage, la fascination et le pouvoir se mêlent étroitement et que le temps nous permet aujourd’hui de voir autrement.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/30a5f1d6-da53-48f1-8182-ab1346d850c2.jpg",
-    "seances": [
-      {
-        "heure": "13/11 18:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Donnie Darko",
@@ -1449,7 +1342,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-34193/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 23888
+      "nb_notes_spectateurs": 23891
     }
   },
   {
@@ -1540,7 +1433,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.3,
-      "nb_notes_spectateurs": 304
+      "nb_notes_spectateurs": 306
     }
   },
   {
@@ -1583,13 +1476,13 @@
       }
     ],
     "allocine": {
-      "allocine_id": "3265",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-3265/critiques/presse/",
+      "allocine_id": "27091",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-27091/critiques/presse/",
       "note_moyenne_presse": null,
       "nb_critiques_presse": 0,
       "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3265/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.8,
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-27091/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.0,
       "nb_notes_spectateurs": 6
     }
   },
@@ -1603,10 +1496,6 @@
     "synopsis": "Bethany est en vacances à Varsovie avec son fiancé lorsque son chemin recroise celui d’une amie, Nel, avec qui elle entretenait une relation électrique. Au même moment, l’Etna entre en éruption.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/77e92db8-d71c-4777-bb12-8dd7b721f58e.jpg",
     "seances": [
-      {
-        "heure": "13/11 16:45",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/11 15:35",
         "cinema": "Cineflagey"
@@ -1783,10 +1672,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
     "seances": [
       {
-        "heure": "13/11 21:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "17/11 21:15",
         "cinema": "Palace"
       }
@@ -1915,10 +1800,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "14/11 11:55",
-        "cinema": "Palace"
-      },
       {
         "heure": "15/11 11:55",
         "cinema": "Palace"
@@ -2179,7 +2060,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 3435
+      "nb_notes_spectateurs": 3444
     }
   },
   {
@@ -2243,7 +2124,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000041856/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 26
+      "nb_notes_spectateurs": 36
     }
   },
   {
@@ -2256,10 +2137,6 @@
     "synopsis": "La guerre a réduit le Japon à zéro, et Godzilla l’a fait basculer dans le négatif. Deux années se sont écoulées depuis ; le pays a dû mener un combat acharné pour se relever et retrouver, enfin, son quotidien. Alors même que l’humanité parvenait à préserver une paix durement acquise, une nouvelle menace surgit, anéantissant tout espoir en un instant. Il n’y aura pas de troisième fois. Tout s’arrête ici.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d2333e90-8dbf-49b8-80bd-3d2e20235119.jpg",
     "seances": [
-      {
-        "heure": "14/11 09:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/11 21:20",
         "cinema": "Aventure"
@@ -2424,7 +2301,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000014492/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 788
+      "nb_notes_spectateurs": 825
     }
   },
   {
@@ -2440,18 +2317,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "14/11 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "14/11 10:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "14/11 12:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "15/11 10:30",
         "cinema": "Palace"
@@ -2735,7 +2600,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314882/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 1971
+      "nb_notes_spectateurs": 2028
     }
   },
   {
@@ -2769,10 +2634,6 @@
     "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
-      {
-        "heure": "13/11 18:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/11 15:45",
         "cinema": "Aventure"
@@ -2978,8 +2839,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039483/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 585
+      "note_moyenne_spectateurs": 3.2,
+      "nb_notes_spectateurs": 699
     }
   },
   {
@@ -3025,10 +2886,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "13/11 14:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/11 13:10",
         "cinema": "Aventure"
@@ -3267,7 +3124,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-323550/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.2,
-      "nb_notes_spectateurs": 1151
+      "nb_notes_spectateurs": 1197
     }
   },
   {
@@ -3310,18 +3167,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "13/11 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 18:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "13/11 20:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "14/11 15:15",
         "cinema": "Palace"
@@ -3604,7 +3449,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-318225/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1732
+      "nb_notes_spectateurs": 1754
     }
   },
   {
@@ -3680,10 +3525,6 @@
     "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
-      {
-        "heure": "14/11 12:50",
-        "cinema": "Galeries"
-      },
       {
         "heure": "14/11 14:00",
         "cinema": "Aventure"
@@ -3878,7 +3719,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000012316/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 291
+      "nb_notes_spectateurs": 297
     }
   },
   {
@@ -4151,7 +3992,33 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-273579/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 20752
+      "nb_notes_spectateurs": 20755
+    }
+  },
+  {
+    "titre": "Les Tueurs Fous",
+    "annee": 1972,
+    "duree_minutes": 79,
+    "realisateurs": [
+      "Boris Szulzinger"
+    ],
+    "synopsis": "Un gigolo et son ami ont pour jeu favori de tirer sur des inconnus. Ils s'embarquent dans une cavale bruxelloise, faisant de ce film un thriller 100% local, inspiré d'ailleurs d'un fait divers réel.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/81028a98-0e20-4e90-8922-2e061585aeed.jpg",
+    "seances": [
+      {
+        "heure": "20/11 18:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "318216",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-318216/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-318216/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -4291,38 +4158,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "13/11 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 15:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 16:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "13/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/11 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "14/11 10:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "14/11 12:50",
-        "cinema": "Galeries"
-      },
       {
         "heure": "14/11 13:45",
         "cinema": "Vendôme"
@@ -4653,7 +4488,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000022205/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1471
+      "nb_notes_spectateurs": 1488
     }
   },
   {
@@ -4724,30 +4559,6 @@
     }
   },
   {
-    "titre": "Murmures",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/75416913-06b2-44db-b487-b037c1486d7b.jpg",
-    "seances": [
-      {
-        "heure": "13/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "137621",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-137621/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-137621/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Naza",
     "annee": 2026,
     "duree_minutes": 80,
@@ -4758,22 +4569,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "13/11 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/11 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 17:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/11 21:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "14/11 13:15",
         "cinema": "Palace"
@@ -4787,7 +4582,7 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "14/11 19:30",
+        "heure": "14/11 19:10",
         "cinema": "Galeries"
       },
       {
@@ -4956,33 +4751,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000051082/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 317
-    }
-  },
-  {
-    "titre": "Ninety",
-    "annee": 1978,
-    "duree_minutes": 54,
-    "realisateurs": [
-      "Maroun Baghdadi"
-    ],
-    "synopsis": "En 1978, le cinéaste Maroun Bagdadi rencontre Mikhaïl Naïma, écrivain et poète libanais, membre de la Pen League, première société littéraire d’expression arabe en Amérique, fondée à New York. Face à la caméra, l’écrivain revient sur son parcours, son enfance à Baskinta, les montagnes du Liban, l’exil et les rencontres qui ont façonné sa pensée.\nAu fil de cette conversation surgit aussi la figure de Khalil Gibran, ami et compagnon de route dont les œuvres et les peintures accompagnent le film. Mais c’est peut-être dans les gestes les plus simples — une évocation familiale, un échange avec sa petite-fille — que se révèle la force d’une transmission qui traverse les générations.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/20ad232f-09d8-4e37-9b39-4d750a21d1ed.jpg",
-    "seances": [
-      {
-        "heure": "13/11 20:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "321226",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-321226/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-321226/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "nb_notes_spectateurs": 319
     }
   },
   {
@@ -4995,10 +4764,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "13/11 21:05",
-        "cinema": "Palace"
-      },
       {
         "heure": "14/11 15:40",
         "cinema": "Galeries"
@@ -5307,7 +5072,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 3345
+      "nb_notes_spectateurs": 3360
     }
   },
   {
@@ -5379,10 +5144,6 @@
     "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
     "seances": [
-      {
-        "heure": "14/11 10:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "15/11 14:10",
         "cinema": "Galeries"
@@ -5583,7 +5344,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 1330
+      "nb_notes_spectateurs": 1338
     }
   },
   {
@@ -5596,18 +5357,6 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
-      {
-        "heure": "13/11 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 15:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "14/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "14/11 16:20",
         "cinema": "Vendôme"
@@ -5866,7 +5615,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036515/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 968
+      "nb_notes_spectateurs": 993
     }
   },
   {
@@ -5879,10 +5628,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "13/11 17:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/11 13:00",
         "cinema": "Aventure"
@@ -6056,7 +5801,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-319893/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 674
+      "nb_notes_spectateurs": 676
     }
   },
   {
@@ -6087,10 +5832,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76b0ec15-b017-4919-b578-85b773db3f14.jpg",
     "seances": [
       {
-        "heure": "13/11 17:45",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "15/11 13:45",
         "cinema": "Le Stockel"
       }
@@ -6099,7 +5840,7 @@
       "allocine_id": "1000034007",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000034007/critiques/presse/",
       "note_moyenne_presse": 2.4,
-      "nb_critiques_presse": 18,
+      "nb_critiques_presse": 19,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -6204,6 +5945,12 @@
           "citation": "Le passé, le présent, le futur : trois fantômes pour un seul constat : Johnny Depp aurait mieux fait de ne pas revenir. Dans cette adaptation en manque d’inspiration et sans âme, le spectateur, lui, regrette surtout de ne pas pouvoir quitter la salle."
         },
         {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 1.0,
+          "auteur": "Bruno Deruisseau",
+          "citation": "Ce \"Scrooge\" n’a aucun intérêt si ce n’est celui de servir de véhicule au retour en grâce de sa star masculine pseudo déchue."
+        },
+        {
           "titre_presse": "Libération",
           "note": 1.0,
           "auteur": "Léo Soesanto",
@@ -6212,7 +5959,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000034007/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 312
+      "nb_notes_spectateurs": 379
     }
   },
   {
@@ -6225,10 +5972,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "13/11 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "14/11 18:40",
         "cinema": "Aventure"
@@ -6259,10 +6002,6 @@
     "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
-      {
-        "heure": "14/11 11:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "14/11 13:45",
         "cinema": "Palace"
@@ -6397,7 +6136,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024131/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 322
+      "nb_notes_spectateurs": 326
     }
   },
   {
@@ -6596,10 +6335,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "13/11 21:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "14/11 16:00",
         "cinema": "Palace"
       },
@@ -6689,22 +6424,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
       {
-        "heure": "13/11 16:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/11 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 19:45",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "14/11 12:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "14/11 16:45",
         "cinema": "Vendôme"
       },
@@ -6784,10 +6503,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "14/11 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "15/11 11:00",
         "cinema": "Palace"
@@ -6960,25 +6675,8 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000031925/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.6,
-      "nb_notes_spectateurs": 262
+      "nb_notes_spectateurs": 274
     }
-  },
-  {
-    "titre": "Unerasable! (Diary of a Hidden Fate)",
-    "annee": 2026,
-    "duree_minutes": 97,
-    "realisateurs": [
-      "Socrates Saint-Wulfstan Drakos"
-    ],
-    "synopsis": "En 2018, C.P., un cinéaste indépendant vietnamien qui s’est engagé en faveur de la démocratie, est contraint de fuir son pays après avoir subi des actes de torture. Commence alors pour lui un long exil : cinq années sans papiers en Thaïlande, puis l’Europe, où la liberté espérée se heurte à d’autres formes de contrôle et de précarité. Pour retracer ce parcours, son ami, un autre cinéaste travaillant sous le pseudonyme de Socrates Saint-Wulfstan Drakos afin de préserver son anonymat, compose un collage d’images, mêlant ses propres prises de vue à des fragments de films, d’archives coloniales, de propagande et de cinéma politique. Les images se brouillent, se dégradent, se superposent ; les souvenirs eux-mêmes semblent menacés d’effacement. Entre journal intime, film-essai et collage, Unerasable! transforme l’expérience de l’exil en une œuvre forte et radicale.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/69af35de-bca4-49d2-a801-9ef1e269799b.jpg",
-    "seances": [
-      {
-        "heure": "13/11 19:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "WHY DO I SEE YOU IN EVERYTHING?",
@@ -7014,10 +6712,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "13/11 16:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "14/11 14:00",
         "cinema": "Vendôme"
@@ -7166,7 +6860,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-322884/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 260
+      "nb_notes_spectateurs": 262
     }
   },
   {
@@ -7177,46 +6871,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "13/11 14:25",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/11 14:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/11 15:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "13/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "13/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/11 19:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "13/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "13/11 21:25",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "13/11 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "13/11 21:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "14/11 14:25",
         "cinema": "Aventure"
@@ -7565,7 +7219,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-298024/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1206
+      "nb_notes_spectateurs": 1289
     }
   },
   {

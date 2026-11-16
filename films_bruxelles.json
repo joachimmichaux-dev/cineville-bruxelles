@@ -26,10 +26,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
     "seances": [
       {
-        "heure": "15/11 21:10",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "17/11 21:40",
         "cinema": "Vendôme"
       }
@@ -48,6 +44,10 @@
       {
         "heure": "16/11 18:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "22/11 20:30",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -62,20 +62,6 @@
       {
         "heure": "16/11 19:00",
         "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
-    "titre": "Cambio de sexo",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "15/11 18:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -105,54 +91,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "15/11 16:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/11 16:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/11 16:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 17:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/11 21:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "15/11 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/11 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/11 11:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/11 16:15",
         "cinema": "Palace"
@@ -232,22 +170,6 @@
     ]
   },
   {
-    "titre": "Cléo de 5 à 7",
-    "annee": 1962,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Agnès Varda"
-    ],
-    "synopsis": "Cléo, belle et chanteuse, attend les résultats d'une analyse médicale. De la superstition à la peur, de la rue de Rivoli au Café de Dôme, de la coquetterie à l'angoisse, de chez elle au Parc Montsouris, Cléo vit 90 minutes particulières. Son amant, son musicien, une amie puis un soldat lui ouvrent les yeux sur le monde.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e90eb8f8-ff21-449d-b81e-2611d7e03c62.jpeg",
-    "seances": [
-      {
-        "heure": "15/11 14:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Coward",
     "annee": 2026,
     "duree_minutes": 125,
@@ -257,26 +179,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "15/11 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/11 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/11 13:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/11 18:30",
         "cinema": "Palace"
@@ -331,14 +233,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "15/11 14:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/11 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/11 21:10",
         "cinema": "Aventure"
@@ -470,14 +364,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
       {
-        "heure": "15/11 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "17/11 21:10",
         "cinema": "Vendôme"
       }
@@ -497,25 +383,6 @@
       {
         "heure": "17/11 16:00",
         "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
-    "titre": "Gruffalo, de père en fils",
-    "annee": 2026,
-    "duree_minutes": 53,
-    "realisateurs": [
-      "Jakob Schuh",
-      "Max Lang",
-      "Johannes Weiland",
-      "Uwe Heidschötter"
-    ],
-    "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
-    "seances": [
-      {
-        "heure": "15/11 15:00",
-        "cinema": "Vendôme"
       }
     ]
   },
@@ -544,10 +411,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
       {
-        "heure": "15/11 16:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "17/11 21:00",
         "cinema": "Aventure"
       }
@@ -564,11 +427,21 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/84ae00da-1b7d-46f0-8a7e-d91b4447ff2b.jpg",
     "seances": [
       {
-        "heure": "15/11 20:15",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "19/11 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Il Decameron",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "22/11 19:00",
         "cinema": "Cinematek"
       }
     ]
@@ -583,18 +456,6 @@
     "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
-      {
-        "heure": "15/11 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/11 18:25",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "16/11 12:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/11 21:30",
         "cinema": "Aventure"
@@ -651,10 +512,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/11 16:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "16/11 14:40",
         "cinema": "Aventure"
       },
@@ -677,18 +534,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
       {
-        "heure": "15/11 18:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "15/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/11 11:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "16/11 15:15",
         "cinema": "Palace"
       },
@@ -706,54 +551,6 @@
       },
       {
         "heure": "17/11 20:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Laberinto de pasiones",
-    "annee": 1982,
-    "duree_minutes": 98,
-    "realisateurs": [
-      "Pedro Almodóvar"
-    ],
-    "synopsis": "L'Almodóvar anarcho-dingue à sujets provocateurs : ici, les amours d'une nymphomane et d'un homo, sur fond de \"movida\" déchaînée. D'un tournage de porno gore à des concerts rocks débridés.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/09569a84-d668-4544-a718-8e75e30fe9c1.jpg",
-    "seances": [
-      {
-        "heure": "15/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Le Corset (Iron Boy)",
-    "annee": 2026,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Louis Clichy"
-    ],
-    "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
-    "seances": [
-      {
-        "heure": "15/11 16:45",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Le Mystère Lucy Lost",
-    "annee": 2024,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Olivier Clert"
-    ],
-    "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
-    "seances": [
-      {
-        "heure": "15/11 14:45",
         "cinema": "Palace"
       }
     ]
@@ -805,22 +602,6 @@
     ]
   },
   {
-    "titre": "Merci d'être venu",
-    "annee": 2026,
-    "duree_minutes": 82,
-    "realisateurs": [
-      "Alain Cavalier"
-    ],
-    "synopsis": "À 94 ans, Alain Cavalier poursuit le geste qui traverse toute son œuvre : filmer le quotidien avant qu’il ne disparaisse. Une conversation, une promenade, un repas, un visage aimé, une pensée qui surgit… Rien ne semble trop petit pour devenir cinéma.\nTraversant près de quinze années de vie, Merci d’être venu compose un journal libre où les jours s’enchaînent sans autre logique que celle du temps qui passe. Peu à peu, les instants les plus ordinaires prennent une profondeur inattendue, tandis que les absences, la vieillesse et la mort s’invitent discrètement dans le cadre.\nSans nostalgie ni solennité, Alain Cavalier signe un dernier film émouvant et prend ainsi congé avec grâce et une infinie douceur. Merci à vous, monsieur !",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a7bd4014-7ab9-478f-9643-dc35d70b1d65.jpg",
-    "seances": [
-      {
-        "heure": "15/11 16:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Minotaur",
     "annee": 2026,
     "duree_minutes": 135,
@@ -830,42 +611,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "15/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/11 15:45",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "15/11 17:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 20:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 20:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "15/11 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/11 13:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/11 13:40",
-        "cinema": "Galeries"
-      },
       {
         "heure": "16/11 15:00",
         "cinema": "Palace"
@@ -950,18 +695,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
       {
-        "heure": "15/11 15:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/11 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/11 14:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "16/11 16:25",
         "cinema": "Palace"
       },
@@ -993,14 +726,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "15/11 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 20:50",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/11 15:30",
         "cinema": "Galeries"
@@ -1040,23 +765,6 @@
     ]
   },
   {
-    "titre": "Portrait of an unknown artist + Marieke doubts",
-    "annee": 2025,
-    "duree_minutes": 25,
-    "realisateurs": [
-      "Eli Gothill",
-      "Owen Gothill"
-    ],
-    "synopsis": "À partir d’archives personnelles tournées à New York dans les années 1990 et de conversations filmées aujourd’hui dans son appartement-atelier, Owen et Eli Gothill construisent le portrait de leur ami et artiste méconnu Tom Schurr. Le titre ne laisse aucun doute : Tom n’a jamais vraiment percé. Cela ne l’empêche pas, après plusieurs décennies de recherche et de travail, de poursuivre ce qui l’anime depuis toujours : créer.\nAtteint aujourd’hui de la maladie de Parkinson, Tom parle sans filtre à ses deux amis derrière la caméra de son art et de cette quête, sans rien cacher des limites que la maladie impose désormais à son corps. Et c’est peut-être là que le film trouve sa plus grande force : dans cette confiance qui permet à Tom de se montrer exactement comme il est.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3d28a7f7-fffc-4fde-8a99-8a4d817d7478.jpg",
-    "seances": [
-      {
-        "heure": "15/11 14:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Premières Lumières × Mois du Doc 2026 — Pas à pas : du TFE au premier film",
     "annee": null,
     "duree_minutes": null,
@@ -1071,22 +779,6 @@
     ]
   },
   {
-    "titre": "Primetime",
-    "annee": 2026,
-    "duree_minutes": 110,
-    "realisateurs": [
-      "Lance Oppenheim"
-    ],
-    "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
-    "seances": [
-      {
-        "heure": "15/11 14:10",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Quelques mots d'amour",
     "annee": 2026,
     "duree_minutes": 95,
@@ -1096,14 +788,6 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
-      {
-        "heure": "15/11 14:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "16/11 14:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/11 16:05",
         "cinema": "Vendôme"
@@ -1119,22 +803,6 @@
       {
         "heure": "17/11 18:35",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Res Nullius",
-    "annee": 2026,
-    "duree_minutes": 67,
-    "realisateurs": [
-      "Thomas Jean"
-    ],
-    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
-    "seances": [
-      {
-        "heure": "16/11 13:00",
-        "cinema": "Aventure"
       }
     ]
   },
@@ -1155,22 +823,6 @@
     ]
   },
   {
-    "titre": "Scrooge (Ebenezer)",
-    "annee": 2026,
-    "duree_minutes": 116,
-    "realisateurs": [
-      "Ti West"
-    ],
-    "synopsis": "En novembre, Johnny Depp est Scrooge. Pour changer son futur, il va revivre son passé.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76b0ec15-b017-4919-b578-85b773db3f14.jpg",
-    "seances": [
-      {
-        "heure": "15/11 13:45",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Sense and Sensibility (2026)",
     "annee": 2026,
     "duree_minutes": 131,
@@ -1181,33 +833,12 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "15/11 13:40",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "16/11 18:40",
         "cinema": "Aventure"
       },
       {
         "heure": "17/11 13:40",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Shaun le mouton : la bêêête d’Halloween",
-    "annee": 2026,
-    "duree_minutes": 81,
-    "realisateurs": [
-      "Steve Cox",
-      "Matthew Walker"
-    ],
-    "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
-    "seances": [
-      {
-        "heure": "15/11 13:45",
-        "cinema": "Palace"
       }
     ]
   },
@@ -1228,22 +859,6 @@
     ]
   },
   {
-    "titre": "Souraya mon amour",
-    "annee": 2025,
-    "duree_minutes": 81,
-    "realisateurs": [
-      "Nicolas Khoury"
-    ],
-    "synopsis": "« Je n’ai pas envie d’être mise dans la situation de la veuve qui s’incline devant le génie de son compagnon. Non. »\nAinsi débute le film de Nicolas Khoury. Par le refus d’une place assignée. Ainsi débute le portrait de Souraya Baghdadi, une artiste plurielle qui veut être regardée pour elle-même et non depuis la seule perspective de son histoire avec le cinéaste libanais Maroun Baghdadi, disparu en 1993.\nEt si le passé revient, laissons-le revenir sans qu’il occupe tout l’espace. Laissons aussi la vie continuer.\nDepuis son appartement parisien, Souraya dialogue avec Nicolas Khoury, resté au Liban.\nEntre les archives des films de Maroun Baghdadi, les conversations à distance et les apparitions presque irréelles de Souraya, le film invente une forme à l’image de son héroïne : libre, imprévisible, refusant les formes convenues du portrait posthume.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b1a6dd40-e5a3-42e1-96d5-6ce9788a66d5.jpg",
-    "seances": [
-      {
-        "heure": "15/11 18:00",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Talking to Men Who Have Sex",
     "annee": 2026,
     "duree_minutes": 87,
@@ -1253,10 +868,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "16/11 13:20",
-        "cinema": "Palace"
-      },
       {
         "heure": "16/11 21:30",
         "cinema": "Palace"
@@ -1296,18 +907,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
       {
-        "heure": "15/11 16:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 19:45",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "16/11 16:00",
         "cinema": "Aventure"
       },
@@ -1334,6 +933,20 @@
       {
         "heure": "17/11 19:45",
         "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "The Price of the Sun",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "18/11 19:00",
+        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -1392,10 +1005,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "15/11 21:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "17/11 12:20",
         "cinema": "Aventure"
       },
@@ -1416,10 +1025,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "15/11 21:25",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "16/11 16:20",
         "cinema": "Vendôme"
@@ -1442,50 +1047,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "15/11 14:25",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/11 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "15/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "15/11 19:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/11 20:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/11 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "16/11 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "16/11 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "16/11 14:25",
-        "cinema": "Aventure"
-      },
       {
         "heure": "16/11 18:40",
         "cinema": "Galeries"
@@ -1541,28 +1102,6 @@
       {
         "heure": "17/11 21:35",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "You Can See Everything",
-    "annee": 2026,
-    "duree_minutes": 174,
-    "realisateurs": [],
-    "synopsis": "Trente-quatre jours avant son incarcération, la célèbre fondatrice de Theranos, Elizabeth Holmes, invite une équipe de tournage sceptique à documenter ses moindres faits et gestes. Ce qui commence comme un portrait intime devient un voyage époustouflant de trois ans.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39ddceef-1ccb-4486-ab27-bbe0bb022d2c.jpg",
-    "seances": [
-      {
-        "heure": "15/11 17:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "15/11 20:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "15/11 20:30",
-        "cinema": "Palace"
       }
     ]
   }

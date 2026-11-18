@@ -10,10 +10,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2c6a11e3-5015-44c6-80ca-968fdbae45f0.jpg",
     "seances": [
       {
-        "heure": "18/11 14:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "19/11 16:00",
         "cinema": "Aventure"
       },
@@ -245,7 +241,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000040172/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 325
+      "nb_notes_spectateurs": 362
     }
   },
   {
@@ -261,23 +257,6 @@
       {
         "heure": "22/11 18:00",
         "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Andiamo a bere l'ultima",
-    "annee": 2026,
-    "duree_minutes": 100,
-    "realisateurs": [
-      "Francesco Sossai"
-    ],
-    "synopsis": "Carlobianchi et Doriano, deux quinquagénaires fauchés, sillonnent les rues la nuit, de bar en bar, obsédés par l'idée de trouver un dernier verre. Sur leur chemin, ils croisent celui de Giulio, un étudiant en architecture aussi timide que naïf. Cette rencontre inattendue avec ces deux mentors improbables va bouleverser sa vision du monde et de l'amour, et changer radicalement son avenir.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
-    "seances": [
-      {
-        "heure": "17/11 21:40",
-        "cinema": "Vendôme"
       }
     ],
     "allocine": null
@@ -751,6 +730,32 @@
     "allocine": null
   },
   {
+    "titre": "Between the Devil and the Deep Blue Sea (Li)",
+    "annee": 1995,
+    "duree_minutes": 91,
+    "realisateurs": [
+      "Marion Hänsel"
+    ],
+    "synopsis": "Un marin d’origine grecque et irlandaise se lie d’amitié avec une fillette de 10 ans vivant sur un sampan, alors que son cargo est à quai à Hong Kong.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6114aad2-1b0c-49fd-9635-3de42445b8e8.jpg",
+    "seances": [
+      {
+        "heure": "24/11 21:30",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "14061",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-14061/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-14061/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 2.8,
+      "nb_notes_spectateurs": 10
+    }
+  },
+  {
     "titre": "Black Fantasy + Toeing the Line",
     "annee": 0,
     "duree_minutes": 96,
@@ -815,17 +820,200 @@
       {
         "heure": "23/11 13:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 17:15",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 20:30",
+        "cinema": "Le Stockel"
       }
     ],
     "allocine": {
       "allocine_id": "316136",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-316136/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
+      "note_moyenne_presse": 3.4,
+      "nb_critiques_presse": 29,
+      "critiques_presse": [
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "Les créateurs de la série « Culte » s’amusent à réunir Kristin Scott Thomas, Alex Lutz et une pléiade de comédiens pour une comédie familiale autour d’une partie riche en rebondissements."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 4.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Mêlant les faiblesses des convives avec leur irrésistible envie de gagner, ainsi que quelques considérations intelligentes sur les différences sociales [...], \"Camembert\" réussit son pari : nous faire rire et générer quelques scènes potentiellement cultes, dont celle d'accueil du grand père à l'hôpital."
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Avec leur premier long-métrage au scénario déjà vu mais bien tenu, bien rythmé, Matthieu Rumani et Nicolas Slomka ne se contentent pas de mettre du désordre dans les relations familiales, par un comique de situation rigolo."
+        },
+        {
+          "titre_presse": "Femme Actuelle",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Il y a des moments très drôles."
+        },
+        {
+          "titre_presse": "Franceinfo Culture",
+          "note": 4.0,
+          "auteur": "Falila Gbadamassi",
+          "citation": "Avec cette famille dysfonctionnelle (comme elles le sont toutes), campée par une belle et réjouissante brochette d'acteurs, \"Camembert\" démontre que ce sont bien les deux assertions philosophiques du mot culture qui définissent un être humain. À savoir ce qu'il sait et ce qu'il est."
+        },
+        {
+          "titre_presse": "L'Humanité",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Très bien écrits, jamais caricaturaux, les personnages ont chacun un rapport différent à la culture, présentée comme un vecteur d’émancipation et un outil..."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Camembert est sans doute moins aigu dans son écriture, et plus tendre, croyant à la fin en une parfaite osmose des milieux contraires. N’empêche, à cette partie, on se prend au jeu."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 4.0,
+          "auteur": "É. S.",
+          "citation": "À la façon de Toledano et Nakache, Matthieu Rumani et Nicolas Slomka ont la bonne idée de réunir autour de la table des acteurs venus d’horizons différents. Ici, le duo prend au sérieux le Trivial Pursuit, jeu loin d’être innocent. Il le fait avec un humour décapant qui s’étiole dans le dernier tiers du film."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Catherine Balle",
+          "citation": "Une comédie chorale très maligne."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 4.0,
+          "auteur": "Jean-Luc Wachthausen",
+          "citation": "Une belle équipe pour une intrigue à rebondissements."
+        },
+        {
+          "titre_presse": "Nice-Matin",
+          "note": 4.0,
+          "auteur": "Mathieu Faure",
+          "citation": "Il n’est pas forcément question de mépris de classe dans le film, c’est plus subtil. Un film qui fera écho au Goût des autres d’Agnès Jaoui. On a connu plus mauvaise référence."
+        },
+        {
+          "titre_presse": "Ouest France",
+          "note": 4.0,
+          "auteur": "Pascale Vergereau",
+          "citation": "Kristin Scott Thomas, Alex Lutz, Bernard Le Coq, Pascale Arbillot... se renvoient à la figure des vérités pas toujours bonnes à dire dans une partie de Trivial Pursuit sauvage. Une comédie familiale grinçante et touchante, signée Nicolas Slomka et Matthieu Rumani."
+        },
+        {
+          "titre_presse": "Télé 2 semaines",
+          "note": 4.0,
+          "auteur": "E.F.",
+          "citation": "Drôle et bouleversant, ce film choral nous tient en haleine du début à la fin grâce à un brillant jeu d'acteur."
+        },
+        {
+          "titre_presse": "Télé Loisirs",
+          "note": 4.0,
+          "auteur": "E.F.",
+          "citation": "Drôle et bouleversant à la fois, ce film choral nous tient en haleine du début à la fin grâce aux brillants acteurs de ce casting cinq étoiles."
+        },
+        {
+          "titre_presse": "Voici",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Une très agréable surprise."
+        },
+        {
+          "titre_presse": "Closer",
+          "note": 3.0,
+          "auteur": "J.B.",
+          "citation": "L'art de faire un fromage d'un jeu de plateau."
+        },
+        {
+          "titre_presse": "La Croix",
+          "note": 3.0,
+          "auteur": "Corinne Renou-Nativel",
+          "citation": "Autour d’une partie de Trivial Pursuit, ce premier long métrage de Matthieu Rumani et Nicolas Slomka, en salles mercredi 18 novembre 2026, scrute avec beaucoup d’humour et de finesse une famille et son rapport à la culture."
+        },
+        {
+          "titre_presse": "La Tribune Dimanche",
+          "note": 3.0,
+          "auteur": "Marc-Aurèle Garreau",
+          "citation": "Les péripéties se succèdent à bon rythme et, à mesure que les camemberts colorés du Trivial Pursuit se remplissent, chaque membre de cette famille dysfonctionnelle se révèle et le masque de France tombe aussi."
+        },
+        {
+          "titre_presse": "La Voix du Nord",
+          "note": 3.0,
+          "auteur": "Christophe Caron",
+          "citation": "Engueulades, rabibochages et remise en question au menu de ce jeu grinçant à défaut d’être surprenant."
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 3.0,
+          "auteur": "Baptiste Thion",
+          "citation": "Ce huis clos réserve son lot de répliques bien senties et de situations aussi cruelles que drôles, le Trivial révélant le snobisme intellectuel, le mépris de classe et les secrets d'une tribu loin d'être si soudée. Le tout servi par des comédiens épatants, Kristin Scott Thomas en tête."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Bo. B.",
+          "citation": "Outre ce casting de choix, la réussite de cette comédie chorale tient d’abord à l’écriture. Matthieu Rumani et Nicolas Slomka dessinent un tableau complexe, refusant le choix d’un cynisme un peu facile. Jusqu’au bout, Camembert s’accroche à la fragile humanité de cet édifice familial et à l’amour qui agit comme un liant, au prix de quelques mensonges."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 3.0,
+          "auteur": "Joseph Cartron",
+          "citation": "Suivant pas à pas les codes du vaudeville à la française, \"Camembert\" marque surtout des points grâce au tandem Kristin Scott Thomas/Alex Lutz, en majesté."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 3.0,
+          "auteur": "Théo Ribeton",
+          "citation": "La comédie n’évite pas toujours certains gags attendus qui semblent s’écrire tous seuls et perd parfois pied dans l’invraisemblable, mais dégaine tout de même un certain nombre de vraies trouvailles comiques."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 3.0,
+          "auteur": "Thierry Chèze",
+          "citation": "Le duo Matthieu Rumani-Nicolas Slomka – à qui l’on doit, entre autres, l’épatante série Culte sur l’aventure Loft Story - a eu la bonne idée d’en faire le moteur de leur premier long métrage et d’utiliser une partie en temps réel pour dynamiter de l’intérieur une famille aux failles déjà apparentes."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 3.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Une partie de Trivial pursuit drôle et tendue en famille."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Chloé Delos-Eray",
+          "citation": "Une partie de Trivial Pursuit débute, chaque membre de la famille abat son jeu... Gags absurdes et drôles, commentaire social acéré et distribution d’acteurs aux oignons font le sel de cette comédie."
+        },
+        {
+          "titre_presse": "Version Femina",
+          "note": 3.0,
+          "auteur": "Hadrien Machart",
+          "citation": "Portée par un casting cinq étoiles et des dialogues percutants, cette comédie est de ces films bavards dont on adore suivre les conversations."
+        },
+        {
+          "titre_presse": "L'Obs",
+          "note": 2.0,
+          "auteur": "Guillaume Loison",
+          "citation": "Un beau casting pour cette comédie faiblarde qui s’oubliera vite."
+        },
+        {
+          "titre_presse": "Critikat.com",
+          "note": 1.0,
+          "auteur": "Martin Aleyrangues",
+          "citation": "Si la configuration du récit métamorphose ainsi la partie en véritable lutte des classes, le scénario accouche d'un décevant statu quo : on nous avait promis \"La Règle du jeu\" et on se retrouve avec un film qui suit bien les règles."
+        }
+      ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-316136/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "note_moyenne_spectateurs": 3.8,
+      "nb_notes_spectateurs": 89
     }
   },
   {
@@ -1097,38 +1285,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
       {
-        "heure": "17/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 16:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 16:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 21:20",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/11 16:10",
         "cinema": "Vendôme"
       },
@@ -1293,7 +1449,7 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "23/11 11:30",
+        "heure": "23/11 11:15",
         "cinema": "Palace"
       },
       {
@@ -1341,7 +1497,39 @@
         "cinema": "Palace"
       },
       {
-        "heure": "24/11 11:30",
+        "heure": "24/11 11:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 18:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "24/11 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 21:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:30",
         "cinema": "Palace"
       }
     ],
@@ -1576,7 +1764,33 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036932/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 1304
+      "nb_notes_spectateurs": 1351
+    }
+  },
+  {
+    "titre": "Cléo de 5 à 7",
+    "annee": 1962,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Agnès Varda"
+    ],
+    "synopsis": "Cléo, belle et chanteuse, attend les résultats d'une analyse médicale. De la superstition à la peur, de la rue de Rivoli au Café de Dôme, de la coquetterie à l'angoisse, de chez elle au Parc Montsouris, Cléo vit 90 minutes particulières. Son amant, son musicien, une amie puis un soldat lui ouvrent les yeux sur le monde.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e90eb8f8-ff21-449d-b81e-2611d7e03c62.jpeg",
+    "seances": [
+      {
+        "heure": "24/11 19:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "1191",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1191/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1191/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 4.1,
+      "nb_notes_spectateurs": 1804
     }
   },
   {
@@ -1759,8 +1973,23 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000021055/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 1424
+      "nb_notes_spectateurs": 1425
     }
+  },
+  {
+    "titre": "Court et Pink Screens",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "24/11 19:00",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": null
   },
   {
     "titre": "Courts métrages nordiques",
@@ -1787,14 +2016,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "17/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 20:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/11 16:20",
         "cinema": "Vendôme"
@@ -1890,43 +2111,146 @@
       {
         "heure": "24/11 13:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 21:15",
+        "cinema": "Vendôme"
       }
     ],
     "allocine": {
       "allocine_id": "1000017168",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000017168/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
+      "note_moyenne_presse": 3.2,
+      "nb_critiques_presse": 20,
+      "critiques_presse": [
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 5.0,
+          "auteur": "Benjamin Bidolet",
+          "citation": "POUR : À l’attirance pour le groupe succède alors l’attirance pour l’individu. Un amour du corps de l’autre que Lukas Dhont met en scène avec toute la délicatesse qu’on lui connaît. De ce contraste entre la tendresse d’une romance et la rudesse extrême du contexte qui l’a vu naître, ressort une œuvre à la fois touchante et âpre."
+        },
+        {
+          "titre_presse": "Bande à part",
+          "note": 5.0,
+          "auteur": "Olivier Bombarda",
+          "citation": "\"Coward\" n’est pas un film de guerre. C’est un film de jeunesse cabossée cherchant à tenir debout, une œuvre de contrastes entre amour et fracas, timidité et flamboyance, tendresse et brutalité, retenue et débordement, mort et désir de vivre."
+        },
+        {
+          "titre_presse": "Elle",
+          "note": 4.0,
+          "auteur": "Ophélie Daguin",
+          "citation": "Une histoire lumineuse et déchirante."
+        },
+        {
+          "titre_presse": "Femme Actuelle",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Un film ambitieux."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 4.0,
+          "auteur": "Jean-Baptiste Morain",
+          "citation": "Lukas Dhont met en scène une histoire sensible sur le front de la guerre 14-18 doublée d’un regard aigu sur les différences de classe."
+        },
+        {
+          "titre_presse": "Marie Claire",
+          "note": 4.0,
+          "auteur": "Emily Barnett",
+          "citation": "Depuis ses débuts, le cinéma de Lukas Dhont explore les frontières entre féminin et masculin (Girl), amour et amitié (Close). Ici, la frontière est réelle, entre l’Allemagne et la Belgique en pleine Première Guerre mondiale, théâtre d’un amour fou entre un soldat et un saltimbanque."
+        },
+        {
+          "titre_presse": "Télé 2 semaines",
+          "note": 4.0,
+          "auteur": "Camille Brun",
+          "citation": "Porté par d'excellents jeunes comédiens, un film audacieux, joliment mis en scène."
+        },
+        {
+          "titre_presse": "Télé Loisirs",
+          "note": 4.0,
+          "auteur": "Camille Brun",
+          "citation": "Porté par un duo d'excellents comédiens, un film audacieux, joliment mis en scène et très émouvant."
+        },
+        {
+          "titre_presse": "Franceinfo Culture",
+          "note": 3.0,
+          "auteur": "Mohamed Berkani",
+          "citation": "Les deux jeunes comédiens Emmanuel Macchia et Valentin Campagne arrivent à donner corps à une histoire un peu désertée par l'émotion."
+        },
+        {
+          "titre_presse": "La Croix",
+          "note": 3.0,
+          "auteur": "La Rédaction",
+          "citation": "L’histoire d’amour entre deux soldats belges sur le front, en 1916, est mise en scène avec brio mais manque d’émotion."
+        },
+        {
+          "titre_presse": "La Voix du Nord",
+          "note": 3.0,
+          "auteur": "Christophe Caron",
+          "citation": "Les précédents films du réalisateur belge Lukas Dhont nous avaient brisé le cœur (\"Girl\", \"Close\"). Curieusement, celui-ci ne nous amène pas au même niveau d’émotion ravageuse. L’environnement de la guerre se révèle singulier, mais le film part dans deux directions : l’art comme échappatoire, et cette romance hésitante et beaucoup plus attendue."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 3.0,
+          "auteur": "Antoine Corte",
+          "citation": "Avec \"Les Braves\", l’auteur de \"Girl\" et \"Close\" oppose la scène aux tranchées dans un film imparfait mais habité."
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 3.0,
+          "auteur": "Benoît Basirico",
+          "citation": "Entre cabaret et charnier, le meilleur du film réside dans le travestissement burlesque, l’esprit de revue et les chansons d’époque qui déploient une belle énergie carnavalesque. Ces instants de résistance face au combat mettent à l’épreuve la virilité avec drôlerie et cruauté, dans la porosité entre camaraderie de caserne et désir homosexuel. Pourtant, cette séduisante proposition pèche sur le versant guerrier. En cause : un parti pris mélodramatique trop sage à l’esthétisme léché."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 3.0,
+          "auteur": "Thierry Chèze",
+          "citation": "Dhont impressionne quand même par sa capacité à faire émerger de nouveaux visages et à les sublimer en images (...)."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 3.0,
+          "auteur": "Cédric Coppola",
+          "citation": "En s’intéressant à de jeunes soldats belges unis qui préfèrent célébrer la vie avant de partir, la nuit tombée, dans l’enfer des tranchées, le cinéaste de « Girl » signe une œuvre pleine d’espoir, vivante, où la violence, montrée lors d’une seule scène, est plus présente en hors-champ."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 2.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "CONTRE : Un drame appuyé ancré au sein d’un bataillon de jeunes combattants belges durant la Première Guerre Mondiale, ne traite finalement que partiellement son sujet [...]. Globalement, le film peine à émouvoir, notamment du fait des aspects monolithiques de l'un de ses deux acteurs principaux."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 2.0,
+          "auteur": "Charlotte Garson",
+          "citation": "Le film dévoile d’emblée sa structure binaire, limité à la promotion de l’amour contre la guerre, de la légèreté du spectacle contre la boucherie des puissants, et de l’homosexualité contre la virilité belliqueuse."
+        },
+        {
+          "titre_presse": "Version Femina",
+          "note": 2.0,
+          "auteur": "Hadrien Machart",
+          "citation": "Ce film reprend des thèmes chers à son réalisateur, ceux de la marge et de l’inclusion, mais passe un peu à côté de son sujet."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 2.0,
+          "auteur": "Laurent Cambon",
+          "citation": "Cette histoire d’amour entre deux soldats sur fond de Première guerre mondiale demeure une véritable déception par rapport aux deux premiers longs-métrages de Lukas Dhont couronnés à Cannes."
+        },
+        {
+          "titre_presse": "Critikat.com",
+          "note": 1.0,
+          "auteur": "Josué Morel",
+          "citation": "Si le film repose sur un cadre singulier, ce dernier ne cesse d'être d'escamoté par les lourdeurs de la mise en scène."
+        }
+      ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017168/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
-    "titre": "Coyote vs. Acme",
-    "annee": 2026,
-    "duree_minutes": 103,
-    "realisateurs": [
-      "Dave Green"
-    ],
-    "synopsis": "Après que les produits Acme l’ont laissé tomber une fois de trop dans sa poursuite acharnée du Bip Bip, Wile E. Coyote décide de faire appel à un avocat spécialisé — du genre qu’on voit sur les panneaux publicitaires — pour poursuivre en justice la société Acme.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6e7eff07-2e5c-474a-b0bc-e11caa793dd9.jpg",
-    "seances": [
-      {
-        "heure": "18/11 14:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "267335",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-267335/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-267335/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 167
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 74
     }
   },
   {
@@ -1983,6 +2307,10 @@
       {
         "heure": "20/11 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "24/11 18:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": {
@@ -2032,6 +2360,10 @@
       },
       {
         "heure": "23/11 13:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 21:00",
         "cinema": "Aventure"
       }
     ],
@@ -2254,7 +2586,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 3201
+      "nb_notes_spectateurs": 3204
     }
   },
   {
@@ -2603,7 +2935,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.3,
-      "nb_notes_spectateurs": 311
+      "nb_notes_spectateurs": 312
     }
   },
   {
@@ -2784,10 +3116,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4add97b6-7e5d-42e8-adf5-b69f5ab42599.jpg",
     "seances": [
       {
-        "heure": "17/11 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "21/11 18:00",
         "cinema": "Cinematek"
       }
@@ -2959,150 +3287,6 @@
     }
   },
   {
-    "titre": "Forever a Woman",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 20:00",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Franz",
-    "annee": 2026,
-    "duree_minutes": 127,
-    "realisateurs": [
-      "Agnieszka Holland"
-    ],
-    "synopsis": "De son enfance à Prague jusqu’à sa disparition à Vienne, le film retrace le parcours de Franz Kafka, un homme déchiré entre son aspiration à une existence banale et son besoin irrépressible d’écrire, marqué par des relations amoureuses tourmentées.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
-    "seances": [
-      {
-        "heure": "17/11 21:15",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "300732",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-300732/critiques/presse/",
-      "note_moyenne_presse": 2.7,
-      "nb_critiques_presse": 17,
-      "critiques_presse": [
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Françoise Dargent",
-          "citation": "Agnieszka Holland dresse un portrait fragmenté de l’auteur de La Métamorphose, oscillant entre réalisme et onirisme."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Jean-Luc Wachthausen",
-          "citation": "Dans le rôle-titre, l'acteur allemand Idan Weiss renvoie une image intrigante, iconoclaste, émouvante de Kafka, entouré par un beau trio d'interprètes : Katharina Stark, Carol Schuler et Sebastian Schwarz."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Un geste audacieux."
-        },
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 3.0,
-          "auteur": "Jean-Nicolas Schoeser",
-          "citation": "\"Franz K.\" n’est pas un grand film [...] Mais en mettant en scène son impossibilité à saisir ce qui fait un homme, c’est un film sincère, humble dans le sens le plus noble du terme et en perpétuelle recherche. De ses modalités, de son regard, des termes de sa déclaration d’admiration d’une artiste à un autre. Un film amoureux. On n’en demande pas plus."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 3.0,
-          "auteur": "Michaël Mélinard",
-          "citation": "Biopic kaléidoscopique, onirique et un peu bancal consacré à l’auteur de la Métamorphose, le film d’Agnieszka Holland témoigne néanmoins du désir d’innovations formelles intact de la réalisatrice."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 3.0,
-          "auteur": "Corinne Renou-Nativel",
-          "citation": "D’une ressemblance fascinante avec l’écrivain, Idan Weiss apparaît comme la révélation de ce film."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 3.0,
-          "auteur": "Christophe Caron",
-          "citation": "La forme adoptée par Agnieszka Holland semble se mettre au diapason de l’esprit supposé de l’auteur, non sans ironie d’ailleurs. Pourtant, on peut être emporté par cette œuvre débridée présentée lors de l’Arras Film Festival et littéralement habitée par la singulière performance du comédien Idan Weiss, sous le masque d’un Kafka énigmatique. Qui le reste en sortie de projection."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Nathalie Zimra",
-          "citation": "Agnieszka Holland nous livre son Kafka tout en prenant le parti d’établir un lien entre l’homme secret et intense qu’il fut et la trace qu’il laisse dans l’Histoire. Traité sur un mode parfois burlesque, cet artifice ne rend pas honneur à la profondeur du personnage."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Thierry Chèze",
-          "citation": "La cinéaste choisit donc le kaléidoscope, les ruptures de ton, de rythme, de mise en scène pour embrasser la complexité d’un homme qui garde intacte sa part de mystère en dépit de tout ce qui a été dit et écrit sur lui. Tout n’est pas parfait mais cet aspect ludique bouscule avec talent l’idée reçue d’un homme aux idées aussi noires que ses œuvres."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Jacques Morice",
-          "citation": "Un biopic singulier qui bénéficie d’un jeune interprète formidable."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 3.0,
-          "auteur": "Gérard Crespo",
-          "citation": "Ce biopic tranche avec l’académisme inhérent au genre et la réalisatrice propose une approche originale et intéressante de l’écrivain, malgré certains choix discutables."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 2.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Du coup le film paraît à la fois fouillis et clinique, et même si de nombreux sujets clés sont abordés (coupure avec la famille, autorité du père, phobies diverses, tuberculose, menaces de déportation…), on restera toujours à distance de ce personnage d’une rare froideur."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 2.0,
-          "auteur": "Ariel Schweitzer",
-          "citation": "Si des séquences contemporaines à Prague sont censées montrer la transformation de Kafka en attraction touristique et en marchandise (un restaurant sert aux clients un « hamburger Kafka »), la manière dont Agnieszka Holland aborde son sujet semble elle- même renforcer cette banalisation du mythe de l’écrivain."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 2.0,
-          "auteur": "H. Au.",
-          "citation": "Pour éviter, à l’écran, ce rideau de fer entre la biographie et l’œuvre d’un écrivain illustre, l’une des options consiste à le transformer en un personnage de son propre monde, de ses fictions. Ce fut précisément le choix, pas toujours abouti mais audacieux, de Steven Soderbergh dans son Kafka (1991). A cette aune, Franz K. fait bien pâle figure."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 2.0,
-          "auteur": "Didier Péron",
-          "citation": "Avec son film biographique, Agnieszka Holland vient rajouter sa pierre au trop-plein de productions sur l’auteur génie de «la Métamorphose»."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 1.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "Le tout est saccagé par un montage visiblement confié à un mixer discount."
-        },
-        {
-          "titre_presse": "Marianne",
-          "note": 1.0,
-          "auteur": "Olivier De Bruyn",
-          "citation": "Un biopic halluciné et raté."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-300732/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 122
-    }
-  },
-  {
     "titre": "From the archives of NATO II",
     "annee": 1958,
     "duree_minutes": 50,
@@ -3127,10 +3311,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "17/11 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 17:05",
         "cinema": "Vendôme"
@@ -3157,6 +3337,10 @@
       },
       {
         "heure": "23/11 21:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 17:05",
         "cinema": "Vendôme"
       }
     ],
@@ -3407,70 +3591,6 @@
     }
   },
   {
-    "titre": "George Michael: The Faith Tour",
-    "annee": 2026,
-    "duree_minutes": 113,
-    "realisateurs": [
-      "David Austin",
-      "Andrew Morahan"
-    ],
-    "synopsis": "George Michael comptait parmi les stars les plus influentes de sa génération ; sa voix et ses compositions ont marqué toute une époque. Réalisé à partir d’images 35 mm redécouvertes, inédites et jamais diffusées auparavant, tournées lors de son concert de 1988 au Palais Omnisports de Paris-Bercy, ce nouveau film de concert montre George au sommet de son art, lors de la tournée « Faith Tour » qui a battu tous les records. Restauré et remastérisé avec soin, le film transforme un moment culturel marquant en une expérience cinématographique spectaculaire. Un court-métrage original de Mary McCartney ouvre le long-métrage, utilisant des enregistrements audio et des images récemment découverts datant de 1986 à 1988 – l’époque de « Faith » – pour créer une « capsule temporelle » rare et intime, offrant un aperçu saisissant de l’état d’esprit de George à ce moment charnière de sa vie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3f87edb9-31b6-4812-bc15-bfaad477c162.jpg",
-    "seances": [
-      {
-        "heure": "17/11 16:00",
-        "cinema": "Le Stockel"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000041856",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000041856/critiques/presse/",
-      "note_moyenne_presse": 3.3,
-      "nb_critiques_presse": 6,
-      "critiques_presse": [
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Annie Yanbekian",
-          "citation": "Un hommage magistral à une bête de scène et une personnalité très attachante de l'histoire de la pop, à voir absolument sur grand écran."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Trente-huit ans plus tard et dix ans après la disparition de George Michael, la liberté totale, la modernité joyeuse et le génie musical de l’artiste n’ont pas pris une ride."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Carl Arnaud",
-          "citation": "Allant au-delà de la simple captation, le documentaire d’Andy Morahan et David Austin constitue une odyssée musicale."
-        },
-        {
-          "titre_presse": "Rolling Stone",
-          "note": 3.0,
-          "auteur": "Xavier Bonnet",
-          "citation": "Un témoignage précieux d’un George Michael au talent jamais tout à fait reconnu à sa juste valeur."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Odile de Plas",
-          "citation": "Touchant, à défaut d’être surprenant dans sa forme, il rappellera à ceux qui découvrent George Michael avec quelle acuité il avait su ausculter les délices et dérives de cette célébrité qu’il avait tant recherchée et atteint ici de toutes les fibres de son débardeur."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 2.0,
-          "auteur": "Thierry Cheze",
-          "citation": "Formellement, le résultat est indéniablement spectaculaire. Mais on en sort frustré."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000041856/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 49
-    }
-  },
-  {
     "titre": "Glissements progressifs du plaisir",
     "annee": 1974,
     "duree_minutes": 105,
@@ -3691,14 +3811,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
       {
-        "heure": "18/11 13:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 13:30",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "21/11 10:30",
         "cinema": "Palace"
       },
@@ -3872,19 +3984,30 @@
     }
   },
   {
-    "titre": "Heat (1972)",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "titre": "Gösta Berlings saga",
+    "annee": 1923,
+    "duree_minutes": 178,
+    "realisateurs": [
+      "Mauritz Stiller"
+    ],
+    "synopsis": "Gösta Berling est un jeune pasteur séduisant. En raison de son alcoolisme et de ses sermons audacieux, il finit par être destitué de ses fonctions. Il devient précepteur de la belle-fille de la comtesse Marta, et tous deux tombent amoureux. Mais la comtesse a ses propres projets.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3b737cc7-60fc-47a9-be52-d2fc0b201444.jpg",
     "seances": [
       {
-        "heure": "17/11 21:00",
+        "heure": "24/11 20:00",
         "cinema": "Cinematek"
       }
     ],
-    "allocine": null
+    "allocine": {
+      "allocine_id": "3891",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-3891/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3891/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.4,
+      "nb_notes_spectateurs": 7
+    }
   },
   {
     "titre": "Heysel 85",
@@ -3894,10 +4017,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/189e4060-6b87-4c4a-80db-64f4f72f5520.jpg",
     "seances": [
-      {
-        "heure": "18/11 09:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/11 18:15",
         "cinema": "Palace"
@@ -3955,8 +4074,12 @@
         "cinema": "Palace"
       },
       {
-        "heure": "24/11 11:30",
+        "heure": "24/11 18:15",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 18:25",
+        "cinema": "Le Stockel"
       }
     ],
     "allocine": {
@@ -3980,10 +4103,6 @@
     "synopsis": "Dans le village isolé de Hope Harbor, en Corée du Sud, le chef de la police Bum-seok et l'agente Sung-ae sont appelés à enquêter sur une créature mystérieuse qui sème la terreur parmi les habitants. Mais les apparences sont trompeuses, et les perceptions peuvent être erronées. Ce qui commence par l'ignorance sème les graines du désastre, et les conflits humains dégénèrent en une tragédie aux proportions cosmiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
-      {
-        "heure": "17/11 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "19/11 12:10",
         "cinema": "Aventure"
@@ -4226,7 +4345,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314882/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 2183
+      "nb_notes_spectateurs": 2216
     }
   },
   {
@@ -4251,12 +4370,79 @@
     "allocine": {
       "allocine_id": "1000004528",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
+      "note_moyenne_presse": 2.7,
+      "nb_critiques_presse": 11,
+      "critiques_presse": [
+        {
+          "titre_presse": "Le Figaro",
+          "note": 4.0,
+          "auteur": "É. S.",
+          "citation": "Si Hunger Games se renouvelle peu, le contexte, lui, évolue. Des adolescents forcés de lutter pour survivre sous le regard cynique d’adultes en mal de divertissement, le futur imaginé par Suzanne Collins ressemble à notre présent."
+        },
+        {
+          "titre_presse": "Voici",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Un teen-blockbuster largement au-dessus de la moyenne."
+        },
+        {
+          "titre_presse": "Ecran Large",
+          "note": 3.0,
+          "auteur": "Antoine Desrues",
+          "citation": "\"Hunger Games\" surprend toujours par sa constance qualitative et sa pertinence politique, quitte à sacrifier le poids émotionnel des jeux (un peu décevants ici) au profit de leur mise en place."
+        },
+        {
+          "titre_presse": "Franceinfo Culture",
+          "note": 3.0,
+          "auteur": "Louisa Darrigrand",
+          "citation": "Malgré un décor innovant, l'histoire de \"Hunger Games : lever de soleil sur la moisson\" souffre de quelques redites. L'émulation collective qui transpirait des premiers films et en faisait des succès, peine à se faire sentir."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 3.0,
+          "auteur": "Ameline Grout",
+          "citation": "Doté de quelques interprètes convaincants et abordant de front la question de la propagande, ce prequel appauvrit un peu la mythologie de la saga."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 3.0,
+          "auteur": "Simon Besnard",
+          "citation": "En reléguant les affrontements sanglants hors champ, le film rappelle opportunément que le véritable combat ne s’est jamais joué entre les individus, mais bien contre le système oppressif qui les aliène."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Chloé Delos-Eray",
+          "citation": "Dans des décors spectaculaires, deux fois plus d’ados sont envoyés se battre à mort dans l’arène. Hollywood fait ce qu’il sait faire avec ce blockbuster efficace, parfois trop superficiel."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 3.0,
+          "auteur": "Victoire Marin",
+          "citation": "Toujours sympathique même si sans véritable surprise, la saga Hunger Games continue avec un sixième volet dans la lignée des opus précédents."
+        },
+        {
+          "titre_presse": "Télé 7 Jours",
+          "note": 2.0,
+          "auteur": "Julien Barcilon",
+          "citation": "Seuls les fans des livres y trouveront peut-être matière à se réjouir."
+        },
+        {
+          "titre_presse": "Nice-Matin",
+          "note": 1.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Le sixième long métrage consacré à la célèbre saga déçoit dans son approche, son manque de rythme et fait dans la redite."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 1.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Entre la direction artistique kitschissime, les effets spéciaux ratés, une partie « Hunger Games » bâclée de quarante minutes, où ce héros malgré lui ne tue personne et déjoue des pièges qui surgissent quand ça arrange le scénario, les incessants bavardages, le jeu d’acteurs approximatif et le peu d’action, les faux pas sont nombreux."
+        }
+      ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "note_moyenne_spectateurs": 3.7,
+      "nb_notes_spectateurs": 10
     }
   },
   {
@@ -4277,12 +4463,163 @@
     "allocine": {
       "allocine_id": "1000004528",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
+      "note_moyenne_presse": 3.1,
+      "nb_critiques_presse": 25,
+      "critiques_presse": [
+        {
+          "titre_presse": "Le Journal du Geek",
+          "note": 5.0,
+          "auteur": "Elisa Rahouadj",
+          "citation": "Avec une mise en scène luxuriante, un souffle spectaculaire saisissant, et un casting cinq étoiles, ce volet nous offre une fresque parfaite des Jeux de l'exubérance."
+        },
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "Ce nouvel opus bien ficelé est porteur d’un message libertaire sympathique."
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Visuellement, formellement, les arènes des jeux sont très travaillées, servant le divertissement XXL que veut être ce blockbuster au budget de plus de 170 millions de dollars."
+        },
+        {
+          "titre_presse": "GQ",
+          "note": 4.0,
+          "auteur": "Cathy Tran",
+          "citation": "Sixième film de la saga et second préquel, \"Hunger Games : Lever de soleil sur la moisson\" marque les esprits par son ambition, son discours politique féroce et un héros aussi touchant que déterminé."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 3.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Une jeunesse sacrifiée qui tente de sauver sa peau dans un monde terriblement injuste, cynique et révoltant - c’est d’actualité, leur résistance et rébellion contre une société qui les manipule comme des pions et les anéantit…"
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 4.0,
+          "auteur": "É. S.",
+          "citation": "Si Hunger Games se renouvelle peu, le contexte, lui, évolue. Des adolescents forcés de lutter pour survivre sous le regard cynique d’adultes en mal de divertissement, le futur imaginé par Suzanne Collins ressemble à notre présent."
+        },
+        {
+          "titre_presse": "Ouest France",
+          "note": 4.0,
+          "auteur": "Gaël Golhen",
+          "citation": "Avant Katniss, il y avait Haymitch. Onze ans après la fin de la saga portée par Jennifer Lawrence, Hunger Games revient avec un deuxième préquel. Une réussite qui montre un univers dystopique hélas assez prémonitoire."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 4.0,
+          "auteur": "Gael Golhen",
+          "citation": "Dans le rôle principal, Joseph Zada est une révélation. Charme de voyou, rage rentrée : il ne copie pas Woody Harrelson, il le fabrique."
+        },
+        {
+          "titre_presse": "Voici",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Un teen-blockbuster largement au-dessus de la moyenne."
+        },
+        {
+          "titre_presse": "Ecran Large",
+          "note": 3.0,
+          "auteur": "Antoine Desrues",
+          "citation": "\"Hunger Games\" surprend toujours par sa constance qualitative et sa pertinence politique, quitte à sacrifier le poids émotionnel des jeux (un peu décevants ici) au profit de leur mise en place."
+        },
+        {
+          "titre_presse": "Franceinfo Culture",
+          "note": 3.0,
+          "auteur": "Louisa Darrigrand",
+          "citation": "Malgré un décor innovant, l'histoire de \"Hunger Games : lever de soleil sur la moisson\" souffre de quelques redites. L'émulation collective qui transpirait des premiers films et en faisait des succès, peine à se faire sentir."
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 3.0,
+          "auteur": "Stéphanie Belpêche",
+          "citation": "Après une longue introduction, le jeu de massacre est enfin lancé et parvient à se renouveler, en dépit d’une mise en scène un peu aseptisée."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Bo. B.",
+          "citation": "Reste les bonnes surprises, et ce Hunger Games n’est pas dénué de qualités. A commencer par quelques scènes d’action très réussies et une manière malicieuse de déjouer certaines attentes. Dommage que Francis Lawrence se sente obligé d’appuyer autant ses effets mélodramatiques."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 3.0,
+          "auteur": "Renaud Baronian",
+          "citation": "Première partie réussie, casting magnifique, mais deuxième heure trop violente et effets numériques abusifs : le nouveau volet de la saga dystopique en salles mercredi 18 novembre ne convainc pas totalement."
+        },
+        {
+          "titre_presse": "Les Echos",
+          "note": 3.0,
+          "auteur": "Adrien Gombeaud",
+          "citation": "Second préquel des aventures de Katniss Everdeen, le nouvel épisode des « Hunger Games » a tout d'un au revoir. Tandis que la formule montre des signes d'essoufflement à l'écran, le symbole de la rébellion irrigue plus que jamais les mouvements sociaux au-delà des salles obscures."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 3.0,
+          "auteur": "Ameline Grout",
+          "citation": "Doté de quelques interprètes convaincants et abordant de front la question de la propagande, ce prequel appauvrit un peu la mythologie de la saga."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 3.0,
+          "auteur": "Simon Besnard",
+          "citation": "En reléguant les affrontements sanglants hors champ, le film rappelle opportunément que le véritable combat ne s’est jamais joué entre les individus, mais bien contre le système oppressif qui les aliène."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 3.0,
+          "auteur": "Jérémy Piette",
+          "citation": "Dernière cuvée de la lucrative saga, le film de Francis Lawrence dissèque, avec une esthétique renouvelée, les rouages pervers du voyeurisme de classe."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Chloé Delos-Eray",
+          "citation": "Dans des décors spectaculaires, deux fois plus d’ados sont envoyés se battre à mort dans l’arène. Hollywood fait ce qu’il sait faire avec ce blockbuster efficace, parfois trop superficiel."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 3.0,
+          "auteur": "Victoire Marin",
+          "citation": "Toujours sympathique même si sans véritable surprise, la saga Hunger Games continue avec un sixième volet dans la lignée des opus précédents."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 2.0,
+          "auteur": "Philippe Guedj",
+          "citation": "Nous frôlons l’indigestion, mais pour les fans le cahier des charges est assurément rempli. Le succès massif devrait être au rendez-vous."
+        },
+        {
+          "titre_presse": "Télé 7 Jours",
+          "note": 2.0,
+          "auteur": "Julien Barcilon",
+          "citation": "Seuls les fans des livres y trouveront peut-être matière à se réjouir."
+        },
+        {
+          "titre_presse": "L'Obs",
+          "note": 1.0,
+          "auteur": "Nicolas Schaller",
+          "citation": "Ce sixième volet de la saga dystopique pour ados, prequel du premier, est la reproduction du même en beaucoup moins bien et sans Jennifer Lawrence (ou presque). Tarantino a raison : mieux vaut revoir « Battle Royale »."
+        },
+        {
+          "titre_presse": "Nice-Matin",
+          "note": 1.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Le sixième long métrage consacré à la célèbre saga déçoit dans son approche, son manque de rythme et fait dans la redite."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 1.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Entre la direction artistique kitschissime, les effets spéciaux ratés, une partie « Hunger Games » bâclée de quarante minutes, où ce héros malgré lui ne tue personne et déjoue des pièges qui surgissent quand ça arrange le scénario, les incessants bavardages, le jeu d’acteurs approximatif et le peu d’action, les faux pas sont nombreux."
+        }
+      ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
+      "note_moyenne_spectateurs": 3.8,
+      "nb_notes_spectateurs": 13
     }
   },
   {
@@ -4340,14 +4677,6 @@
     "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
-      {
-        "heure": "17/11 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/11 12:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "19/11 18:00",
         "cinema": "Aventure"
@@ -4553,27 +4882,9 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039483/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 1177
+      "note_moyenne_spectateurs": 3.0,
+      "nb_notes_spectateurs": 1367
     }
-  },
-  {
-    "titre": "Im Wald von Katyn + Rembrandt",
-    "annee": 1943,
-    "duree_minutes": 114,
-    "realisateurs": [
-      "Fritz Hippler",
-      "Hans Steinhoff"
-    ],
-    "synopsis": "Hans Steinhoff réalisa cette biographie de Rembrandt durant l’Occupation allemande aux Pays-Bas. Le peintre y est dépeint comme un génie germanique incompris, ayant notamment souffert des manœuvres de spéculateur·ice·s juif·ve·s. Le court métrage Dans la forêt de Katyn montre les charniers de Polonais·e·s assassiné·e·s par les Soviétiques en avril-mai 1940. Cette tragédie fut utilisée à la fois comme propagande antibolchévique et antijuive. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 20:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Karin Ingmarsdotter (Karin, Daughter of Ingmar)",
@@ -4627,14 +4938,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "17/11 16:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "21/11 18:20",
         "cinema": "Le Stockel"
       }
@@ -4642,8 +4945,8 @@
     "allocine": {
       "allocine_id": "323550",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-323550/critiques/presse/",
-      "note_moyenne_presse": 3.3,
-      "nb_critiques_presse": 34,
+      "note_moyenne_presse": 3.2,
+      "nb_critiques_presse": 35,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -4802,6 +5105,12 @@
           "citation": "Un vibrant hommage à la pugnace avocate, incarnée par une Charlotte Gainsbourg convaincante."
         },
         {
+          "titre_presse": "Critikat.com",
+          "note": 2.0,
+          "auteur": "Jean-Sébastien Massart",
+          "citation": "Au récit de l'édification d'une stratégie politique et médiatique, les réalisateurs ont préféré le confort de l'hommage officiel et consensuel ; ils filment moins la fabrication d'un événement historique que sa célébration rétrospective."
+        },
+        {
           "titre_presse": "La Voix du Nord",
           "note": 2.0,
           "auteur": "Christophe Caron",
@@ -4852,7 +5161,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-323550/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 1396
+      "nb_notes_spectateurs": 1430
     }
   },
   {
@@ -5087,14 +5396,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
       {
-        "heure": "17/11 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 20:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/11 15:15",
         "cinema": "Palace"
       },
@@ -5160,6 +5461,14 @@
       },
       {
         "heure": "24/11 13:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 15:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 20:30",
         "cinema": "Palace"
       }
     ],
@@ -5400,7 +5709,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-318225/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1920
+      "nb_notes_spectateurs": 1956
     }
   },
   {
@@ -5413,10 +5722,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "18/11 14:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/11 15:00",
         "cinema": "Galeries"
@@ -5434,12 +5739,12 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "21/11 14:25",
-        "cinema": "Palace"
-      },
-      {
         "heure": "21/11 14:40",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "21/11 16:30",
+        "cinema": "Palace"
       },
       {
         "heure": "22/11 12:50",
@@ -5448,6 +5753,10 @@
       {
         "heure": "22/11 13:00",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "22/11 14:25",
+        "cinema": "Palace"
       },
       {
         "heure": "24/11 11:30",
@@ -5466,18 +5775,6 @@
     "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
-      {
-        "heure": "18/11 12:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "18/11 14:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "20/11 15:30",
         "cinema": "Aventure"
@@ -5505,6 +5802,10 @@
       {
         "heure": "22/11 16:00",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 15:30",
+        "cinema": "Aventure"
       }
     ],
     "allocine": {
@@ -5672,7 +5973,37 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000012316/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 329
+      "nb_notes_spectateurs": 336
+    }
+  },
+  {
+    "titre": "Le Noël d'Ernest et Céléstine",
+    "annee": 0,
+    "duree_minutes": 71,
+    "realisateurs": [
+      "Aurélie Rapahel"
+    ],
+    "synopsis": "À l’approche des fêtes et au cœur de l’hiver, Ernest et Célestine nous entraînent dans une série d’aventures tendres, drôles et poétiques. Entre paysages enneigés, préparatifs de Noël, rencontres inattendues et moments de partage, les deux inséparables amis découvrent que la magie de cette saison se cache souvent dans les petites choses du quotidien. Au fil de six histoires pleines de douceur, ils célèbrent l’amitié, la solidarité et l’émerveillement.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e4cf7911-4e72-4392-a41d-a8e9337c9f4f.jpg",
+    "seances": [
+      {
+        "heure": "21/11 10:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "22/11 10:00",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "1000041096",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000041096/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000041096/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -6208,22 +6539,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
       {
-        "heure": "17/11 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/11 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/11 14:45",
         "cinema": "Vendôme"
       },
@@ -6346,6 +6661,22 @@
       {
         "heure": "24/11 14:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 15:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "24/11 15:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:15",
+        "cinema": "Palace"
       }
     ],
     "allocine": {
@@ -6585,7 +6916,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000022205/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1534
+      "nb_notes_spectateurs": 1546
     }
   },
   {
@@ -6749,22 +7080,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
       {
-        "heure": "17/11 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 18:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "18/11 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/11 13:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "18/11 17:30",
         "cinema": "Galeries"
       },
@@ -6835,6 +7150,10 @@
       {
         "heure": "24/11 13:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 21:15",
+        "cinema": "Galeries"
       }
     ],
     "allocine": {
@@ -6979,18 +7298,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "17/11 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/11 21:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "19/11 15:00",
         "cinema": "Galeries"
@@ -7295,7 +7602,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 3411
+      "nb_notes_spectateurs": 3435
     }
   },
   {
@@ -7560,21 +7867,6 @@
     }
   },
   {
-    "titre": "Premières Lumières × Mois du Doc 2026 — Pas à pas : du TFE au premier film",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 19:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Primetime",
     "annee": 2026,
     "duree_minutes": 110,
@@ -7784,7 +8076,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 1374
+      "nb_notes_spectateurs": 1383
     }
   },
   {
@@ -7797,14 +8089,6 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
-      {
-        "heure": "17/11 18:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 13:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 13:00",
         "cinema": "Vendôme"
@@ -8051,8 +8335,33 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036515/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1076
+      "nb_notes_spectateurs": 1098
     }
+  },
+  {
+    "titre": "Res Nullius",
+    "annee": 2026,
+    "duree_minutes": 67,
+    "realisateurs": [
+      "Thomas Jean"
+    ],
+    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
+    "seances": [
+      {
+        "heure": "18/11 16:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "22/11 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "23/11 12:20",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": null
   },
   {
     "titre": "Roméo + Juliette",
@@ -8116,10 +8425,6 @@
     "synopsis": "En novembre, Johnny Depp est Scrooge. Pour changer son futur, il va revivre son passé.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76b0ec15-b017-4919-b578-85b773db3f14.jpg",
     "seances": [
-      {
-        "heure": "18/11 14:30",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "20/11 17:45",
         "cinema": "Le Stockel"
@@ -8251,8 +8556,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000034007/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 672
+      "note_moyenne_spectateurs": 3.8,
+      "nb_notes_spectateurs": 749
     }
   },
   {
@@ -8292,6 +8597,10 @@
       {
         "heure": "23/11 21:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 18:30",
+        "cinema": "Aventure"
       }
     ],
     "allocine": null
@@ -8308,10 +8617,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
       {
-        "heure": "18/11 13:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "21/11 10:00",
         "cinema": "Galeries"
       },
@@ -8324,7 +8629,7 @@
         "cinema": "Galeries"
       },
       {
-        "heure": "22/11 11:00",
+        "heure": "22/11 11:15",
         "cinema": "Palace"
       },
       {
@@ -8463,14 +8768,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1906f8b3-ad2f-4726-8b9e-de349bde70c6.jpg",
     "seances": [
       {
-        "heure": "18/11 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 13:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/11 14:50",
         "cinema": "Galeries"
       },
@@ -8601,6 +8898,18 @@
       {
         "heure": "24/11 15:00",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 17:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "24/11 19:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 20:15",
+        "cinema": "Palace"
       }
     ],
     "allocine": {
@@ -8838,165 +9147,6 @@
     }
   },
   {
-    "titre": "Soundtrack to a Coup d’État",
-    "annee": 2024,
-    "duree_minutes": 150,
-    "realisateurs": [
-      "Johan Grimonprez"
-    ],
-    "synopsis": "‘Soundtrack to a Coup d’État’ met en lumière l'une des machinations politiques les plus insidieuses du XXe siècle : comment la monarchie belge, le gouvernement des États-Unis et les multinationales se sont entendus pour utiliser des institutions artistiques et des musiciens de jazz légendaires comme couverture pour des opérations secrètes visant à assassiner le premier ministre du Congo, Patrice Lumumba.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/18e5f355-1176-4964-b943-a1f951fe50bc.jpeg",
-    "seances": [
-      {
-        "heure": "17/11 19:00",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "297231",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-297231/critiques/presse/",
-      "note_moyenne_presse": 4.1,
-      "nb_critiques_presse": 22,
-      "critiques_presse": [
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 5.0,
-          "auteur": "Johan Grimonprez",
-          "citation": "On l’aura compris, Soundtrack to a Coup d’État est une  œuvre qui dépasse de très loin la simple couture d’images d’archives. Leçon de montage, tragédie, thriller, concert, fugue et rhapsodie: le film est tout cela."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Jacky Goldberg",
-          "citation": "Soundtrack... n’est pas un de ces atroces documentaires Wikipédia visant à l’objectivité et à l’exhaustivité. Le réalisateur belge Johan Grimonprez [...] fait ici œuvre de cinéma."
-        },
-        {
-          "titre_presse": "So Film",
-          "note": 5.0,
-          "auteur": "Antoine Desrues",
-          "citation": "Le film brille par la précision de ses recherches documentaires."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 5.0,
-          "auteur": "Gérard Crespo",
-          "citation": "Un documentaire magistral d’un réel intérêt historique et politique, et proposant un montage éblouissant pour étayer son propos."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 4.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Extrêmement riche, ce documentaire passionne autant qu’il ulcère, abordant au passage de multiples sujets [...], certains discours ayant une résonance toute particulière de nos jours. Un film tout juste essentiel, qui entre aussi lui-même en résonance avec d’autres sorties récentes."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 4.0,
-          "auteur": "Étienne Cimetière-Cano",
-          "citation": "Grimonprez entrelace les archives pour susciter une forme de désorientation générale, mais aussi tirer des documents brassés un élan proprement musical."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Laure Narlian",
-          "citation": "Le réalisateur Johan Grimonprez documente, avec une rigoureuse minutie sur le fond et beaucoup d'audace sur la forme, les machinations politiques qui menèrent à l'assassinat du leader congolais Patrice Lumumba en 1961. L'occasion de mettre en lumière les liens d'alors entre jazz américain et remise en cause de l'autodétermination africaine."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Vincent Ostria",
-          "citation": "Dans ce documentaire musical, le réalisateur Johan Grimonprez signe un film très original par sa forme graphique où s'entrelace avec brio le jazz et le récit des événements tragiques autour de l’indépendance du Congo en 1960."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Hélène Riffaudeau",
-          "citation": "Derrière son tissage historique labyrinthique qui peut parfois égarer, se découvre une ode bouleversante à la puissance subversive et émotionnelle du jazz."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Un documentaire original qui relie l’indépendance déçue du Congo et la musique qui s’en est inspirée."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 4.0,
-          "auteur": "Eric Mandel",
-          "citation": "Un film coup de poing, nourri d'archives souvent inédites et de séquences musicales emballantes. Le tout servi par un montage habile et rythmé par comme une jam-session."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Un film historique aussi effréné qu’épatant."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "B.P.",
-          "citation": "Un exercice de style électrisant, poétique, engagé, imparfait, qui fait valser les événements. Et leur offre une épaisseur dramatique inédite."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "T. S.",
-          "citation": "La forme de ce long film qui passionne de bout en bout paraît presque improvisée, tant les thèmes et les tonalités s’y tissent avec fluidité."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "Adrien Gombeaud",
-          "citation": "Dans son documentaire fleuve « Soundtrack to a Coup d'Etat », Johan Grimonprez revient en musique, sur la tragédie du Congo dans les années 1960."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Thomas Fouet",
-          "citation": "Un film à la forme complexe - et parfois paradoxale -, qui use brillamment de la musique comme d’une trame - et d’une chambre d’écho - à son discours limpide."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Elisabeth Franck-Dumas",
-          "citation": "Le jazz n’est pas un prétexte, ni seulement une bande-son offerte au film, même si celle-ci, somptueuse, fait aussi entendre Max Roach, Abbey Lincoln, Nina Simone et même Quincy Jones, il en est son inspiration formelle, vibrionnant entre les époques et les continents, mêlant quantité d’archives captivantes."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Un documentaire aussi passionnant sur la forme que sur le fond."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "François Ekchajzer",
-          "citation": "Les circonstances diplomatiques qui menèrent à l’assassinat de Patrice Lumumba, en 1961, traitées avec une rigueur documentaire alliée à une rare exigence artistique."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Josué Morel",
-          "citation": "Entreprise de déconstruction d’un complot et d’un discours propagandiste, le film fait son miel de la facticité des images ainsi que du langage, qu’il entend remplacer par une forme de \"vérité musicale\" – le jazz de l’époque."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 3.0,
-          "auteur": "Aurélien Allin",
-          "citation": "Le propos est fort et important. Mais le film souffre d'être ivre de sa propre virtuosité."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 3.0,
-          "auteur": "Lucie Chiquer",
-          "citation": "Hyperactif, stimulant, intuitif, dense : Soundtrack to a coup d'État opère un amalgame de sons et d’archives illustrant la lutte contre le colonialisme, sorte de mixtape qui fonctionne par association."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-297231/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 471
-    }
-  },
-  {
     "titre": "Talking to Men Who Have Sex",
     "annee": 2026,
     "duree_minutes": 87,
@@ -9006,14 +9156,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "17/11 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "19/11 11:45",
         "cinema": "Palace"
@@ -9041,40 +9183,13 @@
       {
         "heure": "23/11 18:15",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 16:00",
+        "cinema": "Palace"
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "The Bigamist",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 18:30",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "90812",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-90812/critiques/presse/",
-      "note_moyenne_presse": 4.0,
-      "nb_critiques_presse": 1,
-      "critiques_presse": [
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Aurélien Ferenczi",
-          "citation": "Dans Bigamie (...) au thème a priori \"scandaleux\", l'humanité d'Ida Lupino donne à chaque personnage ses raisons (...). Au lieu de prêcher un moralisme prévisible, le film ne tranche pas. Un tour de force."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-90812/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 168
-    }
   },
   {
     "titre": "The Only Living Pickpocket in New York ",
@@ -9086,22 +9201,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "17/11 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 17:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 19:45",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/11 17:20",
         "cinema": "Aventure"
@@ -9177,6 +9276,10 @@
       {
         "heure": "23/11 21:40",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:40",
+        "cinema": "Vendôme"
       }
     ],
     "allocine": {
@@ -9215,129 +9318,6 @@
     }
   },
   {
-    "titre": "Toute une nuit",
-    "annee": 1982,
-    "duree_minutes": 99,
-    "realisateurs": [
-      "Chantal Akerman"
-    ],
-    "synopsis": "Dans une ville, par une nuit d’été très chaude et orageuse, des hommes, des femmes, des enfants, pris de désir, prêts à tout, se laissent emporter, jusqu’au vertige parfois, dans l’excès de leurs sentiments. Jusqu’à l’aube. TOUTE UNE NUIT, des fragments comme des morceaux d’intensité, qui ont presque tous à voir avec le frémissement, la tension amoureuse ou sexuelle, et toujours avec les sentiments.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8d399454-068c-4b96-825f-72b3721617b6.jpeg",
-    "seances": [
-      {
-        "heure": "17/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "293474",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-293474/critiques/presse/",
-      "note_moyenne_presse": 3.7,
-      "nb_critiques_presse": 12,
-      "critiques_presse": [
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 5.0,
-          "auteur": "Marine Quinchon",
-          "citation": "Dans la lignée de ses courts métrages, Payal Kapadia privilégie un récit poétique, ici en format carré et essentiellement en noir et blanc, et la voix off. Et signe à la fois un bijou esthétique et un manifeste politique. Une grande expérience de spectateur."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Elisabeth Franck-Dumas",
-          "citation": "Ainsi Toute une nuit sans savoir, mêlant habilement l’intime et le politique, le found footage et le film rêvé, des images de manifs et de répression, devient-il une poignante lettre d’adieu, à l’amour et l’espérance, à la jeunesse et l’innocence, qui résonne bien au-delà des frontières où il se déroule."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Clarisse Fabre",
-          "citation": "Un kaléidoscope d’images ouvragées, soyeuses, presque silencieuses, tournoie dans l’œil du spectateur, mettant à distance la fureur pour mieux l’observer. La cinéaste plasticienne relie mille utopies, événements et faits d’armes, les coulant dans un bronze qui serait le film."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Bruno Deruisseau",
-          "citation": "Le parti pris de Payal Kapadia traduit le drame du présent qui ne change pas, un présent prisonnier du passé, qu’il soit hanté par un amour perdu ou le conservatisme d’une société indienne qui asphyxie sa jeunesse."
-        },
-        {
-          "titre_presse": "Marie Claire",
-          "note": 4.0,
-          "auteur": "Emily Barnett",
-          "citation": "Un docu en forme de journal intime bouillonnant, caméra au poing, entre arte povera et culture Instagram."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Vincent Thabourey",
-          "citation": "Le spectateur se trouve alors plongé dans une brèche narrative, entre fiction et réalité, hallucinante, vibrante de rage et de désespoir. Cet amalgame de révolte politique et de frustration amoureuse se noue dans une esthétique fantasmagorique singulière, qui peut nous égarer ou nous subjuguer, mais qui ne nous laissera jamais indifférents."
-        },
-        {
-          "titre_presse": "Transfuge",
-          "note": 4.0,
-          "auteur": "Corentin Destefanis Dupin",
-          "citation": "On sort de \"Toute une nuit sans savoir\" le coeur endolori, mais à nouveau empli de courage."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Vincent Poli",
-          "citation": "Toute une nuit sans savoir est autant journal intime que bouteille à la mer. Non pas l’exposé chronologique d’un nationalisme d’État et de sa radicalisation, mais le résumé impossible de quelques années chamboulées par l’amour, l’engagement et l’effroi."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 3.0,
-          "auteur": "Thomas Grignon",
-          "citation": "À la fois chronique au jour le jour de l’occupation d’une université et kaléidoscope de visions poétiques, le film réussit à faire passer un peu de lumière dans la grande nuit totalitaire."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "François Forestier",
-          "citation": "Sentiment de mélancolie, présence du désir, dénonciation des violences qui fracturent la société, tous les thèmes imprègnent ce film politique qu’on jurerait issu du cinéma d’amateur, mais qui, en fait, est minutieusement mis en scène."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Kattel Lemarchand",
-          "citation": "À la fois distante et sensible, la caméra poétise un mouvement irrépressible de liberté, dans une société encore soumise aux castes."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 2.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Le résultat, captivant dans ses premières minutes, finit cependant par laisser peu à peu à distance. Comme trop gangréné par sa cérébralité pour tendre la main aux spectateurs. Sa radicalité se révèle ici tout à la fois sa plus grande force et sa plus dommageable faiblesse."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-293474/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 56
-    }
-  },
-  {
-    "titre": "WHY DO I SEE YOU IN EVERYTHING?",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 16:00",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000045449",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000045449/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000045449/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Wicker",
     "annee": 2026,
     "duree_minutes": 105,
@@ -9349,10 +9329,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
       {
-        "heure": "17/11 16:25",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/11 16:30",
         "cinema": "Aventure"
       },
@@ -9362,6 +9338,10 @@
       },
       {
         "heure": "22/11 16:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 16:30",
         "cinema": "Aventure"
       }
     ],
@@ -9499,34 +9479,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "17/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 21:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/11 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 14:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/11 14:55",
         "cinema": "Aventure"
@@ -9766,6 +9718,34 @@
       {
         "heure": "24/11 13:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 16:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 16:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 19:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "24/11 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 21:30",
+        "cinema": "Vendôme"
       }
     ],
     "allocine": {
@@ -9975,7 +9955,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-298024/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1604
+      "nb_notes_spectateurs": 1665
     }
   },
   {
@@ -10031,12 +10011,12 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39ddceef-1ccb-4486-ab27-bbe0bb022d2c.jpg",
     "seances": [
       {
-        "heure": "22/11 20:00",
-        "cinema": "Galeries"
+        "heure": "22/11 10:00",
+        "cinema": "Palace"
       },
       {
-        "heure": "22/11 20:30",
-        "cinema": "Palace"
+        "heure": "22/11 20:00",
+        "cinema": "Galeries"
       }
     ],
     "allocine": {
@@ -10048,6 +10028,312 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000051707/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
+    }
+  },
+  {
+    "titre": "À Bicyclette !",
+    "annee": 2025,
+    "duree_minutes": 89,
+    "realisateurs": [
+      "Mathias Mlekuz"
+    ],
+    "synopsis": "De l’Atlantique à la mer Noire, Mathias embarque son meilleur ami Philippe dans un road trip à bicyclette. Ensemble ils vont refaire le voyage que Youri, son fils, avait entrepris avant de disparaitre tragiquement. Une épopée qu’ils traverseront avec tendresse, humour et émotion.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/db75750b-b34c-4e10-a0b8-f9f32d9d75f4.png",
+    "seances": [
+      {
+        "heure": "24/11 18:00",
+        "cinema": "Vendôme"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "323031",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-323031/critiques/presse/",
+      "note_moyenne_presse": 3.8,
+      "nb_critiques_presse": 24,
+      "critiques_presse": [
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 5.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "C’est la qualité du montage et le regard empli de tendresse de Mathias Mlekuz qui nous embarquent avec ces deux êtres humains, ne cachant rien de leurs sensibilités ou difficultés, et avec lesquels on se sent une étrange proximité en fin de projection. Un film profondément humain, à ne surtout manquer sous aucun prétexte."
+        },
+        {
+          "titre_presse": "Ouest France",
+          "note": 5.0,
+          "auteur": "Philippe Lemoine",
+          "citation": "Ce film est un ovni à deux roues. Une jolie surprise aussi foutraque qu’attachante."
+        },
+        {
+          "titre_presse": "Télé 7 Jours",
+          "note": 5.0,
+          "auteur": "Julien Barcilon",
+          "citation": "Si personnelle, et donc universelle, cette échappée belle touche en plein cœur."
+        },
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "Un film bouleversant et drôle."
+        },
+        {
+          "titre_presse": "Bande à part",
+          "note": 4.0,
+          "auteur": "Anne-Claire Cieutat",
+          "citation": "Aussi désopilant que chavirant, ce journal de deuil, road & buddy movie ne ferait-il pas bouger des lignes de temps ?"
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Un road-movie de deuil triste et drôle à pleurer."
+        },
+        {
+          "titre_presse": "Diverto",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Ils sont rares ces films d’une simplicité confondante mais qui touchent à ce point au cœur. Qui marient à ce point le réel et l’imaginaire, la douleur et la douceur, l’amitié et le deuil impossible."
+        },
+        {
+          "titre_presse": "L'Humanité",
+          "note": 4.0,
+          "auteur": "Michaël Mélinard",
+          "citation": "Tendre, drôle et malicieux."
+        },
+        {
+          "titre_presse": "La Croix",
+          "note": 4.0,
+          "auteur": "Corinne Renou-Nativel",
+          "citation": "Avec mélancolie, tendresse et humour, le comédien et réalisateur Mathias Mlekuz filme son voyage à vélo de La Rochelle à Istanbul sur les traces de son fils disparu."
+        },
+        {
+          "titre_presse": "La Voix du Nord",
+          "note": 4.0,
+          "auteur": "Christophe Caron",
+          "citation": "Ce film-prototype nous réjouit autant qu’il nous touche. Et donne lieu, derrière son côté artisanal et burlesque, à de magnifiques moments de cinéma."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "On n’avait pas pleuré comme ça au cinéma depuis longtemps."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 4.0,
+          "auteur": "Olivier Delcroix",
+          "citation": "Un coup de cœur."
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 4.0,
+          "auteur": "Baptiste Thion",
+          "citation": "Ce road-movie, dans son alternance tragicomique, a autant déridé nos zygomatiques qu'il a embué nos yeux, avec ses séquences improvisées dont la spontanéité et la sincérité, sans doute grâce au montage aussi, lèvent les craintes de l'indécence et du pathos, si bien que jamais le spectateur ne se sent vraiment de trop quand les gorges se nouent."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Yves Jaeglé",
+          "citation": "C’est un film qui chante l’amour de la vie, jusque dans sa plus grande douleur ou malgré elle. Ces deux gars-là, on s’en ferait bien des potes. Chacun a de la chance d’avoir l’autre. Et nous de les voir sur grand écran."
+        },
+        {
+          "titre_presse": "Nice-Matin",
+          "note": 4.0,
+          "auteur": "Mathieu Faure",
+          "citation": "Une œuvre qui fait du bien car elle démontre, sans être moralisatrice ni donneuse de leçons, comment, à partir d’un drame, on peut avancer, se relever, aimer la vie et rire à nouveau."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 4.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Avec sa profondeur et son rythme volontairement irrégulier, entre côtes gravies au forceps, chemins cabossés, coups de fatigue et regain d’énergie, ce voyage à deux roues s’impose comme une belle surprise. Il invite chacun à revoir ses priorités et à croquer la vie à pleines dents… tant qu’il est encore temps."
+        },
+        {
+          "titre_presse": "Version Femina",
+          "note": 4.0,
+          "auteur": "Hadrien Machart",
+          "citation": "Mathias Mlekuz signe une ode à la vie. Avec Philippe Rebbot, dont il partage l’infinie tendresse, l’humour ravageur et l’étonnante sincérité, le réalisateur se dévoile au détour de confessions à cœur ouvert et de scènes comiques cathartiques."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 4.0,
+          "auteur": "Claudine Levanneur",
+          "citation": "Réconfortant, émouvant et drôle, cet objet cinématographique atypique a décidément tout pour plaire."
+        },
+        {
+          "titre_presse": "L'Obs",
+          "note": 3.0,
+          "auteur": "Guillaume Loison",
+          "citation": "L’ensemble donne un film plein de drôlerie et de charme mais qui paie parfois durement sa politique de la roue libre comme son ultra-proximité au réel. Le trop-plein de gravité déclenché par ce voyage thérapeutique ne s’accorde pas toujours avec ses velléités de comédie foutraque et buissonnière."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 3.0,
+          "auteur": "La Rédaction",
+          "citation": "Tourné comme un documentaire pris sur le vif, quasi en roue libre, il y a dans ce pèlerinage beaucoup d'émotions et aussi des fous rires. Primé trois fois au Festival du film francophone d'Angoulême, l'été dernier À bicyclette n'avait pas encore de distributeur pour sortir en salle. C'est fait."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 3.0,
+          "auteur": "Nicolas Marcadé",
+          "citation": "Un atypique compromis entre documentaire et fiction, qui finalement produit un mélo très classique, mais assez solide et touchant."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 3.0,
+          "auteur": "Thierry Chèze",
+          "citation": "Tout n’est pas parfait. Quelques ventres mous, une réalisation qui souffre parfois de ce parti pris d’improvisation reine… Sauf que ces imperfections nourrissent le film, le rendent encore plus attachant. Jamais on ne s’y sent de trop ou voyeur. Toujours à bonne distance."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Jérémie Couston",
+          "citation": "Au fil des rencontres un peu trop arrangées et des discussions improvisées (et alcoolisées) sur l’amitié et la paternité, un drôle de film prend vie, entre émotion et roublardise."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 2.0,
+          "auteur": "M. Dl.",
+          "citation": "Mais le dispositif du tournage perturbe l’ensemble et vient écorner le charme du duo. Ce qui se présentait comme une affaire spontanée et un tête-à-tête peu aguerri aux performances sportives s’avère techniquement et narrativement fort encadré."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-323031/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 4.0,
+      "nb_notes_spectateurs": 4111
+    }
+  },
+  {
+    "titre": "Être et avoir",
+    "annee": 2002,
+    "duree_minutes": 104,
+    "realisateurs": [
+      "Nicolas Philibert"
+    ],
+    "synopsis": "Il s'agit du documentaire éducatif le plus agréable qui soit et qui a établi la norme pour de nombreux films qui ont suivi dans ce genre. Le film français à succès de 2002 Être & Avoir, dans lequel le réalisateur Nicolas Philibert a passé 10 semaines à suivre le charismatique maître Georges Lopez et sa collection hétéroclite d'élèves - des enfants d'âge préscolaire à la dernière année de l'école primaire - dans une seule et même classe. De l'apprentissage de la lecture aux mathématiques, avec calme et patience, Lopez donne confiance à ses élèves et les prépare à la vie en dehors des murs de l'école. Le documentaire éducatif primé Être & Avoir de Nicolas Philibert a suscité chez un large public la nostalgie de la simplicité de la vie telle qu'elle existait encore dans les campagnes françaises.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c21c85ed-8c3a-454f-b208-ae390b01836b.jpg",
+    "seances": [
+      {
+        "heure": "24/11 19:00",
+        "cinema": "Cinema RITCS"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "35962",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-35962/critiques/presse/",
+      "note_moyenne_presse": 4.6,
+      "nb_critiques_presse": 18,
+      "critiques_presse": [
+        {
+          "titre_presse": "Chronic'art.com",
+          "note": 5.0,
+          "auteur": "Jean-Philippe Tessé",
+          "citation": "La plénitude du film naît de son hors champ : Etre et avoir y embrasse rien moins que le monde entier et le cycle du temps. Le monde qui attend les petits apprentis, le temps qui s'écoule et les façonne pour d'autres aventures. La fin de l'année est là, le maître est au bord des larmes, tout le monde se dit au revoir. Les grands partiront, des nouveaux arriveront, et, si l'on en croit Jojo qui apprend à compter, l'infini est à portée de leurs doigts tâchés d'encre, éternellement multicolores."
+        },
+        {
+          "titre_presse": "Cine Libre",
+          "note": 5.0,
+          "auteur": "Philippe Leclercq",
+          "citation": "Nous l'avions dit dès notre retour de Cannes, Etre et avoir est un film magnifique. Certainement l'un des plus beaux moments d'émotion de ce dernier Festival."
+        },
+        {
+          "titre_presse": "L'Express",
+          "note": 5.0,
+          "auteur": "Eric Libiot",
+          "citation": "Voir la critique sur www.lexpress.fr"
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 5.0,
+          "auteur": "Marie-Noëlle Tranchant",
+          "citation": "Voir la critique sur www.lefigaro.fr"
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 5.0,
+          "auteur": "Jacques Mandelbaum",
+          "citation": "On peut à cet égard classer raisonnablement la scène des adieux au professeur comme une des plus belles fins de l'histoire du cinéma."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 5.0,
+          "auteur": "Olivier De Bruyn",
+          "citation": "Voir la critique sur www.lepoint.fr"
+        },
+        {
+          "titre_presse": "MCinéma.com",
+          "note": 5.0,
+          "auteur": "Philippe Descottes",
+          "citation": "On s'émeut devant la situation extrascolaire d'Olivier (10 ans), on sourit aux mots de Marie (4 ans), on rit avec l'adorable Jojo (4 ans). Pour un peu, on retournerait bien à l'école... mais avec monsieur Lopez !"
+        },
+        {
+          "titre_presse": "Première",
+          "note": 5.0,
+          "auteur": "Sophie Grassin",
+          "citation": "Etre et avoir redonne confiance. (...) Confiance - pourquoi ne pas oser le dire ? - dans l'être humain. Avouez que, pour un film, ce n'est pas rien."
+        },
+        {
+          "titre_presse": "Studio Magazine",
+          "note": 5.0,
+          "auteur": "Michel Rebichon",
+          "citation": "Voir la critique sur www.studiomag.com"
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 5.0,
+          "auteur": "Jean-Claude Loiseau",
+          "citation": "Etre et avoir est un film d'une simplicité lumineuse, dont le centre de gravité est cet instit qu'on aimerait avoir eu (...)."
+        },
+        {
+          "titre_presse": "Zurban",
+          "note": 5.0,
+          "auteur": "Eric Quéméré",
+          "citation": "Ni alarmiste, ni nostalgique, Nicolas Philibert nous parle simplement des luttes quotidiennes de l'enfance et du rôle crucial que les adultes se doivent d'y tenir. Il signe ainsi un film magnifique, hommage à un métier dont on avait fini par oublier qu'il est le plus beau du monde..."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 4.0,
+          "auteur": "Vincent Malausa",
+          "citation": "La simplicité du dispositif, affranchie de tout propos didactiques, fait toute la fragilité du dernier film de Nicolas Philibert."
+        },
+        {
+          "titre_presse": "Ciné Live",
+          "note": 4.0,
+          "auteur": "Xavier Leherpeur",
+          "citation": "Voir la critique sur www.cinelive.fr"
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Alain Grasset",
+          "citation": "C'est drôle, émouvant et rafraîchissant. Idéal pour la rentrée des classes."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 4.0,
+          "auteur": "Amélie Dubois",
+          "citation": "Un film drôle et grave, émouvant et captivant."
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 4.0,
+          "auteur": "Eithne O'Neill",
+          "citation": "Prises de vue et bande-son s'illuminent de discrétion."
+        },
+        {
+          "titre_presse": "TéléCinéObs",
+          "note": 4.0,
+          "auteur": "Bernard Achour",
+          "citation": "(...) Nicolas Philibert parvient non seulement à capter le miracle insaisissable et quotidien de la vie, mais à donner dans un même élan les clés d'un avenir auquel nous aspirons tous."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 3.0,
+          "auteur": "Didier Péron",
+          "citation": "Etre et avoir est d'entrée de jeu coincé entre l'imagerie d'Epinal républicaine (la transmission heureuse et égalitaire du savoir) et la mièvrerie \"rigolote\" des minauderies enfantines (la menace Ecoles des fans). On sent bien que ce double écueil, ou risque, à la fois intéresse Nicolas Philibert comme handicap à surmonter et le limite."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-35962/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.6,
+      "nb_notes_spectateurs": 3227
     }
   }
 ]

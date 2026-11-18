@@ -10,10 +10,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2c6a11e3-5015-44c6-80ca-968fdbae45f0.jpg",
     "seances": [
       {
-        "heure": "18/11 14:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "19/11 16:00",
         "cinema": "Aventure"
       },
@@ -52,22 +48,6 @@
       {
         "heure": "22/11 18:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Andiamo a bere l'ultima",
-    "annee": 2026,
-    "duree_minutes": 100,
-    "realisateurs": [
-      "Francesco Sossai"
-    ],
-    "synopsis": "Carlobianchi et Doriano, deux quinquagénaires fauchés, sillonnent les rues la nuit, de bar en bar, obsédés par l'idée de trouver un dernier verre. Sur leur chemin, ils croisent celui de Giulio, un étudiant en architecture aussi timide que naïf. Cette rencontre inattendue avec ces deux mentors improbables va bouleverser sa vision du monde et de l'amour, et changer radicalement son avenir.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/475aac3e-9404-448f-a43b-af701dc8de6e.jpg",
-    "seances": [
-      {
-        "heure": "17/11 21:40",
-        "cinema": "Vendôme"
       }
     ]
   },
@@ -166,6 +146,22 @@
     ]
   },
   {
+    "titre": "Between the Devil and the Deep Blue Sea (Li)",
+    "annee": 1995,
+    "duree_minutes": 91,
+    "realisateurs": [
+      "Marion Hänsel"
+    ],
+    "synopsis": "Un marin d’origine grecque et irlandaise se lie d’amitié avec une fillette de 10 ans vivant sur un sampan, alors que son cargo est à quai à Hong Kong.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6114aad2-1b0c-49fd-9635-3de42445b8e8.jpg",
+    "seances": [
+      {
+        "heure": "24/11 21:30",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Black Fantasy + Toeing the Line",
     "annee": 0,
     "duree_minutes": 96,
@@ -229,6 +225,14 @@
       {
         "heure": "23/11 13:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 17:15",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 20:30",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -278,38 +282,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "17/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 16:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 16:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 21:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/11 16:10",
         "cinema": "Vendôme"
@@ -475,7 +447,7 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "23/11 11:30",
+        "heure": "23/11 11:15",
         "cinema": "Palace"
       },
       {
@@ -523,8 +495,56 @@
         "cinema": "Palace"
       },
       {
-        "heure": "24/11 11:30",
+        "heure": "24/11 11:15",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 16:10",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 16:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 18:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "24/11 18:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 21:20",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:30",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Cléo de 5 à 7",
+    "annee": 1962,
+    "duree_minutes": 90,
+    "realisateurs": [
+      "Agnès Varda"
+    ],
+    "synopsis": "Cléo, belle et chanteuse, attend les résultats d'une analyse médicale. De la superstition à la peur, de la rue de Rivoli au Café de Dôme, de la coquetterie à l'angoisse, de chez elle au Parc Montsouris, Cléo vit 90 minutes particulières. Son amant, son musicien, une amie puis un soldat lui ouvrent les yeux sur le monde.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e90eb8f8-ff21-449d-b81e-2611d7e03c62.jpeg",
+    "seances": [
+      {
+        "heure": "24/11 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -541,6 +561,20 @@
       {
         "heure": "22/11 20:30",
         "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
+    "titre": "Court et Pink Screens",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "24/11 19:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -568,14 +602,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "17/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 20:35",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/11 16:20",
         "cinema": "Vendôme"
@@ -671,22 +697,14 @@
       {
         "heure": "24/11 13:45",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Coyote vs. Acme",
-    "annee": 2026,
-    "duree_minutes": 103,
-    "realisateurs": [
-      "Dave Green"
-    ],
-    "synopsis": "Après que les produits Acme l’ont laissé tomber une fois de trop dans sa poursuite acharnée du Bip Bip, Wile E. Coyote décide de faire appel à un avocat spécialisé — du genre qu’on voit sur les panneaux publicitaires — pour poursuivre en justice la société Acme.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6e7eff07-2e5c-474a-b0bc-e11caa793dd9.jpg",
-    "seances": [
+      },
       {
-        "heure": "18/11 14:00",
-        "cinema": "Aventure"
+        "heure": "24/11 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 21:15",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -733,6 +751,10 @@
       {
         "heure": "20/11 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "24/11 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -772,6 +794,10 @@
       },
       {
         "heure": "23/11 13:40",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 21:00",
         "cinema": "Aventure"
       }
     ]
@@ -901,10 +927,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4add97b6-7e5d-42e8-adf5-b69f5ab42599.jpg",
     "seances": [
       {
-        "heure": "17/11 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "21/11 18:00",
         "cinema": "Cinematek"
       }
@@ -957,36 +979,6 @@
     ]
   },
   {
-    "titre": "Forever a Woman",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 20:00",
-        "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
-    "titre": "Franz",
-    "annee": 2026,
-    "duree_minutes": 127,
-    "realisateurs": [
-      "Agnieszka Holland"
-    ],
-    "synopsis": "De son enfance à Prague jusqu’à sa disparition à Vienne, le film retrace le parcours de Franz Kafka, un homme déchiré entre son aspiration à une existence banale et son besoin irrépressible d’écrire, marqué par des relations amoureuses tourmentées.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ea979e96-c3d3-4af9-9a2c-28134879981c.jpg",
-    "seances": [
-      {
-        "heure": "17/11 21:15",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "From the archives of NATO II",
     "annee": 1958,
     "duree_minutes": 50,
@@ -1010,10 +1002,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "17/11 21:10",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 17:05",
         "cinema": "Vendôme"
@@ -1041,23 +1029,10 @@
       {
         "heure": "23/11 21:30",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "George Michael: The Faith Tour",
-    "annee": 2026,
-    "duree_minutes": 113,
-    "realisateurs": [
-      "David Austin",
-      "Andrew Morahan"
-    ],
-    "synopsis": "George Michael comptait parmi les stars les plus influentes de sa génération ; sa voix et ses compositions ont marqué toute une époque. Réalisé à partir d’images 35 mm redécouvertes, inédites et jamais diffusées auparavant, tournées lors de son concert de 1988 au Palais Omnisports de Paris-Bercy, ce nouveau film de concert montre George au sommet de son art, lors de la tournée « Faith Tour » qui a battu tous les records. Restauré et remastérisé avec soin, le film transforme un moment culturel marquant en une expérience cinématographique spectaculaire. Un court-métrage original de Mary McCartney ouvre le long-métrage, utilisant des enregistrements audio et des images récemment découverts datant de 1986 à 1988 – l’époque de « Faith » – pour créer une « capsule temporelle » rare et intime, offrant un aperçu saisissant de l’état d’esprit de George à ce moment charnière de sa vie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3f87edb9-31b6-4812-bc15-bfaad477c162.jpg",
-    "seances": [
+      },
       {
-        "heure": "17/11 16:00",
-        "cinema": "Le Stockel"
+        "heure": "24/11 17:05",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -1111,14 +1086,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
       {
-        "heure": "18/11 13:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 13:30",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "21/11 10:30",
         "cinema": "Palace"
       },
@@ -1151,15 +1118,17 @@
     ]
   },
   {
-    "titre": "Heat (1972)",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
+    "titre": "Gösta Berlings saga",
+    "annee": 1923,
+    "duree_minutes": 178,
+    "realisateurs": [
+      "Mauritz Stiller"
+    ],
+    "synopsis": "Gösta Berling est un jeune pasteur séduisant. En raison de son alcoolisme et de ses sermons audacieux, il finit par être destitué de ses fonctions. Il devient précepteur de la belle-fille de la comtesse Marta, et tous deux tombent amoureux. Mais la comtesse a ses propres projets.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3b737cc7-60fc-47a9-be52-d2fc0b201444.jpg",
     "seances": [
       {
-        "heure": "17/11 21:00",
+        "heure": "24/11 20:00",
         "cinema": "Cinematek"
       }
     ]
@@ -1172,10 +1141,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/189e4060-6b87-4c4a-80db-64f4f72f5520.jpg",
     "seances": [
-      {
-        "heure": "18/11 09:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/11 18:15",
         "cinema": "Palace"
@@ -1233,8 +1198,12 @@
         "cinema": "Palace"
       },
       {
-        "heure": "24/11 11:30",
+        "heure": "24/11 18:15",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 18:25",
+        "cinema": "Le Stockel"
       }
     ]
   },
@@ -1248,10 +1217,6 @@
     "synopsis": "Dans le village isolé de Hope Harbor, en Corée du Sud, le chef de la police Bum-seok et l'agente Sung-ae sont appelés à enquêter sur une créature mystérieuse qui sème la terreur parmi les habitants. Mais les apparences sont trompeuses, et les perceptions peuvent être erronées. Ce qui commence par l'ignorance sème les graines du désastre, et les conflits humains dégénèrent en une tragédie aux proportions cosmiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
-      {
-        "heure": "17/11 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "19/11 12:10",
         "cinema": "Aventure"
@@ -1351,14 +1316,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
       {
-        "heure": "17/11 18:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/11 12:50",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "19/11 18:00",
         "cinema": "Aventure"
       },
@@ -1385,23 +1342,6 @@
       {
         "heure": "24/11 12:50",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Im Wald von Katyn + Rembrandt",
-    "annee": 1943,
-    "duree_minutes": 114,
-    "realisateurs": [
-      "Fritz Hippler",
-      "Hans Steinhoff"
-    ],
-    "synopsis": "Hans Steinhoff réalisa cette biographie de Rembrandt durant l’Occupation allemande aux Pays-Bas. Le peintre y est dépeint comme un génie germanique incompris, ayant notamment souffert des manœuvres de spéculateur·ice·s juif·ve·s. Le court métrage Dans la forêt de Katyn montre les charniers de Polonais·e·s assassiné·e·s par les Soviétiques en avril-mai 1940. Cette tragédie fut utilisée à la fois comme propagande antibolchévique et antijuive. ",
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 20:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -1445,14 +1385,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "17/11 16:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 20:15",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "21/11 18:20",
         "cinema": "Le Stockel"
@@ -1501,14 +1433,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "17/11 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 20:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/11 15:15",
         "cinema": "Palace"
@@ -1576,6 +1500,14 @@
       {
         "heure": "24/11 13:00",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 15:15",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 20:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1589,10 +1521,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "18/11 14:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/11 15:00",
         "cinema": "Galeries"
@@ -1610,12 +1538,12 @@
         "cinema": "Vendôme"
       },
       {
-        "heure": "21/11 14:25",
-        "cinema": "Palace"
-      },
-      {
         "heure": "21/11 14:40",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "21/11 16:30",
+        "cinema": "Palace"
       },
       {
         "heure": "22/11 12:50",
@@ -1624,6 +1552,10 @@
       {
         "heure": "22/11 13:00",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "22/11 14:25",
+        "cinema": "Palace"
       },
       {
         "heure": "24/11 11:30",
@@ -1641,18 +1573,6 @@
     "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
-      {
-        "heure": "18/11 12:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "18/11 14:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "20/11 15:30",
         "cinema": "Aventure"
@@ -1680,6 +1600,30 @@
       {
         "heure": "22/11 16:00",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 15:30",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Le Noël d'Ernest et Céléstine",
+    "annee": 0,
+    "duree_minutes": 71,
+    "realisateurs": [
+      "Aurélie Rapahel"
+    ],
+    "synopsis": "À l’approche des fêtes et au cœur de l’hiver, Ernest et Célestine nous entraînent dans une série d’aventures tendres, drôles et poétiques. Entre paysages enneigés, préparatifs de Noël, rencontres inattendues et moments de partage, les deux inséparables amis découvrent que la magie de cette saison se cache souvent dans les petites choses du quotidien. Au fil de six histoires pleines de douceur, ils célèbrent l’amitié, la solidarité et l’émerveillement.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e4cf7911-4e72-4392-a41d-a8e9337c9f4f.jpg",
+    "seances": [
+      {
+        "heure": "21/11 10:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "22/11 10:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -1771,22 +1715,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "17/11 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/11 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 18:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/11 14:45",
         "cinema": "Vendôme"
@@ -1910,6 +1838,22 @@
       {
         "heure": "24/11 14:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 15:30",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "24/11 15:45",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 18:45",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:15",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1956,22 +1900,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "17/11 16:25",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 18:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "18/11 12:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/11 13:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/11 17:30",
         "cinema": "Galeries"
@@ -2043,6 +1971,10 @@
       {
         "heure": "24/11 13:30",
         "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 21:15",
+        "cinema": "Galeries"
       }
     ]
   },
@@ -2056,18 +1988,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "17/11 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/11 21:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 11:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "19/11 15:00",
         "cinema": "Galeries"
@@ -2188,20 +2108,6 @@
     ]
   },
   {
-    "titre": "Premières Lumières × Mois du Doc 2026 — Pas à pas : du TFE au premier film",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 19:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Primetime",
     "annee": 2026,
     "duree_minutes": 110,
@@ -2228,14 +2134,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
       {
-        "heure": "17/11 18:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 13:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "19/11 13:00",
         "cinema": "Vendôme"
       },
@@ -2254,6 +2152,30 @@
       {
         "heure": "24/11 13:00",
         "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Res Nullius",
+    "annee": 2026,
+    "duree_minutes": 67,
+    "realisateurs": [
+      "Thomas Jean"
+    ],
+    "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
+    "seances": [
+      {
+        "heure": "18/11 16:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "22/11 12:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "23/11 12:20",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2299,10 +2221,6 @@
     "synopsis": "En novembre, Johnny Depp est Scrooge. Pour changer son futur, il va revivre son passé.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76b0ec15-b017-4919-b578-85b773db3f14.jpg",
     "seances": [
-      {
-        "heure": "18/11 14:30",
-        "cinema": "Le Stockel"
-      },
       {
         "heure": "20/11 17:45",
         "cinema": "Le Stockel"
@@ -2350,6 +2268,10 @@
       {
         "heure": "23/11 21:20",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 18:30",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -2365,10 +2287,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
       {
-        "heure": "18/11 13:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "21/11 10:00",
         "cinema": "Galeries"
       },
@@ -2381,7 +2299,7 @@
         "cinema": "Galeries"
       },
       {
-        "heure": "22/11 11:00",
+        "heure": "22/11 11:15",
         "cinema": "Palace"
       },
       {
@@ -2400,14 +2318,6 @@
     "synopsis": "Directrice d’un établissement pour personnes âgées, Marie-Lou s’efforce d’instaurer une philosophie de prise en charge innovante, fondée sur l’écoute et le respect de la dignité des résidents, malgré les résistances d’une partie de son personnel. Sa rencontre avec Mari, une metteuse en scène japonaise confrontée à un cancer, va profondément infléchir son parcours. En nouant une amitié profonde et solidaire, les deux femmes unissent leurs forces dans un combat commun : rendre possible ce qui semblait impossible.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1906f8b3-ad2f-4726-8b9e-de349bde70c6.jpg",
     "seances": [
-      {
-        "heure": "18/11 09:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 13:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "18/11 14:50",
         "cinema": "Galeries"
@@ -2539,22 +2449,18 @@
       {
         "heure": "24/11 15:00",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Soundtrack to a Coup d’État",
-    "annee": 2024,
-    "duree_minutes": 150,
-    "realisateurs": [
-      "Johan Grimonprez"
-    ],
-    "synopsis": "‘Soundtrack to a Coup d’État’ met en lumière l'une des machinations politiques les plus insidieuses du XXe siècle : comment la monarchie belge, le gouvernement des États-Unis et les multinationales se sont entendus pour utiliser des institutions artistiques et des musiciens de jazz légendaires comme couverture pour des opérations secrètes visant à assassiner le premier ministre du Congo, Patrice Lumumba.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/18e5f355-1176-4964-b943-a1f951fe50bc.jpeg",
-    "seances": [
+      },
       {
-        "heure": "17/11 19:00",
+        "heure": "24/11 17:30",
         "cinema": "Galeries"
+      },
+      {
+        "heure": "24/11 19:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 20:15",
+        "cinema": "Palace"
       }
     ]
   },
@@ -2568,14 +2474,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "17/11 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "19/11 11:45",
         "cinema": "Palace"
@@ -2603,20 +2501,10 @@
       {
         "heure": "23/11 18:15",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "The Bigamist",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
+      },
       {
-        "heure": "17/11 18:30",
-        "cinema": "Cinema RITCS"
+        "heure": "24/11 16:00",
+        "cinema": "Palace"
       }
     ]
   },
@@ -2630,22 +2518,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "17/11 16:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 17:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 19:45",
-        "cinema": "Aventure"
-      },
       {
         "heure": "18/11 17:20",
         "cinema": "Aventure"
@@ -2721,6 +2593,10 @@
       {
         "heure": "23/11 21:40",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:40",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -2739,36 +2615,6 @@
     ]
   },
   {
-    "titre": "Toute une nuit",
-    "annee": 1982,
-    "duree_minutes": 99,
-    "realisateurs": [
-      "Chantal Akerman"
-    ],
-    "synopsis": "Dans une ville, par une nuit d’été très chaude et orageuse, des hommes, des femmes, des enfants, pris de désir, prêts à tout, se laissent emporter, jusqu’au vertige parfois, dans l’excès de leurs sentiments. Jusqu’à l’aube. TOUTE UNE NUIT, des fragments comme des morceaux d’intensité, qui ont presque tous à voir avec le frémissement, la tension amoureuse ou sexuelle, et toujours avec les sentiments.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/8d399454-068c-4b96-825f-72b3721617b6.jpeg",
-    "seances": [
-      {
-        "heure": "17/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "WHY DO I SEE YOU IN EVERYTHING?",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "17/11 16:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Wicker",
     "annee": 2026,
     "duree_minutes": 105,
@@ -2780,10 +2626,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
       {
-        "heure": "17/11 16:25",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "18/11 16:30",
         "cinema": "Aventure"
       },
@@ -2793,6 +2635,10 @@
       },
       {
         "heure": "22/11 16:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 16:30",
         "cinema": "Aventure"
       }
     ]
@@ -2805,34 +2651,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "17/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "17/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "17/11 21:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "17/11 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "17/11 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 14:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "18/11 14:55",
         "cinema": "Aventure"
@@ -3072,6 +2890,34 @@
       {
         "heure": "24/11 13:45",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 16:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 16:30",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 18:00",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "24/11 19:00",
+        "cinema": "Vendôme"
+      },
+      {
+        "heure": "24/11 21:00",
+        "cinema": "Galeries"
+      },
+      {
+        "heure": "24/11 21:30",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "24/11 21:30",
+        "cinema": "Vendôme"
       }
     ]
   },
@@ -3117,12 +2963,44 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39ddceef-1ccb-4486-ab27-bbe0bb022d2c.jpg",
     "seances": [
       {
-        "heure": "22/11 20:00",
-        "cinema": "Galeries"
+        "heure": "22/11 10:00",
+        "cinema": "Palace"
       },
       {
-        "heure": "22/11 20:30",
-        "cinema": "Palace"
+        "heure": "22/11 20:00",
+        "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "À Bicyclette !",
+    "annee": 2025,
+    "duree_minutes": 89,
+    "realisateurs": [
+      "Mathias Mlekuz"
+    ],
+    "synopsis": "De l’Atlantique à la mer Noire, Mathias embarque son meilleur ami Philippe dans un road trip à bicyclette. Ensemble ils vont refaire le voyage que Youri, son fils, avait entrepris avant de disparaitre tragiquement. Une épopée qu’ils traverseront avec tendresse, humour et émotion.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/db75750b-b34c-4e10-a0b8-f9f32d9d75f4.png",
+    "seances": [
+      {
+        "heure": "24/11 18:00",
+        "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "Être et avoir",
+    "annee": 2002,
+    "duree_minutes": 104,
+    "realisateurs": [
+      "Nicolas Philibert"
+    ],
+    "synopsis": "Il s'agit du documentaire éducatif le plus agréable qui soit et qui a établi la norme pour de nombreux films qui ont suivi dans ce genre. Le film français à succès de 2002 Être & Avoir, dans lequel le réalisateur Nicolas Philibert a passé 10 semaines à suivre le charismatique maître Georges Lopez et sa collection hétéroclite d'élèves - des enfants d'âge préscolaire à la dernière année de l'école primaire - dans une seule et même classe. De l'apprentissage de la lecture aux mathématiques, avec calme et patience, Lopez donne confiance à ses élèves et les prépare à la vie en dehors des murs de l'école. Le documentaire éducatif primé Être & Avoir de Nicolas Philibert a suscité chez un large public la nostalgie de la simplicité de la vie telle qu'elle existait encore dans les campagnes françaises.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c21c85ed-8c3a-454f-b208-ae390b01836b.jpg",
+    "seances": [
+      {
+        "heure": "24/11 19:00",
+        "cinema": "Cinema RITCS"
       }
     ]
   }

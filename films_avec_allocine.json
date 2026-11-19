@@ -241,7 +241,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000040172/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 362
+      "nb_notes_spectateurs": 380
     }
   },
   {
@@ -487,30 +487,6 @@
     }
   },
   {
-    "titre": "Atlantis",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "18/11 18:30",
-        "cinema": "Galeries"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "126961",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-126961/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-126961/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 3
-    }
-  },
-  {
     "titre": "Atonement",
     "annee": 2007,
     "duree_minutes": 122,
@@ -713,23 +689,6 @@
     }
   },
   {
-    "titre": "Belga Actualités n° 65 + Der Postmeister",
-    "annee": 1940,
-    "duree_minutes": 92,
-    "realisateurs": [
-      "Gustav Ucicky"
-    ],
-    "synopsis": "Après que l’Allemagne et l’Union soviétique eurent signé un pacte de non-agression, l’Allemagne considéra comme possible d’adapter un livre de Pouchkine. Heinrich George tient le rôle principal dans ce film dramatique, qui restera populaire auprès de nombreux·ses Belges même après la Libération. En prélude, un bulletin d’informations de juin 1944, contenant des images du bombardement allié de Bruxelles. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4d7507fb-2dde-4716-93a5-abedd5d375ee.jpg",
-    "seances": [
-      {
-        "heure": "18/11 20:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Between the Devil and the Deep Blue Sea (Li)",
     "annee": 1995,
     "duree_minutes": 91,
@@ -782,14 +741,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0c2ebd59-87f1-4967-a244-339637e4c78b.jpg",
     "seances": [
       {
-        "heure": "18/11 17:05",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/11 15:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "19/11 20:30",
         "cinema": "Le Stockel"
       },
@@ -833,7 +784,7 @@
     "allocine": {
       "allocine_id": "316136",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-316136/critiques/presse/",
-      "note_moyenne_presse": 3.4,
+      "note_moyenne_presse": 3.3,
       "nb_critiques_presse": 29,
       "critiques_presse": [
         {
@@ -847,12 +798,6 @@
           "note": 4.0,
           "auteur": "Olivier Bachelard",
           "citation": "Mêlant les faiblesses des convives avec leur irrésistible envie de gagner, ainsi que quelques considérations intelligentes sur les différences sociales [...], \"Camembert\" réussit son pari : nous faire rire et générer quelques scènes potentiellement cultes, dont celle d'accueil du grand père à l'hôpital."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Avec leur premier long-métrage au scénario déjà vu mais bien tenu, bien rythmé, Matthieu Rumani et Nicolas Slomka ne se contentent pas de mettre du désordre dans les relations familiales, par un comique de situation rigolo."
         },
         {
           "titre_presse": "Femme Actuelle",
@@ -871,12 +816,6 @@
           "note": 4.0,
           "auteur": "La Rédaction",
           "citation": "Très bien écrits, jamais caricaturaux, les personnages ont chacun un rapport différent à la culture, présentée comme un vecteur d’émancipation et un outil..."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Camembert est sans doute moins aigu dans son écriture, et plus tendre, croyant à la fin en une parfaite osmose des milieux contraires. N’empêche, à cette partie, on se prend au jeu."
         },
         {
           "titre_presse": "Le Figaro",
@@ -933,6 +872,12 @@
           "citation": "L'art de faire un fromage d'un jeu de plateau."
         },
         {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 3.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "On songe à \"Le Goût des autres\" (2000) d’Agnès Jaoui et Jean-Pierre Bacri, comédie indépassable en férocité sur le sujet. \"Camembert\" est sans doute moins aigu dans son écriture, et plus tendre, croyant à la fin en une parfaite osmose des milieux contraires. N’empêche, à cette partie, on se prend au jeu."
+        },
+        {
           "titre_presse": "La Croix",
           "note": 3.0,
           "auteur": "Corinne Renou-Nativel",
@@ -949,6 +894,12 @@
           "note": 3.0,
           "auteur": "Christophe Caron",
           "citation": "Engueulades, rabibochages et remise en question au menu de ce jeu grinçant à défaut d’être surprenant."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 3.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Attention, jeu méchant !"
         },
         {
           "titre_presse": "Le Journal du Dimanche",
@@ -1012,8 +963,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-316136/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 89
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 202
     }
   },
   {
@@ -1038,243 +989,6 @@
     "allocine": null
   },
   {
-    "titre": "Close",
-    "annee": 2022,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "Lukas Dhont"
-    ],
-    "synopsis": "Léo et Rémi, 13 ans, sont amis depuis toujours. Jusqu’à ce qu’un événement impensable les sépare. Plein d’incompréhension, Léo aborde Sophie, la mère de Rémi. CLOSE est un film sur l’amitié et la responsabilité.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f74741eb-9adc-4441-bd92-e3b0925ba365.png",
-    "seances": [
-      {
-        "heure": "18/11 20:15",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "294372",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-294372/critiques/presse/",
-      "note_moyenne_presse": 3.3,
-      "nb_critiques_presse": 35,
-      "critiques_presse": [
-        {
-          "titre_presse": "20 Minutes",
-          "note": 5.0,
-          "auteur": "Caroline Vié",
-          "citation": "Cette œuvre bouleversante a reçu le Grand prix du jury au Festival de Cannes."
-        },
-        {
-          "titre_presse": "Bande à part",
-          "note": 5.0,
-          "auteur": "Olivier Bombarda",
-          "citation": "POUR : Lukas Dhont a ainsi magistralement réussi son pari : filmer la vie avec une grâce infinie."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 5.0,
-          "auteur": "Michaël Mélinard",
-          "citation": "Avec ses impressionnants jeunes comédiens, cette œuvre lumineuse se mue en ballet mélancolique et flamboyant magnifiquement chorégraphié."
-        },
-        {
-          "titre_presse": "LCI",
-          "note": 5.0,
-          "auteur": "Jérôme Vermelin",
-          "citation": "Grâce à sa formidable maîtrise des silences et des regards, la beauté de ses cadrages et la lumière de ses jeunes interprètes novices, Eden Dambrine et Gustav de Waele, Close est d'abord et avant tout un immense mélodrame qui sert le cœur et fait rejaillir, par petites touches, ces instants cruciaux qui ont façonné l’existence de chacun d’entre nous. Juste magique."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Avec une sidérante finesse et une magnifique subtilité, « Close », récompensé du Grand Prix en mai dernier à Cannes, creuse les non-dits d’une relation avortée trop tôt et ses conséquences sur celui qui reste quand l’autre est parti."
-        },
-        {
-          "titre_presse": "CNews",
-          "note": 4.0,
-          "auteur": "La rédaction",
-          "citation": "Lukas Dhont confirme son talent pour filmer avec grâce et pudeur l’adolescence et la quête identitaire."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Jacky Bornet",
-          "citation": "Beau par son sujet, sa mise en scène et ses interprètes - dont Léa Drucker et Emilie Dequenne, Close abonde en talent et émotion."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 4.0,
-          "auteur": "Christophe Caron",
-          "citation": "Quatre ans après « Girl », Lukas Dhont, 31 ans, incarne plus que jamais la relève du cinéma belge. On pleure beaucoup devant « Close ». Mais on y trouve aussi une forme de lumière."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Le jeune cinéaste belge joue à fond la carte claire du mélo limpide et balisé, sur l’innocence perdue, les liens brisés de l’amitié et la perte inconsolable. (...) Sur le terrain de jeu du tragique, Close est relevé par ses interprètes (...)."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Baptiste Thion",
-          "citation": "Chronique adolescente virant au mélodrame, ce deuxième film bouleversant signé Lukas Dhont confirme son talent d’explorateur de l’intime."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Nicolas Marcadé",
-          "citation": "Lukas Dhont (Girl, 2018) signe un film d’abord bluffant de style et d’intensité, puis un peu appliqué et prévisible."
-        },
-        {
-          "titre_presse": "Marie Claire",
-          "note": 4.0,
-          "auteur": "Emily Barnett",
-          "citation": "Une chavirante histoire d'amitié entre deux ados."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "Gilles Kerdreux",
-          "citation": "Après le très beau Girl, il y a quatre ans,le réalisateur Lukas Dhont livre une nouvelle pépite d’émotion avec Close, autour de deux jeunes garçons."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Thierry Cheze",
-          "citation": "Close devient alors un film sur la culpabilité de celui qui reste et Dhont joue des ellipses pour ne jamais verser dans l’insoutenable, quitte parfois à retenir un peu trop artificiellement les chevaux."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Sophie Avon",
-          "citation": "Grand prix au dernier Festival de Cannes, « Close », du cinéaste belge Lukas Dhont, est l’histoire d’un apprentissage. Bouleversant."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 4.0,
-          "auteur": "Camille Brun",
-          "citation": "Après l'impressionnant Girl, Lukas Dhont bouleverse avec ce drame filmé à hauteur d'adolescent et baigné d'une belle lumière de fin d'été."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 4.0,
-          "auteur": "Camille Brun",
-          "citation": "Après l'impressionnant Girl, Lukas Dhont bouleverse avec ce drame filmé à hauteur de garçon, baigné d'une belle lumière de fin d'été. Les acteurs sont formidables."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Gérard Crespo",
-          "citation": "Le second long métrage de Lukas Dhont est une œuvre forte sur le deuil et l’affirmation de soi, qui confirme le talent de son auteur."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 3.0,
-          "auteur": "Renan Cros",
-          "citation": "Un film douloureux et fragile."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 3.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Sur le terrain de jeu du tragique, Close est relevé par ses interprètes : Eden Dambrine et Gustav De Waele, les deux ados héros, et Émilie Dequenne et Léa Drucker dans le rôle de leurs mères, viennent apporter de la nuance à la dramatisation à l’excès, jouant sur plusieurs niveaux émotionnels, l’amour, la haine, la confusion, le désir, la force et le désespoir."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 3.0,
-          "auteur": "Axelle Vacher",
-          "citation": "Moins viscéral que le premier film de Lukas Dhont, Close présente malgré tout une chronique émouvante sur l'amitié, l'intimité et l'innocence à l'épreuve des codes traditionnels hétéronormatifs."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 3.0,
-          "auteur": "Céline Rouden",
-          "citation": "Heureusement, le film peut compter sur un casting impeccable depuis les deux jeunes acteurs (Eden Dambrine et Gustav De Waele) jusqu’aux adultes dont la très émouvante Émilie Dequenne."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 3.0,
-          "auteur": "Etienne Sorin",
-          "citation": "Lukas Dhont est un admirateur de Céline Sciamma. Il pourrait être un cousin de Xavier Dolan, en plus doloriste et moins hystérique. Ou même un petit frère des Dardenne. Un petit frère sentimental, qui aimerait les violonades, les couchers de soleil et les courses dans les champs de fleurs."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Cl. F.",
-          "citation": "Infiniment touchant, avec ses personnages très justes, Close souffre d’une mise en scène démonstrative, dans sa manière de nous signifier – à longueur de plans – tantôt la beauté de l’innocence, tantôt la violence de l’apprentissage des codes virils."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Bruno Deruisseau",
-          "citation": "Close semble pétrifié dans sa joliesse. Et inversement proportionnelle à l’horreur du drame et à la douleur que vivent les personnages, cette joliesse finit par tenir le film à distance de son sujet, de l’émotion et finalement des spectateur·trices."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 3.0,
-          "auteur": "Fabrice Leclerc",
-          "citation": "Film délicat entre tous, d’une sensibilité à fleur de peau, “Close” évoque l’éveil à la vie dans ce qu’il a de plus beau et de plus brutal. Dommage que le jeune prodige belge alourdisse son propos et coupe l’émotion dans une narration répétitive, une débauche de violons et un pathos un peu trop affiché."
-        },
-        {
-          "titre_presse": "Bande à part",
-          "note": 2.0,
-          "auteur": "Benoit Basirico",
-          "citation": "CONTRE : Nous repérons l’intention louable du réalisateur, qui encourage le spectateur à considérer ses sentiments, mais comme une thèse, sans implication."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 2.0,
-          "auteur": "Thomas Grignon",
-          "citation": "Sous couvert d’une délicatesse affectée, le film dévoile un goût passablement masochiste pour le martyre."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 2.0,
-          "auteur": "Laura Tuillier",
-          "citation": "Ici, la joliesse cabotine du jeune acteur, alliée à des décors nunuches de type champs de fleurs pastels et à un parcours de deuil ultra répétitif, forment une fiction bien peignée qui coche toutes les cases du film bon élève à même de mettre tout le monde d’accord."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 2.0,
-          "auteur": "William Le Personnic",
-          "citation": "Seulement, un basculement narratif plonge le film dans une succession de séquences aussi chargées symboliquement (le hockey, sport viriliste, pour apprendre à encaisser les coups) que jonchées d’envolées lacrymales redondantes."
-        },
-        {
-          "titre_presse": "Transfuge",
-          "note": 2.0,
-          "auteur": "Frédéric Mercier",
-          "citation": "On se dit alors qu’on tient enfin un film où l’on ne cherche pas à nous mâcher le travail, à nous rejouer le même programme afin de nous expliquer ce qu’il faut penser. Grossière erreur !"
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 2.0,
-          "auteur": "Marie Sauvion",
-          "citation": "Cette chronique d’une intense amitié adolescente mise à mal par les clichés de genre vire au mélo appuyé."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 1.0,
-          "auteur": "Fernando Ganzo",
-          "citation": "Aussi émouvante soit-elle, cette réduction de la vie en symbole, du cinéma en leçon, du personnage en pion du destin se fait au détour du plus cruel deus ex machina imaginable dont on nous donne en même temps les raisons et l’absolution de toute responsabilité."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 1.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "Sur un scénario en creux, le cinéaste greffe des séquences bucoliques (les deux gamins courent beaucoup, mais vraiment beaucoup, dans les prés) qui semblent sans cesse différer son véritable sujet. Mais, à force de l’éviter, le jeune réalisateur finit par passer à côté."
-        },
-        {
-          "titre_presse": "La Septième Obsession",
-          "note": 1.0,
-          "auteur": "David Ezan",
-          "citation": "De la part d’un tout jeune cinéaste, on attendait mieux que cet imaginaire finalement très conformiste."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-294372/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 3870
-    }
-  },
-  {
     "titre": "Club Kid",
     "annee": 2026,
     "duree_minutes": 122,
@@ -1284,34 +998,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "18/11 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 21:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "18/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/11 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 21:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "19/11 16:10",
         "cinema": "Vendôme"
@@ -1764,7 +1450,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036932/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 1351
+      "nb_notes_spectateurs": 1412
     }
   },
   {
@@ -1973,7 +1659,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000021055/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 1425
+      "nb_notes_spectateurs": 1432
     }
   },
   {
@@ -1992,21 +1678,6 @@
     "allocine": null
   },
   {
-    "titre": "Courts métrages nordiques",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "Une séance de courts-métrages nordiques avec quatuor à cordes en direct ! Islande, Finlande, Suède, Estonie : le cinéaste Luc Dardenne a accepté de sélectionner pour nous ses coups de cœur parmi un catalogue d’œuvres cinématographiques proposées par quatre pays nordiques.\n\nLa fragilité de jeunes face à un examen d’entrée en école de théâtre (Signals de l’Islandais Rúnar Ingi Einarsson, 2024), l’improbable combinaison de la menace nucléaire et de l’Eurovision dans l’Helsinki nocturne des années 80 (Equal Dust du Finlandais Jani Peltonen, 2025) et la menace du mariage forcé (The Weight of Light d’Anna Hints, Estonie 2024) côtoieront le film suédois Trädgårdsmästaren (Le Jardinier) de Victor Sjöström.\n\nCe dernier est un cas à part dans l’histoire du cinéma suédois : un film de 1912 « plein d’inventions, de ruptures de rythmes, de plans intenses, et portant une critique des rapports sociaux et surtout de la condition des femmes » (dixit Luc Dardenne), sévèrement censuré en Suède vu son sujet trop scabreux (une jeune fille confrontée à l’agression sexuelle de son beau-père), et qui n’y connut dès lors jamais de première ! Les copies de Trädgårdsmästaren semblaient à jamais perdues, lorsqu’en 1979 une copie en est trouvée à la Bibliothèque du Congrès des États-Unis.\n\nPour ce film et cette séance hors du commun, le compositeur David Achenberg a écrit une partition sur mesure, qui en accompagnera en temps réel les rebondissements.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fc32fa6c-1e09-4a98-9e8e-ceabf5b5305f.jpg",
-    "seances": [
-      {
-        "heure": "18/11 19:30",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "Coward",
     "annee": 2026,
     "duree_minutes": 125,
@@ -2016,22 +1687,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "18/11 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 21:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 16:00",
         "cinema": "Galeries"
@@ -2124,8 +1779,8 @@
     "allocine": {
       "allocine_id": "1000017168",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000017168/critiques/presse/",
-      "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 20,
+      "note_moyenne_presse": 3.3,
+      "nb_critiques_presse": 39,
       "critiques_presse": [
         {
           "titre_presse": "Abus de Ciné",
@@ -2140,6 +1795,24 @@
           "citation": "\"Coward\" n’est pas un film de guerre. C’est un film de jeunesse cabossée cherchant à tenir debout, une œuvre de contrastes entre amour et fracas, timidité et flamboyance, tendresse et brutalité, retenue et débordement, mort et désir de vivre."
         },
         {
+          "titre_presse": "So Film",
+          "note": 5.0,
+          "auteur": "Léo Ortuno",
+          "citation": "Lukas Dhont filme cette romance avec sa délicatesse habituelle, exploitant pleinement les potentialités dramatiques du contexte guerrier tout en captant l’élan, la joie et l’ivresse des performances. Surtout, il parvient à formuler un geste rare : montrer la guerre comme un levier d’émancipation paradoxal où, entre deux visions d’horreur, ces jeunes hommes entrevoient la possibilité d’une autre manière de vivre ensemble."
+        },
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "Le film est touché par le talent de deux comédiens découverts par Lukas Dhont."
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Emmanuel Macchia et Valentin Campagne forment un couple de cinéma délicat."
+        },
+        {
           "titre_presse": "Elle",
           "note": 4.0,
           "auteur": "Ophélie Daguin",
@@ -2150,6 +1823,30 @@
           "note": 4.0,
           "auteur": "La Rédaction",
           "citation": "Un film ambitieux."
+        },
+        {
+          "titre_presse": "Konbini",
+          "note": 4.0,
+          "auteur": "Konbini",
+          "citation": "Une bouleversante histoire d’amour queer et de cabaret au fond des tranchées de 1916, portée par les performances sensibles de ses deux jeunes acteurs et sublimée par sa mise en scène époustouflante."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 4.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Une limpide histoire d’amour et de douleur."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 4.0,
+          "auteur": "Catherine Balle",
+          "citation": "Ce nouveau très beau film de Lukas Dhont, le réalisateur des déchirants « Girl » et « Close », se déroule pendant la Première Guerre mondiale."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 4.0,
+          "auteur": "Florence Colombani",
+          "citation": "Le film trouve un équilibre entre scènes sexuelles explicites et lyrisme amoureux, tirant son énergie et son magnétisme du talent brut des deux acteurs principaux. Leur fougue sensuelle et romantique a séduit le jury de Park Chan-wook au dernier Festival de Cannes, au point de valoir aux deux comédiens un double prix d’interprétation masculine."
         },
         {
           "titre_presse": "Les Inrockuptibles",
@@ -2164,6 +1861,12 @@
           "citation": "Depuis ses débuts, le cinéma de Lukas Dhont explore les frontières entre féminin et masculin (Girl), amour et amitié (Close). Ici, la frontière est réelle, entre l’Allemagne et la Belgique en pleine Première Guerre mondiale, théâtre d’un amour fou entre un soldat et un saltimbanque."
         },
         {
+          "titre_presse": "Ouest France",
+          "note": 4.0,
+          "auteur": "Pascale Vergereau",
+          "citation": "Un film sensible qui fait voler en éclat les codes habituels du film de guerre, porté par deux acteurs très doués."
+        },
+        {
           "titre_presse": "Télé 2 semaines",
           "note": 4.0,
           "auteur": "Camille Brun",
@@ -2174,6 +1877,18 @@
           "note": 4.0,
           "auteur": "Camille Brun",
           "citation": "Porté par un duo d'excellents comédiens, un film audacieux, joliment mis en scène et très émouvant."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 4.0,
+          "auteur": "Louis Guichard",
+          "citation": "Un amour en pleine guerre, loin des clichés de la virilité."
+        },
+        {
+          "titre_presse": "Ecran Large",
+          "note": 3.0,
+          "auteur": "Antoine Desrues",
+          "citation": "Lukas Dhont se complaît une nouvelle fois dans les facilités lacrymales et bavardes du mélodrame surexplicatif, alors que son film a de belles idées, notamment dans la peinture de son couple de protagonistes à l’orée d’une micro-société masculine, façonnée par la guerre."
         },
         {
           "titre_presse": "Franceinfo Culture",
@@ -2188,16 +1903,40 @@
           "citation": "L’histoire d’amour entre deux soldats belges sur le front, en 1916, est mise en scène avec brio mais manque d’émotion."
         },
         {
+          "titre_presse": "La Tribune Dimanche",
+          "note": 3.0,
+          "auteur": "Aurélien Cabrol",
+          "citation": "Il [le réalisateur] peine à la [l'histoire d'amour] faire vivre véritablement dans ce contexte de guerre et de mort, malgré l'allant indéniable de ses deux acteurs principaux, Emmanuel Macchia et Valentin Campagne, couronnés à Cannes par un double prix d'interprétation."
+        },
+        {
           "titre_presse": "La Voix du Nord",
           "note": 3.0,
           "auteur": "Christophe Caron",
           "citation": "Les précédents films du réalisateur belge Lukas Dhont nous avaient brisé le cœur (\"Girl\", \"Close\"). Curieusement, celui-ci ne nous amène pas au même niveau d’émotion ravageuse. L’environnement de la guerre se révèle singulier, mais le film part dans deux directions : l’art comme échappatoire, et cette romance hésitante et beaucoup plus attendue."
         },
         {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Bo. B.",
+          "citation": "Si Les Braves contient quelques scènes difficiles à soutenir, Lukas Dhont signe surtout un film d’amour sensible et profondément antimilitariste qui ne renonce jamais à sa part de lumière. La caméra, pleine d’énergie, colle à Pierre, limitant notre expérience du monde à son regard, ses mouvements. Comme en immersion, au plus près des corps."
+        },
+        {
           "titre_presse": "Les Fiches du Cinéma",
           "note": 3.0,
           "auteur": "Antoine Corte",
           "citation": "Avec \"Les Braves\", l’auteur de \"Girl\" et \"Close\" oppose la scène aux tranchées dans un film imparfait mais habité."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 3.0,
+          "auteur": "Luc Chessel",
+          "citation": "Sur fond de Première Guerre mondiale, le troisième long métrage de Lukas Dhont, qui raconte l’idylle entre deux soldats sur le front belge, séduit par un casting réussi – le duo Macchia-Campagne a reçu le prix d’interprétation à Cannes – mais se perd dans une niaiserie à double tranchant."
+        },
+        {
+          "titre_presse": "Paris Match",
+          "note": 3.0,
+          "auteur": "Yannick Vely",
+          "citation": "La deuxième partie est plus séduisante. Le cinéaste belge déploie enfin son beau sujet : comment l’amour et l’art peuvent naître au milieu des cadavres ?"
         },
         {
           "titre_presse": "Positif",
@@ -2210,6 +1949,12 @@
           "note": 3.0,
           "auteur": "Thierry Chèze",
           "citation": "Dhont impressionne quand même par sa capacité à faire émerger de nouveaux visages et à les sublimer en images (...)."
+        },
+        {
+          "titre_presse": "Rolling Stone",
+          "note": 3.0,
+          "auteur": "Samuel Regnard",
+          "citation": "Un joli film mais qui peine à nous émouvoir complètement."
         },
         {
           "titre_presse": "Sud Ouest",
@@ -2228,6 +1973,30 @@
           "note": 2.0,
           "auteur": "Charlotte Garson",
           "citation": "Le film dévoile d’emblée sa structure binaire, limité à la promotion de l’amour contre la guerre, de la légèreté du spectacle contre la boucherie des puissants, et de l’homosexualité contre la virilité belliqueuse."
+        },
+        {
+          "titre_presse": "CinemaTeaser",
+          "note": 2.0,
+          "auteur": "Perrine Quennesson",
+          "citation": "On pense beaucoup à BROKEBACK MOUNTAIN devant LES BRAVES, mais le film n’en partage hélas ni l’apparente simplicité, ni la passion."
+        },
+        {
+          "titre_presse": "L'Obs",
+          "note": 2.0,
+          "auteur": "Nicolas Schaller",
+          "citation": "Un drame plein de clichés sur la découverte de l’homosexualité dans les tranchées."
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 2.0,
+          "auteur": "Barbara Théate",
+          "citation": "S’il met en lumière un détail méconnu du conflit, sa façon de mettre en opposition les horreurs des combats dans les tranchées et des jeunes hommes qui se travestissent façon cabaret se révèle assez maladroite, vire malaisante."
+        },
+        {
+          "titre_presse": "Les Echos",
+          "note": 2.0,
+          "auteur": "Chloé Caye",
+          "citation": "Lukas Dhont tente de faire exister une romance queer sur fond de Première Guerre mondiale mais peine à libérer son récit de trop nombreux poncifs."
         },
         {
           "titre_presse": "Version Femina",
@@ -2249,8 +2018,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017168/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 74
+      "note_moyenne_spectateurs": 3.8,
+      "nb_notes_spectateurs": 143
     }
   },
   {
@@ -2334,14 +2103,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "18/11 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/11 13:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "20/11 21:00",
         "cinema": "Aventure"
@@ -2586,7 +2347,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 3204
+      "nb_notes_spectateurs": 3208
     }
   },
   {
@@ -2599,18 +2360,6 @@
     "synopsis": "Après avoir échappé de peu à un étrange accident, un adolescent en difficulté est en proie aux visions d'un gros lapin qui le manipule pour commettre une série de crimes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/772c52e0-a96a-43e4-8128-f60931141693.jpg",
     "seances": [
-      {
-        "heure": "18/11 21:15",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "18/11 21:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/11 13:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "20/11 21:00",
         "cinema": "Aventure"
@@ -2741,7 +2490,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-34193/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 23896
+      "nb_notes_spectateurs": 23898
     }
   },
   {
@@ -2935,7 +2684,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000019249/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.3,
-      "nb_notes_spectateurs": 312
+      "nb_notes_spectateurs": 314
     }
   },
   {
@@ -2946,10 +2695,6 @@
     "synopsis": null,
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "18/11 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "23/11 20:00",
         "cinema": "Cinematek"
@@ -2964,145 +2709,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3064/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
-    }
-  },
-  {
-    "titre": "Erin Brockovich",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "18/11 18:00",
-        "cinema": "Vendôme"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "23980",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-23980/critiques/presse/",
-      "note_moyenne_presse": 4.1,
-      "nb_critiques_presse": 19,
-      "critiques_presse": [
-        {
-          "titre_presse": "FHM",
-          "note": 5.0,
-          "auteur": "Laurent Djian",
-          "citation": "Basé sur une histoire vraie, ce thriller juridique nous épargne les longues et fastidieuses scènes de procès. Captivant."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 5.0,
-          "auteur": "Claude Baignères",
-          "citation": "Voir la critique sur www.lefigaro.fr"
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 5.0,
-          "auteur": "Marie-Noëlle Tranchant",
-          "citation": "(...) Erin Brockovich seule contre tous est un festival Julia Roberts (...)... Quelle énergie !"
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Pierre Vavasseur",
-          "citation": "Une mise en scène d'une totale maîtrise colle à une volonté évidente de montrer, sans en faire trop, quelques aspects de la société américaine. Julia Roberts couronne le tout d'un jeu et d'une présence incontestablement efficaces."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 5.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "Voir la critique sur www.lepoint.fr"
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Frédéric Strauss",
-          "citation": "Steven Soderbergh a habilement mis cette success story véridique au service de son actrice."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 4.0,
-          "auteur": "Frédéric Bas",
-          "citation": "(...) Soderbergh a sa manière de regarder. On décèle dans Erin Brockovich cette saisie brusque des gestes les plus élémentaires et des scènes les plus simples, ce ton décalé qui sait rendre compte d'un détail et en véhiculer le sens."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 4.0,
-          "auteur": "Sandra Benedetti",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Cplanet.com",
-          "note": 4.0,
-          "auteur": "Jean-Christophe Derrien",
-          "citation": "Erin Brockovich parvient (...) à éviter d'être un simple film de procès ou un drame social sirupeux grâce au talent de son interprète principal et de son réalisateur. C'était pas gagné d'avance."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 4.0,
-          "auteur": "Eric Libiot",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "Lenouveaucinema.com",
-          "note": 4.0,
-          "auteur": "Jean-Philippe de Tonnac",
-          "citation": "Electrique prestation de cette grande actrice qui donne à ce nouveau procès intenté par le cinéma américain à la société moderne la vivacité et la couleur d'une brillante comédie."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "Annie Coppermann",
-          "citation": "(...) conçu pour séduire Erin Brockovich se regarde avec un réel plaisir. A moins d'être allergique à Julia Robert, bien sûr..."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Frédéric Bonnaud",
-          "citation": "Ce formidable petit film prouve que Julia Roberts est une grande actrice et confirme que Steven Soderbergh est de ces rares artisans conteurs du cinéma américains."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "Grâce à ses atouts formels de toujours (...), qui lui ont permis de signer ces dernières années de singuliers films noirs, Soderbergh dépeint (...) avec une très réjouissante subtilité des bipèdes ordinaires comme on n'en voit rarement dans le cinéma US"
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 4.0,
-          "auteur": "Patrick Fabre",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "L'Evénement",
-          "note": 3.0,
-          "auteur": "Maurice Szafran",
-          "citation": "(...) Pretty Woman et Erin Brockovich, c'est certes agréable, mais c'est du pareil au même."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "François Forestier",
-          "citation": "C'est une histoire vraie, Steven Soderbergh sait y faire, on passe un bon moment avec les jolis décolletés de Julia, on est content de voir que David triomphe de Goliath, et, somme toute, la vie est belle. Voilà tout le cinéma américain résumé."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Thomas Sotinel",
-          "citation": "(...) cette histoire de complot ordinaire (...), convient bien aux talents de Steven Soderbergh. Dès qu'il le peut, le réalisateur s'efforce d'introduire un peu de trouble, de cerner aussi la beauté du mal (...)"
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Didier Péron",
-          "citation": "Julia Roberts dope son personnage et la mise en scène consiste essentiellement à ne pas rater une miette du processus. Julia est de tous les plans que Soderbergh a composés et montés tout en souplesse et confort de route."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-23980/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 25817
     }
   },
   {
@@ -3129,111 +2735,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3265/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.8,
       "nb_notes_spectateurs": 6
-    }
-  },
-  {
-    "titre": "Erupcja",
-    "annee": 2025,
-    "duree_minutes": 71,
-    "realisateurs": [
-      "Peter Ohs"
-    ],
-    "synopsis": "Bethany est en vacances à Varsovie avec son fiancé lorsque son chemin recroise celui d’une amie, Nel, avec qui elle entretenait une relation électrique. Au même moment, l’Etna entre en éruption.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/77e92db8-d71c-4777-bb12-8dd7b721f58e.jpg",
-    "seances": [
-      {
-        "heure": "18/11 17:30",
-        "cinema": "Cineflagey"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000012946",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000012946/critiques/presse/",
-      "note_moyenne_presse": 3.1,
-      "nb_critiques_presse": 13,
-      "critiques_presse": [
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 4.0,
-          "auteur": "Fernando Ganzo Cuesta",
-          "citation": "Éruption traduit l’angoisse générationnelle d’un monde en voie d’extinction, mais il arrive à presque célébrer ce motif : voir la star disparaître pour mieux apercevoir l’actrice, voir aussi s’évanouir les idées fixes des personnages [...] pour les laisser libres, dans une découverte frontale et joyeuse du monde, qui ressemble à une belle définition de la jeunesse."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 4.0,
-          "auteur": "Emmanuelle Spadacenta",
-          "citation": "Ce qui s'y déroule est un peu fluide et désinvolte mais le film possède une force de cinéma qui emporte tout."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Mathieu Jaborska",
-          "citation": "Grâce à son dispositif en toute simplicité, \"Eruption\" conte avec justesse les meilleurs et les pires aspects de l’impulsivité sentimentale."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Bruno Deruisseau",
-          "citation": "Tenu dans tous les sens du terme [...], \"Eruption\" est une chronique romantique qui prend le temps de chercher son sujet, sujet qui pourrait d’ailleurs être celui d’un film de Rohmer : le hasard peut-il donner un sens à nos vies ? Et dans le cas présent : de quoi cette coïncidence entre éruption et crise amoureuse est-elle le signe ?"
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 3.0,
-          "auteur": "Louise Bertin",
-          "citation": "Le refus du drame est stimulant, mais laisse également l'impression d'un film qui hésite à s'abandonner complètement à ses propres élans. Reste un objet souvent drôle, qui transforme Varsovie en terrain de jeu mélancolique pour des personnages en quête de sens."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "Bethany débarque à Varsovie flanquée d’un fiancé vite mis au rebut, sacrifié sur l’autel de l’amitié amoureuse (fuie pour une étrange raison) qu’elle éprouve pour la belle Nel. Un ménage à trois réjouissant de mélancolie surréaliste et de mise en scène pop."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 3.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Tout n’est pas parfait, l’histoire est un peu courte sur le plan dramatique, mais on ne s’ennuie pas une seconde, si tant est que l’on en accepte le moteur narratif, l’errance et l’indécision, la voix off et la déambulation dans la ville, dans les codes du cinéma français de la Nouvelle Vague."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Bo. B.",
-          "citation": "Se présentant comme une suite de hasards et de rencontres où chacun tente de déceler les signes de la singularité de son destin, Eruption se pare des défauts et des qualités d’un certain cinéma indépendant qui compense, par un goût pour le maniérisme et une fraîcheur d’écriture, le manque de moyens."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Olivier Lamm",
-          "citation": "C’est joli, aimable, électrisé par quelques points d’orgue franchement denses en émotion et le jeu de Charli XCX (Charlotte Aitchison à la ville), dont le naturel aux antipodes de sa persona de chanteuse bratty sous sunglasses Givenchy révèle qu’elle n’est pas tombée par hasard devant une caméra de cinéma."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 3.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Car autant sa méthode de filmer sans véritable scénario – en construisant une grande partie de l’histoire au fur et à mesure avec les comédiens – insuffle une liberté palpable, autant celle-ci trouve ses limites dans son montage, parfois confus avec une voix off qui tente de faire le liant, et dans les relations que tissent les personnages, intéressantes mais pas assez approfondies pour qu’on adhère pleinement à ce joli essai poétique teinté de spleen."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Jérémie Couston",
-          "citation": "Un film d’atmosphère où l’icône hyper-pop incarne une touriste britannique en vacances à Varsovie qui délaisse son fiancé pour tenter de renouer avec son amante d’hier. Jolie surprise."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 2.0,
-          "auteur": "La Rédaction",
-          "citation": "Charli xcx impose son talent d'actrice ne dépit d'une réalisation un peu trop chichiteuse."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 1.0,
-          "auteur": "Violette Messager",
-          "citation": "Le traitement puéril du récit et des personnages, et la médiocrité de la réalisation, en font un film d’une vanité confondante."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000012946/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 141
     }
   },
   {
@@ -3285,21 +2786,6 @@
       "note_moyenne_spectateurs": 4.1,
       "nb_notes_spectateurs": 1000
     }
-  },
-  {
-    "titre": "From the archives of NATO II",
-    "annee": 1958,
-    "duree_minutes": 50,
-    "realisateurs": [],
-    "synopsis": "Présentation spéciale de films historiques issus de la collection que l’OTAN a déposée à CINEMATEK en 2024. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dae61d8b-8f86-42ad-a558-d442662b400e.png",
-    "seances": [
-      {
-        "heure": "18/11 19:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": null
   },
   {
     "titre": "Garance",
@@ -3587,7 +3073,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 3468
+      "nb_notes_spectateurs": 3478
     }
   },
   {
@@ -3794,7 +3280,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000014492/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 950
+      "nb_notes_spectateurs": 996
     }
   },
   {
@@ -4018,22 +3504,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/189e4060-6b87-4c4a-80db-64f4f72f5520.jpg",
     "seances": [
       {
-        "heure": "18/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 19:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/11 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/11 13:00",
-        "cinema": "Galeries"
-      },
-      {
         "heure": "19/11 15:45",
         "cinema": "Le Stockel"
       },
@@ -4103,10 +3573,6 @@
     "synopsis": "Dans le village isolé de Hope Harbor, en Corée du Sud, le chef de la police Bum-seok et l'agente Sung-ae sont appelés à enquêter sur une créature mystérieuse qui sème la terreur parmi les habitants. Mais les apparences sont trompeuses, et les perceptions peuvent être erronées. Ce qui commence par l'ignorance sème les graines du désastre, et les conflits humains dégénèrent en une tragédie aux proportions cosmiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
-      {
-        "heure": "19/11 12:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "20/11 12:40",
         "cinema": "Aventure"
@@ -4344,8 +3810,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314882/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.4,
-      "nb_notes_spectateurs": 2216
+      "note_moyenne_spectateurs": 3.5,
+      "nb_notes_spectateurs": 2261
     }
   },
   {
@@ -4359,10 +3825,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a0db41ed-64b3-4d7c-aed2-dc51359017b9.jpg",
     "seances": [
       {
-        "heure": "18/11 17:00",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "22/11 15:15",
         "cinema": "Le Stockel"
       }
@@ -4370,100 +3832,7 @@
     "allocine": {
       "allocine_id": "1000004528",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/presse/",
-      "note_moyenne_presse": 2.7,
-      "nb_critiques_presse": 11,
-      "critiques_presse": [
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "É. S.",
-          "citation": "Si Hunger Games se renouvelle peu, le contexte, lui, évolue. Des adolescents forcés de lutter pour survivre sous le regard cynique d’adultes en mal de divertissement, le futur imaginé par Suzanne Collins ressemble à notre présent."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Un teen-blockbuster largement au-dessus de la moyenne."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 3.0,
-          "auteur": "Antoine Desrues",
-          "citation": "\"Hunger Games\" surprend toujours par sa constance qualitative et sa pertinence politique, quitte à sacrifier le poids émotionnel des jeux (un peu décevants ici) au profit de leur mise en place."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 3.0,
-          "auteur": "Louisa Darrigrand",
-          "citation": "Malgré un décor innovant, l'histoire de \"Hunger Games : lever de soleil sur la moisson\" souffre de quelques redites. L'émulation collective qui transpirait des premiers films et en faisait des succès, peine à se faire sentir."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Ameline Grout",
-          "citation": "Doté de quelques interprètes convaincants et abordant de front la question de la propagande, ce prequel appauvrit un peu la mythologie de la saga."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Simon Besnard",
-          "citation": "En reléguant les affrontements sanglants hors champ, le film rappelle opportunément que le véritable combat ne s’est jamais joué entre les individus, mais bien contre le système oppressif qui les aliène."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 3.0,
-          "auteur": "Chloé Delos-Eray",
-          "citation": "Dans des décors spectaculaires, deux fois plus d’ados sont envoyés se battre à mort dans l’arène. Hollywood fait ce qu’il sait faire avec ce blockbuster efficace, parfois trop superficiel."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 3.0,
-          "auteur": "Victoire Marin",
-          "citation": "Toujours sympathique même si sans véritable surprise, la saga Hunger Games continue avec un sixième volet dans la lignée des opus précédents."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 2.0,
-          "auteur": "Julien Barcilon",
-          "citation": "Seuls les fans des livres y trouveront peut-être matière à se réjouir."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 1.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Le sixième long métrage consacré à la célèbre saga déçoit dans son approche, son manque de rythme et fait dans la redite."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 1.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Entre la direction artistique kitschissime, les effets spéciaux ratés, une partie « Hunger Games » bâclée de quarante minutes, où ce héros malgré lui ne tue personne et déjoue des pièges qui surgissent quand ça arrange le scénario, les incessants bavardages, le jeu d’acteurs approximatif et le peu d’action, les faux pas sont nombreux."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 10
-    }
-  },
-  {
-    "titre": "Hunger Games: Sunrise on the Reaping",
-    "annee": 2026,
-    "duree_minutes": 159,
-    "realisateurs": [
-      "Francis Lawrence"
-    ],
-    "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymitch Abernathy essaie de ne pas trop penser à ses chances. Tout ce qui lui importe est d'être avec la fille qu'il aime. Mais lorsque qu'il est appelé, tous ses rêves s'effondrent. Il est arraché à sa famille et à son amour, transporté au Capitole avec les trois autres tributs du District 12 : une jeune amie qui est presque une sœur pour lui, un parieur compulsif, et la fille la plus prétentieuse de la ville. Alors que les Jeux commencent, Haymitch comprend qu'il a été piégé pour échouer. Mais il est prêt à se battre... et faire en sorte que ce combat résonne bien au-delà de l'arène.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/855d6cef-7dfb-4a6f-ba3e-acc96e23eec5.jpg",
-    "seances": [
-      {
-        "heure": "20/11 20:15",
-        "cinema": "Le Stockel"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000004528",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/presse/",
-      "note_moyenne_presse": 3.1,
+      "note_moyenne_presse": 3.0,
       "nb_critiques_presse": 25,
       "critiques_presse": [
         {
@@ -4479,22 +3848,10 @@
           "citation": "Ce nouvel opus bien ficelé est porteur d’un message libertaire sympathique."
         },
         {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Visuellement, formellement, les arènes des jeux sont très travaillées, servant le divertissement XXL que veut être ce blockbuster au budget de plus de 170 millions de dollars."
-        },
-        {
           "titre_presse": "GQ",
           "note": 4.0,
           "auteur": "Cathy Tran",
           "citation": "Sixième film de la saga et second préquel, \"Hunger Games : Lever de soleil sur la moisson\" marque les esprits par son ambition, son discours politique féroce et un héros aussi touchant que déterminé."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 3.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Une jeunesse sacrifiée qui tente de sauver sa peau dans un monde terriblement injuste, cynique et révoltant - c’est d’actualité, leur résistance et rébellion contre une société qui les manipule comme des pions et les anéantit…"
         },
         {
           "titre_presse": "Le Figaro",
@@ -4521,6 +3878,12 @@
           "citation": "Un teen-blockbuster largement au-dessus de la moyenne."
         },
         {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 3.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Il faut chercher du côté des personnages secondaires l’attraction de cet épisode : Elle Fanning en Effie Trinket, Jesse Plemons en Plutarch, et surtout Glenn Close en Drusilla grotesque et extravagante sont épatants. Chacun de leur apparition apporte du caractère et de la folie, subvertissant le programme."
+        },
+        {
           "titre_presse": "Ecran Large",
           "note": 3.0,
           "auteur": "Antoine Desrues",
@@ -4531,6 +3894,12 @@
           "note": 3.0,
           "auteur": "Louisa Darrigrand",
           "citation": "Malgré un décor innovant, l'histoire de \"Hunger Games : lever de soleil sur la moisson\" souffre de quelques redites. L'émulation collective qui transpirait des premiers films et en faisait des succès, peine à se faire sentir."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 3.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Une jeunesse sacrifiée qui tente de sauver sa peau dans un monde terriblement injuste, cynique et révoltant - c’est d’actualité, leur résistance et rébellion contre une société qui les manipule comme des pions et les anéantit…"
         },
         {
           "titre_presse": "Le Journal du Dimanche",
@@ -4618,8 +3987,185 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 13
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 230
+    }
+  },
+  {
+    "titre": "Hunger Games: Sunrise on the Reaping",
+    "annee": 2026,
+    "duree_minutes": 159,
+    "realisateurs": [
+      "Francis Lawrence"
+    ],
+    "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymitch Abernathy essaie de ne pas trop penser à ses chances. Tout ce qui lui importe est d'être avec la fille qu'il aime. Mais lorsque qu'il est appelé, tous ses rêves s'effondrent. Il est arraché à sa famille et à son amour, transporté au Capitole avec les trois autres tributs du District 12 : une jeune amie qui est presque une sœur pour lui, un parieur compulsif, et la fille la plus prétentieuse de la ville. Alors que les Jeux commencent, Haymitch comprend qu'il a été piégé pour échouer. Mais il est prêt à se battre... et faire en sorte que ce combat résonne bien au-delà de l'arène.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/855d6cef-7dfb-4a6f-ba3e-acc96e23eec5.jpg",
+    "seances": [
+      {
+        "heure": "20/11 20:15",
+        "cinema": "Le Stockel"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "1000004528",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/presse/",
+      "note_moyenne_presse": 3.0,
+      "nb_critiques_presse": 25,
+      "critiques_presse": [
+        {
+          "titre_presse": "Le Journal du Geek",
+          "note": 5.0,
+          "auteur": "Elisa Rahouadj",
+          "citation": "Avec une mise en scène luxuriante, un souffle spectaculaire saisissant, et un casting cinq étoiles, ce volet nous offre une fresque parfaite des Jeux de l'exubérance."
+        },
+        {
+          "titre_presse": "20 Minutes",
+          "note": 4.0,
+          "auteur": "Caroline Vié",
+          "citation": "Ce nouvel opus bien ficelé est porteur d’un message libertaire sympathique."
+        },
+        {
+          "titre_presse": "GQ",
+          "note": 4.0,
+          "auteur": "Cathy Tran",
+          "citation": "Sixième film de la saga et second préquel, \"Hunger Games : Lever de soleil sur la moisson\" marque les esprits par son ambition, son discours politique féroce et un héros aussi touchant que déterminé."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 4.0,
+          "auteur": "É. S.",
+          "citation": "Si Hunger Games se renouvelle peu, le contexte, lui, évolue. Des adolescents forcés de lutter pour survivre sous le regard cynique d’adultes en mal de divertissement, le futur imaginé par Suzanne Collins ressemble à notre présent."
+        },
+        {
+          "titre_presse": "Ouest France",
+          "note": 4.0,
+          "auteur": "Gaël Golhen",
+          "citation": "Avant Katniss, il y avait Haymitch. Onze ans après la fin de la saga portée par Jennifer Lawrence, Hunger Games revient avec un deuxième préquel. Une réussite qui montre un univers dystopique hélas assez prémonitoire."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 4.0,
+          "auteur": "Gael Golhen",
+          "citation": "Dans le rôle principal, Joseph Zada est une révélation. Charme de voyou, rage rentrée : il ne copie pas Woody Harrelson, il le fabrique."
+        },
+        {
+          "titre_presse": "Voici",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Un teen-blockbuster largement au-dessus de la moyenne."
+        },
+        {
+          "titre_presse": "Dernières Nouvelles d'Alsace",
+          "note": 3.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Il faut chercher du côté des personnages secondaires l’attraction de cet épisode : Elle Fanning en Effie Trinket, Jesse Plemons en Plutarch, et surtout Glenn Close en Drusilla grotesque et extravagante sont épatants. Chacun de leur apparition apporte du caractère et de la folie, subvertissant le programme."
+        },
+        {
+          "titre_presse": "Ecran Large",
+          "note": 3.0,
+          "auteur": "Antoine Desrues",
+          "citation": "\"Hunger Games\" surprend toujours par sa constance qualitative et sa pertinence politique, quitte à sacrifier le poids émotionnel des jeux (un peu décevants ici) au profit de leur mise en place."
+        },
+        {
+          "titre_presse": "Franceinfo Culture",
+          "note": 3.0,
+          "auteur": "Louisa Darrigrand",
+          "citation": "Malgré un décor innovant, l'histoire de \"Hunger Games : lever de soleil sur la moisson\" souffre de quelques redites. L'émulation collective qui transpirait des premiers films et en faisait des succès, peine à se faire sentir."
+        },
+        {
+          "titre_presse": "Le Dauphiné Libéré",
+          "note": 3.0,
+          "auteur": "Nathalie Chifflet",
+          "citation": "Une jeunesse sacrifiée qui tente de sauver sa peau dans un monde terriblement injuste, cynique et révoltant - c’est d’actualité, leur résistance et rébellion contre une société qui les manipule comme des pions et les anéantit…"
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 3.0,
+          "auteur": "Stéphanie Belpêche",
+          "citation": "Après une longue introduction, le jeu de massacre est enfin lancé et parvient à se renouveler, en dépit d’une mise en scène un peu aseptisée."
+        },
+        {
+          "titre_presse": "Le Monde",
+          "note": 3.0,
+          "auteur": "Bo. B.",
+          "citation": "Reste les bonnes surprises, et ce Hunger Games n’est pas dénué de qualités. A commencer par quelques scènes d’action très réussies et une manière malicieuse de déjouer certaines attentes. Dommage que Francis Lawrence se sente obligé d’appuyer autant ses effets mélodramatiques."
+        },
+        {
+          "titre_presse": "Le Parisien",
+          "note": 3.0,
+          "auteur": "Renaud Baronian",
+          "citation": "Première partie réussie, casting magnifique, mais deuxième heure trop violente et effets numériques abusifs : le nouveau volet de la saga dystopique en salles mercredi 18 novembre ne convainc pas totalement."
+        },
+        {
+          "titre_presse": "Les Echos",
+          "note": 3.0,
+          "auteur": "Adrien Gombeaud",
+          "citation": "Second préquel des aventures de Katniss Everdeen, le nouvel épisode des « Hunger Games » a tout d'un au revoir. Tandis que la formule montre des signes d'essoufflement à l'écran, le symbole de la rébellion irrigue plus que jamais les mouvements sociaux au-delà des salles obscures."
+        },
+        {
+          "titre_presse": "Les Fiches du Cinéma",
+          "note": 3.0,
+          "auteur": "Ameline Grout",
+          "citation": "Doté de quelques interprètes convaincants et abordant de front la question de la propagande, ce prequel appauvrit un peu la mythologie de la saga."
+        },
+        {
+          "titre_presse": "Les Inrockuptibles",
+          "note": 3.0,
+          "auteur": "Simon Besnard",
+          "citation": "En reléguant les affrontements sanglants hors champ, le film rappelle opportunément que le véritable combat ne s’est jamais joué entre les individus, mais bien contre le système oppressif qui les aliène."
+        },
+        {
+          "titre_presse": "Libération",
+          "note": 3.0,
+          "auteur": "Jérémy Piette",
+          "citation": "Dernière cuvée de la lucrative saga, le film de Francis Lawrence dissèque, avec une esthétique renouvelée, les rouages pervers du voyeurisme de classe."
+        },
+        {
+          "titre_presse": "Télérama",
+          "note": 3.0,
+          "auteur": "Chloé Delos-Eray",
+          "citation": "Dans des décors spectaculaires, deux fois plus d’ados sont envoyés se battre à mort dans l’arène. Hollywood fait ce qu’il sait faire avec ce blockbuster efficace, parfois trop superficiel."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 3.0,
+          "auteur": "Victoire Marin",
+          "citation": "Toujours sympathique même si sans véritable surprise, la saga Hunger Games continue avec un sixième volet dans la lignée des opus précédents."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 2.0,
+          "auteur": "Philippe Guedj",
+          "citation": "Nous frôlons l’indigestion, mais pour les fans le cahier des charges est assurément rempli. Le succès massif devrait être au rendez-vous."
+        },
+        {
+          "titre_presse": "Télé 7 Jours",
+          "note": 2.0,
+          "auteur": "Julien Barcilon",
+          "citation": "Seuls les fans des livres y trouveront peut-être matière à se réjouir."
+        },
+        {
+          "titre_presse": "L'Obs",
+          "note": 1.0,
+          "auteur": "Nicolas Schaller",
+          "citation": "Ce sixième volet de la saga dystopique pour ados, prequel du premier, est la reproduction du même en beaucoup moins bien et sans Jennifer Lawrence (ou presque). Tarantino a raison : mieux vaut revoir « Battle Royale »."
+        },
+        {
+          "titre_presse": "Nice-Matin",
+          "note": 1.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Le sixième long métrage consacré à la célèbre saga déçoit dans son approche, son manque de rythme et fait dans la redite."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 1.0,
+          "auteur": "Cédric Coppola",
+          "citation": "Entre la direction artistique kitschissime, les effets spéciaux ratés, une partie « Hunger Games » bâclée de quarante minutes, où ce héros malgré lui ne tue personne et déjoue des pièges qui surgissent quand ça arrange le scénario, les incessants bavardages, le jeu d’acteurs approximatif et le peu d’action, les faux pas sont nombreux."
+        }
+      ],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000004528/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 3.9,
+      "nb_notes_spectateurs": 260
     }
   },
   {
@@ -4883,7 +4429,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039483/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 1367
+      "nb_notes_spectateurs": 1439
     }
   },
   {
@@ -5161,7 +4707,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-323550/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 1430
+      "nb_notes_spectateurs": 1496
     }
   },
   {
@@ -5191,201 +4737,6 @@
     }
   },
   {
-    "titre": "L'économie du couple",
-    "annee": 2016,
-    "duree_minutes": 100,
-    "realisateurs": [
-      "Joachim Lafosse"
-    ],
-    "synopsis": "Marie et Boris se séparent après 15 ans de vie commune. Marie est propriétaire de la maison où ils vivent avec leurs deux enfants, mais lui a entièrement rénové le bâtiment. À l’heure des comptes, aucun des deux n'entend faire de concession sur ce qu'il estime lui revenir.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/949ff312-989b-4f39-b1a5-95c8d0db2283.jpeg",
-    "seances": [
-      {
-        "heure": "18/11 21:30",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "236567",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-236567/critiques/presse/",
-      "note_moyenne_presse": 3.5,
-      "nb_critiques_presse": 28,
-      "critiques_presse": [
-        {
-          "titre_presse": "Bande à part",
-          "note": 5.0,
-          "auteur": "Anne-Claire Cieutat",
-          "citation": "Joachim Lafosse filme, avec délicatesse et pragmatisme, la rupture amoureuse et l’éclatement d’une cellule familiale dans L’Économie du couple, découvert lors de la dernière Quinzaine des Réalisateurs à Cannes. Vif et saisissant."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "Le couple et ses déchirures : le sujet n'a évidemment rien de nouveau, mais Joachim Lafosse, en évitant à chaque instant les clichés et le psychologisme, le réinvente sous nos yeux. Et signe un grand film intime qui, au détour de chaque plan, vibre d'une intensité exceptionnelle"
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Cette chronique marque profondément par sa justesse."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 4.0,
-          "auteur": "Catherine Robin",
-          "citation": "Fiction réalisée avec une maestria d'ethnologue, le film du cinéaste belge décrit un phénomène en développement dans nos sociétés occidentales fragilisées par la crise (...)."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Joachim Lalosse filme avec beaucoup de justesse et d'élégance les derniers soubresauts d'une séparation programmée sublimée par deux comédiens magnifiques."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 4.0,
-          "auteur": "Eric Libiot",
-          "citation": "C'est souvent brillant, notamment grâce aux deux interprètes (...)."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Dominique Widemann",
-          "citation": "Subtil et remarquablement interprété par Bérénice Béjo et Cédric Kahn."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Jean Serroy",
-          "citation": "Un film qui, tout en mettant à nu le mystérieux ferment de dissolution qui transforme des êtres qui se sont aimés en ennemis irréconciliables, ajoute l’aspect économique, moins souvent montré mais non le moins violent, de la séparation."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Etienne Sorin",
-          "citation": "Joachim Lafosse filme la fin d'un amour avec lucidité et beaucoup de précision."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Tout en retenue, Bérénice Bejo, forte et fragile, et Cédric Kahn, viril et immature, sont d'une justesse saisissante."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Pierre Vavasseur",
-          "citation": "Bérénice Bejo et Cédric Kahn ne s'économisent pas dans cette « Economie du couple ». Le film possède cette force déchirante des combats qui s'abîment dans leurs derniers feux. Il laissera sa marque."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Victoria Gairin",
-          "citation": "La caméra, presque infiltrée, s'immisce au plus près des personnages, de leurs angoisses et des si rares moments de trêve. Juste et poignant."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Bérénice Béjo et Cédric Kahn livrent une impressionnante performance, d'une sensibilité rare."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Sylvestre Picard",
-          "citation": "(...) les deux acteurs sont formidables de justesse et le climax déchirant au son de \"Bella\" de Maître Gilms laisse sur le carreau."
-        },
-        {
-          "titre_presse": "Studio Ciné Live",
-          "note": 4.0,
-          "auteur": "Thierry Cheze",
-          "citation": "(Une) interprétation éblouissante de retenue des deux acteurs principaux."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Pierre Murat",
-          "citation": "Constamment fluide, aérienne, la mise en scène se fige brutalement lors des moments où le réalisateur semble compter, un à un, les coups qu'échangent ses personnages."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Après le décevant \"Les Chevaliers blancs\", le réalisateur retrouve sa veine intimiste et incisive de \"A perdre la raison\", sans mélo ni romantisme."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Claudine Levanneur",
-          "citation": "Joachim Lafosse se lance dans une comédie plus comptable que romantique, animée avec virtuosité par une famille de comédiens épatants."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 3.0,
-          "auteur": "Emmanuelle Spadacenta",
-          "citation": "Un huis-clos tenu de main de maître."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 3.0,
-          "auteur": "Jacky Bornet",
-          "citation": "Le film brille par l'intelligence d’un scénario original. S’il s’agit d’un huis clos, Lafosse échappe au théâtre filmé grâce à une caméra sobrement mobile, des dialogues bien écrits et vivants, avec une interprétation de tous au diapason."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "Cédric Kahn se montre très à son avantage, descendant et remontant en virtuose une gamme plus étendue que celle parcourue par un scénario médiocrement inventif, qui s'en remet presque exclusivement aux mots, pas assez au cinéma."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 3.0,
-          "auteur": "Corinne Renou-nativel",
-          "citation": "Pourquoi s’imposer plus d’une heure et demie de conflit conjugal ? À quoi sert de voir cet épuisant bras de fer entre un mari et une femme ? C’est la vraie et seule limite de ce film. À chacun d’y répondre à sa guise, d’y puiser (ou non) une nourriture personnelle. Pour le reste, \"L’Économie du couple\" s’avère d’une justesse exemplaire."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Chloé Rolland",
-          "citation": "Aborder la séparation par le prisme de la lutte des classes, c'est l'angle astucieux que choisit Joachim Lafosse dans cette nouvelle étude de l'emprise ordinaire. Par trop de sentimentalisme, le film perd en puissance."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 3.0,
-          "auteur": "Serge Kaganski",
-          "citation": "Une guerre des sexes au tempo impeccable."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 2.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "Si l’on sent bien que Joachim Lafosse focalise son propos sur la question de l’argent pour en faire le symptôme d’une cause moins aisément assignable, on ne peut s’empêcher de regretter que cette cause ne puisse autrement s’approcher que sous la forme d’un règlement comptable."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 2.0,
-          "auteur": "Clémentine Gallot",
-          "citation": "Avec sa proximité théâtrale pour seul dispositif de mise en scène, ce huis-clos étouffant confine le spectateur au plus près des querelles acrimonieuses (et interminables) de ses personnages, le condamnant à se repaître d’un voyeurisme conjugal un peu vain."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 1.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "\"L’Économie du couple\" est une chronique incroyablement monotone et insincère, où l’enjeu ne dépasse guère celui de compter les points, et de renvoyer chacun à ses bassesses. Joli programme."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 1.0,
-          "auteur": "Morgan Pokée",
-          "citation": "Il faudra attendre la toute fin de \"L’Économie du couple\" pour entériner hélas la terrible dérive du cinéma de Lafosse et réaliser que son film ne consiste en fait qu’en une petite procédure administrative de plus."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-236567/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.2,
-      "nb_notes_spectateurs": 1513
-    }
-  },
-  {
     "titre": "La Gradiva",
     "annee": 2026,
     "duree_minutes": 145,
@@ -5395,18 +4746,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "18/11 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 20:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/11 11:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "19/11 15:15",
         "cinema": "Palace"
@@ -5709,7 +5048,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-318225/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1956
+      "nb_notes_spectateurs": 1988
     }
   },
   {
@@ -5722,14 +5061,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "18/11 15:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "18/11 16:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "20/11 11:30",
         "cinema": "Palace"
@@ -5973,7 +5304,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000012316/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 336
+      "nb_notes_spectateurs": 342
     }
   },
   {
@@ -6252,7 +5583,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-273579/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 20764
+      "nb_notes_spectateurs": 20766
     }
   },
   {
@@ -6291,7 +5622,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-495/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.6,
-      "nb_notes_spectateurs": 6779
+      "nb_notes_spectateurs": 6782
     }
   },
   {
@@ -6366,7 +5697,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-62178/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.1,
-      "nb_notes_spectateurs": 9290
+      "nb_notes_spectateurs": 9291
     }
   },
   {
@@ -6538,26 +5869,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "18/11 14:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 15:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 21:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/11 14:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 15:45",
         "cinema": "Palace"
@@ -6916,7 +6227,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000022205/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1546
+      "nb_notes_spectateurs": 1550
     }
   },
   {
@@ -7079,22 +6390,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "18/11 17:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/11 11:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/11 12:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "19/11 13:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 18:10",
         "cinema": "Galeries"
@@ -7285,7 +6580,31 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000051082/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.4,
-      "nb_notes_spectateurs": 341
+      "nb_notes_spectateurs": 343
+    }
+  },
+  {
+    "titre": "Nicht der Homosexuelle ist pervers, sondern die Situation, in der er lebt",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "25/11 18:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "115256",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-115256/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-115256/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -7298,10 +6617,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "19/11 15:00",
-        "cinema": "Galeries"
-      },
       {
         "heure": "20/11 12:50",
         "cinema": "Galeries"
@@ -7602,33 +6917,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 3435
-    }
-  },
-  {
-    "titre": "Paisà",
-    "annee": 1946,
-    "duree_minutes": 120,
-    "realisateurs": [
-      "Roberto Rossellini"
-    ],
-    "synopsis": "Six épisodes improvisés avec acteurs amateurs dans l'Italie de la Libération. Un style de fiction-document qui imposa le néoréalisme transalpin de l'immédiat après-guerre.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3fb80ed5-5554-4d8d-8746-e2c0b9967818.jpeg",
-    "seances": [
-      {
-        "heure": "19/11 15:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "3623",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-3623/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3623/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 225
+      "nb_notes_spectateurs": 3439
     }
   },
   {
@@ -7867,6 +7156,21 @@
     }
   },
   {
+    "titre": "Premières Lumières × Mois du Doc 2026 — Pas à pas : du TFE au premier film",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "25/11 19:00",
+        "cinema": "Aventure"
+      }
+    ],
+    "allocine": null
+  },
+  {
     "titre": "Primetime",
     "annee": 2026,
     "duree_minutes": 110,
@@ -8076,7 +7380,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000013908/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.1,
-      "nb_notes_spectateurs": 1383
+      "nb_notes_spectateurs": 1399
     }
   },
   {
@@ -8089,10 +7393,6 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
-      {
-        "heure": "19/11 13:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "20/11 13:00",
         "cinema": "Vendôme"
@@ -8335,7 +7635,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036515/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1098
+      "nb_notes_spectateurs": 1108
     }
   },
   {
@@ -8348,10 +7648,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "18/11 16:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "22/11 12:20",
         "cinema": "Aventure"
@@ -8412,7 +7708,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1052/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 987
+      "nb_notes_spectateurs": 988
     }
   },
   {
@@ -8557,7 +7853,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000034007/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 749
+      "nb_notes_spectateurs": 781
     }
   },
   {
@@ -8570,10 +7866,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "18/11 18:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "19/11 21:20",
         "cinema": "Aventure"
@@ -8754,7 +8046,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024131/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 341
+      "nb_notes_spectateurs": 345
     }
   },
   {
@@ -8767,38 +8059,6 @@
     "synopsis": "Directrice d’un établissement pour personnes âgées, Marie-Lou s’efforce d’instaurer une philosophie de prise en charge innovante, fondée sur l’écoute et le respect de la dignité des résidents, malgré les résistances d’une partie de son personnel. Sa rencontre avec Mari, une metteuse en scène japonaise confrontée à un cancer, va profondément infléchir son parcours. En nouant une amitié profonde et solidaire, les deux femmes unissent leurs forces dans un combat commun : rendre possible ce qui semblait impossible.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1906f8b3-ad2f-4726-8b9e-de349bde70c6.jpg",
     "seances": [
-      {
-        "heure": "18/11 14:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "18/11 15:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 19:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "18/11 20:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/11 13:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/11 14:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/11 15:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 19:30",
         "cinema": "Vendôme"
@@ -9143,7 +8403,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024105/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1920
+      "nb_notes_spectateurs": 1924
     }
   },
   {
@@ -9156,10 +8416,6 @@
     "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
-      {
-        "heure": "19/11 11:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "19/11 18:15",
         "cinema": "Palace"
@@ -9201,18 +8457,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "18/11 17:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/11 17:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 21:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 17:40",
         "cinema": "Aventure"
@@ -9294,30 +8538,6 @@
     }
   },
   {
-    "titre": "The Price of the Sun",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "18/11 19:00",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000044435",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000044435/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000044435/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "Wicker",
     "annee": 2026,
     "duree_minutes": 105,
@@ -9328,10 +8548,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "18/11 16:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "20/11 16:30",
         "cinema": "Aventure"
@@ -9468,7 +8684,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-322884/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 278
+      "nb_notes_spectateurs": 291
     }
   },
   {
@@ -9479,50 +8695,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "18/11 14:55",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/11 18:00",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "18/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "18/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "18/11 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "18/11 19:05",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "18/11 21:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "18/11 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "19/11 13:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "19/11 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "19/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "19/11 15:30",
         "cinema": "Aventure"
@@ -9955,7 +9127,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-298024/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1665
+      "nb_notes_spectateurs": 1733
     }
   },
   {

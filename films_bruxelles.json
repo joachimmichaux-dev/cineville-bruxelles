@@ -28,6 +28,22 @@
     ]
   },
   {
+    "titre": "18 Holes to Paradise",
+    "annee": 2026,
+    "duree_minutes": 107,
+    "realisateurs": [
+      "Joao Nuno Pinto"
+    ],
+    "synopsis": "Dans un domaine portugais ravagé par la sécheresse, les propriétaires et le personnel racontent la même histoire sous des angles inconciliables, dévoilant ainsi un monde fracturé au bord de l’effondrement. Quand la lutte des classes et le dérèglement climatique s’embrasent sur fond d’implosion familiale.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/aab86b5a-7495-4e16-bee1-b950697cf7fe.png",
+    "seances": [
+      {
+        "heure": "27/11 20:45",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
     "titre": "Actualités Mondiales n° 654 + Les Inconnus dans la maison",
     "annee": 1942,
     "duree_minutes": 118,
@@ -104,6 +120,10 @@
       {
         "heure": "21/11 21:00",
         "cinema": "Nova"
+      },
+      {
+        "heure": "27/11 21:00",
+        "cinema": "Nova"
       }
     ]
   },
@@ -149,14 +169,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0c2ebd59-87f1-4967-a244-339637e4c78b.jpg",
     "seances": [
       {
-        "heure": "20/11 17:15",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 10:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "21/11 14:35",
         "cinema": "Aventure"
       },
@@ -197,10 +209,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/7425022b-c06b-4d5a-baf8-ff14aa919b4e.jpg",
     "seances": [
       {
-        "heure": "20/11 19:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "22/11 17:00",
         "cinema": "Cinematek"
       }
@@ -216,34 +224,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "20/11 15:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "20/11 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "20/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 19:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "20/11 19:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "20/11 21:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "21/11 15:40",
         "cinema": "Palace"
@@ -459,18 +439,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
       {
-        "heure": "20/11 16:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "20/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "20/11 20:50",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "21/11 16:30",
         "cinema": "Galeries"
       },
@@ -545,20 +513,6 @@
     ]
   },
   {
-    "titre": "Daughters of Darkness (Les Lèvres Rouges)",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e9f23db7-cba7-4ac4-b514-0621a72cd4ff.jpg",
-    "seances": [
-      {
-        "heure": "20/11 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Des cowboys et des indiens : le cinéma de Patar et Aubier",
     "annee": 2018,
     "duree_minutes": 67,
@@ -568,10 +522,6 @@
     "synopsis": "Fabrice du Welz retrace l’histoire du tandem Patar & Aubier et de son cinéma d’animation unique en son genre, de Panique au village à Ernest et Célestine. \n\nLes réalisateurs reviennent sur leur parcours et évoquent leur façon de travailler, leur style et leur humour si particulier. Une plongée à la fois intime et réjouissante au cœur du travail de deux fleurons du cinéma d’animation belge. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9639a379-dc25-4c9c-bc26-5b647bb718a2.png",
     "seances": [
-      {
-        "heure": "20/11 20:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "24/11 18:00",
         "cinema": "Cinematek"
@@ -588,14 +538,6 @@
     "synopsis": "L'homme le plus puissant du monde se lance dans une mission effrénée pour prouver qu'il est le sauveur de l'humanité.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
-      {
-        "heure": "20/11 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 10:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "21/11 21:30",
         "cinema": "Aventure"
@@ -625,18 +567,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/772c52e0-a96a-43e4-8128-f60931141693.jpg",
     "seances": [
       {
-        "heure": "20/11 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "20/11 21:10",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "21/11 11:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "22/11 11:10",
         "cinema": "Aventure"
       },
@@ -651,22 +581,6 @@
     ]
   },
   {
-    "titre": "Downtown 81",
-    "annee": 2001,
-    "duree_minutes": 73,
-    "realisateurs": [
-      "Edo Bertoglio"
-    ],
-    "synopsis": "Le film suit une journée dans la vie d’un jeune artiste, Jean-Michel Basquiat, qui doit réunir de l’argent pour récupérer l’appartement dont il a été expulsé. Il erre dans les rues du centre-ville, portant un tableau qu’il espère vendre, et croise des amis dont nous découvrons, par la même occasion, les vies (et les performances).",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ab9b6957-cf2b-4719-8062-692f0cd4f774.jpg",
-    "seances": [
-      {
-        "heure": "20/11 21:00",
-        "cinema": "Nova"
-      }
-    ]
-  },
-  {
     "titre": "Ducobu et le fantôme de Saint-Potache",
     "annee": 0,
     "duree_minutes": 0,
@@ -674,10 +588,6 @@
     "synopsis": "",
     "affiche_url": null,
     "seances": [
-      {
-        "heure": "21/11 13:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "22/11 13:20",
         "cinema": "Aventure"
@@ -771,14 +681,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
       {
-        "heure": "20/11 17:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 11:55",
-        "cinema": "Palace"
-      },
-      {
         "heure": "21/11 17:30",
         "cinema": "Vendôme"
       },
@@ -827,10 +729,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d2333e90-8dbf-49b8-80bd-3d2e20235119.jpg",
     "seances": [
       {
-        "heure": "20/11 21:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "22/11 21:20",
         "cinema": "Aventure"
       }
@@ -849,10 +747,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "21/11 10:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "21/11 14:55",
         "cinema": "Vendôme"
@@ -905,22 +799,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/189e4060-6b87-4c4a-80db-64f4f72f5520.jpg",
     "seances": [
-      {
-        "heure": "20/11 17:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "20/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 13:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 14:00",
-        "cinema": "Cineflagey"
-      },
       {
         "heure": "22/11 13:45",
         "cinema": "Palace"
@@ -984,22 +862,6 @@
     ]
   },
   {
-    "titre": "Hunger Games: Sunrise on the Reaping",
-    "annee": 2026,
-    "duree_minutes": 159,
-    "realisateurs": [
-      "Francis Lawrence"
-    ],
-    "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le District 12, Haymitch Abernathy essaie de ne pas trop penser à ses chances. Tout ce qui lui importe est d'être avec la fille qu'il aime. Mais lorsque qu'il est appelé, tous ses rêves s'effondrent. Il est arraché à sa famille et à son amour, transporté au Capitole avec les trois autres tributs du District 12 : une jeune amie qui est presque une sœur pour lui, un parieur compulsif, et la fille la plus prétentieuse de la ville. Alors que les Jeux commencent, Haymitch comprend qu'il a été piégé pour échouer. Mais il est prêt à se battre... et faire en sorte que ce combat résonne bien au-delà de l'arène.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/855d6cef-7dfb-4a6f-ba3e-acc96e23eec5.jpg",
-    "seances": [
-      {
-        "heure": "20/11 20:15",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Il Decameron",
     "annee": null,
     "duree_minutes": null,
@@ -1042,6 +904,23 @@
       {
         "heure": "24/11 12:50",
         "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "Im Wald von Katyn + Rembrandt",
+    "annee": 1943,
+    "duree_minutes": 114,
+    "realisateurs": [
+      "Fritz Hippler",
+      "Hans Steinhoff"
+    ],
+    "synopsis": "Hans Steinhoff réalisa cette biographie de Rembrandt durant l’Occupation allemande aux Pays-Bas. Le peintre y est dépeint comme un génie germanique incompris, ayant notamment souffert des manœuvres de spéculateur·ice·s juif·ve·s. Le court métrage Dans la forêt de Katyn montre les charniers de Polonais·e·s assassiné·e·s par les Soviétiques en avril-mai 1940. Cette tragédie fut utilisée à la fois comme propagande antibolchévique et antijuive. ",
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "27/11 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1102,14 +981,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
       {
-        "heure": "20/11 20:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 11:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "21/11 15:15",
         "cinema": "Palace"
       },
@@ -1166,10 +1037,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
       {
-        "heure": "21/11 13:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "21/11 14:40",
         "cinema": "Galeries"
       },
@@ -1206,18 +1073,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
       {
-        "heure": "20/11 15:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 12:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 13:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "21/11 14:30",
         "cinema": "Palace"
       },
@@ -1249,10 +1104,6 @@
     "synopsis": "À l’approche des fêtes et au cœur de l’hiver, Ernest et Célestine nous entraînent dans une série d’aventures tendres, drôles et poétiques. Entre paysages enneigés, préparatifs de Noël, rencontres inattendues et moments de partage, les deux inséparables amis découvrent que la magie de cette saison se cache souvent dans les petites choses du quotidien. Au fil de six histoires pleines de douceur, ils célèbrent l’amitié, la solidarité et l’émerveillement.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e4cf7911-4e72-4392-a41d-a8e9337c9f4f.jpg",
     "seances": [
-      {
-        "heure": "21/11 10:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "22/11 10:00",
         "cinema": "Aventure"
@@ -1306,12 +1157,25 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/81028a98-0e20-4e90-8922-2e061585aeed.jpg",
     "seances": [
       {
-        "heure": "20/11 18:00",
-        "cinema": "Cinematek"
-      },
-      {
         "heure": "26/11 20:15",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Les yeux verts",
+    "annee": 2026,
+    "duree_minutes": 83,
+    "realisateurs": [
+      "Fanny Liatard",
+      "Jeremy Trouilh"
+    ],
+    "synopsis": "Chaya, 11 ans, vit avec sa famille dans les Landes, au bord de l’océan. A l’annonce de leur expulsion, son grand frère Nour sombre dans un sommeil profond et mystérieux. Chaya va tout faire pour le réveiller, jusqu’à plonger dans ses rêves pour le retrouver.\n\nUn film dont le charme et le symbolisme de la mise en scène contrebalancent la gravité et la réalité du sujet abordé.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/06cbdcf2-abb3-47e1-8d30-b03eaafd5800.jpeg",
+    "seances": [
+      {
+        "heure": "27/11 18:30",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1325,30 +1189,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "20/11 15:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 16:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "20/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 10:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 11:40",
-        "cinema": "Galeries"
-      },
       {
         "heure": "21/11 16:15",
         "cinema": "Vendôme"
@@ -1428,22 +1268,6 @@
     ]
   },
   {
-    "titre": "Mochy",
-    "annee": 2026,
-    "duree_minutes": 86,
-    "realisateurs": [
-      "Jérémie Degruson & Yanis Belaid"
-    ],
-    "synopsis": "Voici Mochy, le chien le plus laid du monde… et, curieusement, le plus mignon, qui rêve de réaliser l’impossible : participer au prestigieux concours « Best in Dog Show ». Bravant tous les obstacles, il est déterminé à prouver que même les plus inattendus méritent une chance, tout en espérant secrètement trouver, au fil de son aventure, une famille pour la vie.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3ebb0420-7957-4cc6-a6a1-1f443b97c032.jpg",
-    "seances": [
-      {
-        "heure": "21/11 14:00",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Naza",
     "annee": 2026,
     "duree_minutes": 80,
@@ -1454,18 +1278,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "20/11 18:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "20/11 21:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 12:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "21/11 18:20",
         "cinema": "Palace"
@@ -1533,10 +1345,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
       {
-        "heure": "20/11 21:05",
-        "cinema": "Palace"
-      },
-      {
         "heure": "21/11 20:10",
         "cinema": "Galeries"
       },
@@ -1580,22 +1388,6 @@
     ]
   },
   {
-    "titre": "Paper Tiger",
-    "annee": 2026,
-    "duree_minutes": 115,
-    "realisateurs": [
-      "James Gray"
-    ],
-    "synopsis": "James Gray retourne à ses premières amours avec ce thriller tendu mâtiné de tragédie familiale situé dans le milieu de la pègre russe new yorkaise. En filmant la descente aux enfers de deux frères embarqués malgré eux dans un bras de fer avec le crime, le cinéaste déploie des trésors de mise en scène pour figurer la contamination du quotidien par un mal invisible. \n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dca65ba0-edd2-4ef2-b16b-8ed1d8fed667.jpg",
-    "seances": [
-      {
-        "heure": "20/11 19:00",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
     "titre": "Par-delà les nuages : le cinéma de Marion Hänsel",
     "annee": 2019,
     "duree_minutes": 63,
@@ -1607,6 +1399,10 @@
     "seances": [
       {
         "heure": "23/11 18:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "27/11 20:30",
         "cinema": "Cinematek"
       }
     ]
@@ -1626,22 +1422,6 @@
     ]
   },
   {
-    "titre": "Primetime",
-    "annee": 2026,
-    "duree_minutes": 110,
-    "realisateurs": [
-      "Lance Oppenheim"
-    ],
-    "synopsis": "En 2006, le présentateur de télévision Chris Hansen (Robert Pattinson) est sur le point de rentrer dans l’histoire avec le programme « To Catch a Predator » où des hommes adultes qui pensent prendre rendez-vous avec une jeune fille mineure se font piéger et doivent faire face à leurs actes.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/59a3bbde-6075-4894-a7ae-75ffca2729b0.jpg",
-    "seances": [
-      {
-        "heure": "21/11 10:30",
-        "cinema": "Galeries"
-      }
-    ]
-  },
-  {
     "titre": "Quelques mots d'amour",
     "annee": 2026,
     "duree_minutes": 95,
@@ -1651,10 +1431,6 @@
     "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
     "seances": [
-      {
-        "heure": "21/11 13:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "23/11 13:00",
         "cinema": "Vendôme"
@@ -1702,6 +1478,22 @@
     ]
   },
   {
+    "titre": "Salvation",
+    "annee": 2026,
+    "duree_minutes": 120,
+    "realisateurs": [
+      "Emin Alper"
+    ],
+    "synopsis": "Dans un village isolé niché dans les montagnes turques, le retour d’un clan banni ravive un conflit vieux de plusieurs décennies. Alors que les rancœurs refont surface, Mesut est tourmenté par d’inquiétantes visions. Il y voit des avertissements divins et commence à remettre en question l’autorité de son frère. Peu à peu, croyances, paranoïa et luttes de pouvoir s’exacerbent, menaçant de faire basculer toute la communauté. Un fascinant mélange de genres sur la folie des hommes et les dangers de la manipulation.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4f495a6b-b87e-4f72-b773-743a1a2f7489.jpeg",
+    "seances": [
+      {
+        "heure": "27/11 21:00",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
     "titre": "Sans toit ni loi",
     "annee": 1985,
     "duree_minutes": 106,
@@ -1728,10 +1520,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76b0ec15-b017-4919-b578-85b773db3f14.jpg",
     "seances": [
       {
-        "heure": "20/11 17:45",
-        "cinema": "Le Stockel"
-      },
-      {
         "heure": "21/11 15:50",
         "cinema": "Le Stockel"
       }
@@ -1747,14 +1535,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "20/11 18:30",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 12:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "22/11 13:40",
         "cinema": "Aventure"
@@ -1785,20 +1565,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
     "seances": [
       {
-        "heure": "21/11 10:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 14:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "22/11 10:15",
         "cinema": "Galeries"
-      },
-      {
-        "heure": "22/11 11:15",
-        "cinema": "Palace"
       },
       {
         "heure": "22/11 13:25",
@@ -1816,30 +1584,6 @@
     "synopsis": "Directrice d’un établissement pour personnes âgées, Marie-Lou s’efforce d’instaurer une philosophie de prise en charge innovante, fondée sur l’écoute et le respect de la dignité des résidents, malgré les résistances d’une partie de son personnel. Sa rencontre avec Mari, une metteuse en scène japonaise confrontée à un cancer, va profondément infléchir son parcours. En nouant une amitié profonde et solidaire, les deux femmes unissent leurs forces dans un combat commun : rendre possible ce qui semblait impossible.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1906f8b3-ad2f-4726-8b9e-de349bde70c6.jpg",
     "seances": [
-      {
-        "heure": "20/11 15:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 20:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 20:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "20/11 20:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 10:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 13:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "21/11 14:30",
         "cinema": "Galeries"
@@ -1925,14 +1669,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "20/11 16:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 13:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "22/11 21:00",
         "cinema": "Palace"
       },
@@ -1947,6 +1683,20 @@
     ]
   },
   {
+    "titre": "The Cat, the Sea, and Everything in Between",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "27/11 19:00",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "The Only Living Pickpocket in New York ",
     "annee": 2026,
     "duree_minutes": 88,
@@ -1956,14 +1706,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "20/11 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "20/11 18:50",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "21/11 17:10",
         "cinema": "Aventure"
@@ -2018,10 +1760,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
       {
-        "heure": "20/11 16:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "22/11 16:30",
         "cinema": "Aventure"
       },
@@ -2039,46 +1777,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "20/11 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "20/11 15:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "20/11 16:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "20/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "20/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 20:35",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "20/11 21:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "20/11 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "21/11 15:00",
         "cinema": "Aventure"
@@ -2102,6 +1800,10 @@
       {
         "heure": "21/11 19:10",
         "cinema": "Vendôme"
+      },
+      {
+        "heure": "21/11 20:35",
+        "cinema": "Le Stockel"
       },
       {
         "heure": "21/11 21:00",
@@ -2230,22 +1932,6 @@
       {
         "heure": "24/11 21:30",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Wild Style",
-    "annee": 1982,
-    "duree_minutes": 82,
-    "realisateurs": [
-      "Charlie Ahearn"
-    ],
-    "synopsis": "Lee Quinones, graffeur new-yorkais légendaire, incarne Zoro, le graffeur le plus en vue et le plus insaisissable de la ville. L'intrigue du film se concentre sur la tension entre la passion de Zoro pour son art et sa vie personnelle, notamment ses relations conflictuelles avec Rose, une autre artiste.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f3764001-c605-4872-871f-1cf44107deaf.jpg",
-    "seances": [
-      {
-        "heure": "20/11 19:00",
-        "cinema": "Nova"
       }
     ]
   },

@@ -10,14 +10,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2c6a11e3-5015-44c6-80ca-968fdbae45f0.jpg",
     "seances": [
       {
-        "heure": "21/11 16:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "22/11 10:50",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "23/11 16:00",
         "cinema": "Aventure"
       },
@@ -44,6 +36,20 @@
     ]
   },
   {
+    "titre": "A Bigger Splash",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "28/11 17:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Actualités Mondiales n° 654 + Les Inconnus dans la maison",
     "annee": 1942,
     "duree_minutes": 118,
@@ -60,18 +66,35 @@
     ]
   },
   {
-    "titre": "Arco",
-    "annee": 2025,
-    "duree_minutes": 88,
+    "titre": "Arab-Israeli Dialogue + The Interview with Amos + Imagine Peace",
+    "annee": 0,
+    "duree_minutes": 140,
     "realisateurs": [
-      "Ugo Bienvenu"
+      "Lionel Rogosin",
+      "Michael Ariel Rogosin"
     ],
-    "synopsis": "En 2075, une petite fille de 10 ans, Iris, voit un mystérieux garçon vêtu d'une combinaison arc-en-ciel tomber du ciel. C'est Arco. Il vient d'un futur lointain et idyllique où voyager dans le temps est possible. Iris le recueille et va l'aider par tous les moyens à rentrer chez lui.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e90e9a61-9274-444b-bdc7-c25d592fd0ea.jpg",
+    "synopsis": "Alors qu’il a pendant longtemps projeté de faire un long métrage sur la cohabitation pacifique des juifs et des arabes à travers l’histoire appelé \"Les sémites\", Lionel Rogosin enregistre la rencontre entre l’artiste et écrivain Amos Kenan et le grand poète palestinien Rashed Hussein. Suivi de deux tentatives, l’une filmée par Lionel Rogosin en 1990 et montée par son fils et l’autre filmée par ce dernier de replacer ce moment dans l’histoire du conflit. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/24fc3166-2beb-4546-903a-8ecfaf3b3ea7.png",
     "seances": [
       {
-        "heure": "21/11 15:00",
-        "cinema": "Vendôme"
+        "heure": "25/11 19:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Assarab (Mirage)",
+    "annee": 1980,
+    "duree_minutes": 100,
+    "realisateurs": [
+      "Ahmed Bouanani"
+    ],
+    "synopsis": "Un homme découvre de l’argent dans un sac de farine. C’est le début de la fable qui se situe entre hier et demain, entre le silence et le cri, et qui s’achève comme une désillusion.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/a1238b40-ea89-4b3f-b221-d969398c8528.jpg",
+    "seances": [
+      {
+        "heure": "28/11 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -118,10 +141,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2cfdf8f2-7170-4238-b524-461dc9987b5a.jpg",
     "seances": [
       {
-        "heure": "21/11 21:00",
-        "cinema": "Nova"
-      },
-      {
         "heure": "27/11 21:00",
         "cinema": "Nova"
       }
@@ -161,6 +180,38 @@
     ]
   },
   {
+    "titre": "Braindead",
+    "annee": 1992,
+    "duree_minutes": 103,
+    "realisateurs": [
+      "Peter Jackson"
+    ],
+    "synopsis": "Lorsqu'un singe-rat de Sumatra mord la mère de Lionel Cosgrove, celle-ci se transforme en zombie et commence à tuer (et à transformer) toute la ville, tandis que Lionel tente désespérément de garder la situation sous contrôle.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/65dc0eee-f778-4412-a3a7-136528f55e7b.jpg",
+    "seances": [
+      {
+        "heure": "27/11 21:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Breakin’",
+    "annee": 1984,
+    "duree_minutes": 84,
+    "realisateurs": [
+      "Joel Silberg"
+    ],
+    "synopsis": "Une jeune danseuse en difficulté s’associe à deux danseurs de breakdance ; ensemble, ils deviennent un véritable phénomène de rue.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/043cc8fe-47fb-4013-b14b-a03557e4db52.jpg",
+    "seances": [
+      {
+        "heure": "28/11 21:00",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
     "titre": "Camembert",
     "annee": 2026,
     "duree_minutes": 91,
@@ -168,14 +219,6 @@
     "synopsis": "Stan, trentenaire d’origine modeste, rencontre pour la première fois la famille de sa petite amie Cléo. Mais le clan Roussel n’est pas exactement comme les autres: France, l’impressionnante maîtresse de maison, est la directrice d’un prestigieux festival de photographie. Autour d’elle gravitent un amant tout aussi brillant et cultivé, un père professeur de philosophie, un fils journaliste, une sœur professeur aux beaux-arts et un neveu en prépa littéraire. Stan découvre alors la tradition familiale: à chaque anniversaire de France, on lance une partie de Trivial Pursuit. Il sait qu’il n’a aucune chance face à ces érudits biberonnés à la culture, mais il n’a pas le choix: toute la famille doit participer, sans exception. Qu’est-ce qui pourrait mal tourner? Après tout ce n’est qu’un jeu de société…",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0c2ebd59-87f1-4967-a244-339637e4c78b.jpg",
     "seances": [
-      {
-        "heure": "21/11 14:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 18:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "22/11 14:45",
         "cinema": "Aventure"
@@ -224,46 +267,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "21/11 15:40",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 16:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 18:40",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 21:00",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "21/11 21:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "22/11 10:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "22/11 16:10",
         "cinema": "Vendôme"
@@ -395,6 +398,10 @@
       {
         "heure": "24/11 19:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "28/11 21:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -411,6 +418,20 @@
       {
         "heure": "22/11 20:30",
         "cinema": "Le Stockel"
+      }
+    ]
+  },
+  {
+    "titre": "Coup de coeur du court 1",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "Nous vous proposons deux séances de courts métrages pour voyager d’une rive à l’autre de la Méditerranée vers des récits évocateurs et des personnages hauts en couleur à travers des formes cinématographiques variées. Les 12 courts métrages sélectionnés seront autant de découvertes, avec quelques co-productions belges!",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e53ae97f-ac79-45b3-a7d8-69dd75591977.jpg",
+    "seances": [
+      {
+        "heure": "28/11 18:45",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -438,22 +459,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "21/11 16:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 18:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "22/11 12:30",
-        "cinema": "Galeries"
-      },
       {
         "heure": "22/11 14:15",
         "cinema": "Cineflagey"
@@ -497,22 +502,6 @@
     ]
   },
   {
-    "titre": "Céline et Julie vont en bateau",
-    "annee": 1974,
-    "duree_minutes": 193,
-    "realisateurs": [
-      "Jacques Rivette"
-    ],
-    "synopsis": "Julie, une bibliothécaire rêveuse, rencontre Céline, une magicienne énigmatique ; ensemble, elles deviennent les héroïnes d’une aventure qui joue avec le temps, impliquant une maison hantée, des bonbons psychotropes et un mélodrame policier.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/89d6b77b-90de-41b7-97bf-281f91016d6e.jpg",
-    "seances": [
-      {
-        "heure": "21/11 20:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Des cowboys et des indiens : le cinéma de Patar et Aubier",
     "annee": 2018,
     "duree_minutes": 67,
@@ -539,10 +528,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/14e01b52-65dc-4fbf-b699-2ba04a42b8e8.jpg",
     "seances": [
       {
-        "heure": "21/11 21:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "22/11 21:00",
         "cinema": "Aventure"
       },
@@ -567,10 +552,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/772c52e0-a96a-43e4-8128-f60931141693.jpg",
     "seances": [
       {
-        "heure": "22/11 11:10",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "22/11 21:00",
         "cinema": "Aventure"
       },
@@ -581,16 +562,18 @@
     ]
   },
   {
-    "titre": "Ducobu et le fantôme de Saint-Potache",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
+    "titre": "Downtown 81",
+    "annee": 2001,
+    "duree_minutes": 73,
+    "realisateurs": [
+      "Edo Bertoglio"
+    ],
+    "synopsis": "Le film suit une journée dans la vie d’un jeune artiste, Jean-Michel Basquiat, qui doit réunir de l’argent pour récupérer l’appartement dont il a été expulsé. Il erre dans les rues du centre-ville, portant un tableau qu’il espère vendre, et croise des amis dont nous découvrons, par la même occasion, les vies (et les performances).",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ab9b6957-cf2b-4719-8062-692f0cd4f774.jpg",
     "seances": [
       {
-        "heure": "22/11 13:20",
-        "cinema": "Aventure"
+        "heure": "28/11 19:00",
+        "cinema": "Nova"
       }
     ]
   },
@@ -609,17 +592,17 @@
     ]
   },
   {
-    "titre": "Erotikon",
-    "annee": 1920,
-    "duree_minutes": 95,
+    "titre": "Evil Dead 2",
+    "annee": 1987,
+    "duree_minutes": 84,
     "realisateurs": [
-      "Mauritz Stiller"
+      "Sam Raimi"
     ],
-    "synopsis": "L’histoire tourne autour d’un professeur d’entomologie obsédé par la vie sexuelle des insectes, et de son épouse, d’un naturel décontracté, qui est courtisée par deux prétendants.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/4add97b6-7e5d-42e8-adf5-b69f5ab42599.jpg",
+    "synopsis": "Ash, seul survivant d’une attaque de démons, se réfugie dans une cabane isolée. Mais le livre des morts réveille une nouvelle vague de terreur.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e62878c7-aa54-4db1-9af4-a34be95aeff2.jpg",
     "seances": [
       {
-        "heure": "21/11 18:00",
+        "heure": "27/11 19:00",
         "cinema": "Cinematek"
       }
     ]
@@ -634,22 +617,6 @@
     "seances": [
       {
         "heure": "23/11 21:15",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Fitzcarraldo",
-    "annee": 1981,
-    "duree_minutes": 158,
-    "realisateurs": [
-      "Werner Herzog"
-    ],
-    "synopsis": "Brian Sweene Fitzgerald, plus connu sous le nom de Fitzcarraldo, rêve de construire le plus grand opéra du monde à Iquitos, au cœur de l’Amazonie. Pour gagner l’argent nécessaire à son projet, il achète une concession de caoutchouc le long du fleuve Uycali, réputé inaccessible à cause de violents rapides. Pour atteindre sa concession, Fitzcarraldo choisit de descendre le fleuve Pachitea, séparé de l’Uycali seulement par une montagne. Il devra hisser son bateau à vapeur en haut de la montagne pour basculer sur l’autre versant.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0835ff79-58f4-4b72-8aba-f8c520527231.jpg",
-    "seances": [
-      {
-        "heure": "21/11 21:00",
         "cinema": "Cinematek"
       }
     ]
@@ -681,40 +648,12 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
       {
-        "heure": "21/11 17:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "22/11 11:55",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "22/11 13:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "23/11 21:30",
         "cinema": "Vendôme"
       },
       {
         "heure": "24/11 17:05",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Glissements progressifs du plaisir",
-    "annee": 1974,
-    "duree_minutes": 105,
-    "realisateurs": [
-      "Alain Robbe-Grillet"
-    ],
-    "synopsis": "Une jeune femme est accusée de meurtre. Sa colocataire a été retrouvée attachée à un lit, transpercée par une paire de ciseaux. Cette femme, à la beauté presque enfantine, serait-elle une sorcière des temps modernes ? L’étau se resserre : la suspecte est enfermée dans un couvent transformé en prison. Au fil des interrogatoires menés par la police et les autorités judiciaires, elle s’enfonce toujours davantage dans des fantasmes sexuels surréalistes et sadiques. Un à un, ceux qui l’entourent tombent sous le charme de cette beauté envoûtante, basculant dans un univers onirique et érotique. Un jeu dangereux s’installe, tissé de désir et de luxure.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/96b9cc72-bafa-48b9-a106-4e0513a90d47.jpg",
-    "seances": [
-      {
-        "heure": "21/11 19:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -747,14 +686,6 @@
     "synopsis": "Il n’est jamais très bon qu’un Gruffalo, père ou fils, se montre dans le grand bois profond. Il pourrait être poursuivi par la Grande Méchante Souris. Mais entre un Gruffalo et une souris, lequel des deux est le plus effrayant ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dbe48737-e4b4-4cd8-9a8d-aa2389667994.jpg",
     "seances": [
-      {
-        "heure": "21/11 14:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "22/11 10:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "22/11 15:00",
         "cinema": "Vendôme"
@@ -800,10 +731,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/189e4060-6b87-4c4a-80db-64f4f72f5520.jpg",
     "seances": [
       {
-        "heure": "22/11 13:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "22/11 17:00",
         "cinema": "Galeries"
       },
@@ -835,10 +762,6 @@
     "synopsis": "Dans le village isolé de Hope Harbor, en Corée du Sud, le chef de la police Bum-seok et l'agente Sung-ae sont appelés à enquêter sur une créature mystérieuse qui sème la terreur parmi les habitants. Mais les apparences sont trompeuses, et les perceptions peuvent être erronées. Ce qui commence par l'ignorance sème les graines du désastre, et les conflits humains dégénèrent en une tragédie aux proportions cosmiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
-      {
-        "heure": "21/11 21:00",
-        "cinema": "Aventure"
-      },
       {
         "heure": "22/11 16:10",
         "cinema": "Aventure"
@@ -885,14 +808,6 @@
     "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire par eux-mêmes. Comment s’accorder pour brûler Maman ?",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
-      {
-        "heure": "21/11 14:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "22/11 12:50",
-        "cinema": "Aventure"
-      },
       {
         "heure": "23/11 18:00",
         "cinema": "Aventure"
@@ -957,16 +872,34 @@
     ]
   },
   {
-    "titre": "L'affaire Marie Claire",
-    "annee": 0,
-    "duree_minutes": 0,
-    "realisateurs": [],
-    "synopsis": "",
-    "affiche_url": null,
+    "titre": "L'Arabe",
+    "annee": 2026,
+    "duree_minutes": 106,
+    "realisateurs": [
+      "Malek Bensmail"
+    ],
+    "synopsis": "Haroun, célibataire retraité, vit depuis quelques années à Oran. Il mène une vie de reclus jusqu’au jour où il rencontre Kamel dans un bar.  Il lui confie alors être le frère de « l’Arabe », tué dans une histoire rapportée par l’un des romans les plus célèbres du XXe siècle : L’Étranger d’Albert Camus. Un « Arabe » qui avait pour nom effacé Moussa…",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/54a945a7-5552-455d-b78b-1dc3a6e62c9c.jpeg",
     "seances": [
       {
-        "heure": "21/11 18:20",
-        "cinema": "Le Stockel"
+        "heure": "28/11 18:30",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "L'Estranea (The Spiral)",
+    "annee": 2026,
+    "duree_minutes": 105,
+    "realisateurs": [
+      "Paolo Strippoli"
+    ],
+    "synopsis": "Anna débarque chez sa fille Alice pour lui révéler que l’histoire de leur famille repose sur un mensonge. Elle confie avoir conclu un pacte avec une mystérieuse étrangère vingt ans plus tôt, en sacrifiant un membre de sa famille pour sauver Alice. Anna doit maintenant déjouer le sort.\n\nUn thriller diaboliquement subversif et captivant, porté par l’interprétation magistrale de Jasmine Trinca et Valeria Bruni Tedeschi.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/66590606-90be-4d30-869a-bb23ab2d4841.jpeg",
+    "seances": [
+      {
+        "heure": "28/11 20:45",
+        "cinema": "Palace"
       }
     ]
   },
@@ -980,22 +913,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "21/11 15:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 15:50",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "21/11 20:35",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "22/11 13:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "22/11 18:00",
         "cinema": "Palace"
@@ -1027,6 +944,22 @@
     ]
   },
   {
+    "titre": "La Vie sexuelle des Belges 1950-1978",
+    "annee": 1994,
+    "duree_minutes": 84,
+    "realisateurs": [
+      "Jan Bucquoy"
+    ],
+    "synopsis": "Jan Bocquoy raconte l'histoire de sa vie sexuelle jusqu'à l'âge de 28 ans. Il décrit en particulier le moment de sa conception, son premier orgasme, ses différentes expériences avec les filles et son départ de Harelbeck vers Bruxelles. C'est là qu'il rencontre Greta (qui travaille au Bohémien café et qui lui apprend le Kama Sutra), Esther (qui lui raconte plein d'histoires) et Thérèse sa future femme (de laquelle il se sépare au bout de 3 ans et avec laquelle il a 2 enfants). Après sa rupture, il déménage dans un petit appartement, écrit de la pornographie pour payer les factures, travaille ponctuellement sur des nouvelles et rencontre beaucoup d'autres femmes. Sa confiance en lui grandit....",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/37384509-f2f5-499e-9a3e-3a8c01f0221d.jpg",
+    "seances": [
+      {
+        "heure": "26/11 19:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
     "titre": "Le Corset (Iron Boy)",
     "annee": 2026,
     "duree_minutes": 89,
@@ -1036,22 +969,6 @@
     "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
     "seances": [
-      {
-        "heure": "21/11 14:40",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 16:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "22/11 12:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "22/11 13:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "22/11 14:25",
         "cinema": "Palace"
@@ -1073,39 +990,11 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
     "seances": [
       {
-        "heure": "21/11 14:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "22/11 10:45",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "22/11 13:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "22/11 16:00",
         "cinema": "Palace"
       },
       {
         "heure": "24/11 15:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Le Noël d'Ernest et Céléstine",
-    "annee": 0,
-    "duree_minutes": 71,
-    "realisateurs": [
-      "Aurélie Rapahel"
-    ],
-    "synopsis": "À l’approche des fêtes et au cœur de l’hiver, Ernest et Célestine nous entraînent dans une série d’aventures tendres, drôles et poétiques. Entre paysages enneigés, préparatifs de Noël, rencontres inattendues et moments de partage, les deux inséparables amis découvrent que la magie de cette saison se cache souvent dans les petites choses du quotidien. Au fil de six histoires pleines de douceur, ils célèbrent l’amitié, la solidarité et l’émerveillement.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e4cf7911-4e72-4392-a41d-a8e9337c9f4f.jpg",
-    "seances": [
-      {
-        "heure": "22/11 10:00",
         "cinema": "Aventure"
       }
     ]
@@ -1190,26 +1079,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
       {
-        "heure": "21/11 16:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 18:30",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "21/11 20:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "22/11 11:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "22/11 17:10",
         "cinema": "Vendôme"
       },
@@ -1279,18 +1148,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
       {
-        "heure": "21/11 18:20",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 18:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 20:45",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "22/11 15:00",
         "cinema": "Galeries"
       },
@@ -1345,18 +1202,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
       {
-        "heure": "21/11 20:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 21:05",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "22/11 14:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "22/11 20:50",
         "cinema": "Palace"
       },
@@ -1367,23 +1212,6 @@
       {
         "heure": "24/11 11:30",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Panique au village",
-    "annee": 2009,
-    "duree_minutes": 76,
-    "realisateurs": [
-      "Stéphane Aubier",
-      "Vincent Patar"
-    ],
-    "synopsis": "Cowboy et Indien n’ont qu’un seul souhait : trouver une idée géniale pour l’anniversaire de Cheval. Mais, lorsque leur plan tourne à la catastrophe, ils doivent faire le tour du monde — et revenir — pour arranger les choses.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c40fc0c5-220e-46d9-a835-1807a767893d.jpg",
-    "seances": [
-      {
-        "heure": "21/11 17:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -1404,6 +1232,20 @@
       {
         "heure": "27/11 20:30",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Petite Casbah",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "29/11 14:00",
+        "cinema": "Palace"
       }
     ]
   },
@@ -1451,10 +1293,6 @@
     "synopsis": "Res Nullius explore la cohabitation entre humains et faune sauvage au cœur de Bruxelles et interroge notre manière d’habiter la ville. En suivant la trace d’un sanglier aperçu dans un parc, le film révèle une réalité souvent invisible, la ville est un écosystème vivant, traversé par des enjeux de biodiversité, d’aménagement du territoire et de justice sociale. À travers les regards d’acteurs de terrain, il propose une réflexion engagée et politique sur le développement urbain et son impact sur le Vivant.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d38e0cb9-0872-4e14-a49a-917752ed054b.jpeg",
     "seances": [
-      {
-        "heure": "22/11 12:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "23/11 12:20",
         "cinema": "Aventure"
@@ -1510,22 +1348,6 @@
     ]
   },
   {
-    "titre": "Scrooge (Ebenezer)",
-    "annee": 2026,
-    "duree_minutes": 116,
-    "realisateurs": [
-      "Ti West"
-    ],
-    "synopsis": "En novembre, Johnny Depp est Scrooge. Pour changer son futur, il va revivre son passé.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76b0ec15-b017-4919-b578-85b773db3f14.jpg",
-    "seances": [
-      {
-        "heure": "21/11 15:50",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Sense and Sensibility (2026)",
     "annee": 2026,
     "duree_minutes": 131,
@@ -1535,10 +1357,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "22/11 13:40",
-        "cinema": "Aventure"
-      },
       {
         "heure": "22/11 18:30",
         "cinema": "Aventure"
@@ -1554,27 +1372,6 @@
     ]
   },
   {
-    "titre": "Shaun le mouton : la bêêête d’Halloween",
-    "annee": 2026,
-    "duree_minutes": 81,
-    "realisateurs": [
-      "Steve Cox",
-      "Matthew Walker"
-    ],
-    "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ca8480f-aa06-42d2-9da1-5dd51a5815e8.jpg",
-    "seances": [
-      {
-        "heure": "22/11 10:15",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "22/11 13:25",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Soudain (All of a Sudden)",
     "annee": 2026,
     "duree_minutes": 196,
@@ -1584,22 +1381,6 @@
     "synopsis": "Directrice d’un établissement pour personnes âgées, Marie-Lou s’efforce d’instaurer une philosophie de prise en charge innovante, fondée sur l’écoute et le respect de la dignité des résidents, malgré les résistances d’une partie de son personnel. Sa rencontre avec Mari, une metteuse en scène japonaise confrontée à un cancer, va profondément infléchir son parcours. En nouant une amitié profonde et solidaire, les deux femmes unissent leurs forces dans un combat commun : rendre possible ce qui semblait impossible.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1906f8b3-ad2f-4726-8b9e-de349bde70c6.jpg",
     "seances": [
-      {
-        "heure": "21/11 14:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 15:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 20:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 20:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "22/11 14:15",
         "cinema": "Palace"
@@ -1659,6 +1440,23 @@
     ]
   },
   {
+    "titre": "Style Wars",
+    "annee": 1984,
+    "duree_minutes": 70,
+    "realisateurs": [
+      "Tony Silver",
+      "Henry Chalfant"
+    ],
+    "synopsis": "Le documentaire de Tony Silver et Henry Chalfant, diffusé sur PBS, retrace l'essor et le déclin des graffitis dans le métro new-yorkais à la fin des années 1970 et au début des années 1980.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/048b0747-a381-40e0-a13b-efd7da8f9afa.jpg",
+    "seances": [
+      {
+        "heure": "27/11 19:00",
+        "cinema": "Nova"
+      }
+    ]
+  },
+  {
     "titre": "Talking to Men Who Have Sex",
     "annee": 2026,
     "duree_minutes": 87,
@@ -1707,18 +1505,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
       {
-        "heure": "21/11 17:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 19:45",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "22/11 16:05",
         "cinema": "Vendôme"
       },
@@ -1745,6 +1531,55 @@
       {
         "heure": "24/11 21:40",
         "cinema": "Vendôme"
+      }
+    ]
+  },
+  {
+    "titre": "To Hold a Mountain",
+    "annee": 2026,
+    "duree_minutes": 105,
+    "realisateurs": [
+      "Biljana Tutorov",
+      "Petar Glomazić"
+    ],
+    "synopsis": "Sur les hauts plateaux monténégrins, une bergère et sa fille adoptive, hantée par la mort de sa mère, défendent leur montagne contre sa transformation en terrain d’entraînement militaire de l’OTAN destiné aux tirs de mortier. Cette violence ravive le souvenir de celle qui a brisé leur famille.\n\nDans un décor de western balkanique saisissant, deux générations de femmes se dressent contre l’oppression militaro-patriarcale.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/9b3e7e54-43bc-4292-9e08-5b933daf15c0.jpeg",
+    "seances": [
+      {
+        "heure": "28/11 21:15",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Top Hat",
+    "annee": 1935,
+    "duree_minutes": 100,
+    "realisateurs": [
+      "Mark Sandrich"
+    ],
+    "synopsis": "Jerry Travers, danseur américain, fait une démonstration à son producteur britannique. C'est ainsi qu'il réveille sa voisine du dessous. Celle-ci, Dale Tremont, descend d'un étage et proteste. Pour Jerry, c'est un coup de foudre...",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/daedf4c1-3a83-4e2e-9897-cef201432b7f.jpg",
+    "seances": [
+      {
+        "heure": "26/11 15:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Tout va bien ! : Le cinéma de Jan Bucquoy",
+    "annee": 2021,
+    "duree_minutes": 76,
+    "realisateurs": [
+      "Stefan Thibeau"
+    ],
+    "synopsis": "Tout va bien ! vous emmène dans un tourbillon d’art et d’aventures, jusqu’au bord du précipice de La Dernière Tentation des Belges, sur le tournage duquel Stefan Thibeau et son équipe s’invitent, inscrivant ainsi un film au sein d’un autre film. Un film sur un film en train de se faire, réalisé pour la collection de portraits de cinéastes belges initiée par la Cinémathèque de la Fédération Wallonie-Bruxelles. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/643602bb-5be7-42a6-bd51-bd588b6f1edc.png",
+    "seances": [
+      {
+        "heure": "25/11 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1777,46 +1612,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "21/11 15:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 18:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "21/11 18:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 19:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "21/11 19:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "21/11 20:35",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "21/11 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "21/11 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "22/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "22/11 15:00",
         "cinema": "Aventure"
@@ -1936,6 +1731,22 @@
     ]
   },
   {
+    "titre": "Yesterday The Eye Didn't Sleep",
+    "annee": 2026,
+    "duree_minutes": 100,
+    "realisateurs": [
+      "Rakan Mayasi"
+    ],
+    "synopsis": "Dans un village bédouin de la Vallée de la Bekaa, à la frontière entre le Liban et la Syrie, une jeune femme disparaît. Pendant les recherches, son cousin Yasser renverse par accident un homme d’un clan rival. Ses sœurs, Rim et Jawaher, sont désignées comme offrande pour expier la faute. Leur sacrifice suffira-t-il à éviter la vengeance et le feu de se propager ?\n\nUne inexorable saga familiale, d’une très grande beauté.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6a29b28f-146c-459e-aabd-6cf5ab361bec.jpeg",
+    "seances": [
+      {
+        "heure": "28/11 16:00",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
     "titre": "You Can See Everything",
     "annee": 2026,
     "duree_minutes": 174,
@@ -1944,12 +1755,24 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39ddceef-1ccb-4486-ab27-bbe0bb022d2c.jpg",
     "seances": [
       {
-        "heure": "22/11 10:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "22/11 20:00",
         "cinema": "Galeries"
+      }
+    ]
+  },
+  {
+    "titre": "You Never Know",
+    "annee": 2019,
+    "duree_minutes": 774,
+    "realisateurs": [
+      "Michael Ariel Rogosin"
+    ],
+    "synopsis": "Une traversée exceptionnelle de l’histoire turbulente des États-Unis au 20e siècle à partir de l’histoire de Lionel Rogosin. De l’exil d’un grand-père juif religieux depuis les pays baltes à la fin du 19e siècle, à la construction par le père d’un empire industriel, dont le fils se distancie pour s’engager politiquement à travers son cinéma. Un voyage en dix chapitres auquel nous vous invitons. Plusieurs pauses seront prévues. ",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/26489b19-2a40-4a92-a462-74f13de99a5e.png",
+    "seances": [
+      {
+        "heure": "28/11 10:00",
+        "cinema": "Cinematek"
       }
     ]
   },

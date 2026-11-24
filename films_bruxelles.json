@@ -1,21 +1,5 @@
 [
   {
-    "titre": "15/18",
-    "annee": 2025,
-    "duree_minutes": 104,
-    "realisateurs": [
-      "Cédric Kahn"
-    ],
-    "synopsis": "Lucia, 17 ans, est amenée par la police dans une unité de soins pédopsychiatriques de l’hôpital public. Ici tous les patients ont entre 15 et 18 ans. Lucia connaît l’endroit, elle y a fait de nombreux séjours. Elle retrouve son amie Eloïse, en hospitalisation longue durée, mais aussi Yasmine, Camilia, Ulysse, André…tous ont des pathologies et des parcours différents. Les médecins les soignent, les écoutent, reçoivent leurs parents, tout en gérant un service en surchauffe. Mais un jour, l’arrivée du mystérieux Enzo menace de tout bouleverser.\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2c6a11e3-5015-44c6-80ca-968fdbae45f0.jpg",
-    "seances": [
-      {
-        "heure": "24/11 14:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "18 Holes to Paradise",
     "annee": 2026,
     "duree_minutes": 107,
@@ -106,22 +90,6 @@
     "seances": [
       {
         "heure": "28/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Atonement",
-    "annee": 2007,
-    "duree_minutes": 122,
-    "realisateurs": [
-      "Joe Wright"
-    ],
-    "synopsis": "Une jeune fille change irrévocablement le cours de plusieurs vies lorsqu’elle accuse l’amant de sa sœur aînée d’un crime qu’il n’a pas commis.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/20bd303f-beea-43ee-a0dd-6ea1ee277a95.jpg",
-    "seances": [
-      {
-        "heure": "23/11 19:00",
         "cinema": "Cinematek"
       }
     ]
@@ -261,6 +229,10 @@
       {
         "heure": "30/11 15:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 18:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -274,38 +246,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/11 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/11 21:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/11 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 11:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 16:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/11 18:30",
         "cinema": "Galeries"
@@ -340,6 +280,10 @@
       },
       {
         "heure": "28/11 13:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/12 15:50",
         "cinema": "Aventure"
       }
     ]
@@ -402,22 +346,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/11 21:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/11 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/11 18:30",
         "cinema": "Palace"
@@ -521,6 +449,10 @@
       {
         "heure": "30/11 13:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 19:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -553,20 +485,6 @@
       {
         "heure": "29/11 20:45",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Egymásra nézve",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "23/11 20:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -635,20 +553,6 @@
     ]
   },
   {
-    "titre": "Faustrecht der Freiheit",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "23/11 21:15",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Furies",
     "annee": 2026,
     "duree_minutes": 133,
@@ -675,26 +579,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
       {
-        "heure": "23/11 21:30",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "24/11 17:05",
         "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Gym",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "23/11 19:00",
-        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -792,23 +678,15 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
       {
-        "heure": "23/11 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/11 18:20",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "24/11 12:50",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "26/11 12:00",
         "cinema": "Aventure"
       },
       {
         "heure": "30/11 12:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/12 12:00",
         "cinema": "Aventure"
       }
     ]
@@ -826,6 +704,20 @@
     "seances": [
       {
         "heure": "27/11 18:00",
+        "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Je t’aime moi non plus",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "30/11 21:00",
         "cinema": "Cinematek"
       }
     ]
@@ -906,18 +798,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
       {
-        "heure": "23/11 20:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 15:15",
-        "cinema": "Palace"
-      },
-      {
         "heure": "24/11 20:30",
         "cinema": "Palace"
       }
@@ -952,54 +832,6 @@
       {
         "heure": "29/11 19:15",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Le Corset (Iron Boy)",
-    "annee": 2026,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Louis Clichy"
-    ],
-    "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
-    "seances": [
-      {
-        "heure": "24/11 11:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Le Mystère Lucy Lost",
-    "annee": 2024,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Olivier Clert"
-    ],
-    "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
-    "seances": [
-      {
-        "heure": "24/11 15:30",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "Les Misérables",
-    "annee": 2026,
-    "duree_minutes": 178,
-    "realisateurs": [
-      "Fred Cavayé"
-    ],
-    "synopsis": "Jean Valjean, un ancien forçat évadé du bagne où il a passé 16 ans pour avoir volé du pain, seconsacre désormais à faire le bien autour de lui. Il se crée une nouvelle identité, celle d'un notable respecté, et vient en aide à Fantine, une ouvrière mourante en lui promettant de sauver sa fille, la petite Cosette, des griffes des Thénardier, des aubergistes qui l'exploitent et la maltraitent. Alors que Valjean prend soin de l'enfant et l'élève comme sa propre fille, son passé finit par le rattraper en la personne de l’inspecteur Javert qui n'a eu de cesse de le pourchasser durant toutes ces années. En dépit de l'agitation sociale qui secoue la France, les destins de Valjean, de Cosette, de son amant Marius et de Javert s'entremêlent dans un Paris bouillonnant et révolutionnaire. À travers des luttes, des sacrifices et un profond désir de justice, Valjean s'efforce d'achever son parcours de rédemption et d'offrir à Cosette un avenir d'amour et de liberté.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1e004afe-3c44-4086-8e3e-93151d3cc307.jpg",
-    "seances": [
-      {
-        "heure": "24/11 15:00",
-        "cinema": "Le Stockel"
       }
     ]
   },
@@ -1063,30 +895,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
       {
-        "heure": "23/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/11 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "24/11 14:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/11 15:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "24/11 18:45",
         "cinema": "Vendôme"
       },
@@ -1108,18 +916,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
       {
-        "heure": "23/11 17:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 13:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 13:30",
-        "cinema": "Palace"
-      },
-      {
         "heure": "24/11 21:15",
         "cinema": "Galeries"
       }
@@ -1136,22 +932,10 @@
       {
         "heure": "25/11 18:00",
         "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Notre Salut",
-    "annee": 2026,
-    "duree_minutes": 155,
-    "realisateurs": [
-      "Emmanuel Marre"
-    ],
-    "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
-    "seances": [
+      },
       {
-        "heure": "24/11 11:30",
-        "cinema": "Palace"
+        "heure": "30/11 20:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1212,6 +996,14 @@
       {
         "heure": "30/11 12:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 16:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 21:10",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -1225,10 +1017,6 @@
     "synopsis": "À travers des entretiens avec Hänsel et certains membres de son équipe habituelle, se dessine le portrait remarquable d’une cinéaste qui est également sa propre productrice — autrement dit, sa propre patronne. La relation entre les personnages et leur environnement naturel occupe une place prépondérante dans son œuvre, qui s’inspire souvent de romans.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ec837d79-5184-4542-a194-5450a756d4c0.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "27/11 20:30",
         "cinema": "Cinematek"
@@ -1264,38 +1052,6 @@
     ]
   },
   {
-    "titre": "Quelques mots d'amour",
-    "annee": 2026,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Rudi Rosenberg"
-    ],
-    "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
-    "seances": [
-      {
-        "heure": "24/11 13:00",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
-    "titre": "Roméo + Juliette",
-    "annee": 1996,
-    "duree_minutes": 120,
-    "realisateurs": [
-      "Buz Luhrmann"
-    ],
-    "synopsis": "Verona Beach, un quartier de Los Angeles, est le théâtre de la haine entre deux familles ennemies : les Montaigue et les Capulet. À l’occasion d’un bal donné chez ces dernier·es, Romeo et son cousin Mercutio s’introduisent chez leurs rivaux où le premier tombe amoureux de la belle Juliette qui ne tarde pas non plus à succomber à ses charmes. Les deux amant·es s’enlisent alors dans une passion interdite et surtout dangereuse. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fde84672-dbac-446c-871c-9ecf8a6bc97f.jpeg",
-    "seances": [
-      {
-        "heure": "23/11 20:30",
-        "cinema": "Palace"
-      }
-    ]
-  },
-  {
     "titre": "Salvation",
     "annee": 2026,
     "duree_minutes": 120,
@@ -1321,10 +1077,6 @@
     "synopsis": "Focus Features et Working Title présentent une nouvelle adaptation irrésistible du célèbre Raison et Sentiments de Jane Austen : une histoire charmante, pleine d’esprit et profondément touchante sur l’amour et la sororité, avec Daisy Edgar-Jones et Esmé Creed-Miles.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
-      {
-        "heure": "23/11 21:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "24/11 18:30",
         "cinema": "Aventure"
@@ -1366,18 +1118,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1906f8b3-ad2f-4726-8b9e-de349bde70c6.jpg",
     "seances": [
       {
-        "heure": "23/11 19:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 13:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 15:00",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "24/11 17:30",
         "cinema": "Galeries"
       },
@@ -1388,6 +1128,22 @@
       {
         "heure": "24/11 20:15",
         "cinema": "Palace"
+      }
+    ]
+  },
+  {
+    "titre": "Stark Love",
+    "annee": 1927,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Karl Brown"
+    ],
+    "synopsis": "« L’homme est le maître absolu. La femme est une esclave vouée au travail. » Telles sont les conceptions rigides qui encadrent ce récit, où les idées d’un garçon de la campagne sur la chevalerie le poussent à tenter d’échapper à un père brutal, en compagnie de la jeune fille qu’il aime.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f71484ed-13bc-4048-b183-df5b35703835.jpg",
+    "seances": [
+      {
+        "heure": "30/11 19:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1405,26 +1161,6 @@
       {
         "heure": "27/11 19:00",
         "cinema": "Nova"
-      }
-    ]
-  },
-  {
-    "titre": "Talking to Men Who Have Sex",
-    "annee": 2026,
-    "duree_minutes": 87,
-    "realisateurs": [
-      "Marie Mc Court"
-    ],
-    "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
-    "seances": [
-      {
-        "heure": "23/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 16:00",
-        "cinema": "Palace"
       }
     ]
   },
@@ -1452,14 +1188,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "23/11 19:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/11 21:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/11 21:40",
         "cinema": "Vendôme"
@@ -1502,6 +1230,14 @@
       },
       {
         "heure": "29/11 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 19:45",
         "cinema": "Aventure"
       }
     ]
@@ -1552,6 +1288,10 @@
       {
         "heure": "25/11 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "30/11 18:00",
+        "cinema": "Cinematek"
       }
     ]
   },
@@ -1584,10 +1324,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
       {
-        "heure": "24/11 16:30",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "26/11 16:00",
         "cinema": "Aventure"
       },
@@ -1609,46 +1345,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/11 18:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/11 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/11 21:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/11 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 16:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/11 16:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/11 18:00",
         "cinema": "Palace"
@@ -1707,6 +1403,10 @@
       },
       {
         "heure": "30/11 15:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 21:30",
         "cinema": "Aventure"
       }
     ]

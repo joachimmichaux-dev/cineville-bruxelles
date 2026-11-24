@@ -1,230 +1,5 @@
 [
   {
-    "titre": "15/18",
-    "annee": 2025,
-    "duree_minutes": 104,
-    "realisateurs": [
-      "Cédric Kahn"
-    ],
-    "synopsis": "Lucia, 17 ans, est amenée par la police dans une unité de soins pédopsychiatriques de l’hôpital public. Ici tous les patients ont entre 15 et 18 ans. Lucia connaît l’endroit, elle y a fait de nombreux séjours. Elle retrouve son amie Eloïse, en hospitalisation longue durée, mais aussi Yasmine, Camilia, Ulysse, André…tous ont des pathologies et des parcours différents. Les médecins les soignent, les écoutent, reçoivent leurs parents, tout en gérant un service en surchauffe. Mais un jour, l’arrivée du mystérieux Enzo menace de tout bouleverser.\n",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2c6a11e3-5015-44c6-80ca-968fdbae45f0.jpg",
-    "seances": [
-      {
-        "heure": "24/11 14:30",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000040172",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000040172/critiques/presse/",
-      "note_moyenne_presse": 3.7,
-      "nb_critiques_presse": 33,
-      "critiques_presse": [
-        {
-          "titre_presse": "20 Minutes",
-          "note": 5.0,
-          "auteur": "Caroline Vié",
-          "citation": "Un film pétri d’humanité."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 5.0,
-          "auteur": "Michaël Mélinard",
-          "citation": "Documentaire et fiction se répondent avec malice dans « 15/18 », un film puissant et enthousiasmant."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 5.0,
-          "auteur": "Chloé Caye",
-          "citation": "Un film profondément empathique et sans cesse surprenant."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Jacqueline Nacache",
-          "citation": "\"15/18\" égrène le quotidien d’un service hospitalier qui accueille des adolescents psychiquement fragiles. Entourés de soignants dévoués et souvent débordés, sortis d’une famille qu’ils n’ont pas toujours envie de retrouver, les jeunes patients ont du mal à se reconstruire et transforment parfois leur refuge en un lieu de violence. Un film au sujet sensible, où l’auteur de \"Roberto Succo\" et du \"Procès Goldman\" déploie son écriture dans toute sa puissance."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Un huis clos saisissant dans un service de pédopsychiatrie avec des ados en mal de vivre."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Une saisissante impression de réalisme."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Laurence Houot",
-          "citation": "La mise en scène, naturaliste au point de nous donner l'impression de voir un documentaire, nous immerge dans cet univers où les émotions, les sentiments, les gestes, semblent être passés par un ampli. Puis peu à peu, une tonalité plus chimérique s'installe, apportant une note d'espérance à cette aventure collective, et une couleur à la fois plus intime et plus universelle au film."
-        },
-        {
-          "titre_presse": "Konbini",
-          "note": 4.0,
-          "auteur": "Konbini",
-          "citation": "Un drame choral percutant sur des ados à vif et des soignants débordés, porté par des interprétations magistrales, Malou Khebizi en tête."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 4.0,
-          "auteur": "Sophie Grassin",
-          "citation": "Une troupe d’extraordinaires comédiens amateurs (seules Malou Khebizi et Patience Munchenbach avaient déjà joué) tire vers le haut ce film réfléchi, respectueux et choc même s’il ne cherche jamais à l’être."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Cécile Jaurès",
-          "citation": "Très documenté, le film est porté par la fougue d’une troupe de jeunes comédiens débutants."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 4.0,
-          "auteur": "Aurélien Cabrol",
-          "citation": "Nous sommes embarqués dans ces expériences de vie aux allures de montagnes russes, et c'est précisément ce qui fait tout le poids et le prix d'un tel voyage cinématographique qui finit même par briser les chaînes du huit clos."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Le portrait sensible d’une jeunesse à vif, en grande souffrance. Celle-là même qui crie sa rage dans nos rues depuis plusieurs semaines."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Etienne Sorin",
-          "citation": "Une fiction bouleversante sur les soignants et leurs jeunes patients."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 4.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Très authentique, le nouveau film de Cédric Kahn se penche sur la santé mentale des jeunes et sa prise en charge."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Florence Colombani",
-          "citation": "Magnifiquement dirigés par Cédric Kahn (qui joue un psychiatre), les jeunes comédiens (pour la plupart non professionnels) font croire à chaque instant de ce film qui n’a pas peur de son sujet, et évoque à la fois des pathologies lourdes, les défaillances et la détresse des parents, les pulsions de violence mais aussi l’élan vital des adolescents."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Antoine Corte",
-          "citation": "Avec \"15/18\", Cédric Kahn accompagne des adolescents hospitalisés en pédopsychiatrie, attentif à leurs désirs et aux gestes du soin. Une chronique sensible, parfois fragilisée par sa dispersion chorale et les ressorts romanesques de sa fin."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Bruno Deruisseau",
-          "citation": "\"15/18\" parvient à s’élever au-dessus des clichés grâce à un casting impeccable, une direction d’acteur·rices impressionnante et une capacité prodigieuse à filmer l’intensité du vécu adolescent et de la maladie mentale."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 4.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Là où nombre de ses confrères auraient opté, étant donné le sujet, pour un documentaire à la manière de Raymond Depardon, le réalisateur du \"Procès Goldman\" s’entoure d’une flopée de jeunes comédiens qui font leurs débuts à l’écran (à quelques exceptions près, comme Malou Khebizi), écrit avec une précision d’orfèvre chaque parcours et parvient à faire exister chaque personnage."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "Andrès Godefroy",
-          "citation": "Une immersion solide."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Entouré d’une troupe de jeunes comédiens dont la plupart font leurs débuts devant une caméra, Cédric Kahn signe une plongée saisissante dans une unité de soins pédopsychiatriques dont les patients sont âgés de 15 à 17 ans."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 4.0,
-          "auteur": "Julien Barcilon",
-          "citation": "Très documenté et d'un réalisme constant."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Jacques Morice",
-          "citation": "Le réalisateur revient avec une fiction documentée, portée par une belle énergie adolescente."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Laurent Cambon",
-          "citation": "Cédric Kahn restitue le vacillement adolescent avec une grâce inouïe. Un film qui va droit au cœur."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 3.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Une radiographie intelligente, portée par de jeunes interprètes saisissants."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Jean-Marie Samocki",
-          "citation": "Avec 15/18, Cédric Kahn revient vers cette adolescence dépeinte au début de sa carrière (Bar des rails,Trop de bonheur), qu’il regarde désormais avec la distance que donne le passage du temps. Il enlève immédiatement à ces sujets de société toute charge politique, dimension revendicative ou portée symbolique pour bâtir un espace utopique où les personnages peuvent s’associer aux autres et quitter leur bulle de douleur."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 3.0,
-          "auteur": "Baptiste Thion",
-          "citation": "Il y a là beaucoup d’empathie et une volonté louable de faire exister chaque personnage. Tous sont incarnés par de jeunes acteurs d’une épatante justesse. Dommage que le film s’égare dans une dernière partie déroutante au choix musical discutable."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Laura Tuillier",
-          "citation": "Probablement à son corps défendant, occupé à ficeler un improbable scénario d’évasion, le film défend une drôle de vision de la psychiatrie en milieu fermé, comme détachée de tout ancrage contemporain (il ne sera jamais question de manque de moyens, à un moment où la psychiatrie appelle à l’aide) et n’excédant pas un humanisme bon teint, pas vraiment raccord avec la rage ambiante."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 3.0,
-          "auteur": "Fabrice Leclerc",
-          "citation": "(...) un film coup de poing, troublé et troublant."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 3.0,
-          "auteur": "S.O.",
-          "citation": "Réjouissant grâce à ses jeunes comédiens, ce film choral brasse avec une certaine maestria ses nombreux personnages. Mais le récit se déséquilibre lorsqu’il relègue l’émotion au second plan, au profit d’un suspense dont le dénouement s’avère prévisible."
-        },
-        {
-          "titre_presse": "Version Femina",
-          "note": 3.0,
-          "auteur": "Hadrien Machart",
-          "citation": "Pour aborder un véritable problème de société, le réalisateur s’est appuyé sur le réalisme du documentaire, sur l’émotion que provoquent des destins individuels et sur le talent brut de comédiens prometteurs. Avec des histoires tragiques ou tristement banales, il émeut, bouscule et interroge."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 2.0,
-          "auteur": "Stratis Vouyoucas",
-          "citation": "Kahn se place en position de scrutateur, à distance de la jeunesse, plus prompt à l’interroger qu’à la comprendre."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 2.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "Œuvre hybride dans la filmographie du réalisateur, ce nouveau long-métrage, dont une bonne partie se passe dans l’enceinte d’un hôpital parisien, peine à convaincre."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 2.0,
-          "auteur": "T.C.",
-          "citation": "Le film peine à se singulariser d'œuvres récentes mettant en scène des ados abîmés par la vie (...)."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000040172/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 458
-    }
-  },
-  {
     "titre": "18 Holes to Paradise",
     "annee": 2026,
     "duree_minutes": 107,
@@ -418,7 +193,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-67/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 27462
+      "nb_notes_spectateurs": 27464
     }
   },
   {
@@ -463,165 +238,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-28598/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.5,
       "nb_notes_spectateurs": 4
-    }
-  },
-  {
-    "titre": "Atonement",
-    "annee": 2007,
-    "duree_minutes": 122,
-    "realisateurs": [
-      "Joe Wright"
-    ],
-    "synopsis": "Une jeune fille change irrévocablement le cours de plusieurs vies lorsqu’elle accuse l’amant de sa sœur aînée d’un crime qu’il n’a pas commis.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/20bd303f-beea-43ee-a0dd-6ea1ee277a95.jpg",
-    "seances": [
-      {
-        "heure": "23/11 19:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "119409",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-119409/critiques/presse/",
-      "note_moyenne_presse": 3.2,
-      "nb_critiques_presse": 22,
-      "critiques_presse": [
-        {
-          "titre_presse": "20 Minutes",
-          "note": 5.0,
-          "auteur": "Caroline Vié",
-          "citation": "(...) fresque brillamment mise en scène. Keira Knightley est bouleversante en héroïne aux amours tragiques."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Marie Sauvion",
-          "citation": "[Un] sublime mélo."
-        },
-        {
-          "titre_presse": "Brazil",
-          "note": 4.0,
-          "auteur": "Eric Coubard",
-          "citation": "(...) Cette histoire d'amour nous tient en haleine jusqu'au dernier rebondissement."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 4.0,
-          "auteur": "Julien Welter",
-          "citation": "Voir la critique sur www.lexpress.fr"
-        },
-        {
-          "titre_presse": "Metro",
-          "note": 4.0,
-          "auteur": "Jérôme Vermelin",
-          "citation": "Le grand film romantique de l'année."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "(...) la mise en scène oscille entre élégance sophistiquée et réalisme calibré, avec quelques échappées de fantastique, au fil des rebondissements et des temps morts d'une intrigue nourrie."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Gaël Golhen",
-          "citation": "Film de guerre, mélo, drame, Reviens-moi est une oeuvre brillante peuplée de comédiens fantastiques (...) un classique instantané qui exalte la puissance de l'imaginaire."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Pierre Murat",
-          "citation": "On est en plein théâtre des apparences, chacun des personnages croyant - à tort - appréhender la vérité. Or, nous seuls, spectateurs, par la grâce d'une mise en scène brillante, pré­cise, avons ce privilège."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Anthony Normand",
-          "citation": "(...) une nouvelle adaptation réussie de la part du réalisateur, intéressante par ses choix narratifs, et certainement pas dénuée d'enjeux capables de happer l'émotif féru de littérature."
-        },
-        {
-          "titre_presse": "Ciné Live",
-          "note": 3.0,
-          "auteur": "Arnold",
-          "citation": "Voir la critique sur www.cinelive.fr"
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 3.0,
-          "auteur": "Françoise Delbecq",
-          "citation": "La guerre en plans-séquences (...) est plus ennuyeuse. Heureusement, l'apparition de Briony sous les traits de Vanessa Redgrave emporte les dernières minutes du film."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 3.0,
-          "auteur": "Emmanuelle Giuliani",
-          "citation": "Le manque de rythme (...) et une interprétation un peu molle nuisent à l'intensité d'un film bien moins brûlant qu'il ne devrait."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 3.0,
-          "auteur": "Barbara Théate",
-          "citation": "(...) Un film en forme de saga qui commence comme une romance passionnée et tourne à la tragédie sur fond de Seconde Guerre mondiale. Ce virage un peu brutal désarçonne. Reste l'élégance des images de Joe Wright, la fougue du jeune James McAvoy et le charme, parfois un peu figé, de Keira Knightley."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 3.0,
-          "auteur": "Bayon",
-          "citation": "Un drame passionnel doté des ingrédients romantiques requis (...)"
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 3.0,
-          "auteur": "Christine Haas",
-          "citation": "L'opacité de la seconde partie complique cette belle histoire de trahison et d'\"Expiation\" (...) qui avait les atouts d'un classique mais s'étiole tristement."
-        },
-        {
-          "titre_presse": "Studio Magazine",
-          "note": 3.0,
-          "auteur": "Michel Rebichon",
-          "citation": "Voir la critique sur www.studiomag.com"
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 2.0,
-          "auteur": "Emmanuel Burdeau",
-          "citation": "Des pivotements de points de vue (...) embrouillent une narration déjà obscure. A quoi bon ? Ces raffinements mélodramatiques ne feraient que fatiguer l'oeil et l'esprit si la fin ne réservait une petite surprise (...)"
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 2.0,
-          "auteur": "Jean-Philippe Tessé",
-          "citation": "Pas facile d'aller contre l'impression d'un film archi-académique, plan-plan, à la dramaturgie sculptée comme une pièce montée et son émotion choucroute."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 2.0,
-          "auteur": "Jean-Luc Douin",
-          "citation": "Acharné à prouver sa virtuosité, le réalisateur Joe Wirght engloutit son mélo rétro et romantique, somptueux et sophistiqué, sous une mise en scène ronflante."
-        },
-        {
-          "titre_presse": "MCinéma.com",
-          "note": 2.0,
-          "auteur": "Hugo de Saint Phalle",
-          "citation": "De bout en bout, Reviens-moi résonne comme un catalogue d'effets de montages, de prouesses techniques (...) censés clouer le spectateur à son fauteuil. Sauf que ce n'est pas le cas. (...) Heureusement l'interprétation en sort indemne (...)"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 2.0,
-          "auteur": "Eithne O'Neill",
-          "citation": "Le film tombe dans les pièges de la réalisation somptueuse en costumes, avec l'appât des conflits de classe ainsi que de la transposition prétentieuse de l'art de l'écriture."
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 2.0,
-          "auteur": "Bernard Achour",
-          "citation": "Car, après une mise en place saisissante, le récit n'en finit plus de se diluer dans des intrigues parallèles, d'étouffer la flamme qui embrasait ses deux héros et, surtout, de rendre antipathique le personnage sur lequel repose la tragédie."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-119409/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 7200
     }
   },
   {
@@ -716,7 +332,7 @@
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-5311/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 8267
+      "nb_notes_spectateurs": 8268
     }
   },
   {
@@ -851,7 +467,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-182749/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.0,
-      "nb_notes_spectateurs": 25663
+      "nb_notes_spectateurs": 25664
     }
   },
   {
@@ -909,13 +525,17 @@
       {
         "heure": "30/11 15:00",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 18:00",
+        "cinema": "Aventure"
       }
     ],
     "allocine": {
       "allocine_id": "316136",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-316136/critiques/presse/",
       "note_moyenne_presse": 3.3,
-      "nb_critiques_presse": 29,
+      "nb_critiques_presse": 30,
       "critiques_presse": [
         {
           "titre_presse": "20 Minutes",
@@ -1068,6 +688,12 @@
           "citation": "Une partie de Trivial pursuit drôle et tendue en famille."
         },
         {
+          "titre_presse": "Télé 7 Jours",
+          "note": 3.0,
+          "auteur": "Julien Barcilon",
+          "citation": "Le casting est brillant, les dialogues en mode acide claquent et sont propices à des numéros d’acteurs boostés à l’ambivalence amour-haine ambiante. Mais le jeu de massacre espéré se révèle plus convenu que féroce jusqu’au dénouement très moral."
+        },
+        {
           "titre_presse": "Télérama",
           "note": 3.0,
           "auteur": "Chloé Delos-Eray",
@@ -1094,7 +720,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-316136/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 758
+      "nb_notes_spectateurs": 861
     }
   },
   {
@@ -1107,38 +733,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/11 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/11 21:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/11 21:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 11:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 16:10",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 16:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/11 18:30",
         "cinema": "Galeries"
@@ -1173,6 +767,10 @@
       },
       {
         "heure": "28/11 13:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/12 15:50",
         "cinema": "Aventure"
       }
     ],
@@ -1407,7 +1005,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036932/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.3,
-      "nb_notes_spectateurs": 1595
+      "nb_notes_spectateurs": 1618
     }
   },
   {
@@ -1480,22 +1078,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:50",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/11 21:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/11 21:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 13:45",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/11 18:30",
         "cinema": "Palace"
@@ -1748,7 +1330,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000017168/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 477
+      "nb_notes_spectateurs": 497
     }
   },
   {
@@ -2023,7 +1605,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-327174/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 3225
+      "nb_notes_spectateurs": 3229
     }
   },
   {
@@ -2074,6 +1656,10 @@
       },
       {
         "heure": "30/11 13:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 19:00",
         "cinema": "Aventure"
       }
     ],
@@ -2182,7 +1768,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-34193/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 23906
+      "nb_notes_spectateurs": 23911
     }
   },
   {
@@ -2311,30 +1897,6 @@
     }
   },
   {
-    "titre": "Egymásra nézve",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "23/11 20:00",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "3064",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-3064/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-3064/critiques/spectateurs/",
-      "note_moyenne_spectateurs": null,
-      "nb_notes_spectateurs": null
-    }
-  },
-  {
     "titre": "El Sett",
     "annee": 2026,
     "duree_minutes": 164,
@@ -2426,7 +1988,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-45156/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.5,
-      "nb_notes_spectateurs": 581
+      "nb_notes_spectateurs": 582
     }
   },
   {
@@ -2473,30 +2035,6 @@
     }
   },
   {
-    "titre": "Faustrecht der Freiheit",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "23/11 21:15",
-        "cinema": "Cinematek"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "4201",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-4201/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-4201/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 145
-    }
-  },
-  {
     "titre": "Furies",
     "annee": 2026,
     "duree_minutes": 133,
@@ -2532,10 +2070,6 @@
     "synopsis": "Vous aviez été touché·es au cœur par Je verrai toujours vos visages ? Jeanne Herry retrouve Adèle Exarchopoulos, bouleversante dans le rôle d’une femme qui s’enfonce dans l’alcoolisme. Un portrait incarné, juste et sensible d’une maladie encore trop déconsidérée. ",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/cd50cdeb-9272-4ad1-9e36-be4479bf33bd.jpg",
     "seances": [
-      {
-        "heure": "23/11 21:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/11 17:05",
         "cinema": "Vendôme"
@@ -2784,152 +2318,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000026039/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 3504
-    }
-  },
-  {
-    "titre": "Gym",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "23/11 19:00",
-        "cinema": "Cinema RITCS"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "180632",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-180632/critiques/presse/",
-      "note_moyenne_presse": 4.2,
-      "nb_critiques_presse": 20,
-      "critiques_presse": [
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 5.0,
-          "auteur": "Cyril Béghin",
-          "citation": "\"Boxing Gym\" est le film le plus court et le plus intense réalisé par Wiseman depuis longtemps, et aussi celui où la maîtrise formelle se rend la plus visible, joueuse et réjouissante."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 5.0,
-          "auteur": "Julien Marsa",
-          "citation": "Wiseman, en boxeur professionnel du septième art, travaille sa technique de frappe dans la répétition des scènes, en revenant toujours au corps à corps, se confrontant à son lieu de tournage jusqu'à en mettre toutes les possibilités K.O."
-        },
-        {
-          "titre_presse": "Excessif",
-          "note": 5.0,
-          "auteur": "Romain Le Vern",
-          "citation": "Réflexion poétique sur le culte du corps et le temps qui passe, transcendée par un extraordinaire travail de découpage, de montage et de mixage."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Pascal Mérigeau",
-          "citation": "Tous les films de Frederick Wiseman, sans exception, paraissent relever du miracle, le paradoxe magnifique de \"Boxing Gym\" tient à ce que tout ici se passe en douceur, aucun mot n'y est prononcé autrement qu'à mi-voix, dans l'estime de l'autre et le respect de soi."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Isabelle Regnier",
-          "citation": "En posant là sa caméra, le vétéran du cinéma direct qu'est Frederick Wiseman transmet au spectateur la passion qu'il filme chez ses personnages. (...) On sort du film avec l'envie de taper dans un punching-ball."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Didier Péron",
-          "citation": "Le plaisir que l'on prend à regarder \"Boxing Gym\" - c'est-à-dire à voir des gens très différents, tous âges et sexes confondus, se donner un mal de chien pour se dépenser et acquérir les bons gestes de la boxe dans cette salle de Austin (Texas) - ne doit pas faire oublier le thème fondamental de Frederick Wiseman (...) la violence, et les formes qu'elle prend au sein de la communauté humaine."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "A 81 ans, Wiseman, réalisateur, cadreur et monteur, fait vibrer le spectateur en filmant des champions du quotidien dans une atmosphère de sueur et d'efforts."
-        },
-        {
-          "titre_presse": "Brazil",
-          "note": 4.0,
-          "auteur": "Sylvain Blanchard",
-          "citation": "Un voyage au coeur de l'Amérique profonde, parfois contradictoire mais néanmoins toujours fascinante."
-        },
-        {
-          "titre_presse": "Chronic'art.com",
-          "note": 4.0,
-          "auteur": "Yal Sadat",
-          "citation": "\"Boxing Gym\" ne se résume pas à une utopie pacificatrice, qui se contenterait d'affirmer benoîtement que la maîtrise de la violence est la clé de l'harmonie égalitaire, d'un espace sans haine ; parce que, si les fâcheuses passions destructrices sont contrôlées, elles ne sont jamais niées. Elles sont même cruciales."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 4.0,
-          "auteur": "Eric Libiot",
-          "citation": "Exemplaire!"
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Jean Roy",
-          "citation": "Ni concours ni montée vers la gloire,  juste la pratique ordinaire  de gens ordinaires."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Vincent Ostria",
-          "citation": "On pourrait (...) parler de vivier humain ou de microcosme social, mais ce qui retient l'attention est le travail sur le son. Bruits de punching-balls et bips de chronos ponctuent une partition concrète digne d'un Jacques Tati."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Arnaud Schwartz",
-          "citation": "Même si le cinéaste (...) semble avoir fait le tour de son sujet avant la toute fin du film, \"Boxing Gym\" est une oeuvre fascinante aux vertus anthropologiques"
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Olivier de Bruyn",
-          "citation": "voir la critique sur lepoint.fr"
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Laetitia Mikles",
-          "citation": "Dès les premières images, le cinéaste attrape les a priori par le col et leur tord le cou. (...) L'ironie, le paradoxe, l'art du contre-pied sont autant d'outils tranchants qui lui permettent de déchirer le voile amidonné des apparences."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Gérard Delorme",
-          "citation": "Wiseman canalise cette énergie pure avec une maîtrise parfaite, créant un effet viscéralement exaltant."
-        },
-        {
-          "titre_presse": "TéléCinéObs",
-          "note": 4.0,
-          "auteur": "François Forestier",
-          "citation": "Pas de commentaire, pas d'interview, pas de mise en situation : le document visuel seul, fluide et passionnant."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Cécile Mury",
-          "citation": "Ce film, passionnant, est une étape supplémentaire dans la quête sociologique que le documentariste Frederick Wiseman poursuit depuis toujours (...)."
-        },
-        {
-          "titre_presse": "Le Figaroscope",
-          "note": 3.0,
-          "auteur": "Isabelle Fargette, Emmanuèle Frois",
-          "citation": "Wiseman, qui reste toujours en retrait, filme leur quotidien [aux boxeurs] sans prendre de gants. Pour initiés."
-        },
-        {
-          "titre_presse": "Studio Ciné Live",
-          "note": 3.0,
-          "auteur": "Thomas Baurez",
-          "citation": "Voir la critique sur le site StudioCinéLive"
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-180632/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 70
+      "nb_notes_spectateurs": 3512
     }
   },
   {
@@ -2989,7 +2378,7 @@
     "allocine": {
       "allocine_id": "312529",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-312529/critiques/presse/",
-      "note_moyenne_presse": null,
+      "note_moyenne_presse": 3.0,
       "nb_critiques_presse": 0,
       "critiques_presse": [],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-312529/critiques/spectateurs/",
@@ -3268,8 +2657,8 @@
         }
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-314882/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.5,
-      "nb_notes_spectateurs": 2382
+      "note_moyenne_spectateurs": 3.4,
+      "nb_notes_spectateurs": 2408
     }
   },
   {
@@ -3283,23 +2672,15 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/39836e54-8cdf-4a9c-9089-e78d26bd3853.jpg",
     "seances": [
       {
-        "heure": "23/11 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/11 18:20",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "24/11 12:50",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "26/11 12:00",
         "cinema": "Aventure"
       },
       {
         "heure": "30/11 12:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "01/12 12:00",
         "cinema": "Aventure"
       }
     ],
@@ -3486,7 +2867,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000039483/critiques/spectateurs/",
       "note_moyenne_spectateurs": 2.9,
-      "nb_notes_spectateurs": 1690
+      "nb_notes_spectateurs": 1761
     }
   },
   {
@@ -3506,6 +2887,30 @@
       }
     ],
     "allocine": null
+  },
+  {
+    "titre": "Je t’aime moi non plus",
+    "annee": null,
+    "duree_minutes": null,
+    "realisateurs": null,
+    "synopsis": null,
+    "affiche_url": null,
+    "seances": [
+      {
+        "heure": "30/11 21:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "2854",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-2854/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-2854/critiques/spectateurs/",
+      "note_moyenne_spectateurs": 2.4,
+      "nb_notes_spectateurs": 276
+    }
   },
   {
     "titre": "Karin Ingmarsdotter (Karin, Daughter of Ingmar)",
@@ -3668,7 +3073,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-272218/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 108
+      "nb_notes_spectateurs": 110
     }
   },
   {
@@ -3725,18 +3130,6 @@
     "synopsis": "Un groupe de lycéens français, en voyage scolaire, sont à Naples dans le but de visiter les ruines de Pompéi, mais ils éprouvent, l'un après l'autre, le désir et la colère en découvrant des corps pétrifiés par le Vésuve en 79.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
-      {
-        "heure": "23/11 20:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 13:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 15:15",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/11 20:30",
         "cinema": "Palace"
@@ -3979,7 +3372,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-318225/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 2150
+      "nb_notes_spectateurs": 2151
     }
   },
   {
@@ -4024,455 +3417,6 @@
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Le Corset (Iron Boy)",
-    "annee": 2026,
-    "duree_minutes": 89,
-    "realisateurs": [
-      "Louis Clichy"
-    ],
-    "synopsis": "Le Corset raconte l’enfance de Christophe, 11 ans, qui grandit dans une ferme de Beauce ; enfance marquée par les difficultés agricoles et l’autorité d’un père taiseux. Sujet à de constantes chutes à cause de sa scoliose, il est contraint de porter un corset orthopédique, véritable carcan qui entrave son corps autant que son quotidien. Entre incompréhension familiale et solitude, le jeune garçon développe un imaginaire puissant : s’il ne peut plus pencher, c’est le monde autour de lui qu’il fait basculer. À travers la musique, la découverte de l’orgue et sa rencontre avec Clara, Christophe apprivoise peu à peu sa différence et trouve un nouvel élan.  \n\nPorté par une animation traditionnelle à l’aquarelle et à l’encre de Chine, le film mêle poésie, réalisme et émotion dans un récit intime et universel, ponctué de pointes d’humour délicates et inattendues. Le film est un classique instantané qui épate par l’intelligence de sa narration, la finesse de ses personnages et son visuel d’une beauté rare.   ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/5da452fd-3048-41fb-83b3-0c4894821ec2.jpg",
-    "seances": [
-      {
-        "heure": "24/11 11:30",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": null
-  },
-  {
-    "titre": "Le Mystère Lucy Lost",
-    "annee": 2024,
-    "duree_minutes": 90,
-    "realisateurs": [
-      "Olivier Clert"
-    ],
-    "synopsis": "Lucy se sent comme étrangère parmi les siens. Ses dons extraordinaires et son étrange chevelure blanche suscitent la méfiance et l’hostilité des gens du village. Aidée de Milly, petite fille qu'elle seule peut voir, Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs. Adapté du roman « Listen to the Moon » de l’auteur à succès britannique Michael Morpurgo.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/07c9af04-e663-4178-8c9a-351c619cf949.jpg",
-    "seances": [
-      {
-        "heure": "24/11 15:30",
-        "cinema": "Aventure"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000012316",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000012316/critiques/presse/",
-      "note_moyenne_presse": 3.9,
-      "nb_critiques_presse": 26,
-      "critiques_presse": [
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 5.0,
-          "auteur": "Arthur Champilou",
-          "citation": "Parce que chacune de ses images célèbre l’intelligence, l’imaginaire et la sensibilité des enfants, témoins silencieux et impuissants des violences du monde, Le Mystère Lucy Lost est de ces films d’animation devenus aujourd’hui exceptionnellement rares. Un petit miracle."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Le rencontre de deux fillettes sur une île isolée est un véritable poème filmé, ode à la différence pour petits et grands."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 4.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Olivier Clert magnifie les paysages ventés de ces îles anglaises, dont les prairies paraissent mouvantes et les sables se traversent à cheval sur un filet d’eau, et imprime la rétine par le bleu d’un ciel pas toujours dégagé."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 4.0,
-          "auteur": "Perrine Quennesson",
-          "citation": "Un petit goût rétro donné à un récit à hauteur d’enfant qui ne manquera pas de bouleverser les plus grands."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Une animation merveilleuse produite par le studio français Xilam, digne des œuvres du maître japonais Hayao Miyazaki."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Une dose de douceur qui fera du bien à tout le monde."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Falila Gbadamassi",
-          "citation": "Olivier Clert signe une œuvre qui se joue des rebondissements pour embarquer le spectateur dans la psyché d'une petite fille qui compose avec ses traumatismes."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Il n’est jamais trop tôt pour apprendre aux enfants les vertus de la tolérance. Le mystère Lucy Lost, le premier long métrage d’Olivier Clert, évoque l’ostracisation de Lucy, une préadolescente aux cheveux blancs sur fond de Première Guerre mondiale dans l’archipel des îles Scilly, au sud de la Grande-Bretagne."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Stéphane Dreyfus",
-          "citation": "Ce conte animé à l’élégante facture classique, qui emprunte beaucoup à la poésie graphique des studios Ghibli, touche au cœur en dépit de quelques acrobaties narratives. Une œuvre à voir en famille pour débattre des sujets – à l’actualité brûlante – qu’il aborde : l’intolérance et la xénophobie."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 4.0,
-          "auteur": "Aurélien Cabrol",
-          "citation": "La bienheureuse influence de l’animation japonaise tendance Miyazaki ne saurait masquer la singularité du film d’Olivier Clert, qui déploie un univers graphique ample et parfaitement maîtrisé."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Une animation merveilleuse produite par le studio français Xilam, digne des œuvres du maître japonais Hayao Miyazaki."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Olivier Delcroix",
-          "citation": "Ovationné au dernier festival d’animation d’Annecy, le premier long-métrage d’Olivier Clert rend un bel hommage au touchant roman de l’auteur britannique."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Stéphanie Belpêche",
-          "citation": "Ce long métrage du studio parisien Xilam, au scénario complexe, est marqué par l’influence formelle d’Hayao Miyazaki, pour réfléchir sur le regard des autres et l’acceptation de la différence, dans un univers poétique, singulier et onirique."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Élise Lépine",
-          "citation": "Vous allez pleurer devant Lucy Lost. Et quel que soit votre âge, vous allez grandir. Ne vous privez surtout pas."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 4.0,
-          "auteur": "Chloé Caye",
-          "citation": "Un film réconfortant pour les enfants… et les anciens enfants."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 4.0,
-          "auteur": "Violette Messager",
-          "citation": "Un premier long métrage d’animation élégant, qui propose une aventure aussi profonde que puissante."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 4.0,
-          "auteur": "Thierry Chèze",
-          "citation": "Une merveille de film d'animation."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 4.0,
-          "auteur": "Eithne O’Neill",
-          "citation": "Adapté d’un best-seller jeunesse de Michael Morpurgo, \"Le Mystère Lucy Lost\" mêle fantastique et fait historique. Le récit très actuel sur une crise identitaire s’adresse à tous, à partir de 10 ans. Ce film d’animation au chromatisme somptueux est une ode à la tolérance."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Thierry Chèze",
-          "citation": "En adaptant le livre jeunesse de Michael Morpurgo (l’auteur de Cheval de guerre), Olivier Clert signe un premier long métrage entre récit intime et épopée romanesque."
-        },
-        {
-          "titre_presse": "So Film",
-          "note": 4.0,
-          "auteur": "Victor Laye",
-          "citation": "Un plaidoyer touchant contre la xénophobie."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Samuel Douhaire",
-          "citation": "Cette merveille d’animation, d’une richesse visuelle rare, séduira enfants et parents."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Mathilde Grasset",
-          "citation": "Comme au carrefour des courants d’air, le film ne se laisse pour autant jamais tenter par un chaos facile, œuvre au contraire à une clarté constante, à la hauteur de son ambition fédératrice."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Xavier Leherpeur",
-          "citation": "Première Guerre mondiale. La découverte sur les côtes anglaises d’une jeune fille inanimée suscite la défiance des habitants. A New York, une fillette embarque sur le « Lusitania ». Ces deux récits s’entrelacent dans un canevas féerique qu’une animation lyrique vient exalter."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 3.0,
-          "auteur": "Pauline Croquet",
-          "citation": "Récit d’émancipation, porteur d’espoir, le film conserve du roman certaines images fortes comme les longues chevauchées à cru de Lucy, magnifiquement retranscrites à l’écran, grâce au travail réalisé sur les décors – effets de contraste, lumière changeante selon l’heure et la météo."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 3.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Avec son cachet visuel envoûtant et sa capacité à aborder des thématiques fortes comme la mémoire, la Première Guerre mondiale, mais aussi les préjugés et la peur qui poussent les gens à se replier sur eux-mêmes et à rejeter ce qui leur est étranger, Le Mystère Lucy Lost vise juste et saura toucher un large public. Les plus petits pourront toutefois trouver la narration un peu trop complexe."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 3.0,
-          "auteur": "Cédric Coppola",
-          "citation": "Là où l’on aurait pu craindre que ce parti pris débouche sur un mélange de styles bancal, il n’en est rien et le résultat est cohérent d’un bout à l’autre."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000012316/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.5,
-      "nb_notes_spectateurs": 380
-    }
-  },
-  {
-    "titre": "Les Misérables",
-    "annee": 2026,
-    "duree_minutes": 178,
-    "realisateurs": [
-      "Fred Cavayé"
-    ],
-    "synopsis": "Jean Valjean, un ancien forçat évadé du bagne où il a passé 16 ans pour avoir volé du pain, seconsacre désormais à faire le bien autour de lui. Il se crée une nouvelle identité, celle d'un notable respecté, et vient en aide à Fantine, une ouvrière mourante en lui promettant de sauver sa fille, la petite Cosette, des griffes des Thénardier, des aubergistes qui l'exploitent et la maltraitent. Alors que Valjean prend soin de l'enfant et l'élève comme sa propre fille, son passé finit par le rattraper en la personne de l’inspecteur Javert qui n'a eu de cesse de le pourchasser durant toutes ces années. En dépit de l'agitation sociale qui secoue la France, les destins de Valjean, de Cosette, de son amant Marius et de Javert s'entremêlent dans un Paris bouillonnant et révolutionnaire. À travers des luttes, des sacrifices et un profond désir de justice, Valjean s'efforce d'achever son parcours de rédemption et d'offrir à Cosette un avenir d'amour et de liberté.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1e004afe-3c44-4086-8e3e-93151d3cc307.jpg",
-    "seances": [
-      {
-        "heure": "24/11 15:00",
-        "cinema": "Le Stockel"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "273579",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-273579/critiques/presse/",
-      "note_moyenne_presse": 4.3,
-      "nb_critiques_presse": 37,
-      "critiques_presse": [
-        {
-          "titre_presse": "20 Minutes",
-          "note": 5.0,
-          "auteur": "Caroline Vié",
-          "citation": "Pour son premier long-métrage, Ladj Ly a réussi un coup de maître."
-        },
-        {
-          "titre_presse": "BIBA",
-          "note": 5.0,
-          "auteur": "Lili Yubari",
-          "citation": "Ce polar sur la colère sociale qui gronde est une bombe."
-        },
-        {
-          "titre_presse": "CNews",
-          "note": 5.0,
-          "auteur": "La rédaction",
-          "citation": "[...] le réalisateur de 39 ans signe une œuvre coup de poing, et rend hommage à ces quartiers où chacun tente de trouver sa place."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 5.0,
-          "auteur": "Stéphane Delorme",
-          "citation": "Le premier long métrage de fiction de Ladj Ly est un film urgent, brûlant, bouillonnant, mais aussi un film extrêmement dense qu’il faut déplier."
-        },
-        {
-          "titre_presse": "L'Express",
-          "note": 5.0,
-          "auteur": "Christophe Carrière",
-          "citation": "\"Les Misérables\" n'est pas un pamphlet mais une invitation à réfléchir, doublée d'un état des lieux alarmant."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 5.0,
-          "auteur": "Jean-Claude Raspiengeas",
-          "citation": "Avec cet uppercut, Grand prix du jury au festival de Cannes, Ladj Ly signe une œuvre sidérante, impressionnante de maîtrise et de puissance narrative."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 5.0,
-          "auteur": "Christophe Caron",
-          "citation": "Voilà comment Les Misérables échappe au manichéisme de bazar : tout le monde se fait déborder, jusqu’à une séquence finale littéralement suffocante. Imparable, disions-nous"
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 5.0,
-          "auteur": "Jean Serroy",
-          "citation": "Un film choc où, avec une maîtrise impressionnante de la caméra et du rythme, Ladj Ly suit l’éruption en train de naître de ce volcan social où nul n’est totalement coupable ni totalement innocent."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 5.0,
-          "auteur": "Eric Neuhoff",
-          "citation": "Voici la banlieue comme si vous y étiez, donc comme vous ne l’avez jamais vue."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 5.0,
-          "auteur": "Stéphane Joby",
-          "citation": "Implacable dans son constat et virtuose dans sa forme, à l’image d’un final à couper le souffle, ce film coup de poing mérite d’être vu par le plus grand nombre."
-        },
-        {
-          "titre_presse": "Marie Claire",
-          "note": 5.0,
-          "auteur": "Emily Barnett",
-          "citation": "C'est régénérant et inattendu."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 5.0,
-          "auteur": "Gilles Kerdreux",
-          "citation": "Un grand film."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 5.0,
-          "auteur": "Franck Garbarz",
-          "citation": "Loin des fantasmes, des spéculations ou des diabolisations médiatiques, le regard de Ladj Ly a la force du constat brut, sans filtre, d’une situation désespérée et, pire encore, figée."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 5.0,
-          "auteur": "Julien Barcilon",
-          "citation": "Un chef-d'oeuvre."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 5.0,
-          "auteur": "Thomas Colpaert",
-          "citation": "Brut, puissant et stylisé, le film, prix du jury à Cannes, est interprété avec intensité."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Louis Guichard",
-          "citation": "À Montfermeil, la cité des Bosquets s’embrase à la suite d’une bavure policière, filmée par un enfant. Le cinéaste, habitant de ce quartier, transcende le film de banlieue. Magistral."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 5.0,
-          "auteur": "A.V.",
-          "citation": "Un thriller politique et humaniste sans clichés, sur le fond comme sur la forme. Impressionnant."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 4.0,
-          "auteur": "Emmanuelle Spadacenta",
-          "citation": "Ladj Ly ne succombe à la spectacularisation de la révolte que pour la dénoncer comme l’ultime constat d’échec. C’est d’un aplomb et d’une maîtrise extraordinaires."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Simon Riaux",
-          "citation": "Film de genre en ébullition, réquisitoire politique et coup de poing plastique, \"Les Misérables\" impose Ladj Ly comme un des metteurs en scène les plus prometteurs de son époque."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 4.0,
-          "auteur": "Françoise Delbecq",
-          "citation": "Un film coup de poing."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "Sabrina Nadjar",
-          "citation": "A cause du sujet, et de la violence physique et verbale qui occupent l'écran, le film fera parler. Il laisse à penser qu'il faudrait totalement redessiner ces zones, repenser l'espace pour induire d'autres interactions..."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Jacky Bornet",
-          "citation": "Jouant d’une caméra inventive, les scènes d’action sont percutantes, avec une tension constante de l’image. Avec \"Les Misérables\", un cinéaste est né."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Marie José Sirach",
-          "citation": "Un portrait sous tension de ces territoires abandonnés où les enfants, aux premières loges, poussent comme ils peuvent."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Thomas Sotinel",
-          "citation": "Les Misérables se tient au point de rencontre entre Victor Hugo et Spike Lee."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Jean-Luc Wachthausen",
-          "citation": "La réalisation est virtuose et le constat sur l'état des lieux, terrible."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Jacky Goldberg",
-          "citation": "Implacable et précis sur la réalité des violences policières en cité, \"Les Misérables\" montre dans le même temps l’impossibilité matérielle des forces dites de l’ordre d’exercer leur mission convenablement. Se révèle un jeu où tout le monde perd, où tout le monde est misérable – ce qui n’empêche que certains sont plus coupables que d’autres, Ly est très clair là-dessus."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Luc Chessel",
-          "citation": "En situant ses \"Misérables\" dans la cité des Bosquets, Ladj Ly renouvelle le film de banlieue à travers le regard d’un policier fraîchement débarqué, témoin des rivalités du quartier et des bavures de ses collègues."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Yannick Vely",
-          "citation": "L'approche documentaire est d'ailleurs le point fort des Misérables. La manière dont il décrit l'environnement corrompu de la cité, dont il présente les différents protagonistes de ce jeu de dupe qui impose un semblant de paix sociale."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Christophe Narbonne",
-          "citation": "La dernière demi-heure, la plus dingue, certainement la plus polémique, est une démonstration de force cinématographique (on pense au cinéma viril de Walter Hill) qui restitue avec sauvagerie l’atmosphère de guerre urbaine ressentie lors des émeutes de 2005."
-        },
-        {
-          "titre_presse": "Rolling Stone",
-          "note": 4.0,
-          "auteur": "Sophie Rosemont",
-          "citation": "Avec Les Misérables, Ladj Ly signe ici le grand film qu’on attendait depuis La Haine."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Sophie Avon",
-          "citation": "Fuyant les caricatures trop faciles, soucieux de ressusciter un univers qu’il connaît sur le bout des doigts et qu’il entend restituer dans toute sa palette de personnages et d’émotions contraires, Ladj Ly bâtit une fiction au lyrisme sourd, à mi-chemin d’une chronique policière et d’une tragédie moderne."
-        },
-        {
-          "titre_presse": "Transfuge",
-          "note": 4.0,
-          "auteur": "Frédéric Mercier",
-          "citation": "Malgré des maladresses (notamment dans l’enchaînement des situations, souvent artificiel et le jeu de certains comédiens, parfois caricatural), le résultat détonne par son ambition, sa forme et son discours."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Laurent Cambon",
-          "citation": "Un film choc et sans concession qui met dos à dos une police dépassée et pétrie de contradiction, et la cité de Montfermeil en Seine-Saint-Denis, fracturée et en manque de repères."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Nicolas Schaller",
-          "citation": "On se souviendra moins de son trio de flics et de leurs dialogues souvent démonstratifs que de ce qui se joue à la périphérie à travers deux personnages à peine sortis de l’enfance : un gavroche métisse virant black bloc christique et un binoclard solitaire qui balade son drone-caméra entre les barres HLM."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Gaël Reyre",
-          "citation": "Ladj Ly signe un film honnête et efficace mais un peu superficiel dans son traitement des personnages."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 2.0,
-          "auteur": "Josué Morel",
-          "citation": "Indéniablement, il manque quelque chose aux Misérables pour livrer une réflexion qui parviendrait à tenir sa complexité et à construire un regard nuancé sans passer par un aplanissement généralisé. Mais il faut reconnaître aussi qu’on n’attendait pas que le film soulève autant de beaux problèmes."
-        },
-        {
-          "titre_presse": "La Septième Obsession",
-          "note": 1.0,
-          "auteur": "Alexandre Jourdain",
-          "citation": "Le baptême du feu de Ladj Ly, malgré son ouverture réussie, ne peut aujourd’hui prétendre incarner l’onde de choc de \"La Haine\" (Mathieu Kassovitz, 1995)."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-273579/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 20774
-    }
   },
   {
     "titre": "Les Quatre Cents Coups",
@@ -4720,7 +3664,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-323956/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 111
+      "nb_notes_spectateurs": 116
     }
   },
   {
@@ -4733,30 +3677,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/11 18:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/11 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "24/11 14:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 15:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/11 15:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/11 18:45",
         "cinema": "Vendôme"
@@ -5003,7 +3923,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000022205/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.9,
-      "nb_notes_spectateurs": 1587
+      "nb_notes_spectateurs": 1597
     }
   },
   {
@@ -5017,18 +3937,6 @@
     "synopsis": "",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
-      {
-        "heure": "23/11 17:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 13:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 13:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "24/11 21:15",
         "cinema": "Galeries"
@@ -5177,6 +4085,10 @@
       {
         "heure": "25/11 18:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "30/11 20:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": {
@@ -5188,291 +4100,6 @@
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-115256/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
-    }
-  },
-  {
-    "titre": "Notre Salut",
-    "annee": 2026,
-    "duree_minutes": 155,
-    "realisateurs": [
-      "Emmanuel Marre"
-    ],
-    "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
-    "seances": [
-      {
-        "heure": "24/11 11:30",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000007388",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/presse/",
-      "note_moyenne_presse": 4.5,
-      "nb_critiques_presse": 43,
-      "critiques_presse": [
-        {
-          "titre_presse": "Bande à part",
-          "note": 5.0,
-          "auteur": "Pierre Charpilloz",
-          "citation": "Une grande œuvre de mise en scène, qui, en faisant ressentir et comprendre ce qu’a été la collaboration, propulse l’Histoire dans le présent."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 5.0,
-          "auteur": "Charlotte Garson",
-          "citation": "Notre salut propose une troisième voie, moins académique que celle de Giannoli et moins radicale que celle de Glazer. Elle consiste à tirer le fil d’un détail bien choisi jusqu’à ce qu’il forme une pelote énorme, étouffante [...]."
-        },
-        {
-          "titre_presse": "CinemaTeaser",
-          "note": 5.0,
-          "auteur": "Emmanuelle Spadacenta",
-          "citation": "La collaboration, l’absence de colonne vertébrale et le travail comme aliénation : un film phénoménal."
-        },
-        {
-          "titre_presse": "Culturopoing.com",
-          "note": 5.0,
-          "auteur": "Pierig Leray",
-          "citation": "Avec \"Notre Salut\", cette France collaborationniste si peu imagée au cinéma prend la forme d’un faux-documentaire intime, anachronique, une nouvelle forme de dialectique qui plonge ce film d’époque dans une contemporanéité qui foudroie."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 5.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "L'anachronisme est l'une des grandes audaces de Notre Salut : BO avec tubes pop des années 60 et 80 ; dialogues actuels ; forme de faux documentaire contemporain avec des personnages pris en flagrant délit de normalité réactionnaire."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Au centre du jeu, Swann Arlaud excelle à rendre son personnage opaque. Bravo !"
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 5.0,
-          "auteur": "Laurence Houot",
-          "citation": "En montrant comment, subrepticement, pas après pas, jour après jour, une majorité finit par adhérer à des thèses racistes pour collaborer ensuite d'autant plus facilement au régime criminel qui les met en œuvre, ce film magistral - autant sur un plan historiographique que cinématographique - nous invite à méditer sur le passé, sur l'Histoire, mais aussi (et surtout) sur notre présent."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 5.0,
-          "auteur": "Guillaume Loison",
-          "citation": "Swann Arlaud excelle dans ce grand film sur le pétainisme qui tend un miroir à notre époque."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 5.0,
-          "auteur": "Aurélien Cabrol",
-          "citation": "Mêlant la grande histoire à celle toute petite, en comparaison, d’un homme sans qualité et de son couple en déshérence, Emmanuel Marre [le réalisateur] parvient à donner à son film la couleur de la vraisemblance totale, tout en nous alertant sur un passé aux résonances parfois très actuelles."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 5.0,
-          "auteur": "Christophe Caron",
-          "citation": "Un grand geste de cinéma."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 5.0,
-          "auteur": "Nathalie Chifflet",
-          "citation": "Henri Marre, c'est l'anti-monstre fasciste, mais la stupéfiante banalité du Mal, telle que décrite par la philosophe Hannah Arendt."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 5.0,
-          "auteur": "Ma. Mt.",
-          "citation": "Hors de toute tentation muséale, voilà en effet un film qui renégocie pour son compte le rapport du cinéma à l’histoire, réinvente une façon plus directe, plus frontale, de filmer celle-ci : ne pas l’enjoliver, mais s’y confronter. Chef-d’œuvre."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Cette histoire vraie d’un collabo « ordinaire », campé par Swann Arlaud qui livre une prestation ahurissante, colle des frissons et donne à réfléchir sur notre époque actuelle."
-        },
-        {
-          "titre_presse": "Les Echos",
-          "note": 5.0,
-          "auteur": "A.G.",
-          "citation": "Une reconstitution historique magistrale qui déroute, dérange et enthousiasme."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 5.0,
-          "auteur": "Thomas Fouet",
-          "citation": "Emmanuel Marre signe le grand œuvre tant attendu sur la Collaboration."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 5.0,
-          "auteur": "Ludovic Béot",
-          "citation": "La force radicale et irrévérencieuse du film est de ne nous accorder aucune sortie de secours. Par touches anachroniques finement composées, Marre déréalise à dessein pour qu’on ne se croie jamais à l’abri."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 5.0,
-          "auteur": "Camille Nevers",
-          "citation": "Un film beau et fou sur la compromission, à méditer au prisme de l’emprise actuelle de l’extrême droite."
-        },
-        {
-          "titre_presse": "Marie Claire",
-          "note": 5.0,
-          "auteur": "Emily Barnett",
-          "citation": "Ce film-fleuve ausculte extraordinairement les ressorts de la collaboration."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 5.0,
-          "auteur": "Mathieu Faure",
-          "citation": "Notre Salut est un film intelligent, nécessaire, fascinant et sans doute cathartique (...)."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 5.0,
-          "auteur": "Pascale Vergereau",
-          "citation": "Un très grand film sur Vichy."
-        },
-        {
-          "titre_presse": "So Film",
-          "note": 5.0,
-          "auteur": "Benjamin Cataliotti",
-          "citation": "Henri Marre n’est, de fait, jamais aussi sournois que quand il exécute les pires besognes, avec l’air gêné de celui qui craint toujours d’avoir un temps de retard alors qu’il se trouve en réalité au cœur du système. Ce qu’éclaire à la perfection ce film immense, qui n’aurait mérité rien de moins qu’une Palme."
-        },
-        {
-          "titre_presse": "Transfuge",
-          "note": 5.0,
-          "auteur": "Serge Kaganski",
-          "citation": "Le voilà donc, le grand film français sur la collaboration. Il y avait déjà l’excellent \"Lacombe Lucien\" de Louis Malle, \"La Question humaine\" de Nicolas Klotz, \"Les Rayons et les ombres\" de Xavier Giannoli, mais \"Notre salut\" d’Emmanuel Marre est un objet d’une force et d’une intelligence supérieures, quelque chose comme l’équivalent de ce que Jonathan Littell avait offert à la littérature avec \"Les Bienveillantes\"."
-        },
-        {
-          "titre_presse": "Télé 7 Jours",
-          "note": 5.0,
-          "auteur": "F. Léger",
-          "citation": "Un grand film."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 5.0,
-          "auteur": "Marie Sauvion",
-          "citation": "En s’inspirant de l’histoire de son arrière-grand-père, fonctionnaire zélé sous Pétain, le cinéaste réussit un biopic politique impressionnant de bout en bout."
-        },
-        {
-          "titre_presse": "Voici",
-          "note": 5.0,
-          "auteur": "La Rédaction",
-          "citation": "Un très grand film, porté par le toujours fascinant Swann Arlaud."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Notre Salut se révèle un film original et exigeant. On peut être réfractaire aux partis pris esthétiques de son auteur mas il faudrait faire preuve d’une grande mauvaise foi pour ne pas saluer son ambition comme sa sincérité."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 4.0,
-          "auteur": "Christophe Brangé",
-          "citation": "Certes, 2h39 demandent de la patience, et quelques longueurs peuvent se faire ressentir ici ou là, mais son Prix du scénario à Cannes n'a rien d'usurpé : \"Notre Salut\" est l'un des films français les plus osés de l'année."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 4.0,
-          "auteur": "Adrien Mitterrand-Munch",
-          "citation": "Par la singularité de son dispositif, qui restitue un point de vue inscrit dans son époque tout en le décontextualisant, Notre salut constitue une passionnante réponse aux perspectives ouvertes par l’historiographie récente sur la France de Pétain."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Antoine Desrues",
-          "citation": "Johann Chapoutot avait titré son livre sur le rapport entre le management moderne et le nazisme \"Libres d’obéir\", et c’est exactement ce qu’Emmanuel Marre filme avec précision, dans une approche coup de poing de la résignation politique qui nous regarde dans les yeux."
-        },
-        {
-          "titre_presse": "Elle",
-          "note": 4.0,
-          "auteur": "Marguerite Baux",
-          "citation": "Swann Arlaud est magistral."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Sophie Joubert",
-          "citation": "Dans le rôle d’Henri Marre, fonctionnaire insaisissable, Swann Arlaud est impressionnant."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Stéphane Dreyfus",
-          "citation": "Dans Notre salut, le cinéaste français Emmanuel Marre livre le portrait plein de nuances de son arrière-grand-père, collaborateur du régime de Vichy, en multipliant les rapprochements avec le temps présent."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Etienne Sorin",
-          "citation": "Le tableau saisissant de la débâcle d’un homme et d’un régime."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Baptiste Thion",
-          "citation": "Non dénué d'ironie, (...) \"Notre salut\" rebat les cartes de la fiction historique. Et c'est brillant."
-        },
-        {
-          "titre_presse": "Le Point",
-          "note": 4.0,
-          "auteur": "Florence Colombani",
-          "citation": "Où commence l’inacceptable ? Nous sommes face à la question avec ce portrait effarant d’un homme auquel le fascisme offre l’occasion d’échapper à son perpétuel sentiment d’humiliation, et qui devient partie prenante de l’abjection la plus pure."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Yannick Vely",
-          "citation": "POUR - C’est dans le second film que se niche le cœur de « Notre Salut ». L’histoire d’amour entre Henri et Paulette (...). La petite histoire prend alors le pas sur la grande Histoire et le film devient magnifique, le salaud devenant une grande figure tragique. C’est fort."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "François Léger",
-          "citation": "L'un des sommets ciné de l'année."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 4.0,
-          "auteur": "Julien Rousset",
-          "citation": "Le film d’Emmanuel Marre sur le régime de Vichy impressionne, sur le fond autant que par sa forme, libre et percutante."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 4.0,
-          "auteur": "F.-X.T.",
-          "citation": "Un portrait glaçant de la France sous Pétain."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 4.0,
-          "auteur": "F.-X.T.",
-          "citation": "[Le] film est porté par une réalisation audacieuse, et Swann Arlaud, dans le rôle principal, livre une prestation d'une grande richesse."
-        },
-        {
-          "titre_presse": "Version Femina",
-          "note": 3.0,
-          "auteur": "Hadrien Machart",
-          "citation": "Un film dont la singu­larité du ton et de la forme en fait un objet cinématographique à découvrir."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 3.0,
-          "auteur": "Gérard Crespo",
-          "citation": "Un film historique partagé entre l’approche documentaire et un style distancié, qui propose d’éclairer la collaboration en France. Une réussite globale, avec un sublime Swann Arlaud."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 2.0,
-          "auteur": "Fabrice Leclerc",
-          "citation": "CONTRE - Par son propos et son écriture, tout était déjà là, finement amené, en total décalage. Alors pourquoi à tout prix en rajouter encore ? Pourquoi orner son film coup de poing d’oripeaux faciles, de figures de styles visuelles qu’il répète à l’envi (...), ses personnages slapsticks (...), ses acteurs forcés au décalage constant."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000007388/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.7,
-      "nb_notes_spectateurs": 3472
     }
   },
   {
@@ -5532,14 +4159,143 @@
       {
         "heure": "30/11 12:50",
         "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 16:50",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 21:10",
+        "cinema": "Aventure"
       }
     ],
     "allocine": {
       "allocine_id": "1000014559",
       "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000014559/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
+      "note_moyenne_presse": 4.1,
+      "nb_critiques_presse": 20,
+      "critiques_presse": [
+        {
+          "titre_presse": "La Tribune Dimanche",
+          "note": 5.0,
+          "auteur": "Aurélien Cabrol",
+          "citation": "Tout simplement impressionnant."
+        },
+        {
+          "titre_presse": "La Voix du Nord",
+          "note": 5.0,
+          "auteur": "Christophe Caron",
+          "citation": "Paper Tiger plonge dans le royaume des ombres. Elles aussi ont façonné l’Amérique."
+        },
+        {
+          "titre_presse": "Positif",
+          "note": 5.0,
+          "auteur": "Raphaël Sergeant",
+          "citation": "Pour illustrer les expériences traumatiques auxquelles se trouve confrontée cette famille ordinaire, James Gray n’hésite pas à reprendre les codes du film d’horreur. (…) Ces scènes spectaculaires s’intègrent dans un récit à la linéarité tragique qui écrase les protagonistes sous le poids de la fatalité."
+        },
+        {
+          "titre_presse": "Voici",
+          "note": 5.0,
+          "auteur": "La Rédaction",
+          "citation": "Un thriller haletant et émouvant."
+        },
+        {
+          "titre_presse": "Abus de Ciné",
+          "note": 4.0,
+          "auteur": "Olivier Bachelard",
+          "citation": "Si \"Paper Tiger\" est aussi éblouissant, c’est également grâce à la prestation des trois comédiens, Adam Driver, Scarlett Johansson et Miles Teller, tous trois au sommet de leur art. Habité par deux scènes qui resteront en tête des cinéphiles, le film est à coup sûr l’une des grosses claques de cette édition 2026 du Festival de Cannes."
+        },
+        {
+          "titre_presse": "Cahiers du Cinéma",
+          "note": 4.0,
+          "auteur": "Clément Colliaux",
+          "citation": "Si le cinéma de James Gray s’est toujours drapé d’oripeaux funèbres, il gagne ici une dimension testamentaire bouleversante. L’accablement qui étouffait parfois ses films se transforme en une mélancolie résignée : Paper Tiger est un grand récit de disparition, où chaque personnage doit emporter avec lui sa malédiction."
+        },
+        {
+          "titre_presse": "Femme Actuelle",
+          "note": 4.0,
+          "auteur": "La Rédaction",
+          "citation": "Le film a du style, le grain de l'image correspond bien à l'époque, le jeu impose le respect."
+        },
+        {
+          "titre_presse": "Franceinfo Culture",
+          "note": 4.0,
+          "auteur": "Mohamed Berkani",
+          "citation": "James Gray est un conteur exceptionnel qui arrive dans ce drame familial à faire vivre aussi bien les tourments intérieurs que les conflits extérieurs."
+        },
+        {
+          "titre_presse": "La Septième Obsession",
+          "note": 4.0,
+          "auteur": "Jérémie Oro",
+          "citation": "Tout cela va plus loin que l’adage voulant que certains grands cinéastes fassent toujours le même film. Il y a ici une sorte de conscience qu’un monde est à l’agonie, et qu’il faut peut-être en précipiter la fin d’une majestueuse fuite en avant. C’est ce qu’entreprennent conjointement Gray et Gary : un au revoir aux origines."
+        },
+        {
+          "titre_presse": "Le Figaro",
+          "note": 4.0,
+          "auteur": "Etienne Sorin",
+          "citation": "James Gray renoue brillamment avec le film de mafia."
+        },
+        {
+          "titre_presse": "Le Journal du Dimanche",
+          "note": 4.0,
+          "auteur": "Stéphanie Belpêche",
+          "citation": "On est scotché par la fluidité d’une narration à la mécanique implacable, qui broie deux héros luttant pour préserver leur intégrité et se sauver mutuellement, dans une atmosphère paranoïaque et une mise en scène d’une rare élégance. Aussi captivant que poignant."
+        },
+        {
+          "titre_presse": "Le Point",
+          "note": 4.0,
+          "auteur": "Jean-Luc Wachthausen",
+          "citation": "Du beau cinéma, tout simplement."
+        },
+        {
+          "titre_presse": "Sud Ouest",
+          "note": 4.0,
+          "auteur": "Cédric Coppola",
+          "citation": "L’intime occupe aussi une grande place dans cette tragédie poignante, puisque le réalisateur s’est servi de photos de l’appartement de son enfance pour recréer celui d’Irwin."
+        },
+        {
+          "titre_presse": "Télé 2 semaines",
+          "note": 4.0,
+          "auteur": "C.M.",
+          "citation": "James Gray livre un thriller familial d’une grande maîtrise, remarquablement porté par son trio de comédiens : Scarlett Johansson, Adam Driver et Miles Teller."
+        },
+        {
+          "titre_presse": "Télé 7 Jours",
+          "note": 4.0,
+          "auteur": "Julien Barcilon",
+          "citation": "Identification et frissons garantis."
+        },
+        {
+          "titre_presse": "Télé Loisirs",
+          "note": 4.0,
+          "auteur": "C.M.",
+          "citation": "L’atmosphère poisseuse, la mise en scène soignée et le jeu remarquable de son trio d’acteurs font tout le sel de ce thriller familial d’une grande maîtrise, signé James Gray."
+        },
+        {
+          "titre_presse": "Version Femina",
+          "note": 4.0,
+          "auteur": "Hadrien Machart",
+          "citation": "Si le nouveau James Gray rappelle ses inoubliables premiers longs-métrages, c’est parce que son sujet et son ambiance en font un formidable film de mafia et que sa mise en scène, esthétique et habile, confirme sa place à part dans le cinéma."
+        },
+        {
+          "titre_presse": "aVoir-aLire.com",
+          "note": 4.0,
+          "auteur": "Laurent Cambon",
+          "citation": "Dans la pure tradition du policier noir américain, James Gray réussit un coup de force."
+        },
+        {
+          "titre_presse": "Critikat.com",
+          "note": 3.0,
+          "auteur": "Josué Morel",
+          "citation": "Dans les derniers Gray, le rêve d’une mise en scène classique se confond souvent avec une écriture presque impersonnelle, mais qui accueille toutefois une poignée d’éclats et de scènes renouant avec son inspiration originelle. Il ne s’agit plus d’attendre de lui un film plein, mais plutôt des fragments rappelant les promesses du passé."
+        },
+        {
+          "titre_presse": "Première",
+          "note": 2.0,
+          "auteur": "Thomas Baurez",
+          "citation": "Gray façonne sa propre mythologie dans la continuité d’un classicisme américain au service d’une œuvre qui vaudrait pour son ressassement dramatique. Little Odessa, The Yards, La Nuit nous appartient, Two Lovers, The Immigrant, jusqu’à Armageddon Time, dessinent la carte postale d’une New York cosmopolite vue depuis ses quartiers populaires, régis par les liens du sang. Nos deux tigres de papier du jour sont frères."
+        }
+      ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000014559/critiques/spectateurs/",
       "note_moyenne_spectateurs": null,
       "nb_notes_spectateurs": null
@@ -5555,10 +4311,6 @@
     "synopsis": "À travers des entretiens avec Hänsel et certains membres de son équipe habituelle, se dessine le portrait remarquable d’une cinéaste qui est également sa propre productrice — autrement dit, sa propre patronne. La relation entre les personnages et leur environnement naturel occupe une place prépondérante dans son œuvre, qui s’inspire souvent de romans.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/ec837d79-5184-4542-a194-5450a756d4c0.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:00",
-        "cinema": "Cinematek"
-      },
       {
         "heure": "27/11 20:30",
         "cinema": "Cinematek"
@@ -5671,275 +4423,6 @@
       }
     ],
     "allocine": null
-  },
-  {
-    "titre": "Quelques mots d'amour",
-    "annee": 2026,
-    "duree_minutes": 95,
-    "realisateurs": [
-      "Rudi Rosenberg"
-    ],
-    "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tête de le retrouver, Erika se sent obligée de l’aider, tout en cherchant à la protéger. En grandissant, la quête d’Abigaëlle se transforme en obsession, entraînant avec elle sa mère, sa meilleure amie, et tous ceux qui comptent.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e6b07715-e6c2-4cb9-a5c8-b0e424c16834.jpg",
-    "seances": [
-      {
-        "heure": "24/11 13:00",
-        "cinema": "Vendôme"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000036515",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000036515/critiques/presse/",
-      "note_moyenne_presse": 3.8,
-      "nb_critiques_presse": 36,
-      "critiques_presse": [
-        {
-          "titre_presse": "Bande à part",
-          "note": 5.0,
-          "auteur": "Isabelle Danel",
-          "citation": "Coup de cœur absolu pour ce deuxième long-métrage de Rudi Rosenberg, un couple mère-fille, un petit frère, un chien, une quête du père obsessionnelle… Et tellement de délicatesse !"
-        },
-        {
-          "titre_presse": "Closer",
-          "note": 5.0,
-          "auteur": "J.B.",
-          "citation": "Une justesse émotionnelle bouleversante."
-        },
-        {
-          "titre_presse": "Le Parisien",
-          "note": 5.0,
-          "auteur": "Renaud Baronian",
-          "citation": "Souvent bouleversant, ce film de Rudi Rosenberg touche en parvenant à instiller de l’humour au cœur d’une situation familiale tendue."
-        },
-        {
-          "titre_presse": "20 Minutes",
-          "note": 4.0,
-          "auteur": "Caroline Vié",
-          "citation": "Le spectateur se sent immédiatement chez lui dans cette famille dysfonctionnelle où une femme forte tente de protéger son enfant d’une désillusion probable."
-        },
-        {
-          "titre_presse": "Abus de Ciné",
-          "note": 4.0,
-          "auteur": "Olivier Bachelard",
-          "citation": "Entre drame et comédie irrésistible, la quête du père imaginé."
-        },
-        {
-          "titre_presse": "Dernières Nouvelles d'Alsace",
-          "note": 4.0,
-          "auteur": "D. G.",
-          "citation": "Un coup de coeur où l’humour participe de l’authenticité des sentiments."
-        },
-        {
-          "titre_presse": "Ecran Large",
-          "note": 4.0,
-          "auteur": "Déborah Lechner",
-          "citation": "\"Quelques mots d’amour\" est un film irrésistible, que ce soit pour son sujet crève-cœur, ses acteurs éclatants (pour beaucoup sans expérience), ses dialogues piquants et vivants ou encore ses choix narratifs qui donnent à ce drame français modeste une tout autre dimension."
-        },
-        {
-          "titre_presse": "Femme Actuelle",
-          "note": 4.0,
-          "auteur": "La Rédaction",
-          "citation": "Ce drame familial retient l'attention par son réalisme, ses nuances, sa justesse profonde."
-        },
-        {
-          "titre_presse": "Franceinfo Culture",
-          "note": 4.0,
-          "auteur": "Falila Gbadamassi",
-          "citation": "Le film de Rudi Rosenberg raconte une quête existentielle et la mystérieuse alchimie de la filiation saupoudrée de cette fantaisie, parfois inhérente au drame. Ce dosage équilibré a tout pour faire succomber à ces \"Quelques mots d'amour\"."
-        },
-        {
-          "titre_presse": "L'Humanité",
-          "note": 4.0,
-          "auteur": "Michaël Mélinard",
-          "citation": "Un feel-good movie entre drame solaire et comédie."
-        },
-        {
-          "titre_presse": "La Croix",
-          "note": 4.0,
-          "auteur": "Corinne Renou-Nativel",
-          "citation": "Rudi Rosenberg signe avec Quelques mots d’amour, en salles ce mercredi 28 octobre 2026, un récit familial intime et cruel sur la relation entre une mère et sa fille, porté par l’interprétation impeccable d’Hafsia Herzi."
-        },
-        {
-          "titre_presse": "La Tribune Dimanche",
-          "note": 4.0,
-          "auteur": "Charlotte Langrand",
-          "citation": "Il [le réalisateur, Rubi Rosenberg] recrée ainsi une vie quotidienne à Sarcelles qui n’existe plus désormais. Fondées en partie sur l’improvisation, ces scènes qui réunissent la famille élargie d’Abigaëlle sont singulièrement réussies, justes et pertinentes à la fois. Elles donnent au film une dimension humaine et particulièrement touchante que renforce la présence au générique de la toujours solaire Hafsia Herzi."
-        },
-        {
-          "titre_presse": "Le Dauphiné Libéré",
-          "note": 4.0,
-          "auteur": "D. G.",
-          "citation": "Quelques mots d’amour  offre un joli regard sur la vie."
-        },
-        {
-          "titre_presse": "Le Figaro",
-          "note": 4.0,
-          "auteur": "Etienne Sorin",
-          "citation": "Un film délicat, entre nostalgie et comédie."
-        },
-        {
-          "titre_presse": "Le Journal du Dimanche",
-          "note": 4.0,
-          "auteur": "Florian Anselme",
-          "citation": "\"Quelques mots d’amour\" saisit par sa sincérité, sa simplicité, autant que par la justesse de ceux qui le portent."
-        },
-        {
-          "titre_presse": "Le Monde",
-          "note": 4.0,
-          "auteur": "Jacques Mandelbaum",
-          "citation": "\"Quelques mots d’amour\" est délicat, insolite, émouvant, c’est une fable réaliste et incertaine – comme on en trouve parfois, en un miracle régulièrement renouvelé, dans le cinéma français – qui fait entendre un autre ton et voir d’une autre manière que les canons en cours."
-        },
-        {
-          "titre_presse": "Les Inrockuptibles",
-          "note": 4.0,
-          "auteur": "Maud Tenda",
-          "citation": "Si l’enjeu principal, ponctué par de perpétuelles déceptions, finit par s’essouffler, le film s’illustre par ailleurs brillamment dans ses dimensions connexes."
-        },
-        {
-          "titre_presse": "Libération",
-          "note": 4.0,
-          "auteur": "Olivier Lamm",
-          "citation": "C’est un beau film sur l’isolement d’une femme, devenu par ses choix et son obstination une famille dans le monde, pour le meilleur et pour le pire, drôle et tragique, toxique et merveilleuse, tout en même temps."
-        },
-        {
-          "titre_presse": "Marie Claire",
-          "note": 4.0,
-          "auteur": "Emily Barnett",
-          "citation": "À travers cette quête obsessionnelle qui durera plusieurs années, c’est un portrait poignant de la relation mère-fille que construit ce beau film, porté avec finesse par Hafsia Herzi et la révélation Nour Salam."
-        },
-        {
-          "titre_presse": "Nice-Matin",
-          "note": 4.0,
-          "auteur": "Jimmy Boursicot",
-          "citation": "Dans « Quelques mots d’amour », Rudi Rosenberg offre à Hafsia Herzi la possibilité d’explorer une autre facette du rôle de mère, confrontée à la quête d’identité de sa fille, déterminée à renouer le contact avec un père absent."
-        },
-        {
-          "titre_presse": "Paris Match",
-          "note": 4.0,
-          "auteur": "Yannick Vely",
-          "citation": "C'est beau la confirmation d'un auteur. Après le très réussi « Le Nouveau », le réalisateur Rudi Rosenberg confirme la sensibilité de son cinéma avec « Quelques mots d'amour », tendre chronique familiale (...)."
-        },
-        {
-          "titre_presse": "Première",
-          "note": 4.0,
-          "auteur": "Camille Ronger",
-          "citation": "Deux petites filles dans une cour de récréation. La première explique que si elle n’a jamais vu son papa, c’est parce que ce dernier n’ose pas et qu’il a peur. Elle est catégorique : “C’est mon père, donc je sais qu’il m’aime”. “Bah oui, tous les pères aiment leurs filles”, renchérit la seconde. Comment expliquer à ces demi-portions dont l’inexpérience préserve encore la candeur, fillettes-philosophes qui parlent grand pour faire genre, que dans la vie, tout n’est pas si facile ?"
-        },
-        {
-          "titre_presse": "SoFilm",
-          "note": 4.0,
-          "auteur": "Lena Haque",
-          "citation": "Autant de respirations qui permettent à Quelques mots d’amour de ne pas verser dans le misérabilisme : bien qu’une lecture de classe se profile en arrière-plan, le film n’a que peu d’intérêt pour le prisme sociologique et évite habilement les poncifs vus et revus sur le choc entre la banlieue et Paris."
-        },
-        {
-          "titre_presse": "Télé 2 semaines",
-          "note": 4.0,
-          "auteur": "S.O.",
-          "citation": "Hafsia Herzi est remarquable en mère courage élevant seule ses enfants et qui fait tout pour protéger sa fille d’une déconvenue inévitable."
-        },
-        {
-          "titre_presse": "Télé Loisirs",
-          "note": 4.0,
-          "auteur": "S.O.",
-          "citation": "Hafsia Herzi est remarquable en mère courage élevant seule ses enfants et qui fait tout pour protéger sa fille d’une déconvenue qu’elle sait inévitable."
-        },
-        {
-          "titre_presse": "Télérama",
-          "note": 4.0,
-          "auteur": "Guillemette Odicino",
-          "citation": "L’histoire d’une fillette en quête de son père, à Sarcelles dans les années 90, nourrit cette comédie pleine de tendresse sur les liens familiaux et l’entraide."
-        },
-        {
-          "titre_presse": "aVoir-aLire.com",
-          "note": 4.0,
-          "auteur": "Laurent Cambon",
-          "citation": "Encore un joli récit qui rend hommage aux mères célibataires et aux enfants en mal de père. Le film de Rudi Rosenberg est un régal de délicatesse."
-        },
-        {
-          "titre_presse": "Cahiers du Cinéma",
-          "note": 3.0,
-          "auteur": "Ariel Schweitzer",
-          "citation": "Le moteur dramaturgique du film est aussi sa principale limite : à mesure que la protagoniste se heurte au même refus, le récit tend à se répéter, sans trouver suffisamment de bifurcations pour échapper à une trajectoire qui semble, dès lors, largement écrite d’avance."
-        },
-        {
-          "titre_presse": "L'Obs",
-          "note": 3.0,
-          "auteur": "Guillaume Loison",
-          "citation": "Une jolie chronique avec Hafsia Herzi, au cœur d’une famille construite sur l’absence d’un père."
-        },
-        {
-          "titre_presse": "La Voix du Nord",
-          "note": 3.0,
-          "auteur": "Christophe Caron",
-          "citation": "Un émouvant portrait de famille."
-        },
-        {
-          "titre_presse": "Les Fiches du Cinéma",
-          "note": 3.0,
-          "auteur": "Nathalie Zimra",
-          "citation": "Quoique bouleversante, cette recherche tourmentée finit par asphyxier un film qui aurait gagné à s’enrichir d’autres fils narratifs."
-        },
-        {
-          "titre_presse": "Ouest France",
-          "note": 3.0,
-          "auteur": "Pascale Vergereau",
-          "citation": "Un récit sur le manque qui touche en plein coeur."
-        },
-        {
-          "titre_presse": "Positif",
-          "note": 3.0,
-          "auteur": "Chloé Caye",
-          "citation": "Quelques mots d’amour se construit sous la forme d’un roman d’apprentissage non pas pour un personnage, mais pour plusieurs. Chacun devra composer avec les désirs ou les réticences des autres. On sent le plaisir que prend Rudi Rosenberg, lui-même acteur, à diriger ses comédiens, autant qu’à leur laisser une grande liberté."
-        },
-        {
-          "titre_presse": "Sud Ouest",
-          "note": 3.0,
-          "auteur": "Julien Rousset",
-          "citation": "Malgré une première partie trop répétitive, la justesse et l'approche humaine finissent par toucher."
-        },
-        {
-          "titre_presse": "Version Femina",
-          "note": 3.0,
-          "auteur": "Hadrien Machart",
-          "citation": "Portée par une belle interprétation, une écriture fine et une mise en scène rythmée, cette comédie dramatique touche par son regard sur la fragilité des plus jeunes et sur la force de l’amour maternel."
-        },
-        {
-          "titre_presse": "Critikat.com",
-          "note": 2.0,
-          "auteur": "Josué Morel",
-          "citation": "Le portrait de cette jeune fille, parfois émouvant, est cependant neutralisé par l’application d’un scénario adepte du redoublement des trames narratives."
-        }
-      ],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000036515/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1165
-    }
-  },
-  {
-    "titre": "Roméo + Juliette",
-    "annee": 1996,
-    "duree_minutes": 120,
-    "realisateurs": [
-      "Buz Luhrmann"
-    ],
-    "synopsis": "Verona Beach, un quartier de Los Angeles, est le théâtre de la haine entre deux familles ennemies : les Montaigue et les Capulet. À l’occasion d’un bal donné chez ces dernier·es, Romeo et son cousin Mercutio s’introduisent chez leurs rivaux où le premier tombe amoureux de la belle Juliette qui ne tarde pas non plus à succomber à ses charmes. Les deux amant·es s’enlisent alors dans une passion interdite et surtout dangereuse. ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fde84672-dbac-446c-871c-9ecf8a6bc97f.jpeg",
-    "seances": [
-      {
-        "heure": "23/11 20:30",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": {
-      "allocine_id": "1000046255",
-      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000046255/critiques/presse/",
-      "note_moyenne_presse": null,
-      "nb_critiques_presse": 0,
-      "critiques_presse": [],
-      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000046255/critiques/spectateurs/",
-      "note_moyenne_spectateurs": 3.3,
-      "nb_notes_spectateurs": 5
-    }
   },
   {
     "titre": "Salvation",
@@ -6099,10 +4582,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/427baaee-57d3-4a05-a1ab-486a8aba062f.jpg",
     "seances": [
       {
-        "heure": "23/11 21:20",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "24/11 18:30",
         "cinema": "Aventure"
       },
@@ -6153,18 +4632,6 @@
     "synopsis": "Directrice d’un établissement pour personnes âgées, Marie-Lou s’efforce d’instaurer une philosophie de prise en charge innovante, fondée sur l’écoute et le respect de la dignité des résidents, malgré les résistances d’une partie de son personnel. Sa rencontre avec Mari, une metteuse en scène japonaise confrontée à un cancer, va profondément infléchir son parcours. En nouant une amitié profonde et solidaire, les deux femmes unissent leurs forces dans un combat commun : rendre possible ce qui semblait impossible.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1906f8b3-ad2f-4726-8b9e-de349bde70c6.jpg",
     "seances": [
-      {
-        "heure": "23/11 19:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 13:15",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 15:00",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/11 17:30",
         "cinema": "Galeries"
@@ -6409,7 +4876,33 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000024105/critiques/spectateurs/",
       "note_moyenne_spectateurs": 4.0,
-      "nb_notes_spectateurs": 1938
+      "nb_notes_spectateurs": 1943
+    }
+  },
+  {
+    "titre": "Stark Love",
+    "annee": 1927,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Karl Brown"
+    ],
+    "synopsis": "« L’homme est le maître absolu. La femme est une esclave vouée au travail. » Telles sont les conceptions rigides qui encadrent ce récit, où les idées d’un garçon de la campagne sur la chevalerie le poussent à tenter d’échapper à un père brutal, en compagnie de la jeune fille qu’il aime.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f71484ed-13bc-4048-b183-df5b35703835.jpg",
+    "seances": [
+      {
+        "heure": "30/11 19:00",
+        "cinema": "Cinematek"
+      }
+    ],
+    "allocine": {
+      "allocine_id": "1000009360",
+      "allocine_url_presse": "https://www.allocine.fr/film/fichefilm-1000009360/critiques/presse/",
+      "note_moyenne_presse": null,
+      "nb_critiques_presse": 0,
+      "critiques_presse": [],
+      "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-1000009360/critiques/spectateurs/",
+      "note_moyenne_spectateurs": null,
+      "nb_notes_spectateurs": null
     }
   },
   {
@@ -6440,27 +4933,6 @@
     }
   },
   {
-    "titre": "Talking to Men Who Have Sex",
-    "annee": 2026,
-    "duree_minutes": 87,
-    "realisateurs": [
-      "Marie Mc Court"
-    ],
-    "synopsis": "Dans l’intimité de leurs chambres, une réalisatrice écoute des hommes de sa génération lui parler de sexe. À mesure qu’ils se racontent, elle cherche à saisir comment la violence peut s’immiscer dans nos sexualités, souvent sans même qu’on s’en aperçoive.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
-    "seances": [
-      {
-        "heure": "23/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 16:00",
-        "cinema": "Palace"
-      }
-    ],
-    "allocine": null
-  },
-  {
     "titre": "The Cat, the Sea, and Everything in Between",
     "annee": null,
     "duree_minutes": null,
@@ -6485,14 +4957,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "23/11 19:35",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/11 21:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/11 21:40",
         "cinema": "Vendôme"
@@ -6535,6 +4999,14 @@
       },
       {
         "heure": "29/11 18:00",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 17:20",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 19:45",
         "cinema": "Aventure"
       }
     ],
@@ -6615,6 +5087,10 @@
       {
         "heure": "25/11 20:00",
         "cinema": "Cinematek"
+      },
+      {
+        "heure": "30/11 18:00",
+        "cinema": "Cinematek"
       }
     ],
     "allocine": null
@@ -6657,10 +5133,6 @@
     "synopsis": "Aux abords d’un village en bord de mer vit une pêcheuse ; elle dégage une odeur forte, est célibataire et fait l’objet de moqueries incessantes. Un jour, excédée par ses voisins étriqués et coincés, elle se fait fabriquer un mari en osier. Dans cette bourgade par ailleurs très conservatrice, cette idylle peu conventionnelle suscite indignation, jalousie et chaos.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
-      {
-        "heure": "24/11 16:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "26/11 16:00",
         "cinema": "Aventure"
@@ -6797,7 +5269,7 @@
       ],
       "allocine_url_spectateurs": "https://www.allocine.fr/film/fichefilm-322884/critiques/spectateurs/",
       "note_moyenne_spectateurs": 3.8,
-      "nb_notes_spectateurs": 300
+      "nb_notes_spectateurs": 307
     }
   },
   {
@@ -6808,46 +5280,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "23/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "23/11 18:50",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "23/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "23/11 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "23/11 21:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "24/11 13:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "24/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "24/11 16:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "24/11 16:30",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "24/11 18:00",
         "cinema": "Palace"
@@ -6906,6 +5338,10 @@
       },
       {
         "heure": "30/11 15:10",
+        "cinema": "Aventure"
+      },
+      {
+        "heure": "30/11 21:30",
         "cinema": "Aventure"
       }
     ],

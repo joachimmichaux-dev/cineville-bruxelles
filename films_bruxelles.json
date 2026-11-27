@@ -28,6 +28,26 @@
       {
         "heure": "27/11 20:45",
         "cinema": "Palace"
+      },
+      {
+        "heure": "03/12 19:15",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
+    "titre": "2m²",
+    "annee": 2026,
+    "duree_minutes": 80,
+    "realisateurs": [
+      "Volkan Uce"
+    ],
+    "synopsis": "Dans 2m², le réalisateur Volkan Üce suit l’équilibre délicat entre religion et commerce chez un entrepreneur de pompes funèbres turc en Belgique et son homologue en Turquie. Chaque décès soulève une question fondamentale après une vie partagée entre deux pays et deux cultures : où appartient-on, où souhaite-t-on être enterré, dans quels deux mètres carrés ?",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/df2f88fb-da3a-4bc9-b922-c023977e0393.jpg",
+    "seances": [
+      {
+        "heure": "03/12 19:00",
+        "cinema": "Aventure"
       }
     ]
   },
@@ -136,6 +156,22 @@
       {
         "heure": "28/11 19:00",
         "cinema": "Cinematek"
+      }
+    ]
+  },
+  {
+    "titre": "Au nom de Safia",
+    "annee": 2026,
+    "duree_minutes": 74,
+    "realisateurs": [
+      "Safia Kessas"
+    ],
+    "synopsis": "En Algérie, le silence se transmet comme un héritage. La réalisatrice Safia Kessas part sur les traces d’une autre Safia, sa tante tuée par des soldats français pendant la guerre. Tout au long de son parcours, elle rencontre des mères, des filles, des femmes qui ont appris à se taire pour survivre.",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/3c9df07e-b9d6-47b0-9b86-e3f4217c8ac0.jpg",
+    "seances": [
+      {
+        "heure": "03/12 19:00",
+        "cinema": "Palace"
       }
     ]
   },
@@ -301,14 +337,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/0c2ebd59-87f1-4967-a244-339637e4c78b.jpg",
     "seances": [
       {
-        "heure": "26/11 18:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/11 15:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "27/11 19:40",
         "cinema": "Aventure"
       },
@@ -372,30 +400,6 @@
     "synopsis": "Un organisateur de soirées new-yorkais, adepte de la fête, voit son mode de vie trépidant bouleversé par l'arrivée d'un fils de 10 ans dont il ignorait l'existence.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/486cbe3a-3552-48a1-a946-a9986e1cc17a.jpg",
     "seances": [
-      {
-        "heure": "26/11 16:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/11 16:20",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 18:15",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/11 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 21:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/11 21:30",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/11 15:50",
         "cinema": "Vendôme"
@@ -539,18 +543,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1fe0bb9e-5799-45df-93ba-869af060ab33.png",
     "seances": [
       {
-        "heure": "26/11 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 21:35",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "27/11 18:30",
         "cinema": "Vendôme"
       },
@@ -603,6 +595,20 @@
     ]
   },
   {
+    "titre": "Coup de coeur du court 2",
+    "annee": 0,
+    "duree_minutes": 0,
+    "realisateurs": [],
+    "synopsis": "Nous vous proposons deux séances de courts métrages pour voyager d’une rive à l’autre de la Méditerranée vers des récits évocateurs et des personnages hauts en couleur à travers des formes cinématographiques variées. Les 12 courts métrages sélectionnés seront autant de découvertes, avec quelques co-productions belges!",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b561a9f2-15d5-469e-9036-d9954480e448.jpeg",
+    "seances": [
+      {
+        "heure": "03/12 21:15",
+        "cinema": "Aventure"
+      }
+    ]
+  },
+  {
     "titre": "Coward",
     "annee": 2026,
     "duree_minutes": 125,
@@ -612,14 +618,6 @@
     "synopsis": "Pierre, un jeune soldat belge, souhaite faire ses preuves sur le champ de bataille durant la Première Guerre mondiale. À l’arrière du front, il rencontre Francis, chargé de trouver un moyen de remonter le moral des troupes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d91b4dee-6c83-4dce-8e8d-fcd9cbb45ce8.jpg",
     "seances": [
-      {
-        "heure": "26/11 21:10",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/11 21:20",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "27/11 16:00",
         "cinema": "Vendôme"
@@ -715,20 +713,6 @@
     ]
   },
   {
-    "titre": "Do Not Forget the People of the Tents",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "26/11 17:45",
-        "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
     "titre": "Donnie Darko",
     "annee": 2002,
     "duree_minutes": 114,
@@ -738,18 +722,6 @@
     "synopsis": "Après avoir échappé de peu à un étrange accident, un adolescent en difficulté est en proie aux visions d'un gros lapin qui le manipule pour commettre une série de crimes.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/772c52e0-a96a-43e4-8128-f60931141693.jpg",
     "seances": [
-      {
-        "heure": "26/11 20:50",
-        "cinema": "Cineflagey"
-      },
-      {
-        "heure": "26/11 21:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/11 13:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/11 17:00",
         "cinema": "Aventure"
@@ -841,20 +813,6 @@
       {
         "heure": "29/11 20:45",
         "cinema": "Palace"
-      }
-    ]
-  },
-  {
-    "titre": "Education is a Field of Struggle",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "27/11 09:30",
-        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -979,30 +937,8 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/fcd87429-b512-41d7-908e-f218afcb8ac0.jpeg",
     "seances": [
       {
-        "heure": "26/11 20:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/11 20:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "29/11 16:00",
         "cinema": "Aventure"
-      }
-    ]
-  },
-  {
-    "titre": "GUPS and the Student International",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "27/11 15:00",
-        "cinema": "Cinema RITCS"
       }
     ]
   },
@@ -1098,10 +1034,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/189e4060-6b87-4c4a-80db-64f4f72f5520.jpg",
     "seances": [
       {
-        "heure": "26/11 19:00",
-        "cinema": "Cineflagey"
-      },
-      {
         "heure": "28/11 16:30",
         "cinema": "Galeries"
       },
@@ -1133,10 +1065,6 @@
     "synopsis": "Dans le village isolé de Hope Harbor, en Corée du Sud, le chef de la police Bum-seok et l'agente Sung-ae sont appelés à enquêter sur une créature mystérieuse qui sème la terreur parmi les habitants. Mais les apparences sont trompeuses, et les perceptions peuvent être erronées. Ce qui commence par l'ignorance sème les graines du désastre, et les conflits humains dégénèrent en une tragédie aux proportions cosmiques.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/93a9d80b-ac04-4154-a782-8b4e02a7885c.jpg",
     "seances": [
-      {
-        "heure": "27/11 15:10",
-        "cinema": "Aventure"
-      },
       {
         "heure": "29/11 15:10",
         "cinema": "Aventure"
@@ -1243,22 +1171,6 @@
     ]
   },
   {
-    "titre": "Karin Ingmarsdotter (Karin, Daughter of Ingmar)",
-    "annee": 1920,
-    "duree_minutes": 113,
-    "realisateurs": [
-      "Victor Sjöström"
-    ],
-    "synopsis": "Un mélodrame paysan joué par son réalisateur, d’après Selma Lagerlöf - où les héros \"errent à travers les terres immergées et des décors évoquant l’école flamande.\" – Jean Béranger ",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/b0d3cb56-4228-45a2-8690-38ccd97b9a15.png",
-    "seances": [
-      {
-        "heure": "26/11 18:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "L'Arabe",
     "annee": 2026,
     "duree_minutes": 106,
@@ -1348,14 +1260,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d777e6cc-389f-4ed5-8aea-207c79e82a24.jpeg",
     "seances": [
       {
-        "heure": "26/11 20:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/11 15:00",
-        "cinema": "Palace"
-      },
-      {
         "heure": "27/11 16:10",
         "cinema": "Cineflagey"
       },
@@ -1410,22 +1314,6 @@
       {
         "heure": "02/12 19:00",
         "cinema": "Cinema RITCS"
-      }
-    ]
-  },
-  {
-    "titre": "La Vie sexuelle des Belges 1950-1978",
-    "annee": 1994,
-    "duree_minutes": 84,
-    "realisateurs": [
-      "Jan Bucquoy"
-    ],
-    "synopsis": "Jan Bocquoy raconte l'histoire de sa vie sexuelle jusqu'à l'âge de 28 ans. Il décrit en particulier le moment de sa conception, son premier orgasme, ses différentes expériences avec les filles et son départ de Harelbeck vers Bruxelles. C'est là qu'il rencontre Greta (qui travaille au Bohémien café et qui lui apprend le Kama Sutra), Esther (qui lui raconte plein d'histoires) et Thérèse sa future femme (de laquelle il se sépare au bout de 3 ans et avec laquelle il a 2 enfants). Après sa rupture, il déménage dans un petit appartement, écrit de la pornographie pour payer les factures, travaille ponctuellement sur des nouvelles et rencontre beaucoup d'autres femmes. Sa confiance en lui grandit....",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/37384509-f2f5-499e-9a3e-3a8c01f0221d.jpg",
-    "seances": [
-      {
-        "heure": "26/11 19:00",
-        "cinema": "Cinematek"
       }
     ]
   },
@@ -1526,54 +1414,6 @@
     ]
   },
   {
-    "titre": "Les Quatre Cents Coups",
-    "annee": 1959,
-    "duree_minutes": 99,
-    "realisateurs": [
-      "François Truffaut"
-    ],
-    "synopsis": "Un jeune garçon laissé sans surveillance plonge dans une vie de petite délinquance.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f657fcae-ced2-48ed-9b5d-08f1ff418b46.jpg",
-    "seances": [
-      {
-        "heure": "26/11 21:00",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
-    "titre": "Les Recommencements",
-    "annee": 2025,
-    "duree_minutes": 87,
-    "realisateurs": [
-      "Vivianne Perelmuter, Isabelle Ingold"
-    ],
-    "synopsis": "Al se bat contre la menace écologique qui pèse sur son territoire Yurok en Californie. Vétéran du Vietnam, il lutte aussi contre ses propres fantômes. Dans un dialogue continu avec les réalisatrices, il prend la route, à la rencontre des hommes de son ancien bataillon, pour se confronter à son passé.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/d460bea6-722c-4b67-b50a-c0c28df416a0.jpg",
-    "seances": [
-      {
-        "heure": "26/11 17:15",
-        "cinema": "Cineflagey"
-      }
-    ]
-  },
-  {
-    "titre": "Les Tueurs Fous",
-    "annee": 1972,
-    "duree_minutes": 79,
-    "realisateurs": [
-      "Boris Szulzinger"
-    ],
-    "synopsis": "Un gigolo et son ami ont pour jeu favori de tirer sur des inconnus. Ils s'embarquent dans une cavale bruxelloise, faisant de ce film un thriller 100% local, inspiré d'ailleurs d'un fait divers réel.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/81028a98-0e20-4e90-8922-2e061585aeed.jpg",
-    "seances": [
-      {
-        "heure": "26/11 20:15",
-        "cinema": "Cinematek"
-      }
-    ]
-  },
-  {
     "titre": "Les fraises",
     "annee": 2026,
     "duree_minutes": 101,
@@ -1585,6 +1425,10 @@
     "seances": [
       {
         "heure": "30/11 18:30",
+        "cinema": "Palace"
+      },
+      {
+        "heure": "03/12 20:45",
         "cinema": "Palace"
       }
     ]
@@ -1671,6 +1515,22 @@
     ]
   },
   {
+    "titre": "Mariage au goût d'orange",
+    "annee": 2026,
+    "duree_minutes": 115,
+    "realisateurs": [
+      "Christophe Honoré"
+    ],
+    "synopsis": "Mars 1978, dans les faubourgs de Nantes. C’est aujourd’hui qu’on marie Jacques, le petit dernier de la fratrie Puig. Banni de la famille, le père n’assiste pas aux noces. Les frères et sœurs sont en revanche tous et toutes là, heureux·ses de se retrouver. Entre Jacques et Martine, c’est un mariage d’amour. Mais l’amour peut-il sauver des blessures de l’enfance ?",
+    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c04c6292-ee59-422a-819b-d13042562735.jpg",
+    "seances": [
+      {
+        "heure": "03/12 21:15",
+        "cinema": "Palace"
+      }
+    ]
+  },
+  {
     "titre": "Militant Circulations and Revolutionary Publics",
     "annee": null,
     "duree_minutes": null,
@@ -1694,22 +1554,6 @@
     "synopsis": "Couronné d’un Grand Prix au dernier Festival de Cannes, Minotaur entremêle le récit d’un adultère bourgeois à celui de la décadence des oligarques à l’aube de la guerre en Ukraine. Le dissident russe Zviaguintsev signe un film glaçant, à la mise en scène millimétrée, et dresse un constat terrible sur notre époque.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/c994b689-87d6-47a0-ac19-6f467f02ecb6.jpg",
     "seances": [
-      {
-        "heure": "26/11 15:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 18:40",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/11 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/11 13:40",
-        "cinema": "Vendôme"
-      },
       {
         "heure": "27/11 18:40",
         "cinema": "Vendôme"
@@ -1788,10 +1632,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2e6dc032-1848-491e-bb91-bb0e473e27fc.jpg",
     "seances": [
       {
-        "heure": "27/11 11:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "28/11 13:00",
         "cinema": "Vendôme"
       },
@@ -1848,14 +1688,6 @@
     "affiche_url": null,
     "seances": [
       {
-        "heure": "26/11 20:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/11 13:40",
-        "cinema": "Vendôme"
-      },
-      {
         "heure": "27/11 21:35",
         "cinema": "Vendôme"
       },
@@ -1895,14 +1727,6 @@
     "synopsis": "Après le génial Rien à foutre, Emmanuel Marre adapte l’histoire de son arrière grand-père,  fonctionnaire dans la France de Vichy brillamment interprété par Swann Arlaud, persuadé que ses méthodes managériales sont à même de redresser le pays. Un film politique puissant, au dispositif de mise en scène inédit, pour penser la montée pernicieuse du fascisme.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1797ce23-4fb0-4be2-adab-bf62e36a72d7.jpg",
     "seances": [
-      {
-        "heure": "27/11 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/11 15:45",
-        "cinema": "Galeries"
-      },
       {
         "heure": "30/11 11:30",
         "cinema": "Palace"
@@ -1951,46 +1775,6 @@
     "synopsis": "James Gray retourne à ses premières amours avec ce thriller tendu mâtiné de tragédie familiale situé dans le milieu de la pègre russe new yorkaise. En filmant la descente aux enfers de deux frères embarqués malgré eux dans un bras de fer avec le crime, le cinéaste déploie des trésors de mise en scène pour figurer la contamination du quotidien par un mal invisible. \n",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/dca65ba0-edd2-4ef2-b16b-8ed1d8fed667.jpg",
     "seances": [
-      {
-        "heure": "26/11 16:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 16:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/11 18:45",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/11 18:55",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 19:10",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "26/11 20:15",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "26/11 21:10",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/11 12:50",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/11 13:20",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/11 14:00",
-        "cinema": "Palace"
-      },
       {
         "heure": "27/11 16:35",
         "cinema": "Vendôme"
@@ -2286,22 +2070,6 @@
     ]
   },
   {
-    "titre": "Scrooge (Ebenezer)",
-    "annee": 2026,
-    "duree_minutes": 116,
-    "realisateurs": [
-      "Ti West"
-    ],
-    "synopsis": "En novembre, Johnny Depp est Scrooge. Pour changer son futur, il va revivre son passé.",
-    "affiche_url": "https://culturekit-assets.imgix.net/2/assets/76b0ec15-b017-4919-b578-85b773db3f14.jpg",
-    "seances": [
-      {
-        "heure": "27/11 15:00",
-        "cinema": "Le Stockel"
-      }
-    ]
-  },
-  {
     "titre": "Sense and Sensibility (2026)",
     "annee": 2026,
     "duree_minutes": 131,
@@ -2375,20 +2143,6 @@
     ]
   },
   {
-    "titre": "Shortscreens: Des courts engagés",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "26/11 19:00",
-        "cinema": "Aventure"
-      }
-    ]
-  },
-  {
     "titre": "Sisters (2026)",
     "annee": 2026,
     "duree_minutes": 101,
@@ -2418,18 +2172,6 @@
     "synopsis": "Directrice d’un établissement pour personnes âgées, Marie-Lou s’efforce d’instaurer une philosophie de prise en charge innovante, fondée sur l’écoute et le respect de la dignité des résidents, malgré les résistances d’une partie de son personnel. Sa rencontre avec Mari, une metteuse en scène japonaise confrontée à un cancer, va profondément infléchir son parcours. En nouant une amitié profonde et solidaire, les deux femmes unissent leurs forces dans un combat commun : rendre possible ce qui semblait impossible.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/1906f8b3-ad2f-4726-8b9e-de349bde70c6.jpg",
     "seances": [
-      {
-        "heure": "26/11 16:30",
-        "cinema": "Le Stockel"
-      },
-      {
-        "heure": "27/11 14:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/11 14:30",
-        "cinema": "Palace"
-      },
       {
         "heure": "27/11 20:00",
         "cinema": "Vendôme"
@@ -2544,10 +2286,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/6ea964e2-d42e-41df-94ea-9a7ac219c54e.png",
     "seances": [
       {
-        "heure": "26/11 17:45",
-        "cinema": "Palace"
-      },
-      {
         "heure": "27/11 16:30",
         "cinema": "Palace"
       },
@@ -2611,22 +2349,6 @@
     "synopsis": "Harry est le dernier pickpocket de New York. Les temps sont durs, mais un jour la chance tourne : il dérobe une mystérieuse clef USB qu’il revend à prix d’or. Mais ce précieux butin appartient à une organisation criminelle impitoyable prête à tout pour le récupérer. Harry n’a que quelques heures pour retrouver la clef, et la restituer.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/e484735b-7141-4493-befc-d6effd721576.jpg",
     "seances": [
-      {
-        "heure": "26/11 17:20",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "26/11 18:30",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 19:45",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/11 15:20",
-        "cinema": "Aventure"
-      },
       {
         "heure": "27/11 18:00",
         "cinema": "Aventure"
@@ -2727,20 +2449,6 @@
     ]
   },
   {
-    "titre": "Unsere Zeit Wird Kommen - Our Time Will Come",
-    "annee": null,
-    "duree_minutes": null,
-    "realisateurs": null,
-    "synopsis": null,
-    "affiche_url": null,
-    "seances": [
-      {
-        "heure": "26/11 18:15",
-        "cinema": "Vendôme"
-      }
-    ]
-  },
-  {
     "titre": "What we did in the Shadows",
     "annee": 0,
     "duree_minutes": 94,
@@ -2768,10 +2476,6 @@
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/f678b60a-2f4e-4050-a641-2602805dd40e.jpg",
     "seances": [
       {
-        "heure": "26/11 16:00",
-        "cinema": "Aventure"
-      },
-      {
         "heure": "28/11 16:00",
         "cinema": "Aventure"
       },
@@ -2789,42 +2493,6 @@
     "synopsis": "Après Banshees of Inisherin, Martin McDonagh enfonce le clou avec cette comédie noire où l’on retrouve son goût des duos mal assortis, ici incarné par les irrésistibles Sam Rockwell et John Malkovich. Quelques jours avant le coup d’État de 1973 au Chili, deux agents de la CIA se retirent sur l’île de Pâques pour méditer sur la moralité de leurs actions.",
     "affiche_url": "https://culturekit-assets.imgix.net/2/assets/2ad88318-694c-4fe9-83fb-00c49d3ef377.jpg",
     "seances": [
-      {
-        "heure": "26/11 18:00",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "26/11 19:00",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 21:25",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "26/11 21:30",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/11 11:30",
-        "cinema": "Palace"
-      },
-      {
-        "heure": "27/11 13:00",
-        "cinema": "Aventure"
-      },
-      {
-        "heure": "27/11 13:00",
-        "cinema": "Galeries"
-      },
-      {
-        "heure": "27/11 13:45",
-        "cinema": "Vendôme"
-      },
-      {
-        "heure": "27/11 13:45",
-        "cinema": "Palace"
-      },
       {
         "heure": "27/11 16:10",
         "cinema": "Vendôme"
@@ -3097,6 +2765,10 @@
     "seances": [
       {
         "heure": "01/12 20:00",
+        "cinema": "Cinematek"
+      },
+      {
+        "heure": "03/12 18:00",
         "cinema": "Cinematek"
       }
     ]
